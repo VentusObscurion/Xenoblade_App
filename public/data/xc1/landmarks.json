@@ -1,0 +1,3377 @@
+[
+  {
+    "id": "xc1-landmark-colony-9-gem-mans-stall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Gem Man's Stall",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gem_Man's_Stall"
+  },
+  {
+    "id": "xc1-landmark-colony-9-mechon-wreckage-site",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Mechon Wreckage Site",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechon_Wreckage_Site"
+  },
+  {
+    "id": "xc1-landmark-colony-9-main-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Main Entrance",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Main_Entrance"
+  },
+  {
+    "id": "xc1-landmark-colony-9-ether-light",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Light",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Light"
+  },
+  {
+    "id": "xc1-landmark-colony-9-central-plaza",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Central Plaza",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Central_Plaza"
+  },
+  {
+    "id": "xc1-landmark-colony-9-fortress-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Fortress Entrance",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fortress_Entrance"
+  },
+  {
+    "id": "xc1-landmark-colony-9-tranquil-square",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tranquil Square",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tranquil_Square"
+  },
+  {
+    "id": "xc1-landmark-colony-9-outlook-park",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Outlook Park",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Outlook_Park"
+  },
+  {
+    "id": "xc1-landmark-colony-9-tephra-cave-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tephra Cave Entrance",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Entrance"
+  },
+  {
+    "id": "xc1-landmark-colony-9-cylinder-hangar",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Cylinder Hangar",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cylinder_Hangar"
+  },
+  {
+    "id": "xc1-landmark-colony-9-commercial-district",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Commercial District",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Commercial_District"
+  },
+  {
+    "id": "xc1-landmark-colony-9-military-district",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Military District",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Military_District"
+  },
+  {
+    "id": "xc1-landmark-colony-9-residential-district",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Residential District",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Residential_District"
+  },
+  {
+    "id": "xc1-landmark-colony-9-dunbans-house",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dunban's House",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dunban's_House"
+  },
+  {
+    "id": "xc1-landmark-colony-9-weapon-development-lab",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Weapon Development Lab",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Weapon_Development_Lab"
+  },
+  {
+    "id": "xc1-landmark-colony-9-anti-air-battery-1",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Anti-Air Battery 1",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Anti-Air_Battery_1"
+  },
+  {
+    "id": "xc1-landmark-colony-9-anti-air-battery-2",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Anti-Air Battery 2",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Anti-Air_Battery_2"
+  },
+  {
+    "id": "xc1-landmark-colony-9-anti-air-battery-3",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Anti-Air Battery 3",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Anti-Air_Battery_3"
+  },
+  {
+    "id": "xc1-landmark-colony-9-tephra-hill",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tephra Hill",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Hill"
+  },
+  {
+    "id": "xc1-landmark-colony-9-cliff-lake",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Cliff Lake",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cliff_Lake"
+  },
+  {
+    "id": "xc1-landmark-colony-9-agora-shore",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Agora Shore",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Agora_Shore"
+  },
+  {
+    "id": "xc1-landmark-colony-9-hazzai-cape",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hazzai Cape",
+    "region": "Colony 9",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hazzai_Cape"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-tephra-path",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tephra Path",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Path"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-mag-mell-ruins",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Mag Mell Ruins",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mag_Mell_Ruins"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-rear-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Rear Entrance",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rear_Entrance"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-spring-of-grief",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Spring of Grief",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spring_of_Grief"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-caterpile-nest",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Caterpile Nest",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Caterpile_Nest"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-escape-pod-bay",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Escape Pod Bay",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Escape_Pod_Bay"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-warehouse-2",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Warehouse 2",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Warehouse_2"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-tephra-cavern",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tephra Cavern",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cavern"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-hidden-warehouse",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hidden Warehouse",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hidden_Warehouse"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-forgotten-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Forgotten Cave",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Forgotten_Cave"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-vilia-lake",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Vilia Lake",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vilia_Lake"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-bafalgar-tomb",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bafalgar Tomb",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bafalgar_Tomb"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-emergency-warehouse",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Emergency Warehouse",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Emergency_Warehouse"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-soothsayers-crypt",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Soothsayer's Crypt",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Soothsayer's_Crypt"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-prayer-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Prayer Room",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prayer_Room"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-bone-corridor",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bone Corridor",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bone_Corridor"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-heavenly-window",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Heavenly Window",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heavenly_Window"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-traders-stopover",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Trader's Stopover",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Trader's_Stopover"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-arachno-feeding-lair",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Arachno Feeding Lair",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Arachno_Feeding_Lair"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-arachno-queens-nest",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Arachno Queen's Nest",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Arachno_Queen's_Nest"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-kneecap-hill",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kneecap Hill",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kneecap_Hill"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-path-of-absolution",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Path of Absolution",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Path_of_Absolution"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-leg-pass",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Leg Pass",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Leg_Pass"
+  },
+  {
+    "id": "xc1-landmark-tephra-cave-sacrificial-altar",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sacrificial Altar",
+    "region": "Tephra Cave",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sacrificial_Altar"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-ragrinar-canyon-path",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ragrinar Canyon Path",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ragrinar_Canyon_Path"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-jabos-rock-rest-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Jabos Rock Rest Area",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jabos_Rock_Rest_Area"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-kamos-guidepost",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kamos Guidepost",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kamos_Guidepost"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-refugee-camp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Refugee Camp",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Refugee_Camp"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-raguel-bridge-south",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Raguel Bridge - South",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Raguel_Bridge_-_South"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-raguel-bridge-north",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Raguel Bridge - North",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Raguel_Bridge_-_North"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-spiral-valley",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Spiral Valley",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spiral_Valley"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-zax-guidepost",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Zax Guidepost",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Zax_Guidepost"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-bask-cave-passage",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bask Cave Passage",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bask_Cave_Passage"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-observation-platform",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Observation Platform",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Observation_Platform"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-believers-paradise",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Believer's Paradise",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Believer's_Paradise"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-volff-lair",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Volff Lair",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Volff_Lair"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-tranquil-grotto",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tranquil Grotto",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tranquil_Grotto"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-kisk-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kisk Cave",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kisk_Cave"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-windy-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Windy Cave",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Windy_Cave"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-maguel-road",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Maguel Road",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Maguel_Road"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-raguel-lake",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Raguel Lake",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Raguel_Lake"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-viliera-hill",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Viliera Hill",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Viliera_Hill"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-rho-oasis",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Rho Oasis",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rho_Oasis"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-gaur-plain",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Gaur Plain",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gaur_Plain"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-tirkin-headquarters",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Tirkin Headquarters",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tirkin_Headquarters"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-sky-stage",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sky Stage",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sky_Stage"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-daksha-shrine",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Daksha Shrine",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Daksha_Shrine"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-crevasse-waterfall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Crevasse Waterfall",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crevasse_Waterfall"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-travellers-rest",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Traveller's Rest",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Traveller's_Rest"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-kasharpa-falls",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kasharpa Falls",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kasharpa_Falls"
+  },
+  {
+    "id": "xc1-landmark-bionis-leg-raguel-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Raguel Bridge",
+    "region": "Bionis' Leg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Raguel_Bridge"
+  },
+  {
+    "id": "xc1-landmark-colony-6-reconstruction-hq",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Reconstruction HQ",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reconstruction_HQ"
+  },
+  {
+    "id": "xc1-landmark-colony-6-supply-road",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Supply Road",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Supply_Road"
+  },
+  {
+    "id": "xc1-landmark-colony-6-watchpoint-junction",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Watchpoint Junction",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Watchpoint_Junction"
+  },
+  {
+    "id": "xc1-landmark-colony-6-drainage-outlet",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Drainage Outlet",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Drainage_Outlet"
+  },
+  {
+    "id": "xc1-landmark-colony-6-freight-road",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Freight Road",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Freight_Road"
+  },
+  {
+    "id": "xc1-landmark-colony-6-misty-path",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Misty Path",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Misty_Path"
+  },
+  {
+    "id": "xc1-landmark-colony-6-main-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Main Entrance",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Main_Entrance"
+  },
+  {
+    "id": "xc1-landmark-colony-6-splintered-path",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Splintered Path",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Splintered_Path"
+  },
+  {
+    "id": "xc1-landmark-colony-6-hope-farm",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hope Farm",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hope_Farm"
+  },
+  {
+    "id": "xc1-landmark-colony-6-freight-elevator",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Freight Elevator",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Freight_Elevator"
+  },
+  {
+    "id": "xc1-landmark-colony-6-pod-depot",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Pod Depot",
+    "region": "Colony 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pod_Depot"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-kelsher-wetland",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kelsher Wetland",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kelsher_Wetland"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-nopon-merchant-camp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nopon Merchant Camp",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Merchant_Camp"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-crown-tree",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Crown Tree",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crown_Tree"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-silent-obelisk",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Silent Obelisk",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Silent_Obelisk"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-glowing-obelisk",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Glowing Obelisk",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Glowing_Obelisk"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-sororal-statues",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sororal Statues",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sororal_Statues"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-statue-summit",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Statue Summit",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Statue_Summit"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-shining-pond",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Shining Pond",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shining_Pond"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-lacus-swamp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Lacus Swamp",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lacus_Swamp"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-zaldania-waterfall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Zaldania Waterfall",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Zaldania_Waterfall"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-poison-swamp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Poison Swamp",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poison_Swamp"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-altar-of-fate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Altar of Fate",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Altar_of_Fate"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-barren-moor",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Barren Moor",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Barren_Moor"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-basin-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Basin Cave",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Basin_Cave"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-nopon-refuge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nopon Refuge",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Refuge"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-exile-fortress",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Exile Fortress",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Exile_Fortress"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-mauk-floodgate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Mauk Floodgate",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mauk_Floodgate"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-oath-sanctuary",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Oath Sanctuary",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Oath_Sanctuary"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-place-of-judgement",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Place of Judgement",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Place_of_Judgement"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-dark-swamp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Swamp",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Swamp"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-soter-ruins",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Soter Ruins",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Soter_Ruins"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-igna-territory",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Igna Territory",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Igna_Territory"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-adulthood-emblem",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Adulthood Emblem",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Adulthood_Emblem"
+  },
+  {
+    "id": "xc1-landmark-satorl-marsh-high-entia-doors",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "High Entia Doors",
+    "region": "Satorl Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Entia_Doors"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-terminal-trachea",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Terminal Trachea",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Terminal_Trachea"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-interior-landing-site",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Interior Landing Site",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Interior_Landing_Site"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-spinal-nerve-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Spinal Nerve Tower",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spinal_Nerve_Tower"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-pars-sympathica-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Pars Sympathica Tower",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pars_Sympathica_Tower"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-terminal-nerve-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Terminal Nerve Tower",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Terminal_Nerve_Tower"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-upper-trachea",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Upper Trachea",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Upper_Trachea"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-heart-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Heart Entrance",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heart_Entrance"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-third-lung",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Third Lung",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Third_Lung"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-third-lung-bronchus",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Third Lung Bronchus",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Third_Lung_Bronchus"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-second-lung",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Second Lung",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Second_Lung"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-aortic-pathway",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Aortic Pathway",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Aortic_Pathway"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-venous-plexus",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Venous Plexus",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Venous_Plexus"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-first-lung",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "First Lung",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/First_Lung"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-vein-crossroad",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Vein Crossroad",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vein_Crossroad"
+  },
+  {
+    "id": "xc1-landmark-bionis-interior-terminal-vein",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Terminal Vein",
+    "region": "Bionis' Interior",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Terminal_Vein"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-makna-path",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Makna Path",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Path"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-agni-tablet",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Agni Tablet",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Agni_Tablet"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-waypoint-beacon",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Waypoint Beacon",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Waypoint_Beacon"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-lakeside",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Lakeside",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lakeside"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-nopon-arch",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nopon Arch",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Arch"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-twisted-tree-gate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Twisted Tree Gate",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Twisted_Tree_Gate"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-village-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Village Entrance",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Village_Entrance"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-windmill-pavilion",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Windmill Pavilion",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Windmill_Pavilion"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-glowmoss-trihenge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Glowmoss Trihenge",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Glowmoss_Trihenge"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-pod-landing-site",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Pod Landing Site",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pod_Landing_Site"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-valak-pass",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Valak Pass",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Pass"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-divine-sanctuary",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Divine Sanctuary",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Divine_Sanctuary"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-seahorse-islet",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Seahorse Islet",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Seahorse_Islet"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-sparkling-pool",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sparkling Pool",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sparkling_Pool"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-king-agnis-tomb",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "King Agni's Tomb",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/King_Agni's_Tomb"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-eks-watering-hole",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Eks Watering Hole",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eks_Watering_Hole"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-contaminated-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Contaminated Area",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Contaminated_Area"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-sap-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sap Cave",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sap_Cave"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-bridge-one",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bridge One",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bridge_One"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-bridge-two",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bridge Two",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bridge_Two"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-bridge-three",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bridge Three",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bridge_Three"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-repaired-bridge-four",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Repaired Bridge Four",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Repaired_Bridge_Four"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-clear-waterfall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Clear Waterfall",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Clear_Waterfall"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-yellow-flower-grove",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Yellow Flower Grove",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Yellow_Flower_Grove"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-decayed-forest",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Decayed Forest",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Decayed_Forest"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-abyss-basin",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Abyss Basin",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Abyss_Basin"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-precipice-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Precipice Bridge",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Precipice_Bridge"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-hode-lair",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hode Lair",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hode_Lair"
+  },
+  {
+    "id": "xc1-landmark-makna-forest-great-makna-falls",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Great Makna Falls",
+    "region": "Makna Forest",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Great_Makna_Falls"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-entry-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Entry Bridge",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Entry_Bridge"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-nopon-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nopon Tower",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Tower"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-sacred-altar",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sacred Altar",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sacred_Altar"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-pollen-works",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Pollen Works",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pollen_Works"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-rikis-house",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Riki's House",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Riki's_House"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-chiefs-residence",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Chief's Residence",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Chief's_Residence"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-prophecy-hut",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Prophecy Hut",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prophecy_Hut"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-contemplation-terrace",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Contemplation Terrace",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Contemplation_Terrace"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-nopon-kitchen",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nopon Kitchen",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Kitchen"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-underground-store",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Underground Store",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Underground_Store"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-reservoir",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Reservoir",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reservoir"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-central-plaza",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Central Plaza",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Central_Plaza"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-kyn-shopping-street",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kyn Shopping Street",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kyn_Shopping_Street"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-pollen-orb-storehouse",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Pollen Orb Storehouse",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pollen_Orb_Storehouse"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-orb-storage-level",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Orb Storage Level",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Orb_Storage_Level"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-middle-housing-level",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Middle Housing Level",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Middle_Housing_Level"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-pollen-works-level",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Pollen Works Level",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pollen_Works_Level"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-archaeology-level",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Archaeology Level",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Archaeology_Level"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-archaeology-centre",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Archaeology Centre",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Archaeology_Centre"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-top-housing-level",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Top Housing Level",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Top_Housing_Level"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-mysterious-sanctuary",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Mysterious Sanctuary",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mysterious_Sanctuary"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-apex-lake",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Apex Lake",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Apex_Lake"
+  },
+  {
+    "id": "xc1-landmark-frontier-village-time-mushroom",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Time Mushroom",
+    "region": "Frontier Village",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Time_Mushroom"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-latael-shore",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Latael Shore",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Latael_Shore"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-centre-gate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Centre Gate",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Centre_Gate"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-high-entia-tomb",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "High Entia Tomb",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Entia_Tomb"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-syrath-lighthouse",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Syrath Lighthouse",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Syrath_Lighthouse"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-central-seal-island",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Central Seal Island",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Central_Seal_Island"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-soltnar-seal-island",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Soltnar Seal Island",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Soltnar_Seal_Island"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-khatorl-seal-island",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Khatorl Seal Island",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Khatorl_Seal_Island"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-ether-plant",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Plant",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Plant"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-faras-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Faras Cave",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Faras_Cave"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-anu-shore",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Anu Shore",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Anu_Shore"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-bionis-occipital",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bionis' Occipital",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Occipital"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-ether-crystal-deposit",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Crystal Deposit",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Crystal_Deposit"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hode-refuge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hode Refuge",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hode_Refuge"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-1",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 1",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_1"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-2",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 2",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_2"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-3",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 3",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_3"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-4",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 4",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_4"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-5",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 5",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_5"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-6",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 6",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_6"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-7",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 7",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_7"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-8",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 8",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_8"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-9",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 9",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_9"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef-10",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef 10",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef_10"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-kromar-coast",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kromar Coast",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kromar_Coast"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-secluded-island",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Secluded Island",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Secluded_Island"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-showdown-cliff",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Showdown Cliff",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Showdown_Cliff"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-sleeping-dragon-isle",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sleeping Dragon Isle",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sleeping_Dragon_Isle"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-hovering-reef",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hovering Reef",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hovering_Reef"
+  },
+  {
+    "id": "xc1-landmark-eryth-sea-high-entia-doors",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "High Entia Doors",
+    "region": "Eryth Sea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Entia_Doors"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-main-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Main Entrance",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Main_Entrance"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-fountain-of-hope",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Fountain of Hope",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fountain_of_Hope"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-fountain-of-eternity",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Fountain of Eternity",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fountain_of_Eternity"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-imperial-palace",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Imperial Palace",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Imperial_Palace"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-ascension-hall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ascension Hall",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ascension_Hall"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-whitewing-palace",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Whitewing Palace",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Whitewing_Palace"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-imperial-villa",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Imperial Villa",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Imperial_Villa"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-great-hall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Great Hall",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Great_Hall"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-melfica-road",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Melfica Road",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Melfica_Road"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-revelation-hall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Revelation Hall",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Revelation_Hall"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-sky-terrace",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sky Terrace",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sky_Terrace"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-audience-chamber",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Audience Chamber",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Audience_Chamber"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-ether-furnace-controls",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Furnace Controls",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Furnace_Controls"
+  },
+  {
+    "id": "xc1-landmark-alcamoth-secret-club",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Secret Club",
+    "region": "Alcamoth",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Secret_Club"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-zokhed-pass",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Zokhed Pass",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Zokhed_Pass"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-mechonis-wound",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Mechonis Wound",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Wound"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-hollow-bone",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hollow Bone",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hollow_Bone"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-befalgar-pedestal-secret-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Befalgar Pedestal (Secret Area)",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Befalgar_Pedestal_(Secret_Area)"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-three-sage-summit-secret-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Three Sage Summit (Secret Area)",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Three_Sage_Summit_(Secret_Area)"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-nopon-camp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nopon Camp",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Camp"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-harict-chapel",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Harict Chapel",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Harict_Chapel"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-lava-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Lava Cave",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lava_Cave"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-la-luz-church",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "La Luz Church",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/La_Luz_Church"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-nofol-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nofol Tower",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nofol_Tower"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-bionis-wrist",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bionis' Wrist",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Wrist"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-serik-waterfall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Serik Waterfall",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Serik_Waterfall"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-apis-lair",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Apis Lair",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Apis_Lair"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-nagul-waterfall",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Nagul Waterfall",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nagul_Waterfall"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-kana-peak",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Kana Peak",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kana_Peak"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-agul-mountain-range",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Agul Mountain Range",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Agul_Mountain_Range"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-chilkin-lair",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Chilkin Lair",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Chilkin_Lair"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-url-crevasse",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Url Crevasse",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Url_Crevasse"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-bagnar-snowfield",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bagnar Snowfield",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bagnar_Snowfield"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-bionis-right-elbow",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bionis' Right Elbow",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Right_Elbow"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-valak-peak",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Valak Peak",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Peak"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-antol-den",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Antol Den",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Antol_Den"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-jakt-geyser",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Jakt Geyser",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jakt_Geyser"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-sealed-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sealed Tower",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sealed_Tower"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-ignia-hill",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ignia Hill",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ignia_Hill"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-great-glacier",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Great Glacier",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Great_Glacier"
+  },
+  {
+    "id": "xc1-landmark-valak-mountain-high-entia-doors",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "High Entia Doors",
+    "region": "Valak Mountain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Entia_Doors"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-bionis-thumb",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bionis' Thumb",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Thumb"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-supply-convoy",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Supply Convoy",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Supply_Convoy"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-ged-fortress",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ged Fortress",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ged_Fortress"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-dolgan-outpost",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dolgan Outpost",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dolgan_Outpost"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-enalda-control-base",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Enalda Control Base",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Enalda_Control_Base"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-heavy-machine-depot",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Heavy Machine Depot",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heavy_Machine_Depot"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-control-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Control Tower",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Control_Tower"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-radio-tower",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Radio Tower",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Radio_Tower"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-fortress-rear-entrance",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Fortress Rear Entrance",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fortress_Rear_Entrance"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-monado-wound",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Monado Wound",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monado_Wound"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-6th-gate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "6th Gate",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/6th_Gate"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-5th-gate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "5th Gate",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/5th_Gate"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-4th-gate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "4th Gate",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/4th_Gate"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-3rd-gate",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "3rd Gate",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Gate"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-ether-storage-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Storage Area",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Storage_Area"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-port-maintenance-bay",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Port Maintenance Bay",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Port_Maintenance_Bay"
+  },
+  {
+    "id": "xc1-landmark-sword-valley-port-access-pathway",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Port Access Pathway",
+    "region": "Sword Valley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Port_Access_Pathway"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-ether-influx-conduit",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Influx Conduit",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Influx_Conduit"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-main-control-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Main Control Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Main_Control_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-ether-blast-furnace",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Blast Furnace",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Blast_Furnace"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-preparation-bay",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Preparation Bay",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Preparation_Bay"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-fortress-depths",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Fortress Depths",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fortress_Depths"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-main-maintenance-bay",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Main Maintenance Bay",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Main_Maintenance_Bay"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-1st-fuel-supply-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "1st Fuel Supply Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/1st_Fuel_Supply_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-2nd-fuel-supply-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "2nd Fuel Supply Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/2nd_Fuel_Supply_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-3rd-fuel-supply-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "3rd Fuel Supply Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Fuel_Supply_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-blast-furnace-conduit",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Blast Furnace Conduit",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blast_Furnace_Conduit"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-1st-turbine-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "1st Turbine Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/1st_Turbine_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-2nd-turbine-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "2nd Turbine Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/2nd_Turbine_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-piston-control-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Piston Control Room",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Piston_Control_Room"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-ether-input-stream",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Input Stream",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Input_Stream"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-face-maintenance-bay",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Face Maintenance Bay",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Face_Maintenance_Bay"
+  },
+  {
+    "id": "xc1-landmark-galahad-fortress-self-destruct-device",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Self-Destruct Device",
+    "region": "Galahad Fortress",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Self-Destruct_Device"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-wreckage-beach",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Wreckage Beach",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wreckage_Beach"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-ulna-passage",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ulna Passage",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ulna_Passage"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-inlet-beach",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Inlet Beach",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Inlet_Beach"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-junks",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Junks",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Junks"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-giant-mechon-debris",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Giant Mechon Debris",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Giant_Mechon_Debris"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-black-wreckage",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Black Wreckage",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Wreckage"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-connecting-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Connecting Bridge",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Connecting_Bridge"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-2-plain",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 2 Plain",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_2_Plain"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-radiocarpea",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Radiocarpea",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Radiocarpea"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-rotating-bulkhead",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Rotating Bulkhead",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rotating_Bulkhead"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-distant-fingertip",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Distant Fingertip",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Distant_Fingertip"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-silver-wreckage",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Silver Wreckage",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Silver_Wreckage"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-zakt-spring",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Zakt Spring",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Zakt_Spring"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-jifum-beach",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Jifum Beach",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jifum_Beach"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-transformer-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Transformer Area",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Transformer_Area"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-5th-pulse-zone",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "5th Pulse Zone",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/5th_Pulse_Zone"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-power-pipe-ruins",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Power Pipe Ruins",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Power_Pipe_Ruins"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-hidden-machina-village",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Hidden Machina Village",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hidden_Machina_Village"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-ether-light",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Light",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Light"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-radiocarpea-coast",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Radiocarpea Coast",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Radiocarpea_Coast"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-1",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 1",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_1"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-1-crevasse",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 1 Crevasse",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_1_Crevasse"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-2",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 2",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_2"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-3",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 3",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_3"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-4",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 4",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_4"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-5",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 5",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_5"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-digit-5-beach",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Digit 5 Beach",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digit_5_Beach"
+  },
+  {
+    "id": "xc1-landmark-fallen-arm-ether-exhaust-system",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Exhaust System",
+    "region": "Fallen Arm",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Exhaust_System"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-left-leg-cooling-outlet",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Left Leg Cooling Outlet",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Left_Leg_Cooling_Outlet"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-gf-main-power-switch",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "GF Main Power Switch",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/GF_Main_Power_Switch"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-1f-main-power-switch",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "1F Main Power Switch",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/1F_Main_Power_Switch"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-3f-main-power-switch",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "3F Main Power Switch",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/3F_Main_Power_Switch"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-lower-bulkhead-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Lower Bulkhead Bridge",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lower_Bulkhead_Bridge"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-upper-bulkhead-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Upper Bulkhead Bridge",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Upper_Bulkhead_Bridge"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-4f-main-power-switch",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "4F Main Power Switch",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/4F_Main_Power_Switch"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-great-battle-scar-secret-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Great Battle Scar (Secret Area)",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Great_Battle_Scar_(Secret_Area)"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-machina-refuge-secret-area",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Machina Refuge (Secret Area)",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Machina_Refuge_(Secret_Area)"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-1st-zebrai-bulkhead",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "1st Zebrai Bulkhead",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/1st_Zebrai_Bulkhead"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-2nd-gamalt-bulkhead",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "2nd Gamalt Bulkhead",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/2nd_Gamalt_Bulkhead"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-1st-lift-b1f",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "1st Lift - B1F",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/1st_Lift_-_B1F"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-spent-fuel-tank",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Spent Fuel Tank",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spent_Fuel_Tank"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-1st-lift-gf",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "1st Lift - GF",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/1st_Lift_-_GF"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-2nd-lift-gf",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "2nd Lift - GF",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/2nd_Lift_-_GF"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-2nd-lift-1f",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "2nd Lift - 1F",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/2nd_Lift_-_1F"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-3rd-lift-engine-room",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "3rd Lift Engine Room",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Lift_Engine_Room"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-2f-observation-post",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "2F Observation Post",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/2F_Observation_Post"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-3rd-lift-2f",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "3rd Lift - 2F",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Lift_-_2F"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-3rd-lift-3f",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "3rd Lift - 3F",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Lift_-_3F"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-bulkhead-controls",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bulkhead Controls",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bulkhead_Controls"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-ether-gear-store",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Ether Gear Store",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Gear_Store"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-patella-exhaust",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Patella Exhaust",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Patella_Exhaust"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-power-supply-area-1",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Power Supply Area 1",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Power_Supply_Area_1"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-power-supply-area-2",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Power Supply Area 2",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Power_Supply_Area_2"
+  },
+  {
+    "id": "xc1-landmark-mechonis-field-high-velocity-lift",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "High-Velocity Lift",
+    "region": "Mechonis Field",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High-Velocity_Lift"
+  },
+  {
+    "id": "xc1-landmark-prison-island-gondorl-cathedral",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Gondorl Cathedral",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gondorl_Cathedral"
+  },
+  {
+    "id": "xc1-landmark-prison-island-gravina-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Gravina Bridge",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gravina_Bridge"
+  },
+  {
+    "id": "xc1-landmark-prison-island-prison-island-camp",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Prison Island Camp",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prison_Island_Camp"
+  },
+  {
+    "id": "xc1-landmark-prison-island-third-sanctum",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Third Sanctum",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Third_Sanctum"
+  },
+  {
+    "id": "xc1-landmark-prison-island-basverg-belfry",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Basverg Belfry",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Basverg_Belfry"
+  },
+  {
+    "id": "xc1-landmark-prison-island-corridor-of-silence",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Corridor of Silence",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Corridor_of_Silence"
+  },
+  {
+    "id": "xc1-landmark-prison-island-prison-terrace",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Prison Terrace",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prison_Terrace"
+  },
+  {
+    "id": "xc1-landmark-prison-island-travalga-bridge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Travalga Bridge",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Travalga_Bridge"
+  },
+  {
+    "id": "xc1-landmark-prison-island-dark-draigul",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Draigul",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Draigul"
+  },
+  {
+    "id": "xc1-landmark-prison-island-dark-egel",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Egel",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Egel"
+  },
+  {
+    "id": "xc1-landmark-prison-island-dark-feris",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Feris",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Feris"
+  },
+  {
+    "id": "xc1-landmark-prison-island-dark-garaffa",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Garaffa",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Garaffa"
+  },
+  {
+    "id": "xc1-landmark-prison-island-dark-laia",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Laia",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Laia"
+  },
+  {
+    "id": "xc1-landmark-prison-island-dark-skwaror",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Dark Skwaror",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Skwaror"
+  },
+  {
+    "id": "xc1-landmark-prison-island-felusi-pippito",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Felusi Pippito",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Felusi_Pippito"
+  },
+  {
+    "id": "xc1-landmark-prison-island-fog-rift",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Fog Rift",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fog_Rift"
+  },
+  {
+    "id": "xc1-landmark-prison-island-gimran-egel",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Gimran Egel",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gimran_Egel"
+  },
+  {
+    "id": "xc1-landmark-prison-island-newgate-laia",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Newgate Laia",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Newgate_Laia"
+  },
+  {
+    "id": "xc1-landmark-prison-island-voruk-draigul",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Voruk Draigul",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Voruk_Draigul"
+  },
+  {
+    "id": "xc1-landmark-prison-island-foghewn-augustus",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Foghewn Augustus",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Foghewn_Augustus"
+  },
+  {
+    "id": "xc1-landmark-prison-island-sensational-gigapur",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sensational Gigapur",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sensational_Gigapur"
+  },
+  {
+    "id": "xc1-landmark-prison-island-moebius-n",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Moebius N",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Moebius_N"
+  },
+  {
+    "id": "xc1-landmark-prison-island-reinz-egel-during-ancient-contraption",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Reinz Egel (During Ancient Contraption)",
+    "region": "Prison Island",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reinz_Egel_(During_Ancient_Contraption)"
+  },
+  {
+    "id": "xc1-landmark-secret-bafalgar-tomb",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Bafalgar Tomb",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bafalgar_Tomb"
+  },
+  {
+    "id": "xc1-landmark-secret-heavenly-window",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Heavenly Window",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heavenly_Window"
+  },
+  {
+    "id": "xc1-landmark-secret-believers-paradise",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Believer's Paradise",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Believer's_Paradise"
+  },
+  {
+    "id": "xc1-landmark-secret-observation-platform",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Observation Platform",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Observation_Platform"
+  },
+  {
+    "id": "xc1-landmark-secret-glowmoss-lake",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Glowmoss Lake",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Glowmoss_Lake"
+  },
+  {
+    "id": "xc1-landmark-secret-shining-pond",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Shining Pond",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shining_Pond"
+  },
+  {
+    "id": "xc1-landmark-secret-divine-sanctuary",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Divine Sanctuary",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Divine_Sanctuary"
+  },
+  {
+    "id": "xc1-landmark-secret-king-agnis-tomb",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "King Agni's Tomb",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/King_Agni's_Tomb"
+  },
+  {
+    "id": "xc1-landmark-secret-seahorse-islet",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Seahorse Islet",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Seahorse_Islet"
+  },
+  {
+    "id": "xc1-landmark-secret-sparkling-pool",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Sparkling Pool",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sparkling_Pool"
+  },
+  {
+    "id": "xc1-landmark-secret-faras-cave",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Faras Cave",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Faras_Cave"
+  },
+  {
+    "id": "xc1-landmark-secret-befalgar-pedestal",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Befalgar Pedestal",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Befalgar_Pedestal"
+  },
+  {
+    "id": "xc1-landmark-secret-three-sage-summit",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Three Sage Summit",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Three_Sage_Summit"
+  },
+  {
+    "id": "xc1-landmark-secret-monado-wound",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Monado Wound",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monado_Wound"
+  },
+  {
+    "id": "xc1-landmark-secret-distant-fingertip",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Distant Fingertip",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Distant_Fingertip"
+  },
+  {
+    "id": "xc1-landmark-secret-great-battle-scar",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Great Battle Scar",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Great_Battle_Scar"
+  },
+  {
+    "id": "xc1-landmark-secret-machina-refuge",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Machina Refuge",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Machina_Refuge"
+  },
+  {
+    "id": "xc1-landmark-secret-seven-sage-cloister",
+    "gameId": "xc1",
+    "category": "landmark",
+    "name": "Seven Sage Cloister",
+    "region": "Secret Area",
+    "prerequisites": [],
+    "description": "Secret Area",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Seven_Sage_Cloister"
+  }
+]

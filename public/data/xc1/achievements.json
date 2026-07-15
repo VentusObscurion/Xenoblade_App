@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "xc1-achievement-hunter-in-training",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Hunter-in-Training",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat a Unique Monster."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Defeat a Unique Monster.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-pro-hunter",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Pro Hunter",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 10 Unique Monsters."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 10 Unique Monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-master-hunter",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Master Hunter",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 Unique Monsters."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Defeat 100 Unique Monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-first-steps",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "First Steps",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover any Landmark."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Discover any Landmark.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-a-corner-of-the-world",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "A Corner of the World",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover 10 Landmarks."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Discover 10 Landmarks.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-seasoned-traveller",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Seasoned Traveller",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover 40 Landmarks."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Discover 40 Landmarks.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-globetrotter",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Globetrotter",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover 80 Landmarks."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Discover 80 Landmarks.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-worldly-wise",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Worldly Wise",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover 150 Landmarks."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Discover 150 Landmarks.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-explorer",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Explorer",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover a Secret Area."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Discover a Secret Area.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-trailblazer",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Trailblazer",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover 6 Secret Areas."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Discover 6 Secret Areas.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-pioneer",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Pioneer",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Discover 12 Secret Areas."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Discover 12 Secret Areas.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-your-first-friend",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Your First Friend",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know a named person."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Get to know a named person.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-friend-number-ten",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Friend Number Ten",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Register 10 people on the Affinity Chart."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Register 10 people on the Affinity Chart.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-fifty-fine-friends",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Fifty Fine Friends",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Register 50 people on the Affinity Chart."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Register 50 people on the Affinity Chart.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-friend-of-the-world",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Friend of the World",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Register 120 people on the Affinity Chart."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Register 120 people on the Affinity Chart.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-brave-protectors",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Brave Protectors",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know all of the Defence Force soldiers in Colony 9."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Get to know all of the Defence Force soldiers in Colony 9.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-network-of-knowledge",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Network of Knowledge",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know many Nopon outside of populated areas."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Get to know many Nopon outside of populated areas.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-hopeful-survivors",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Hopeful Survivors",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know a lot of people in Colony 6."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Get to know a lot of people in Colony 6.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-know-so-many-nopon",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Know So Many Nopon!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know the Nopon living in Frontier Village."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Get to know the Nopon living in Frontier Village.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-wings-of-nobility",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Wings of Nobility",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know many High Entia with small headwings."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Get to know many High Entia with small headwings.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-a-village-of-machines",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "A Village of Machines",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Get to know numerous Machina in the Hidden Village."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Get to know numerous Machina in the Hidden Village.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-strongest-tie",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Strongest Tie",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Help two people form a deep affinity for one another."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Help two people form a deep affinity for one another.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-constellation",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Constellation",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Help people form an Affinity for one another 10 times."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Help people form an Affinity for one another 10 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-spiders-web",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Spider's Web",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Help people form an Affinity for one another 50 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Help people form an Affinity for one another 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-neural-network",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Neural Network",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Help people form an Affinity for one another 100 times."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Help people form an Affinity for one another 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-roots-across-the-world",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Roots Across the World",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Help almost everyone form an Affinity for one another."
+      },
+      {
+        "type": "other",
+        "label": "30,000 EXP"
+      }
+    ],
+    "description": "Help almost everyone form an Affinity for one another.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-colony-9-celeb",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Colony 9 Celeb",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve 3-star Affinity rating for Colony 9."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve 3-star Affinity rating for Colony 9.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-colony-6-celeb",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Colony 6 Celeb",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve 3-star Affinity rating for Colony 6."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve 3-star Affinity rating for Colony 6.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-honorary-nopon",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Honorary Nopon",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve 3-star Affinity rating for Frontier Village."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve 3-star Affinity rating for Frontier Village.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-honorary-high-entia",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Honorary High Entia",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve 3-star affinity rating for Alcamoth."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve 3-star affinity rating for Alcamoth.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-honorary-machina",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Honorary Machina",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve 3-star Affinity rating for Hidden Village."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve 3-star Affinity rating for Hidden Village.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-local-hero",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Local Hero",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Develop 5-star Affinity with the people of any area."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Develop 5-star Affinity with the people of any area.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-world-hero",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "World Hero",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Develop 5-star Affinity with everyone."
+      },
+      {
+        "type": "other",
+        "label": "30,000 EXP"
+      }
+    ],
+    "description": "Develop 5-star Affinity with everyone.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-heartwarming",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Heartwarming",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have a Heart-to-Heart go as smoothly as possible."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Have a Heart-to-Heart go as smoothly as possible.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-heartbreaking",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Heartbreaking",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have a Heart-to-Heart go as badly as possible."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Have a Heart-to-Heart go as badly as possible.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-pouring-out-your-heart",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Pouring Out Your heart",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have 20 Heart-to-Hearts."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Have 20 Heart-to-Hearts.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-heart-of-the-matter",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Heart of the Matter",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have 40 Heart-to-Hearts."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Have 40 Heart-to-Hearts.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ace-of-hearts",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ace of Hearts",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have all possible Heart-to-Hearts."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Have all possible Heart-to-Hearts.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-problem-solved",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Problem Solved!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete a quest."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Complete a quest.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-helpful-stranger",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Helpful Stranger",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete 10 quests (excluding story quests)."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Complete 10 quests (excluding story quests).",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-generous-friend",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Generous Friend",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete 100 quests (excluding story quests)."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Complete 100 quests (excluding story quests).",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-charitable-ally",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Charitable Ally",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete 200 quests (excluding story quests)."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Complete 200 quests (excluding story quests).",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-selfless-giver",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Selfless Giver",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete 300 quests (excluding story quests)."
+      },
+      {
+        "type": "other",
+        "label": "50,000 EXP"
+      }
+    ],
+    "description": "Complete 300 quests (excluding story quests).",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-shaping-history",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Shaping History",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Change someone's life through your actions."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Change someone's life through your actions.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-drawing-a-crowd",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Drawing a Crowd",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Increase population of Colony 6 to 50 people."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Increase population of Colony 6 to 50 people.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-building-a-community",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Building a Community",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Increase population of Colony 6 to 100 people."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Increase population of Colony 6 to 100 people.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-bursting-at-the-seams",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Bursting at the Seams",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Increase population of Colony 6 to 150 people."
+      },
+      {
+        "type": "other",
+        "label": "50,000 EXP"
+      }
+    ],
+    "description": "Increase population of Colony 6 to 150 people.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-a-fixer-upper",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "A Fixer-Upper",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Start reconstruction of Colony 6."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Start reconstruction of Colony 6.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-a-fix-on-the-solution",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "A Fix on the Solution",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Make good progress in reconstructing Colony 6."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Make good progress in reconstructing Colony 6.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-good-and-fixed",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Good and Fixed",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Finish reconstructing Colony 6. Amazing!"
+      },
+      {
+        "type": "other",
+        "label": "50,000 EXP"
+      }
+    ],
+    "description": "Finish reconstructing Colony 6. Amazing!",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-bone-breaker",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Bone Breaker",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deal 3000+ damage in single attack."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Deal 3000+ damage in single attack.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-rock-smasher",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Rock Smasher",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deal 25,000+ damage in single attack."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Deal 25,000+ damage in single attack.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-world-shaker",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "World Shaker",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deal 50,000+ damage in single attack."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Deal 50,000+ damage in single attack.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-beginners-luck",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Beginner's Luck",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 50 enemies."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Defeat 50 enemies.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-tough-guy-eh",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Tough Guy, Eh?",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 200 enemies."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Defeat 200 enemies.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-no-stopping-you",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "No Stopping You",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 1000 enemies."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 1000 enemies.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-please-no-more",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Please! No More!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 5000 enemies."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Defeat 5000 enemies.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-time-for-new-glasses",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Time for New Glasses",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Attempt 100 attacks that miss."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Attempt 100 attacks that miss.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-some-help-you-are",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Some Help You Are!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Win a battle without actually doing anything."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Win a battle without actually doing anything.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-machine-mishaps",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Machine Mishaps",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 Mechon."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Defeat 30 Mechon.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-machine-mayhem",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Machine Mayhem",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 Mechon."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 100 Mechon.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-machine-meltdown",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Machine Meltdown",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 250 Mechon."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Defeat 250 Mechon.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ground-down",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ground Down",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 ground monsters."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Defeat 30 ground monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ground-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ground Up",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 ground monsters."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 100 ground monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ground-to-a-pulp",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ground to a Pulp",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 250 ground monsters."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Defeat 250 ground monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-airing-grievances",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Airing Grievances",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 aerial monsters."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Defeat 30 aerial monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-clearing-the-air",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Clearing the Air",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 aerial monsters."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 100 aerial monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-anti-air-battering",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Anti-Air Battering",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 250 aerial monsters."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Defeat 250 aerial monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-bug-off",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Bug Off",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 insects."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Defeat 30 insects.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-walking-insecticide",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Walking Insecticide",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 insects."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 100 insects.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-elementary",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Elementary!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 ether-based monsters."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Defeat 30 ether-based monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-braving-the-elements",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Braving the Elements",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 ether-based monsters."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat 100 ether-based monsters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-telethia-tracker",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Telethia Tracker",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 Telethia."
+      },
+      {
+        "type": "other",
+        "label": "5,000 EXP"
+      }
+    ],
+    "description": "Defeat 30 Telethia.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-telethia-triumph",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Telethia Triumph",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 100 Telethia."
+      },
+      {
+        "type": "other",
+        "label": "10,000 EXP"
+      }
+    ],
+    "description": "Defeat 100 Telethia.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-fish-for-compliments",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Fish for Compliments",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat 30 monsters that live in water."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Defeat 30 monsters that live in water.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-smashing",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Smashing!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Smash a vision tag."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Smash a vision tag.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-simply-smashing",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Simply Smashing!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Smash 100 vision tags."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Smash 100 vision tags.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-smashing-to-pieces",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Smashing... to Pieces!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Smash 1000 vision tags."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Smash 1000 vision tags.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-not-gonna-happen",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Not Gonna Happen!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Stop the future in its tracks once."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Stop the future in its tracks once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ill-change-the-future",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "I'll Change the Future!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Stop the future in its tracks 20 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Stop the future in its tracks 20 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-future-is-ours",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Future is Ours!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Stop the future in its tracks 50 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Stop the future in its tracks 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-second-wind",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Second Wind",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Revive incapacitated party members 10 times."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Revive incapacitated party members 10 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-cant-keep-em-down",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Can't Keep 'em Down",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Revive incapacitated party members 100 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Revive incapacitated party members 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-down-but-never-out",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Down But Never Out",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Revive incapacitated party members 500 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Revive incapacitated party members 500 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-critical-thinking",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Critical Thinking",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deliver 50 critical hits."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Deliver 50 critical hits.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-critical-condition",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Critical Condition",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deliver 1500 critical hits."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Deliver 1500 critical hits.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-critical-mass",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Critical Mass",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deliver 5000 critical hits."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Deliver 5000 critical hits.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-lets-fight",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Let's Fight!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve Battle Start Affinity once."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Achieve Battle Start Affinity once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-lets-go-everyone",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Let's Go, Everyone!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve Battle Start Affinity 100 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Achieve Battle Start Affinity 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-yeah-we-can-do-it",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Yeah! We Can Do It!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve Battle Start Affinity 1000 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve Battle Start Affinity 1000 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-turn-it-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Turn It Up",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Enter state of High Tension once."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Enter state of High Tension once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-fire-it-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Fire It Up",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Enter state of High Tension 50 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Enter state of High Tension 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-burn-it-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Burn It Up",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Enter state of High Tension 200 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Enter state of High Tension 200 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-go-team",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Go Team!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack once."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Use a chain attack once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-tip-top-team-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Tip Top Team-Up",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack 50 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Use a chain attack 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-a-team-like-no-other",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "A Team Like No Other",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack 200 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Use a chain attack 200 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-team-with-a-capital-t",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Team With a Capital T",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack 1000 times."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Use a chain attack 1000 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-killer-combo",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Killer Combo",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack which deals 3000+ total damage."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Use a chain attack which deals 3000+ total damage.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-cosmic-killer-combo",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Cosmic Killer Combo",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack which deals 30,000+ total damage."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Use a chain attack which deals 30,000+ total damage.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-quantum-killer-combo",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Quantum Killer Combo",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use a chain attack which deals 100,000+ total damage."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Use a chain attack which deals 100,000+ total damage.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-chain-gang",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Chain Gang",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Perform a chain attack with 4+ links."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Perform a chain attack with 4+ links.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-off-the-chain",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Off the Chain",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Perform a chain attack with 5+ links."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Perform a chain attack with 5+ links.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-back-stabber",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Back-Stabber",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Perform a back attack once."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Perform a back attack once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-rear-admiral",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Rear Admiral",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Perform a back attack 50 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Perform a back attack 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ninja-skillz",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ninja Skillz",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Attack an enemy from behind and beat it in one strike."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Attack an enemy from behind and beat it in one strike.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-jaws-of-defeat",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Jaws of Defeat",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Win a battle while on the verge of death. ''(Party leader's HP below 15%)''"
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Win a battle while on the verge of death. ''(Party leader's HP below 15%)''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-come-on-cheer-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Come On, Cheer Up!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Feel the pain of being incapacitated for the first time."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Feel the pain of being incapacitated for the first time.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-phoenix",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Phoenix",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Been wiped out 50 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Been wiped out 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-art-practice",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Art Practice",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Arts 1000 times between the entire party."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Use Arts 1000 times between the entire party.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-art-of-war",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Art of War",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Arts 10,000 times between the entire party."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Use Arts 10,000 times between the entire party.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-right-lets-do-this",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Right, Let's Do This!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Shulk's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Use Shulk's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-reyn-time-baby",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Reyn Time, Baby!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Reyn's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Use Reyn's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-i-can-beat-anyone",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "I Can Beat Anyone!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Fiora's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Use Fiora's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-attack-me-if-you-dare",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Attack Me if You Dare!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Dunban's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Use Dunban's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-things-are-heating-up",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Things Are Heating Up!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Sharla's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Use Sharla's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-riki-use-arts",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Riki Use Arts!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Riki's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Use Riki's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-who-dares-defy-me",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Who Dares Defy Me?",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use Melia's Arts 100 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Use Melia's Arts 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-one-step-further",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "One Step Further",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Unlock the ability to level up a character's Arts even further."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Unlock the ability to level up a character's Arts even further.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-the-final-step",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "The Final Step",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Unlock the ability to level up a character's Arts completely."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Unlock the ability to level up a character's Arts completely.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-art-school",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Art School",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Level up an Art once."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Level up an Art once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-a-work-of-art",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "A Work of Art",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Raise an Art to level 5."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Raise an Art to level 5.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-perfecting-the-art",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Perfecting the Art",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Raise an Art to maximum level."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Raise an Art to maximum level.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-down-to-a-fine-art",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Down to a Fine Art",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Raise 5 of one character's Arts to maximum level."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Raise 5 of one character's Arts to maximum level.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-art-to-art",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Art-to-Art",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Raise 10 of one character's Arts to maximum level."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Raise 10 of one character's Arts to maximum level.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-state-of-the-art",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "State of the Art",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Raise all of one character's Arts to maximum level."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Raise all of one character's Arts to maximum level.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-sharing-the-knowledge",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Sharing the Knowledge",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Receive shared skills from every character."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Receive shared skills from every character.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-specialist",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Specialist",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop one Skill Branch."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop one Skill Branch.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-honest-insight",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Honest Insight",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Shulk's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Shulk's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-raging-stalwart",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Raging Stalwart",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Reyn's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Reyn's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-spirited-adventurer",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Spirited Adventurer",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Fiora's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Fiora's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-gallant-hero",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Gallant Hero",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Dunban's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Dunban's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-unyielding-devotion",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Unyielding Devotion",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Sharla's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Sharla's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-adorable-randomness",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Adorable Randomness",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Riki's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Riki's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-serene-candour",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Serene Candour",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop three of Melia's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fully develop three of Melia's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-secret-weapon",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Secret Weapon",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop any character's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Fully develop any character's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-dream-team",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Dream Team",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fully develop every character's Skill Branches."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Fully develop every character's Skill Branches.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-turning-it-around",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Turning it Around",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Successfully achieve Burst Affinity."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Successfully achieve Burst Affinity.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-changing-course",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Changing Course",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve Burst Affinity 300 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Achieve Burst Affinity 300 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-complete-180",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Complete 180",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Achieve Burst Affinity 2000 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Achieve Burst Affinity 2000 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-looking-for-trouble",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Looking for Trouble",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat an enemy 5 levels higher than the party leader."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Defeat an enemy 5 levels higher than the party leader.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-beating-the-odds",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Beating the Odds",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Defeat an enemy 10 levels higher than the party leader."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Defeat an enemy 10 levels higher than the party leader.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-unlucky-sixes",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Unlucky Sixes",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Perform an attack that deals exactly 666 damage."
+      },
+      {
+        "type": "other",
+        "label": "66 EXP"
+      }
+    ],
+    "description": "Perform an attack that deals exactly 666 damage.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-lucky-sevens",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Lucky Sevens",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Perform an attack that deals exactly 777 damage."
+      },
+      {
+        "type": "other",
+        "label": "77 EXP"
+      }
+    ],
+    "description": "Perform an attack that deals exactly 777 damage.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-skip-it",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Skip It",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use skip travel once."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Use skip travel once.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-lazybones",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Lazybones",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Use skip travel 50 times."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Use skip travel 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-hunting-for-treasure",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Hunting for Treasure",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 10 Rare Treasure Chests. (Silver chests)"
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Obtain 10 Rare Treasure Chests. (Silver chests)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-hoarding-treasure",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Hoarding Treasure",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 50 Rare Treasure Chests."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Obtain 50 Rare Treasure Chests.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ooh-shiny",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ooh, Shiny",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain a Super Rare Treasure Chest. (Gold chest)"
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Obtain a Super Rare Treasure Chest. (Gold chest)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-it-hasnt-lost-its-lustre",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "It Hasn't Lost its Lustre",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 10 Super Rare Treasure Chests."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Obtain 10 Super Rare Treasure Chests.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-need-more-treasure",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Need... More... Treasure",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 50 Super Rare Treasure Chests."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Obtain 50 Super Rare Treasure Chests.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-treasure-trove",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Treasure Trove",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 1000 Rare or Super Rare Treasure Chests."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Obtain 1000 Rare or Super Rare Treasure Chests.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-titans-gift",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Titan's Gift",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Harvest an ether crystal."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Harvest an ether crystal.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-titans-generosity",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Titan's Generosity",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Harvest ether crystals 50 times."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Harvest ether crystals 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-titans-greatness",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Titan's Greatness",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Harvest ether crystals 500 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Harvest ether crystals 500 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-raring-to-go",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Raring to Go",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain a rare ether crystal."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Obtain a rare ether crystal.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-medium-rare",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Medium Rare",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 7 rare ether crystals."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Obtain 7 rare ether crystals.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-in-rare-form",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "In Rare Form",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain 77 rare ether crystals."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Obtain 77 rare ether crystals.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-crystallised-luck",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Crystallised Luck",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Mine a rank V ether crystal."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Mine a rank V ether crystal.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-that-hits-the-slot",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "That Hits the Slot",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fill a gem slot."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Fill a gem slot.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-truly-outrageous",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Truly Outrageous",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fill all 8 possible gem slots at once for any character."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Fill all 8 possible gem slots at once for any character.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-learning-the-craft",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Learning the Craft",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Practice Gem Crafting and receive a Synergy Bonus."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Practice Gem Crafting and receive a Synergy Bonus.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-getting-crafty",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Getting Crafty",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Receive a Synergy Bonus more than 250 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Receive a Synergy Bonus more than 250 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-crafting-your-destiny",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Crafting Your Destiny",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Receive a Synergy Bonus more than 500 times."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Receive a Synergy Bonus more than 500 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-craftacular",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Craftacular!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Enter a Fever state while Gem Crafting."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Enter a Fever state while Gem Crafting.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-craftstravaganza",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Craftstravaganza!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Enter a Fever state 3 times (in a single crafting attempt for a gem)"
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Enter a Fever state 3 times (in a single crafting attempt for a gem)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-lending-a-hand",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Lending a Hand",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Receive a Support Bonus."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Receive a Support Bonus.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-crafting-friendships",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Crafting Friendships",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Receive a Support Bonus for every character."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Receive a Support Bonus for every character.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-firing-on-all-cylinders",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Firing on All Cylinders",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fill up the Cylinder Gauge 9 times in one crafting session."
+      },
+      {
+        "type": "other",
+        "label": "2,000 EXP"
+      }
+    ],
+    "description": "Fill up the Cylinder Gauge 9 times in one crafting session.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-happy-new-year",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Happy New Year!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Witness the sun rising on 366th day."
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Witness the sun rising on 366th day.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-terminal-velocity",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Terminal Velocity",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fall to your demise from a great height."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Fall to your demise from a great height.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-making-waves",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Making Waves",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Fall into water from a height of 200 meters."
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Fall into water from a height of 200 meters.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-one-is-never-enough",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "One is Never Enough",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Record an item in the Collectopaedia."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Record an item in the Collectopaedia.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-collectors-mentality",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Collector's Mentality",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete a page in the Collectopaedia."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Complete a page in the Collectopaedia.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-stamp-of-insanity",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Stamp of Insanity",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Complete every page in the Collectopaedia."
+      },
+      {
+        "type": "other",
+        "label": "50,000 EXP"
+      }
+    ],
+    "description": "Complete every page in the Collectopaedia.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-study-aids",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Study Aids",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Give Shulk 20 pieces of machinery as gifts."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Give Shulk 20 pieces of machinery as gifts.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-auber-the-top",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Auber the Top",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Give Reyn an Energy Aubergine as a gift."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Give Reyn an Energy Aubergine as a gift.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-aim-for-the-heart",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Aim For the Heart!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have Fiora give 20 gifts to Shulk."
+      },
+      {
+        "type": "other",
+        "label": "200 EXP"
+      }
+    ],
+    "description": "Have Fiora give 20 gifts to Shulk.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-thanks-but-no-thanks",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Thanks But No Thanks",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Give Dunban an Ether Plum as a gift."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Give Dunban an Ether Plum as a gift.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-fruitful-gifts",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Fruitful Gifts",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Give Sharla fruit as a gift 20 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Give Sharla fruit as a gift 20 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-you-may-have-this",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "You May Have This",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have Melia give 30 gifts."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Have Melia give 30 gifts.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-not-just-riki-eat",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Not Just Riki Eat!",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have Riki give insects as gifts 30 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Have Riki give insects as gifts 30 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-love-at-first-bite",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Love at First Bite",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Give Love Source as a present."
+      },
+      {
+        "type": "other",
+        "label": "50,000 EXP"
+      }
+    ],
+    "description": "Give Love Source as a present.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-ear-to-the-ground",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Ear to the Ground",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Talk to people 100 times."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Talk to people 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-social-butterfly",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Social Butterfly",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Talk to people 1000 times."
+      },
+      {
+        "type": "other",
+        "label": "1,000 EXP"
+      }
+    ],
+    "description": "Talk to people 1000 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-breaking-the-ice",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Breaking the Ice",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have a party member step into a conversation."
+      },
+      {
+        "type": "other",
+        "label": "10 EXP"
+      }
+    ],
+    "description": "Have a party member step into a conversation.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-idle-chit-chat",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Idle Chit-Chat",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have party members step into conversations 50 times."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Have party members step into conversations 50 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-chatting-the-day-away",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Chatting the Day Away",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Have party members step into conversations 300 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Have party members step into conversations 300 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-blossoming-friendship",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Blossoming Friendship",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Improve the Affinity between two party members. ()"
+      },
+      {
+        "type": "other",
+        "label": "50 EXP"
+      }
+    ],
+    "description": "Improve the Affinity between two party members. ()",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-unshakable-trust",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Unshakable Trust",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Improve two party members' Affinity still further. ()"
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Improve two party members' Affinity still further. ()",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-unbreakable-bond",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Unbreakable Bond",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Form the deepest Affinity between two party members. ()"
+      },
+      {
+        "type": "other",
+        "label": "1,500 EXP"
+      }
+    ],
+    "description": "Form the deepest Affinity between two party members. ()",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-get-the-party-started",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Get the Party Started",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Deepen the Affinity between all party members. ()"
+      },
+      {
+        "type": "other",
+        "label": "8,000 EXP"
+      }
+    ],
+    "description": "Deepen the Affinity between all party members. ()",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-partys-in-full-swing",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Party's in Full Swing",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Form the deepest Affinity between all party members. ()"
+      },
+      {
+        "type": "other",
+        "label": "15,000 EXP"
+      }
+    ],
+    "description": "Form the deepest Affinity between all party members. ()",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-equivalent-exchange",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Equivalent exchange",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Successfully trade items with someone."
+      },
+      {
+        "type": "other",
+        "label": "20 EXP"
+      }
+    ],
+    "description": "Successfully trade items with someone.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-tradesman",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Tradesman",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Trade items 20 times."
+      },
+      {
+        "type": "other",
+        "label": "100 EXP"
+      }
+    ],
+    "description": "Trade items 20 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-master-tradesman",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Master Tradesman",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Trade items 100 times."
+      },
+      {
+        "type": "other",
+        "label": "500 EXP"
+      }
+    ],
+    "description": "Trade items 100 times.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-mysterious-mantis",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Mysterious Mantis",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain a Minute Mantis through trading."
+      },
+      {
+        "type": "other",
+        "label": "3,000 EXP"
+      }
+    ],
+    "description": "Obtain a Minute Mantis through trading.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-shining-impracticality",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Shining Impracticality",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain a Golden Cog through trading."
+      },
+      {
+        "type": "other",
+        "label": "3,000 EXP"
+      }
+    ],
+    "description": "Obtain a Golden Cog through trading.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-indigo-belligerence",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Indigo Belligerence",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain a Love Beetle through trading."
+      },
+      {
+        "type": "other",
+        "label": "3,000 EXP"
+      }
+    ],
+    "description": "Obtain a Love Beetle through trading.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-stormy-outlook",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Stormy Outlook",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain a Thunder Compass through trading."
+      },
+      {
+        "type": "other",
+        "label": "3,000 EXP"
+      }
+    ],
+    "description": "Obtain a Thunder Compass through trading.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  },
+  {
+    "id": "xc1-achievement-angelic-imitation",
+    "gameId": "xc1",
+    "category": "achievement",
+    "name": "Angelic Imitation",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Obtain an Angel Engine Y through trading."
+      },
+      {
+        "type": "other",
+        "label": "5,000 EXP"
+      }
+    ],
+    "description": "Obtain an Angel Engine Y through trading.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Achievements_(XC1)",
+    "wikiPageId": 69240
+  }
+]

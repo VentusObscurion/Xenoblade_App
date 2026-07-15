@@ -1,0 +1,465 @@
+[
+  {
+    "id": "xc1-fc-unique_monster-air-marshal-reisenbach",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Air Marshal Reisenbach",
+    "region": "Bionis' Shoulder (Clear Sky Bluff)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Clear Sky Bluff)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Air_Marshal_Reisenbach",
+    "wikiPageId": 105858
+  },
+  {
+    "id": "xc1-fc-unique_monster-booming-frederick",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Booming Frederick",
+    "region": "Bionis' Shoulder (Purifying Falls)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Purifying Falls)"
+      }
+    ],
+    "spawnTime": "Rain",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Booming_Frederick",
+    "wikiPageId": 105856
+  },
+  {
+    "id": "xc1-fc-unique_monster-buoyant-rostein",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Buoyant Rostein",
+    "region": "Bionis' Shoulder (Abaasy's Dorsum)",
+    "level": 68,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 68"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Abaasy's Dorsum)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Buoyant_Rostein",
+    "wikiPageId": 105750
+  },
+  {
+    "id": "xc1-fc-unique_monster-caustic-naquatra",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Caustic Naquatra",
+    "region": "Bionis' Shoulder (Zekr Marga Quarry)",
+    "level": 73,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 73"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Zekr Marga Quarry)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Caustic_Naquatra",
+    "wikiPageId": 105781
+  },
+  {
+    "id": "xc1-fc-unique_monster-citadel-tostega",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Citadel Tostega",
+    "region": "Bionis' Shoulder (Prayer Rock)",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Prayer Rock)"
+      }
+    ],
+    "spawnTime": "Anytime",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Citadel_Tostega",
+    "wikiPageId": 105773
+  },
+  {
+    "id": "xc1-fc-unique_monster-confluent-uzva",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Confluent Uzva",
+    "region": "Bionis' Shoulder (Fyme Lane)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Fyme Lane)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Confluent_Uzva",
+    "wikiPageId": 105384
+  },
+  {
+    "id": "xc1-fc-unique_monster-contemptuous-greymane",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Contemptuous Greymane",
+    "region": "Bionis' Shoulder (Agni's Skygarden Ruins)",
+    "level": 78,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 78"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Agni's Skygarden Ruins)"
+      }
+    ],
+    "spawnTime": "Anytime after the Field Ponio Battle",
+    "respawn": "Yes (30% chance)",
+    "expReward": 29100,
+    "apReward": 948,
+    "drops": [
+      "Drops: === Chests ===\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Gogol Horn\n|mrate1 = 42.9\n|material2 = Creare Glyph (XC1)\n|mrate2 = 57.1\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Chests: =\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Gogol Horn\n|mrate1 = 42.9\n|material2 = Creare Glyph (XC1)\n|mrate2 = 57.1\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Wood: =\n{{Chest Wood\n|material1 = Gogol Horn\n|mrate1 = 42.9\n|material2 = Creare Glyph (XC1)\n|mrate2 = 57.1\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Silver: =\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Gold: =\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Contemptuous_Greymane",
+    "wikiPageId": 105863
+  },
+  {
+    "id": "xc1-fc-unique_monster-custodian-barreldart",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Custodian Barreldart",
+    "region": "Bionis' Shoulder (Gamaro Hollow)",
+    "level": 71,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 71"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Gamaro Hollow)"
+      }
+    ],
+    "spawnTime": "Anytime",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Custodian_Barreldart",
+    "wikiPageId": 105859
+  },
+  {
+    "id": "xc1-fc-unique_monster-cyclonic-yughana",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Cyclonic Yughana",
+    "region": "Bionis' Shoulder (Old King's Testament)",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Old King's Testament)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cyclonic_Yughana",
+    "wikiPageId": 105788
+  },
+  {
+    "id": "xc1-fc-unique_monster-deputy-seagal",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Deputy Seagal",
+    "region": "Bionis' Shoulder (Zekr Marga Quarry)",
+    "level": 72,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 72"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Zekr Marga Quarry)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Deputy_Seagal",
+    "wikiPageId": 105860
+  },
+  {
+    "id": "xc1-fc-unique_monster-dismal-umya",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Dismal Umya",
+    "region": "Bionis' Shoulder (Nerthis Necropolis)",
+    "level": 73,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 73"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Nerthis Necropolis)"
+      }
+    ],
+    "spawnTime": "Anytime",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dismal_Umya",
+    "wikiPageId": 105779
+  },
+  {
+    "id": "xc1-fc-unique_monster-grotesque-deimis",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Grotesque Deimis",
+    "region": "Bionis' Shoulder (Barouh Ruins Cave)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Barouh Ruins Cave)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Grotesque_Deimis",
+    "wikiPageId": 105185
+  },
+  {
+    "id": "xc1-fc-unique_monster-highborn-alexandra",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Highborn Alexandra",
+    "region": "Bionis' Shoulder (Cinnabar Plateau)",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Cinnabar Plateau)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Highborn_Alexandra",
+    "wikiPageId": 105855
+  },
+  {
+    "id": "xc1-fc-unique_monster-marquis-odesh",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Marquis Odesh",
+    "region": "Bionis' Shoulder (Clear Sky Bluff)",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Clear Sky Bluff)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Marquis_Odesh",
+    "wikiPageId": 105861
+  },
+  {
+    "id": "xc1-fc-unique_monster-perceptive-quinops",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Perceptive Quinops",
+    "region": "Bionis' Shoulder (NE of Clear Sky Bluff)",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (NE of Clear Sky Bluff)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perceptive_Quinops",
+    "wikiPageId": 105780
+  },
+  {
+    "id": "xc1-fc-unique_monster-phlegmatic-jamir",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Phlegmatic Jamir",
+    "region": "Bionis' Shoulder (Navvir Highland)",
+    "level": 63,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 63"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Navvir Highland)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Phlegmatic_Jamir",
+    "wikiPageId": 105854
+  },
+  {
+    "id": "xc1-fc-unique_monster-prosecutor-davrum",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Prosecutor Davrum",
+    "region": "Bionis' Shoulder (Nerthis Necropolis)",
+    "level": 80,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 80"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Nerthis Necropolis)"
+      }
+    ],
+    "spawnTime": "During Ponspectors Till We Cry",
+    "respawn": "No",
+    "drops": [
+      "Drops: 'Note:' This enemy drops no chests.\n===Chests===\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 0\n}}\n===Wood===\n{{Chest Wood\n|material1 = Demonic Everflame\n|mrate1 = 0\n}}\nCategory:XCFC Dragons\nCategory:Bionis' Shoulder Enemies\nCategory:XCFC Unique Monsters\nCategory:XCFC Level 76-80 Enemies\nCategory:XCFC Quest Exclusive Enemies\nCategory:XCFC Quest Enemies",
+      "Chests: =\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 0\n}}\n===Wood===\n{{Chest Wood\n|material1 = Demonic Everflame\n|mrate1 = 0\n}}\nCategory:XCFC Dragons\nCategory:Bionis' Shoulder Enemies\nCategory:XCFC Unique Monsters\nCategory:XCFC Level 76-80 Enemies\nCategory:XCFC Quest Exclusive Enemies\nCategory:XCFC Quest Enemies",
+      "Wood: =\n{{Chest Wood\n|material1 = Demonic Everflame\n|mrate1 = 0\n}}\nCategory:XCFC Dragons\nCategory:Bionis' Shoulder Enemies\nCategory:XCFC Unique Monsters\nCategory:XCFC Level 76-80 Enemies\nCategory:XCFC Quest Exclusive Enemies\nCategory:XCFC Quest Enemies"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prosecutor_Davrum",
+    "wikiPageId": 105792
+  },
+  {
+    "id": "xc1-fc-unique_monster-quondam-grimbellum",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Quondam Grimbellum",
+    "region": "Bionis' Shoulder (Cinnabar Plateau)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Cinnabar Plateau)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quondam_Grimbellum",
+    "wikiPageId": 105857
+  },
+  {
+    "id": "xc1-fc-unique_monster-ravager-apelpis-a",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Ravager Apelpisía",
+    "region": "Bionis' Shoulder (Zekr Marga Quarry)",
+    "level": 77,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 77"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Zekr Marga Quarry)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "expReward": 16538,
+    "apReward": 561,
+    "drops": [
+      "Drops: === Chests ===\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Royal Kromar Pike\n|mrate1 = 42.2\n|material2 = Esse Glyph (XC1)\n|mrate2 = 57.8\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Chests: =\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Royal Kromar Pike\n|mrate1 = 42.2\n|material2 = Esse Glyph (XC1)\n|mrate2 = 57.8\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Wood: =\n{{Chest Wood\n|material1 = Royal Kromar Pike\n|mrate1 = 42.2\n|material2 = Esse Glyph (XC1)\n|mrate2 = 57.8\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Silver: =\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
+      "Gold: =\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravager_Apelpis%C3%ADa",
+    "wikiPageId": 105782
+  },
+  {
+    "id": "xc1-fc-unique_monster-terpsichorean-cenoth",
+    "gameId": "xc1-fc",
+    "category": "unique_monster",
+    "name": "Terpsichorean Cenoth",
+    "region": "Bionis' Shoulder (Tranquil Tarn)",
+    "level": 73,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 73"
+      },
+      {
+        "type": "area",
+        "label": "Bionis' Shoulder (Tranquil Tarn)"
+      }
+    ],
+    "spawnTime": "Any",
+    "respawn": "Yes (30% chance)",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Terpsichorean_Cenoth",
+    "wikiPageId": 105774
+  }
+]

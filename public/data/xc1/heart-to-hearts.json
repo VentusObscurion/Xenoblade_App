@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "xc1-heart_to_heart-sunrise-in-the-park",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Sunrise in the Park",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Outlook Park"
+      }
+    ],
+    "characters": [
+      "Fiora * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sunrise_in_the_Park"
+  },
+  {
+    "id": "xc1-heart_to_heart-overlooking-the-colony",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Overlooking the Colony",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Agora Shore"
+      },
+      {
+        "type": "affinity",
+        "label": "Reconstruction started"
+      }
+    ],
+    "characters": [
+      "Reyn * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Overlooking_the_Colony"
+  },
+  {
+    "id": "xc1-heart_to_heart-enduring-friendship",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Enduring Friendship",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Tephra Cave Entrance"
+      }
+    ],
+    "characters": [
+      "Reyn * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Enduring_Friendship"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-heropons-perspective",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Heropon's Perspective",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Mechon Wreckage Site"
+      },
+      {
+        "type": "affinity",
+        "label": "Prison Island events"
+      }
+    ],
+    "characters": [
+      "Riki * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Heropon's_Perspective"
+  },
+  {
+    "id": "xc1-heart_to_heart-ancient-wreckage",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Ancient Wreckage",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Cylinder Hangar"
+      },
+      {
+        "type": "affinity",
+        "label": "High Entia Tomb events"
+      }
+    ],
+    "characters": [
+      "Melia * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ancient_Wreckage"
+  },
+  {
+    "id": "xc1-heart_to_heart-watching-over-them",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Watching Over Them",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Residential District"
+      },
+      {
+        "type": "affinity",
+        "label": "Galahad Fortress events"
+      }
+    ],
+    "characters": [
+      "Dunban * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Watching_Over_Them"
+  },
+  {
+    "id": "xc1-heart_to_heart-fioras-cooking",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Fiora's Cooking",
+    "region": "Colony 9",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Dunban's House"
+      },
+      {
+        "type": "affinity",
+        "label": "Mechon raid"
+      }
+    ],
+    "characters": [
+      "Fiora * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fiora's_Cooking"
+  },
+  {
+    "id": "xc1-heart_to_heart-glowing-in-the-night",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Glowing in the Night",
+    "region": "Tephra Cave",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Spring of Grief"
+      }
+    ],
+    "characters": [
+      "Dunban * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Glowing_in_the_Night"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-scene-revisited",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Scene Revisited",
+    "region": "Tephra Cave",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Kneecap Hill"
+      },
+      {
+        "type": "affinity",
+        "label": "Mechon raid"
+      }
+    ],
+    "characters": [
+      "Fiora * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Scene_Revisited"
+  },
+  {
+    "id": "xc1-heart_to_heart-the-legend-of-the-spider",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "The Legend of the Spider",
+    "region": "Tephra Cave",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bone Corridor"
+      },
+      {
+        "type": "affinity",
+        "label": "Mechonis Core events"
+      }
+    ],
+    "characters": [
+      "Reyn * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Legend_of_the_Spider"
+  },
+  {
+    "id": "xc1-heart_to_heart-whats-on-reyns-mind",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "What's On Reyn's Mind",
+    "region": "Bionis' Leg",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Inside Refugee Camp"
+      }
+    ],
+    "characters": [
+      "Reyn * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/What's_On_Reyn's_Mind"
+  },
+  {
+    "id": "xc1-heart_to_heart-heir-to-the-monado",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Heir to the Monado",
+    "region": "Bionis' Leg",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Outside Refugee Camp"
+      }
+    ],
+    "characters": [
+      "Dunban * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heir_to_the_Monado"
+  },
+  {
+    "id": "xc1-heart_to_heart-geography-lesson",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Geography Lesson",
+    "region": "Bionis' Leg",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Believer's Paradise"
+      }
+    ],
+    "characters": [
+      "Dunban * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Geography_Lesson"
+  },
+  {
+    "id": "xc1-heart_to_heart-revisiting-the-past",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Revisiting the Past",
+    "region": "Bionis' Leg",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Rho Oasis"
+      }
+    ],
+    "characters": [
+      "Dunban * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Revisiting_the_Past"
+  },
+  {
+    "id": "xc1-heart_to_heart-what-visions-may-bring",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "What Visions May Bring",
+    "region": "Bionis' Leg",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Raguel Bridge North"
+      },
+      {
+        "type": "affinity",
+        "label": "Ether Mine events"
+      }
+    ],
+    "characters": [
+      "Sharla * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/What_Visions_May_Bring"
+  },
+  {
+    "id": "xc1-heart_to_heart-strength-of-heart",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Strength of Heart",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "West of Main Entrance"
+      },
+      {
+        "type": "affinity",
+        "label": "Nature Lv 3"
+      }
+    ],
+    "characters": [
+      "Dunban * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strength_of_Heart"
+  },
+  {
+    "id": "xc1-heart_to_heart-one-year-on",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "One Year On",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Pod Depot"
+      }
+    ],
+    "characters": [
+      "Dunban * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/One_Year_On"
+  },
+  {
+    "id": "xc1-heart_to_heart-renewed-determination",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Renewed Determination",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Freight Elevator"
+      },
+      {
+        "type": "affinity",
+        "label": "Mechonis Core events"
+      }
+    ],
+    "characters": [
+      "Reyn * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Renewed_Determination"
+  },
+  {
+    "id": "xc1-heart_to_heart-dunbans-right-arm",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Dunban's Right Arm",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Turret at Hope Farm"
+      },
+      {
+        "type": "affinity",
+        "label": "Mechonis Field reached"
+      }
+    ],
+    "characters": [
+      "Dunban * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dunban's_Right_Arm"
+  },
+  {
+    "id": "xc1-heart_to_heart-recovery-and-reflection",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Recovery and Reflection",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Ridge at Hope Farm"
+      },
+      {
+        "type": "affinity",
+        "label": "Agniratha – Central Tower events"
+      }
+    ],
+    "characters": [
+      "Fiora * Dunban"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Recovery_and_Reflection"
+  },
+  {
+    "id": "xc1-heart_to_heart-the-colony-reborn",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "The Colony Reborn",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Reconstruction HQ"
+      },
+      {
+        "type": "affinity",
+        "label": "All Lv 5"
+      }
+    ],
+    "characters": [
+      "Sharla * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Colony_Reborn"
+  },
+  {
+    "id": "xc1-heart_to_heart-quiet-time",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Quiet Time",
+    "region": "Colony 6",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Park"
+      },
+      {
+        "type": "affinity",
+        "label": "Special Lv 3"
+      }
+    ],
+    "characters": [
+      "Fiora * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quiet_Time"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-broken-watch",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Broken Watch",
+    "region": "Ether Mine",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Mining Base"
+      }
+    ],
+    "characters": [
+      "Sharla * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Broken_Watch"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-wistful-glow",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Wistful Glow",
+    "region": "Ether Mine",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Central Terminal"
+      },
+      {
+        "type": "affinity",
+        "label": "Agniratha – Meyneth Shrine events"
+      }
+    ],
+    "characters": [
+      "Reyn * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Wistful_Glow"
+  },
+  {
+    "id": "xc1-heart_to_heart-the-shimmering-marsh",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "The Shimmering Marsh",
+    "region": "Satorl Marsh",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Zaldania Waterfall"
+      }
+    ],
+    "characters": [
+      "Dunban * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Shimmering_Marsh"
+  },
+  {
+    "id": "xc1-heart_to_heart-high-entia-history",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "High Entia History",
+    "region": "Satorl Marsh",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Sororal Statues"
+      },
+      {
+        "type": "affinity",
+        "label": "High Entia Tomb events"
+      }
+    ],
+    "characters": [
+      "Dunban * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Entia_History"
+  },
+  {
+    "id": "xc1-heart_to_heart-atop-the-crown-tree",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Atop the Crown Tree",
+    "region": "Satorl Marsh",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Crown Tree"
+      },
+      {
+        "type": "affinity",
+        "label": "Leone Telethia battle"
+      }
+    ],
+    "characters": [
+      "Riki * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Atop_the_Crown_Tree"
+  },
+  {
+    "id": "xc1-heart_to_heart-rikis-crazy-crystal-plan",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Riki's Crazy Crystal Plan",
+    "region": "Makna Forest",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Eks Watering Hole"
+      }
+    ],
+    "characters": [
+      "Reyn * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Riki's_Crazy_Crystal_Plan"
+  },
+  {
+    "id": "xc1-heart_to_heart-no-boys-allowed",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "No Boys Allowed",
+    "region": "Makna Forest",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Sparkling Pool"
+      }
+    ],
+    "characters": [
+      "Melia * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/No_Boys_Allowed"
+  },
+  {
+    "id": "xc1-heart_to_heart-fallen-brethren",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Fallen Brethren",
+    "region": "Makna Forest",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Agni Tablet"
+      },
+      {
+        "type": "affinity",
+        "label": "Frontier Village reached"
+      }
+    ],
+    "characters": [
+      "Melia * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Brethren"
+  },
+  {
+    "id": "xc1-heart_to_heart-at-the-pollen-works",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "At the Pollen Works",
+    "region": "Frontier Village",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Pollen Works"
+      },
+      {
+        "type": "affinity",
+        "label": "Leone Telethia battle"
+      }
+    ],
+    "characters": [
+      "Riki * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/At_the_Pollen_Works"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-mysterious-sanctuary",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Mysterious Sanctuary",
+    "region": "Frontier Village",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Prophecy Hut"
+      },
+      {
+        "type": "affinity",
+        "label": "Leone Telethia battle"
+      }
+    ],
+    "characters": [
+      "Melia * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Mysterious_Sanctuary"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-day-like-any-other",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Day Like Any Other",
+    "region": "Frontier Village",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Nopon Tower"
+      }
+    ],
+    "characters": [
+      "Fiora * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Day_Like_Any_Other"
+  },
+  {
+    "id": "xc1-heart_to_heart-lifes-hard-for-a-heropon",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Life's Hard for a Heropon",
+    "region": "Frontier Village",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Riki's House"
+      },
+      {
+        "type": "affinity",
+        "label": "Galahad Fortress events"
+      }
+    ],
+    "characters": [
+      "Dunban * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Life's_Hard_for_a_Heropon"
+  },
+  {
+    "id": "xc1-heart_to_heart-reawakened-memories",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Reawakened Memories",
+    "region": "Frontier Village",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "7F West of Mysterious Sanctuary"
+      }
+    ],
+    "characters": [
+      "Fiora * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reawakened_Memories"
+  },
+  {
+    "id": "xc1-heart_to_heart-true-natures",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "True Natures",
+    "region": "Frontier Village",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Apex Lake"
+      },
+      {
+        "type": "affinity",
+        "label": "High Entia Tomb events"
+      }
+    ],
+    "characters": [
+      "Dunban * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/True_Natures"
+  },
+  {
+    "id": "xc1-heart_to_heart-flowers-of-eryth-sea",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Flowers of Eryth Sea",
+    "region": "Eryth Sea",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Hovering Reef 2"
+      }
+    ],
+    "characters": [
+      "Riki * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Flowers_of_Eryth_Sea"
+  },
+  {
+    "id": "xc1-heart_to_heart-riki-have-question",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Riki Have Question",
+    "region": "Eryth Sea",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Syrath Lighthouse"
+      },
+      {
+        "type": "affinity",
+        "label": "''Fiora's Treatment'' completed"
+      }
+    ],
+    "characters": [
+      "Fiora * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Riki_Have_Question"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-gift-for-a-loved-one",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Gift for a Loved One",
+    "region": "Eryth Sea",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Ether Plant"
+      },
+      {
+        "type": "affinity",
+        "label": "Galahad Fortress events"
+      }
+    ],
+    "characters": [
+      "Dunban * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Gift_for_a_Loved_One"
+  },
+  {
+    "id": "xc1-heart_to_heart-fish-fly-fish-fly",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Fish Fly! Fish Fly!",
+    "region": "Eryth Sea",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Sleeping Dragon Isle"
+      }
+    ],
+    "characters": [
+      "Reyn * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fish_Fly!_Fish_Fly!"
+  },
+  {
+    "id": "xc1-heart_to_heart-brother-and-sister",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Brother and Sister",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "SE of Fountain of Hope"
+      }
+    ],
+    "characters": [
+      "Dunban * Fiora"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Brother_and_Sister"
+  },
+  {
+    "id": "xc1-heart_to_heart-ancient-astrology",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Ancient Astrology",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "West of Melfica Road"
+      }
+    ],
+    "characters": [
+      "Melia * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ancient_Astrology"
+  },
+  {
+    "id": "xc1-heart_to_heart-the-forefathers",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "The Forefathers",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Great Hall"
+      }
+    ],
+    "characters": [
+      "Fiora * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Forefathers"
+  },
+  {
+    "id": "xc1-heart_to_heart-melias-imperial-villa",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Melia's Imperial Villa",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Imperial Villa"
+      }
+    ],
+    "characters": [
+      "Fiora * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Melia's_Imperial_Villa"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-breathtaking-sight",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Breathtaking Sight",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Sky Terrace"
+      }
+    ],
+    "characters": [
+      "Melia * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Breathtaking_Sight"
+  },
+  {
+    "id": "xc1-heart_to_heart-so-close-yet-so-far",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "So Close, Yet So Far",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Audience Chamber"
+      }
+    ],
+    "characters": [
+      "Melia * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/So_Close%2C_Yet_So_Far"
+  },
+  {
+    "id": "xc1-heart_to_heart-hopes-and-plans",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Hopes and Plans",
+    "region": "High Entia Tomb",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Hall of Trials"
+      },
+      {
+        "type": "affinity",
+        "label": "Mechonis Core events"
+      }
+    ],
+    "characters": [
+      "Melia * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hopes_and_Plans"
+  },
+  {
+    "id": "xc1-heart_to_heart-echoes-of-ancient-times",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Echoes of Ancient Times",
+    "region": "High Entia Tomb",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Valley of Emperors"
+      }
+    ],
+    "characters": [
+      "Melia * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Echoes_of_Ancient_Times"
+  },
+  {
+    "id": "xc1-heart_to_heart-in-ose-tower",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "In Ose Tower",
+    "region": "Valak Mountain",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Harict Chapel"
+      }
+    ],
+    "characters": [
+      "Dunban * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/In_Ose_Tower"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-snowy-hot-spring",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Snowy Hot Spring",
+    "region": "Valak Mountain",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Jakt Geyser"
+      }
+    ],
+    "characters": [
+      "Riki * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Snowy_Hot_Spring"
+  },
+  {
+    "id": "xc1-heart_to_heart-first-sight-of-snow",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "First Sight of Snow",
+    "region": "Valak Mountain",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "War God Statue (La Luz Church)"
+      }
+    ],
+    "characters": [
+      "Fiora * Reyn"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/First_Sight_of_Snow"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-night-time-chat",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Night-Time Chat",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Ether Light"
+      }
+    ],
+    "characters": [
+      "Fiora * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Night-Time_Chat"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-family-of-two",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Family of Two",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Junks (Linada's Room)"
+      }
+    ],
+    "characters": [
+      "Fiora * Dunban"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Family_of_Two"
+  },
+  {
+    "id": "xc1-heart_to_heart-overcoming-the-pain",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Overcoming the Pain",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Digit 1"
+      }
+    ],
+    "characters": [
+      "Fiora * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Overcoming_the_Pain"
+  },
+  {
+    "id": "xc1-heart_to_heart-eternal-scars",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Eternal Scars",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Black Wreckage"
+      }
+    ],
+    "characters": [
+      "Dunban * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eternal_Scars"
+  },
+  {
+    "id": "xc1-heart_to_heart-just-like-old-times",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Just Like Old Times",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Silver Wreckage"
+      },
+      {
+        "type": "affinity",
+        "label": "''Fiora's Treatment'' completed"
+      }
+    ],
+    "characters": [
+      "Fiora * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Just_Like_Old_Times"
+  },
+  {
+    "id": "xc1-heart_to_heart-camping-spot",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Camping Spot",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Inlet Beach"
+      }
+    ],
+    "characters": [
+      "Melia * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Camping_Spot"
+  },
+  {
+    "id": "xc1-heart_to_heart-those-waiting-for-you",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Those Waiting for You",
+    "region": "Fallen Arm",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Distant Fingertip"
+      }
+    ],
+    "characters": [
+      "Riki * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Those_Waiting_for_You"
+  },
+  {
+    "id": "xc1-heart_to_heart-fioras-body",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Fiora's Body",
+    "region": "Bionis' Interior",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "South of Spinal Nerve Tower"
+      }
+    ],
+    "characters": [
+      "Fiora * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fiora's_Body"
+  },
+  {
+    "id": "xc1-heart_to_heart-kind-words",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Kind Words",
+    "region": "Bionis' Interior",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "West of Terminal Nerve Tower"
+      }
+    ],
+    "characters": [
+      "Melia * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kind_Words"
+  },
+  {
+    "id": "xc1-heart_to_heart-before-the-final-battle",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Before the Final Battle",
+    "region": "Prison Island",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Gondorl Cathedral"
+      }
+    ],
+    "characters": [
+      "Fiora * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Before_the_Final_Battle"
+  },
+  {
+    "id": "xc1-heart_to_heart-untold-feelings",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Untold Feelings",
+    "region": "Prison Island",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Gravina Bridge"
+      }
+    ],
+    "characters": [
+      "Melia * Sharla"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Untold_Feelings"
+  },
+  {
+    "id": "xc1-heart_to_heart-journeys-end",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Journey's End",
+    "region": "Prison Island",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Empty Throne"
+      }
+    ],
+    "characters": [
+      "Reyn * Riki"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Journey's_End"
+  },
+  {
+    "id": "xc1-heart_to_heart-all-grown-up",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "All Grown Up",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Companions' Forum"
+      }
+    ],
+    "characters": [
+      "Nene * Shulk"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/All_Grown_Up"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-love-for-flowers",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Love for Flowers",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Navvir Highland"
+      }
+    ],
+    "characters": [
+      "Melia * Nene"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Love_for_Flowers"
+  },
+  {
+    "id": "xc1-heart_to_heart-the-land-in-the-sky",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "The Land in the Sky",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Cinnabar Plateau"
+      },
+      {
+        "type": "affinity",
+        "label": "Afternoon, Clear weather"
+      }
+    ],
+    "characters": [
+      "Shulk * Kino"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Land_in_the_Sky"
+  },
+  {
+    "id": "xc1-heart_to_heart-a-life-without-visions",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "A Life Without Visions",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Whisperwind Crossing"
+      }
+    ],
+    "characters": [
+      "Shulk * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Life_Without_Visions"
+  },
+  {
+    "id": "xc1-heart_to_heart-family-relations",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Family Relations",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Skybridge"
+      },
+      {
+        "type": "affinity",
+        "label": "Teelan's Laboratory visited"
+      }
+    ],
+    "characters": [
+      "Melia * Nene"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Family_Relations"
+  },
+  {
+    "id": "xc1-heart_to_heart-power-of-imagination",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Power of Imagination",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Cragmaw Caverns"
+      },
+      {
+        "type": "affinity",
+        "label": "Teelan's Laboratory visited"
+      }
+    ],
+    "characters": [
+      "Nene * Kino"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Power_of_Imagination"
+  },
+  {
+    "id": "xc1-heart_to_heart-dadapons-gift",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Dadapon's Gift",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "West of Halcyon Wheats"
+      },
+      {
+        "type": "affinity",
+        "label": "Gran Dell visited"
+      }
+    ],
+    "characters": [
+      "Shulk * Kino"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dadapon's_Gift"
+  },
+  {
+    "id": "xc1-heart_to_heart-kino-in-the-doldrums",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Kino in the Doldrums",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Junks"
+      },
+      {
+        "type": "affinity",
+        "label": "Nighttime, clear weather, Gran Dell visited"
+      }
+    ],
+    "characters": [
+      "Melia * Kino"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kino_in_the_Doldrums"
+  },
+  {
+    "id": "xc1-heart_to_heart-strength-in-unity",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Strength in Unity",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Zekr Marga Quarry"
+      },
+      {
+        "type": "affinity",
+        "label": "Gael'gar defeated"
+      }
+    ],
+    "characters": [
+      "Shulk * Nene"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strength_in_Unity"
+  },
+  {
+    "id": "xc1-heart_to_heart-making-plans",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Making Plans",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Agni's Birthplace"
+      },
+      {
+        "type": "affinity",
+        "label": "Deinos Sauros defeated"
+      }
+    ],
+    "characters": [
+      "Melia * Kino"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Making_Plans"
+  },
+  {
+    "id": "xc1-heart_to_heart-light-and-shadow",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Light and Shadow",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Gran Dell tower"
+      },
+      {
+        "type": "affinity",
+        "label": "Afternoon, clear weather, Deinos Sauros defeated, Family Relations and Tyrea's Uncertainty viewed."
+      }
+    ],
+    "characters": [
+      "Melia * Tyrea"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Light_and_Shadow"
+  },
+  {
+    "id": "xc1-heart_to_heart-dreaming-big",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Dreaming Big",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "West of Gran Dell Approach"
+      },
+      {
+        "type": "affinity",
+        "label": "Afternoon, clear weather, Deinos Sauros defeated"
+      }
+    ],
+    "characters": [
+      "Nene * Kino"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dreaming_Big"
+  },
+  {
+    "id": "xc1-heart_to_heart-tyreas-uncertainty",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "Tyrea's Uncertainty",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "North shore of Tranquil Tarn"
+      },
+      {
+        "type": "affinity",
+        "label": "Gael'gar defeated, Family Relations viewed"
+      }
+    ],
+    "characters": [
+      "Melia * Tyrea"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tyrea's_Uncertainty"
+  },
+  {
+    "id": "xc1-heart_to_heart-the-future-is-ours",
+    "gameId": "xc1",
+    "category": "heart_to_heart",
+    "name": "The Future is Ours",
+    "region": "Alcamoth",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Ascension Hall"
+      },
+      {
+        "type": "affinity",
+        "label": "Fogbeasts break through Gran Dell's wall"
+      }
+    ],
+    "characters": [
+      "Shulk * Melia"
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Future_is_Ours"
+  }
+]

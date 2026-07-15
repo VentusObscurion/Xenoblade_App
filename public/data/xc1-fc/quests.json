@@ -1,0 +1,972 @@
+[
+  {
+    "id": "xc1-fc-quest-tutus-lost-property",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Tutu's Lost Property",
+    "region": "Bionis' Shoulder",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      }
+    ],
+    "rewards": [
+      "50",
+      "000 EXP",
+      "Bind IV"
+    ],
+    "description": "Giver: Tutu",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tutu's_Lost_Property"
+  },
+  {
+    "id": "xc1-fc-quest-favour-for-fofora",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Favour for Fofora",
+    "region": "Bionis' Shoulder",
+    "level": 68,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 68"
+      }
+    ],
+    "rewards": [
+      "40",
+      "000 EXP",
+      "Agility Down IV"
+    ],
+    "description": "Giver: Fofora",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Favour_for_Fofora"
+  },
+  {
+    "id": "xc1-fc-quest-riddle-faifa-this",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Riddle Faifa This",
+    "region": "Bionis' Shoulder",
+    "level": 67,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 67"
+      }
+    ],
+    "rewards": [
+      "40",
+      "000 EXP",
+      "Debuff Resist II"
+    ],
+    "description": "Giver: Faifa",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Riddle_Faifa_This"
+  },
+  {
+    "id": "xc1-fc-quest-hekasas-labour-at-stake",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Hekasa's Labour at Stake",
+    "region": "Bionis' Shoulder",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "rewards": [
+      "40",
+      "000 EXP",
+      "Recovery Up IV"
+    ],
+    "description": "Giver: Hekasa",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hekasa's_Labour_at_Stake"
+  },
+  {
+    "id": "xc1-fc-quest-ready-setset-go",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Ready, Setset, Go!",
+    "region": "Bionis' Shoulder",
+    "level": 68,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 68"
+      }
+    ],
+    "rewards": [
+      "40",
+      "000 EXP",
+      "Bleed Attack IV"
+    ],
+    "description": "Giver: Setset",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ready%2C_Setset%2C_Go!"
+  },
+  {
+    "id": "xc1-fc-quest-tei-tei-lacking-charm",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Tei-Tei Lacking Charm",
+    "region": "Bionis' Shoulder",
+    "level": 63,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 63"
+      }
+    ],
+    "rewards": [
+      "30",
+      "000 EXP",
+      "Phys Def Down IV"
+    ],
+    "description": "Giver: Tei-Tei",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tei-Tei_Lacking_Charm"
+  },
+  {
+    "id": "xc1-fc-quest-nononas-calling",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Nonona's Calling",
+    "region": "Bionis' Shoulder",
+    "level": 73,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 73"
+      }
+    ],
+    "rewards": [
+      "50",
+      "000 EXP",
+      "Poison Attack IV"
+    ],
+    "description": "Giver: Nonona",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nonona's_Calling"
+  },
+  {
+    "id": "xc1-fc-quest-incensed-dekadeka",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Incensed Dekadeka",
+    "region": "Bionis' Shoulder",
+    "level": 62,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 62"
+      }
+    ],
+    "rewards": [
+      "30",
+      "000 EXP",
+      "Lock-On Resist IV"
+    ],
+    "description": "Giver: Dekadeka",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Incensed_Dekadeka"
+  },
+  {
+    "id": "xc1-fc-quest-evelen-on-the-edge",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Evelen on the Edge",
+    "region": "Bionis' Shoulder",
+    "level": 62,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 62"
+      }
+    ],
+    "rewards": [
+      "30",
+      "000 EXP",
+      "Sleep Resist IV"
+    ],
+    "description": "Giver: Evelen",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Evelen_on_the_Edge"
+  },
+  {
+    "id": "xc1-fc-quest-ether-font",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Ether Font",
+    "region": "Bionis' Shoulder",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "rewards": [
+      "40",
+      "000 G",
+      "Anemone Brim D※",
+      "Princess Dress D※"
+    ],
+    "description": "Giver: Tulleana",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Font"
+  },
+  {
+    "id": "xc1-fc-quest-ether-exploitation",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Ether Exploitation",
+    "region": "Bionis' Shoulder",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "rewards": [
+      "Ether Pick※"
+    ],
+    "description": "Giver: Carranelle",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Exploitation"
+  },
+  {
+    "id": "xc1-fc-quest-hunting-help",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Hunting Help",
+    "region": "Bionis' Shoulder",
+    "level": 62,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 62"
+      }
+    ],
+    "rewards": [
+      "36",
+      "000 G",
+      "Rudra Hood※",
+      "Rudra Jacket※"
+    ],
+    "description": "Giver: Haemlin",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hunting_Help"
+  },
+  {
+    "id": "xc1-fc-quest-laennars-worries",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Laennar's Worries",
+    "region": "Bionis' Shoulder",
+    "level": 61,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 61"
+      }
+    ],
+    "description": "Giver: Laennar",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Laennar's_Worries"
+  },
+  {
+    "id": "xc1-fc-quest-plump-pickings-req-laennars-worries",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Plump Pickings, REQ: ''Laennar's Worries''",
+    "region": "Bionis' Shoulder",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "rewards": [
+      "20",
+      "000 G"
+    ],
+    "description": "Giver: Laennar",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Plump_Pickings%2C_REQ%3A_''Laennar's_Worries''"
+  },
+  {
+    "id": "xc1-fc-quest-praying-caterpile-control-req-laennars-worries",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Praying Caterpile Control, REQ: ''Laennar's Worries''",
+    "region": "Bionis' Shoulder",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "rewards": [
+      "28",
+      "000 G"
+    ],
+    "description": "Giver: Laennar",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Praying_Caterpile_Control%2C_REQ%3A_''Laennar's_Worries''"
+  },
+  {
+    "id": "xc1-fc-quest-supplant-the-noble-brogs-req-laennars-worries",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Supplant the Noble Brogs, REQ: ''Laennar's Worries''",
+    "region": "Bionis' Shoulder",
+    "level": 61,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 61"
+      }
+    ],
+    "rewards": [
+      "28",
+      "000 G"
+    ],
+    "description": "Giver: Laennar",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Supplant_the_Noble_Brogs%2C_REQ%3A_''Laennar's_Worries''"
+  },
+  {
+    "id": "xc1-fc-quest-lost-found",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Lost & Found",
+    "region": "Bionis' Shoulder",
+    "level": 72,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 72"
+      }
+    ],
+    "rewards": [
+      "50",
+      "000 G",
+      "Debuff Resist V"
+    ],
+    "description": "Giver: Pororo",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_%26_Found"
+  },
+  {
+    "id": "xc1-fc-quest-no-armu-done",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "No Armu Done",
+    "region": "Bionis' Shoulder",
+    "level": 67,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 67"
+      }
+    ],
+    "rewards": [
+      "38",
+      "000 G"
+    ],
+    "description": "Giver: Laffaelle",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/No_Armu_Done"
+  },
+  {
+    "id": "xc1-fc-quest-brothers-keepsake-req-somnivore-lexos-defeated",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Brother's Keepsake, REQ: Somnivore Lexos defeated",
+    "region": "Bionis' Shoulder",
+    "level": 68,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 68"
+      }
+    ],
+    "rewards": [
+      "28",
+      "000 G",
+      "Sapling Hair Tie※",
+      "Sapling Vest※"
+    ],
+    "description": "Giver: Lavean",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Brother's_Keepsake%2C_REQ%3A_Somnivore_Lexos_defeated"
+  },
+  {
+    "id": "xc1-fc-quest-the-search-for-high-ether",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "The Search for High Ether",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: Story Quest",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Search_for_High_Ether"
+  },
+  {
+    "id": "xc1-fc-quest-the-quest-for-high-ether-req-the-search-for-high-ether",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "The Quest for High Ether, REQ: The Search for High Ether",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: Story Quest",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Quest_for_High_Ether%2C_REQ%3A_The_Search_for_High_Ether"
+  },
+  {
+    "id": "xc1-fc-quest-priority-wunwun",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Priority Wunwun",
+    "region": "Bionis' Shoulder",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      }
+    ],
+    "rewards": [
+      "Strength Up IV"
+    ],
+    "description": "Giver: Wunwun",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Priority_Wunwun"
+  },
+  {
+    "id": "xc1-fc-quest-ponspectors-till-we-cry",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Ponspectors Till We Cry",
+    "region": "Bionis' Shoulder",
+    "level": 78,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 78"
+      }
+    ],
+    "rewards": [
+      "100",
+      "000 EXP",
+      "Nerthis Crown※"
+    ],
+    "description": "Giver: Wunwun",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ponspectors_Till_We_Cry"
+  },
+  {
+    "id": "xc1-fc-quest-inclined-to-climb",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Inclined to Climb",
+    "region": "Bionis' Shoulder",
+    "level": 67,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 67"
+      }
+    ],
+    "rewards": [
+      "32",
+      "000 G",
+      "Jubilant Amulet※",
+      "Jubilant Rucksack※",
+      "Jubilant Anklet※"
+    ],
+    "description": "Giver: Shoo-Shoo",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Inclined_to_Climb"
+  },
+  {
+    "id": "xc1-fc-quest-finding-happiness",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Finding Happiness",
+    "region": "Bionis' Shoulder",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "rewards": [
+      "Reinforced Ether Pick※"
+    ],
+    "description": "Giver: Lott",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Finding_Happiness"
+  },
+  {
+    "id": "xc1-fc-quest-shoulder-survey-snaps",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Shoulder Survey Snaps",
+    "region": "Bionis' Shoulder",
+    "level": 71,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 71"
+      }
+    ],
+    "rewards": [
+      "18",
+      "000 G",
+      "Replica Hood※",
+      "Replica Jacket※"
+    ],
+    "description": "Giver: Melekanze",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shoulder_Survey_Snaps"
+  },
+  {
+    "id": "xc1-fc-quest-secure-the-area",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Secure the Area",
+    "region": "Bionis' Shoulder",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "rewards": [
+      "40",
+      "000 G"
+    ],
+    "description": "Giver: Mithril",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_the_Area"
+  },
+  {
+    "id": "xc1-fc-quest-fixing-up-the-junks",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Fixing Up the Junks",
+    "region": "Bionis' Shoulder",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "rewards": [
+      "20",
+      "000 G",
+      "Rudra Wristband※",
+      "Rudra Bottoms※",
+      "Rudra Shoes※"
+    ],
+    "description": "Giver: Helmaline",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fixing_Up_the_Junks"
+  },
+  {
+    "id": "xc1-fc-quest-sweetest-debt",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Sweetest Debt",
+    "region": "Bionis' Shoulder",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "rewards": [
+      "45",
+      "000 G",
+      "Pointed Sleeves D※",
+      "Princess Bottoms D※",
+      "Knee-High Boots D※"
+    ],
+    "description": "Giver: Arara",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweetest_Debt"
+  },
+  {
+    "id": "xc1-fc-quest-new-way-of-life",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "New Way of Life",
+    "region": "Bionis' Shoulder",
+    "level": 67,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 67"
+      }
+    ],
+    "rewards": [
+      "30",
+      "000 G",
+      "Sapling Amulet※",
+      "Sapling Knapsack※",
+      "Sapling Anklet※"
+    ],
+    "description": "Giver: Ines",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/New_Way_of_Life"
+  },
+  {
+    "id": "xc1-fc-quest-hook-line-and-sinker",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Hook, Line and Sinker",
+    "region": "Bionis' Shoulder",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "rewards": [
+      "45",
+      "000 G"
+    ],
+    "description": "Giver: Vredda",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hook%2C_Line_and_Sinker"
+  },
+  {
+    "id": "xc1-fc-quest-wallflower",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Wallflower",
+    "region": "Bionis' Shoulder",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "rewards": [
+      "15",
+      "000 G",
+      "Redwood Hair Tie※",
+      "Redwood Vest※"
+    ],
+    "description": "Giver: Angela",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wallflower"
+  },
+  {
+    "id": "xc1-fc-quest-brace-for-friendship-req-wallflower",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Brace for Friendship, REQ: Wallflower",
+    "region": "Bionis' Shoulder",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      }
+    ],
+    "rewards": [
+      "30",
+      "000 G",
+      "Redwood Amulet※",
+      "Redwood Knapsack※",
+      "Redwood Anklet※"
+    ],
+    "description": "Giver: Angela",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Brace_for_Friendship%2C_REQ%3A_Wallflower"
+  },
+  {
+    "id": "xc1-fc-quest-rival-hearts",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Rival Hearts",
+    "region": "Bionis' Shoulder",
+    "level": 72,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 72"
+      }
+    ],
+    "rewards": [
+      "20",
+      "000 G",
+      "Jubilant Ribbon※",
+      "Jubilant Plate※"
+    ],
+    "description": "Giver: Ardred",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rival_Hearts"
+  },
+  {
+    "id": "xc1-fc-quest-steady-on-grandad",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Steady on, Grandad!",
+    "region": "Bionis' Shoulder",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "rewards": [
+      "36",
+      "000 G",
+      "Replica Wristband※",
+      "Replica Bottoms※",
+      "Replica Shoes※"
+    ],
+    "description": "Giver: Miles",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Steady_on%2C_Grandad!"
+  },
+  {
+    "id": "xc1-fc-quest-rubble-trouble",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Rubble Trouble",
+    "region": "Bionis' Shoulder",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "rewards": [
+      "48",
+      "000 G"
+    ],
+    "description": "Giver: Selsetana",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rubble_Trouble"
+  },
+  {
+    "id": "xc1-fc-quest-sorrow-req-wallflower-brace-for-friendship",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Sorrow, REQ: Wallflower, Brace for Friendship",
+    "region": "Bionis' Shoulder",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "rewards": [
+      "32",
+      "000 G",
+      "Pointed Sleeves L※",
+      "Princess Bottoms L※",
+      "Knee-High Boots L※"
+    ],
+    "description": "Giver: Nestinor",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sorrow%2C_REQ%3A_Wallflower%2C_Brace_for_Friendship"
+  },
+  {
+    "id": "xc1-fc-quest-the-quest-for-radzamalt",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "The Quest for Radzamalt³",
+    "region": "Bionis' Shoulder",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "rewards": [
+      "50",
+      "000 G"
+    ],
+    "description": "Giver: Radzam",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Quest_for_Radzamalt%C2%B3"
+  },
+  {
+    "id": "xc1-fc-quest-stubborn-minds-req-rival-hearts",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Stubborn Minds, REQ: Rival Hearts",
+    "region": "Bionis' Shoulder",
+    "level": 72,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 72"
+      }
+    ],
+    "rewards": [
+      "35",
+      "000 G"
+    ],
+    "description": "Giver: Winnie",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stubborn_Minds%2C_REQ%3A_Rival_Hearts"
+  },
+  {
+    "id": "xc1-fc-quest-a-surefire-hit",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "A Surefire Hit",
+    "region": "Bionis' Shoulder",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "rewards": [
+      "50",
+      "000 G"
+    ],
+    "description": "Giver: Thad",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Surefire_Hit"
+  },
+  {
+    "id": "xc1-fc-quest-the-fallen-req-wallflower-brace-for-friendship",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "The Fallen, REQ: Wallflower, Brace for Friendship",
+    "region": "Bionis' Shoulder",
+    "level": 76,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 76"
+      }
+    ],
+    "rewards": [
+      "100",
+      "000 G",
+      "100",
+      "000 EXP",
+      "Anemone Brim L※",
+      "Princess Dress L※"
+    ],
+    "description": "Giver: Selene",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Fallen%2C_REQ%3A_Wallflower%2C_Brace_for_Friendship"
+  },
+  {
+    "id": "xc1-fc-quest-the-future-within-our-grasp-req-all-other-quests-except-ponspectors-till-we-cry",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "The Future Within Our Grasp, REQ: All other quests except Ponspectors Till We Cry",
+    "region": "Bionis' Shoulder",
+    "level": 78,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 78"
+      }
+    ],
+    "rewards": [
+      "250",
+      "000 G",
+      "150",
+      "000 EXP",
+      "Debuff Resist V※"
+    ],
+    "description": "Giver: Maxis",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Future_Within_Our_Grasp%2C_REQ%3A_All_other_quests_except_Ponspectors_Till_We_Cry"
+  },
+  {
+    "id": "xc1-fc-quest-brothers-keepsake-req-somnivore-lexos-defeated-teelan-rescued-from-alcamoth",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Brother's Keepsake, REQ: Somnivore Lexos defeated, Teelan rescued from Alcamoth",
+    "region": "Bionis' Shoulder",
+    "level": 68,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 68"
+      }
+    ],
+    "description": "Giver: Lavean",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Brother's_Keepsake%2C_REQ%3A_Somnivore_Lexos_defeated%2C_Teelan_rescued_from_Alcamoth"
+  },
+  {
+    "id": "xc1-fc-quest-recommended-lv",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Recommended Lv.",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Recommended_Lv."
+  },
+  {
+    "id": "xc1-fc-quest-prerequisite-quest",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Prerequisite quest",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prerequisite_quest"
+  },
+  {
+    "id": "xc1-fc-quest-mutually-exclusive-quest",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Mutually Exclusive Quest",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mutually_Exclusive_Quest"
+  },
+  {
+    "id": "xc1-fc-quest-experience-points",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Experience Points",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Experience_Points"
+  },
+  {
+    "id": "xc1-fc-quest-quest-requires-collecting-materials-collectables-or-key-items-fighting-is-not-required-except-to-obtain-materials-which-the-party-does-not-already-have",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Quest requires collecting materials, collectables, or key items., Fighting is not required except to obtain materials which the party does not already have.",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quest_requires_collecting_materials%2C_collectables%2C_or_key_items.%2C_Fighting_is_not_required_except_to_obtain_materials_which_the_party_does_not_already_have."
+  },
+  {
+    "id": "xc1-fc-quest-quest-requires-defeating-an-enemy",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Quest requires defeating an enemy.",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quest_requires_defeating_an_enemy."
+  },
+  {
+    "id": "xc1-fc-quest-quest-requires-talking-to-npcs-or-examining-locations",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Quest requires talking to NPCs or examining locations.",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quest_requires_talking_to_NPCs_or_examining_locations."
+  },
+  {
+    "id": "xc1-fc-quest-quest-is-received-automatically-when-the-requirements-are-met",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Quest is received automatically when the requirements are met.",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quest_is_received_automatically_when_the_requirements_are_met."
+  },
+  {
+    "id": "xc1-fc-quest-reward-item-is-not-available-from-any-other-source",
+    "gameId": "xc1-fc",
+    "category": "quest",
+    "name": "Reward item is not available from any other source.",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "description": "Giver: undefined",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reward_item_is_not_available_from_any_other_source."
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-15T12:53:43.946Z",
+  "attribution": "Data from Xenoblade Wiki (CC BY-SA 3.0)",
+  "wikiBaseUrl": "https://xenoblade.fandom.com",
+  "games": {
+    "xc1": {
+      "name": "Xenoblade Chronicles",
+      "categories": {
+        "quest": 346,
+        "unique_monster": 156,
+        "achievement": 200,
+        "heart_to_heart": 77,
+        "collectopaedia": 319,
+        "landmark": 373,
+        "colony_reconstruction": 73
+      }
+    },
+    "xc1-fc": {
+      "name": "Future Connected",
+      "categories": {
+        "quest": 52,
+        "unique_monster": 20,
+        "quiet_moment": 1
+      }
+    },
+    "xc2": {
+      "name": "Xenoblade Chronicles 2",
+      "categories": {
+        "collectopaedia": 316
+      }
+    }
+  }
+}
