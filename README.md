@@ -2,7 +2,7 @@
 
 An offline-capable Progressive Web App for tracking completion in **Xenoblade Chronicles** games.
 
-**Live app:** `https://<username>.github.io/Xenoblade_App/`
+**Live app:** https://ventusobscurion.github.io/Xenoblade_App/
 
 ## Features
 
