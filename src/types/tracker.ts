@@ -144,9 +144,7 @@ export const GAME_CATEGORIES: Record<GameId, Category[]> = {
   xc1: [
     'quest',
     'unique_monster',
-    'achievement',
     'heart_to_heart',
-    'item',
     'collectopaedia',
     'colony_reconstruction',
   ],

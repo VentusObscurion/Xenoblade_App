@@ -1,8 +1,11 @@
 import { useMemo } from 'react'
 import { useGameState } from '../hooks/useGameState.ts'
+import { useNewlyAvailable } from '../hooks/useNewlyAvailable.ts'
 import { useProgress } from '../hooks/useProgress.ts'
 import { useTrackableItems } from '../hooks/useTrackableItems.ts'
+import { collectAvailableItemIds } from '../lib/available-ids.ts'
 import { collectopaediaSlotId } from '../lib/collectopaedia.ts'
+import { isColony6MaterialAvailable } from '../lib/colony6-availability.ts'
 import { isH2HAvailable } from '../lib/h2h-availability.ts'
 import { filterAvailableQuests } from '../lib/quest-ordering.ts'
 import { isItemAvailable } from '../lib/prerequisites.ts'
@@ -22,6 +25,7 @@ interface CategorySummary {
   completed: number
   available: number
   open: number
+  newlyAvailable: number
 }
 
 export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
@@ -30,6 +34,12 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
   const { allGameItems, loading, error } = useTrackableItems(gameId, primaryCategory)
   const { progress } = useProgress()
   const { gameState } = useGameState(gameId)
+
+  const availableIds = useMemo(
+    () => collectAvailableItemIds(allGameItems, progress, gameState),
+    [allGameItems, progress, gameState],
+  )
+  const { newIds } = useNewlyAvailable(availableIds)
 
   const summaries = useMemo((): CategorySummary[] => {
     const allQuests = allGameItems.filter((i) => i.category === 'quest')
@@ -51,7 +61,10 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
         }
       }
 
-      const visible = filterByDiscoveredRegions(items, gameState)
+      const visible =
+        category === 'colony_reconstruction' || category === 'collectopaedia'
+          ? items
+          : filterByDiscoveredRegions(items, gameState)
       const open = visible.filter((i) => !progress[i.id]?.completed).length
 
       let available = open
@@ -70,7 +83,15 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
             !progress[i.id]?.completed &&
             isItemAvailable(i, progress, allGameItems, gameState),
         ).length
+      } else if (category === 'colony_reconstruction') {
+        available = items.filter(
+          (i) =>
+            !progress[i.id]?.completed &&
+            isColony6MaterialAvailable(i.obtainedFrom, gameState),
+        ).length
       }
+
+      const newlyAvailable = items.filter((i) => newIds.has(i.id)).length
 
       return {
         category,
@@ -79,9 +100,10 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
         completed,
         available,
         open,
+        newlyAvailable,
       }
     })
-  }, [allGameItems, categories, gameId, gameState, progress])
+  }, [allGameItems, categories, gameId, gameState, progress, newIds])
 
   if (loading) {
     return <p className="loading">Loading dashboard...</p>
@@ -94,6 +116,7 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
   const totalCompleted = summaries.reduce((sum, s) => sum + s.completed, 0)
   const totalItems = summaries.reduce((sum, s) => sum + s.total, 0)
   const totalAvailable = summaries.reduce((sum, s) => sum + s.available, 0)
+  const totalNew = summaries.reduce((sum, s) => sum + s.newlyAvailable, 0)
 
   return (
     <div className="dashboard">
@@ -111,6 +134,12 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
           <span className="dashboard-stat-value">{totalAvailable}</span>
           <span className="dashboard-stat-label">Available now</span>
         </div>
+        {totalNew > 0 && (
+          <div className="dashboard-stat">
+            <span className="dashboard-stat-value dashboard-stat-new">+{totalNew}</span>
+            <span className="dashboard-stat-label">Newly unlocked</span>
+          </div>
+        )}
         <div className="dashboard-stat">
           <span className="dashboard-stat-value">
             {totalCompleted}/{totalItems}
@@ -127,7 +156,12 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
             className="dashboard-card"
             onClick={() => onNavigate(summary.category)}
           >
-            <h3>{summary.label}</h3>
+            <h3>
+              {summary.label}
+              {summary.newlyAvailable > 0 && (
+                <span className="tab-new-count">+{summary.newlyAvailable}</span>
+              )}
+            </h3>
             <p className="dashboard-card-progress">
               {summary.completed}/{summary.total} done
             </p>
@@ -136,7 +170,7 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
                 {summary.available} available now
               </p>
             )}
-            {summary.open > summary.available && summary.category !== 'landmark' && (
+            {summary.open > summary.available && (
               <p className="dashboard-card-open">{summary.open} open total</p>
             )}
           </button>
@@ -148,14 +182,17 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
           <h3>Quick tips</h3>
           <ul>
             <li>
-              Set your party and character affinities under Tracker → Heart-to-Hearts
-              to see which conversations are available.
+              Set story flags, Affinity Charts and party under{' '}
+              <strong>Playthrough</strong>. Quests, Heart-to-Hearts and Colony 6
+              materials then show only what you can do right now.
             </li>
             <li>
-              Use &quot;Available only&quot; in Quests and Heart-to-Hearts to hide
-              entries you cannot do yet.
+              Use <strong>Browse all</strong> if you want to see every entry
+              regardless of your current stand.
             </li>
-            <li>Completed entries are hidden by default — enable &quot;Show completed&quot; to see them.</li>
+            <li>
+              Newly unlocked entries stay marked until you open them.
+            </li>
           </ul>
         </section>
       )}

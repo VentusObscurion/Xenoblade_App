@@ -1,42 +1,26 @@
 import { useCallback, useEffect, useState } from 'react'
 import {
-  DEFAULT_GAME_STATE,
-  normalizeGameState,
+  getGameState,
+  saveGameStateForGame,
+} from '../lib/game-state-storage.ts'
+import {
   characterPairKey,
   type GameState,
 } from '../types/game-state.ts'
 import type { GameId } from '../types/tracker.ts'
 
-const STORAGE_KEY = 'xenoblade-game-state'
-
-function loadAll(): Partial<Record<GameId, GameState>> {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY)
-    return raw ? (JSON.parse(raw) as Partial<Record<GameId, GameState>>) : {}
-  } catch {
-    return {}
-  }
-}
-
-function saveForGame(gameId: GameId, state: GameState): void {
-  const all = loadAll()
-  all[gameId] = state
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(all))
-}
-
 export function useGameState(gameId: GameId) {
-  const [gameState, setGameState] = useState<GameState>(DEFAULT_GAME_STATE)
+  const [gameState, setGameState] = useState<GameState>(() => getGameState(gameId))
 
   useEffect(() => {
-    const all = loadAll()
-    setGameState(normalizeGameState(all[gameId]))
+    setGameState(getGameState(gameId))
   }, [gameId])
 
   const update = useCallback(
     (updater: (prev: GameState) => GameState) => {
       setGameState((prev) => {
         const next = updater(prev)
-        saveForGame(gameId, next)
+        saveGameStateForGame(gameId, next)
         return next
       })
     },
@@ -73,8 +57,23 @@ export function useGameState(gameId: GameId) {
         const members = new Set(prev.partyMembers)
         if (inParty) members.add(character)
         else members.delete(character)
-        return { ...prev, partyMembers: [...members].sort() }
+        const partyMembers = [...members].sort()
+        const partyLeader = partyMembers.includes(prev.partyLeader)
+          ? prev.partyLeader
+          : partyMembers[0] ?? 'Shulk'
+        return { ...prev, partyMembers, partyLeader }
       }),
+    [update],
+  )
+
+  const setPartyLeader = useCallback(
+    (character: string) =>
+      update((prev) => ({
+        ...prev,
+        partyLeader: prev.partyMembers.includes(character)
+          ? character
+          : prev.partyLeader,
+      })),
     [update],
   )
 
@@ -90,12 +89,43 @@ export function useGameState(gameId: GameId) {
     [update],
   )
 
+  const setStoryFlag = useCallback(
+    (flagId: string, value: boolean) =>
+      update((prev) => ({
+        ...prev,
+        storyFlags: { ...prev.storyFlags, [flagId]: value },
+      })),
+    [update],
+  )
+
+  const setColony6Reconstruction = useCallback(
+    (percent: number) =>
+      update((prev) => ({
+        ...prev,
+        colony6Reconstruction: Math.max(0, Math.min(100, percent)),
+        storyFlags: {
+          ...prev.storyFlags,
+          colony6_reconstruction_started:
+            percent > 0 ? true : prev.storyFlags.colony6_reconstruction_started,
+        },
+      })),
+    [update],
+  )
+
+  const reloadFromStorage = useCallback(() => {
+    setGameState(getGameState(gameId))
+  }, [gameId])
+
   return {
     gameState,
     setPlayerLevel,
     setAreaAffinity,
     setAreaDiscovered,
     setPartyMember,
+    setPartyLeader,
     setCharacterAffinity,
+    setStoryFlag,
+    setColony6Reconstruction,
+    reloadFromStorage,
   }
 }

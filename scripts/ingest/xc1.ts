@@ -22,6 +22,7 @@ import {
 } from './xc1-extra.ts'
 import { parseH2HPage } from './parse-h2h.ts'
 import {
+  getCategoryPagesRecursive,
   getCategoryPagesWithWikitext,
   getPageWikitext,
   wikiPageUrl,
@@ -415,47 +416,82 @@ async function fetchHeartToHearts(gameId: GameId): Promise<TrackableItem[]> {
   return enrichHeartToHearts(items)
 }
 
-async function fetchQuietMoments(gameId: GameId): Promise<TrackableItem[]> {
+export async function fetchQuietMoments(gameId: GameId): Promise<TrackableItem[]> {
   console.log('  Fetching quiet moments (Future Connected)')
   const items: TrackableItem[] = []
   const seen = new Set<string>()
 
+  const addPage = (
+    page: { title: string; pageid?: number; wikitext?: string },
+    regionFallback?: string,
+  ) => {
+    if (!page.wikitext) return
+    if (/^Heart-to-Heart/i.test(page.title)) return
+
+    const fields = parseGenericInfobox(page.wikitext)
+    const name = fields.name || page.title
+    if (/^Heart-to-Heart/i.test(name)) return
+
+    const id = makeId(gameId, 'quiet_moment', name)
+    if (seen.has(id)) return
+    seen.add(id)
+
+    const prerequisites = extractPrerequisites(fields, [
+      'requirements',
+      'conditions',
+      'affinity',
+    ])
+
+    items.push({
+      id,
+      gameId,
+      category: 'quiet_moment',
+      name,
+      region:
+        fields.location || fields.area || regionFallback || "Bionis' Shoulder",
+      characters: fields.characters
+        ? parseListField(fields.characters)
+        : undefined,
+      prerequisites,
+      wikiUrl: wikiPageUrl(page.title),
+      wikiPageId: page.pageid,
+    })
+  }
+
   try {
-    const pages = await getCategoryPagesWithWikitext('XCFC_Quiet_Moments')
+    const pages = await getCategoryPagesRecursive(
+      'XCFC_Quiet_Moments_by_Area',
+      2,
+    )
     for (const page of pages) {
-      if (!page.wikitext) continue
-      const fields = parseGenericInfobox(page.wikitext)
-      const name = fields.name || page.title
-      const id = makeId(gameId, 'quiet_moment', name)
-      if (seen.has(id)) continue
-      seen.add(id)
-
-      const prerequisites = extractPrerequisites(fields, [
-        'requirements',
-        'conditions',
-        'affinity',
-      ])
-
-      items.push({
-        id,
-        gameId,
-        category: 'quiet_moment',
-        name,
-        region: fields.location || fields.area || "Bionis' Shoulder",
-        prerequisites,
-        wikiUrl: wikiPageUrl(page.title),
-        wikiPageId: page.pageid,
-      })
+      addPage(page)
     }
   } catch (err) {
-    console.warn('  Warning: Could not fetch quiet moments category:', err)
+    console.warn('  Warning: Could not fetch quiet moments by area:', err)
   }
 
   if (items.length === 0) {
     try {
-      const listPages = await getPageWikitext(['Quiet Moments'])
-      const listPage = listPages[0]
-      if (listPage?.wikitext) {
+      const pages = await getCategoryPagesRecursive(
+        'XCFC_Quiet_Moments_by_Character',
+        2,
+      )
+      for (const page of pages) {
+        addPage(page)
+      }
+    } catch (err) {
+      console.warn('  Warning: Could not fetch quiet moments by character:', err)
+    }
+  }
+
+  if (items.length === 0) {
+    try {
+      const listPages = await getPageWikitext([
+        'Quiet Moments (XC1FC)',
+        'Quiet Moments',
+      ])
+      for (const listPage of listPages) {
+        if (!listPage?.wikitext) continue
         const { headers, rows } = parseWikitableWithHeaders(listPage.wikitext)
         const nameIdx = findHeaderIndex(headers, 'title', 'name')
         const locIdx = findHeaderIndex(headers, 'location', 'area')
@@ -464,7 +500,7 @@ async function fetchQuietMoments(gameId: GameId): Promise<TrackableItem[]> {
         for (const row of rows) {
           const cells = row.cells
           const name = cells[nameIdx >= 0 ? nameIdx : 0]
-          if (!name) continue
+          if (!name || /^Heart-to-Heart/i.test(name)) continue
           const id = makeId(gameId, 'quiet_moment', name)
           if (seen.has(id)) continue
           seen.add(id)
@@ -484,12 +520,14 @@ async function fetchQuietMoments(gameId: GameId): Promise<TrackableItem[]> {
             wikiUrl: wikiPageUrl(name),
           })
         }
+        if (items.length > 0) break
       }
     } catch (err) {
       console.warn('  Warning: Could not fetch quiet moments list:', err)
     }
   }
 
+  console.log(`  Quiet moments found: ${items.length}`)
   return items
 }
 

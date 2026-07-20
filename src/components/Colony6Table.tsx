@@ -1,8 +1,14 @@
 import type { ItemWithStatus } from '../types/tracker.ts'
+import {
+  getPrerequisiteStatusColor,
+  getPrerequisiteStatusLabel,
+} from '../lib/prerequisites.ts'
 
 interface Colony6TableProps {
   items: ItemWithStatus[]
   onToggle: (id: string) => void
+  onSelect?: (id: string) => void
+  newIds?: Set<string>
 }
 
 interface GroupedRow {
@@ -49,7 +55,12 @@ function groupRows(items: ItemWithStatus[]): GroupedRow[] {
   return grouped
 }
 
-export function Colony6Table({ items, onToggle }: Colony6TableProps) {
+export function Colony6Table({
+  items,
+  onToggle,
+  onSelect,
+  newIds,
+}: Colony6TableProps) {
   const bySection = new Map<string, ItemWithStatus[]>()
   for (const item of items) {
     const section = item.collectType ?? 'Other'
@@ -81,33 +92,53 @@ export function Colony6Table({ items, onToggle }: Colony6TableProps) {
                     <th>Gold</th>
                     <th>Items needed</th>
                     <th>Obtained from</th>
+                    <th>Status</th>
                     <th className="wiki-table-check-col">Done</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {rows.map(({ item, levelRowspan, goldRowspan, showLevel, showGold }) => (
-                    <tr
-                      key={item.id}
-                      className={item.completed ? 'row-completed' : ''}
-                    >
-                      {showLevel && (
-                        <td rowSpan={levelRowspan}>{item.colonyLevel ?? '—'}</td>
-                      )}
-                      {showGold && (
-                        <td rowSpan={goldRowspan}>{item.colonyGold ?? '—'}</td>
-                      )}
-                      <td>{item.name}</td>
-                      <td className="wiki-table-source">{item.obtainedFrom ?? '—'}</td>
-                      <td className="wiki-table-check-col">
-                        <input
-                          type="checkbox"
-                          checked={item.completed}
-                          onChange={() => onToggle(item.id)}
-                          aria-label={`Mark ${item.name} as complete`}
-                        />
-                      </td>
-                    </tr>
-                  ))}
+                  {rows.map(({ item, levelRowspan, goldRowspan, showLevel, showGold }) => {
+                    const isNew = newIds?.has(item.id) ?? false
+                    return (
+                      <tr
+                        key={item.id}
+                        className={`${item.completed ? 'row-completed' : ''} ${isNew ? 'is-new' : ''}`}
+                        onClick={() => onSelect?.(item.id)}
+                      >
+                        {showLevel && (
+                          <td rowSpan={levelRowspan}>{item.colonyLevel ?? '—'}</td>
+                        )}
+                        {showGold && (
+                          <td rowSpan={goldRowspan}>{item.colonyGold ?? '—'}</td>
+                        )}
+                        <td>
+                          {isNew && <span className="new-badge">New</span>}
+                          {item.name}
+                        </td>
+                        <td className="wiki-table-source">{item.obtainedFrom ?? '—'}</td>
+                        <td>
+                          <span
+                            className="status-dot"
+                            title={getPrerequisiteStatusLabel(item.prerequisiteStatus)}
+                            style={{
+                              backgroundColor: getPrerequisiteStatusColor(
+                                item.prerequisiteStatus,
+                              ),
+                            }}
+                          />
+                        </td>
+                        <td className="wiki-table-check-col">
+                          <input
+                            type="checkbox"
+                            checked={item.completed}
+                            onChange={() => onToggle(item.id)}
+                            onClick={(e) => e.stopPropagation()}
+                            aria-label={`Mark ${item.name} as complete`}
+                          />
+                        </td>
+                      </tr>
+                    )
+                  })}
                 </tbody>
               </table>
             </div>

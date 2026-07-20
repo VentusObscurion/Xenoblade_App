@@ -5,6 +5,8 @@ import {
   isItemAvailable,
   isQuestChainVisible,
 } from './prerequisites.ts'
+import { getCanonicalRegion } from './region-discovery.ts'
+import { XC1_REGIONS } from '../types/game-state.ts'
 
 export interface QuestGroup {
   depth: number
@@ -12,35 +14,40 @@ export interface QuestGroup {
   items: TrackableItem[]
 }
 
-export function getQuestDepth(
-  itemId: string,
-  allQuests: TrackableItem[],
-  cache = new Map<string, number>(),
-  visiting = new Set<string>(),
-): number {
-  if (cache.has(itemId)) return cache.get(itemId)!
+export function groupQuestsByRegion(quests: TrackableItem[]): QuestGroup[] {
+  const byRegion = new Map<string, TrackableItem[]>()
 
-  if (visiting.has(itemId)) return 0
-  visiting.add(itemId)
-
-  const item = allQuests.find((q) => q.id === itemId)
-  if (!item) {
-    cache.set(itemId, 0)
-    return 0
+  for (const quest of quests) {
+    const region = getCanonicalRegion(quest.region) ?? quest.region ?? 'Unknown'
+    const list = byRegion.get(region) ?? []
+    list.push(quest)
+    byRegion.set(region, list)
   }
 
-  const deps = getQuestDependencyIds(item, allQuests)
-  if (deps.length === 0) {
-    cache.set(itemId, 0)
-    return 0
-  }
+  const order = new Map(XC1_REGIONS.map((r, index) => [r.id, index]))
 
-  const depth =
-    1 + Math.max(...deps.map((id) => getQuestDepth(id, allQuests, cache, visiting)))
-  cache.set(itemId, depth)
-  return depth
+  return [...byRegion.entries()]
+    .sort(([a], [b]) => {
+      const indexA = order.get(a)
+      const indexB = order.get(b)
+      if (indexA !== undefined && indexB !== undefined) return indexA - indexB
+      if (indexA !== undefined) return -1
+      if (indexB !== undefined) return 1
+      return a.localeCompare(b)
+    })
+    .map(([label, items], index) => ({
+      depth: index,
+      label,
+      items: [...items].sort((a, b) => {
+        const levelA = a.level ?? 0
+        const levelB = b.level ?? 0
+        if (levelA !== levelB) return levelA - levelB
+        return a.name.localeCompare(b.name)
+      }),
+    }))
 }
 
+/** @deprecated Prefer groupQuestsByRegion */
 export function groupQuestsByDepth(
   quests: TrackableItem[],
   allQuests: TrackableItem[],
@@ -48,7 +55,8 @@ export function groupQuestsByDepth(
   const byDepth = new Map<number, TrackableItem[]>()
 
   for (const quest of quests) {
-    const depth = getQuestDepth(quest.id, allQuests)
+    const deps = getQuestDependencyIds(quest, allQuests)
+    const depth = deps.length === 0 ? 0 : 1
     const list = byDepth.get(depth) ?? []
     list.push(quest)
     byDepth.set(depth, list)
@@ -58,15 +66,9 @@ export function groupQuestsByDepth(
     .sort(([a], [b]) => a - b)
     .map(([depth, items]) => ({
       depth,
-      label: depthLabel(depth),
+      label: depth === 0 ? 'No prior quests' : 'Has prior quests',
       items: [...items].sort((a, b) => a.name.localeCompare(b.name)),
     }))
-}
-
-function depthLabel(depth: number): string {
-  if (depth === 0) return 'No prior quests'
-  if (depth === 1) return 'After 1 prior quest'
-  return `After ${depth} prior quests`
 }
 
 export function filterVisibleQuests(

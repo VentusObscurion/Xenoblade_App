@@ -2,7 +2,7 @@ import type { Category } from '../types/tracker.ts'
 import type { SortMode } from '../components/FilterBar.tsx'
 
 export function getDefaultSortMode(category: Category): SortMode {
-  if (category === 'quest') return 'prerequisites'
+  if (category === 'quest') return 'region'
   if (category === 'unique_monster') return 'level'
   return 'name'
 }

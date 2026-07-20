@@ -7,11 +7,12 @@ An offline-capable Progressive Web App for tracking completion in **Xenoblade Ch
 ## Features
 
 ### Xenoblade Chronicles (XC1)
-- Quests, Unique Monsters, Achievements, Heart-to-Hearts
-- Collectopaedia, Landmarks, Colony 6 Reconstruction
+- Quests, Unique Monsters, Heart-to-Hearts
+- Collectopaedia (with item detail lookup) and Colony 6 Reconstruction
 - Quest prerequisites, walkthroughs, and rewards from the wiki
-- Playthrough state: level, area affinity (half-stars), discovered regions
-- Filter by region, status, and sort by prerequisites
+- Playthrough state: level, story flags, Affinity Charts, party, discovered regions
+- Playthrough-aware availability for quests, H2H, and Colony 6 materials
+- Newly unlocked entries stay highlighted until you open them
 
 ### Xenoblade Chronicles 2 (XC2)
 - Collectopaedia
@@ -20,15 +21,18 @@ An offline-capable Progressive Web App for tracking completion in **Xenoblade Ch
 - Quests, Unique Monsters, Quiet Moments
 
 ### General
-- Local progress storage in the browser (IndexedDB)
-- Export / import progress as JSON
+- Local progress + playthrough state in the browser
+- Export / import backup as JSON (checklist + playthrough)
+- Deep links via URL hash (e.g. `#/xc1/tracker/quest`)
 - Offline support after first load (PWA)
+- Personal notes on checklist entries
 
 ## Development
 
 ```bash
 npm install
 npm run fetch-data   # Pull wiki data (optional locally, ~1 min)
+npm test             # Unit tests (prerequisites / Colony 6 / new-available)
 npm run dev
 ```
 

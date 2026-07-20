@@ -1,5 +1,5 @@
 export type StatusFilter = 'all' | 'open' | 'completed'
-export type SortMode = 'name' | 'level' | 'prerequisites'
+export type SortMode = 'name' | 'level' | 'region'
 
 interface FilterBarProps {
   search: string
@@ -11,15 +11,13 @@ interface FilterBarProps {
   regions: string[]
   sortMode: SortMode
   onSortModeChange: (value: SortMode) => void
-  hideUntilPrereqDone: boolean
-  onHideUntilPrereqDoneChange: (value: boolean) => void
-  showOnlyAvailable: boolean
-  onShowOnlyAvailableChange: (value: boolean) => void
   showCompleted?: boolean
   onShowCompletedChange?: (value: boolean) => void
+  showAll?: boolean
+  onShowAllChange?: (value: boolean) => void
   showQuestOptions?: boolean
   showHideCompleted?: boolean
-  showAvailabilityOptions?: boolean
+  showPlaythroughOptions?: boolean
 }
 
 export function FilterBar({
@@ -32,15 +30,13 @@ export function FilterBar({
   regions,
   sortMode,
   onSortModeChange,
-  hideUntilPrereqDone,
-  onHideUntilPrereqDoneChange,
-  showOnlyAvailable,
-  onShowOnlyAvailableChange,
   showCompleted = true,
   onShowCompletedChange,
+  showAll = false,
+  onShowAllChange,
   showQuestOptions = false,
   showHideCompleted = false,
-  showAvailabilityOptions = false,
+  showPlaythroughOptions = false,
 }: FilterBarProps) {
   return (
     <div className="filter-bar">
@@ -51,15 +47,17 @@ export function FilterBar({
         value={search}
         onChange={(e) => onSearchChange(e.target.value)}
       />
-      <select
-        className="filter-select"
-        value={statusFilter}
-        onChange={(e) => onStatusFilterChange(e.target.value as StatusFilter)}
-      >
-        <option value="all">All</option>
-        <option value="open">Open only</option>
-        <option value="completed">Completed only</option>
-      </select>
+      {!showHideCompleted && (
+        <select
+          className="filter-select"
+          value={statusFilter}
+          onChange={(e) => onStatusFilterChange(e.target.value as StatusFilter)}
+        >
+          <option value="all">All statuses</option>
+          <option value="open">Open only</option>
+          <option value="completed">Completed only</option>
+        </select>
+      )}
       {regions.length > 0 && (
         <select
           className="filter-select"
@@ -81,9 +79,7 @@ export function FilterBar({
       >
         <option value="name">By name</option>
         <option value="level">By level</option>
-        {showQuestOptions && (
-          <option value="prerequisites">By prerequisites</option>
-        )}
+        {showQuestOptions && <option value="region">By region</option>}
       </select>
       {showHideCompleted && (
         <label className="filter-checkbox">
@@ -95,26 +91,14 @@ export function FilterBar({
           Show completed
         </label>
       )}
-      {showQuestOptions && (
-        <>
-          <label className="filter-checkbox">
-            <input
-              type="checkbox"
-              checked={hideUntilPrereqDone}
-              onChange={(e) => onHideUntilPrereqDoneChange(e.target.checked)}
-            />
-            Unlock via prior quests
-          </label>
-        </>
-      )}
-      {showAvailabilityOptions && (
+      {showPlaythroughOptions && (
         <label className="filter-checkbox">
           <input
             type="checkbox"
-            checked={showOnlyAvailable}
-            onChange={(e) => onShowOnlyAvailableChange(e.target.checked)}
+            checked={showAll}
+            onChange={(e) => onShowAllChange?.(e.target.checked)}
           />
-          Available only
+          Browse all (ignore playthrough)
         </label>
       )}
     </div>

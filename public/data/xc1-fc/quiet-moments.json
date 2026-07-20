@@ -1,12 +1,142 @@
 [
   {
-    "id": "xc1-fc-quiet_moment-heart-to-heart-xc1",
+    "id": "xc1-fc-quiet_moment-the-future-is-ours",
     "gameId": "xc1-fc",
     "category": "quiet_moment",
-    "name": "Heart-to-Heart (XC1)",
+    "name": "The Future is Ours",
     "region": "Bionis' Shoulder",
     "prerequisites": [],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heart-to-Heart_(XC1)",
-    "wikiPageId": 69292
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Future_is_Ours",
+    "wikiPageId": 109066
+  },
+  {
+    "id": "xc1-fc-quiet_moment-a-life-without-visions",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "A Life Without Visions",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Life_Without_Visions",
+    "wikiPageId": 107700
+  },
+  {
+    "id": "xc1-fc-quiet_moment-a-love-for-flowers",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "A Love for Flowers",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Love_for_Flowers",
+    "wikiPageId": 107653
+  },
+  {
+    "id": "xc1-fc-quiet_moment-all-grown-up",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "All Grown Up",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/All_Grown_Up",
+    "wikiPageId": 106085
+  },
+  {
+    "id": "xc1-fc-quiet_moment-dadapons-gift",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Dadapon's Gift",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dadapon's_Gift",
+    "wikiPageId": 108976
+  },
+  {
+    "id": "xc1-fc-quiet_moment-dreaming-big",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Dreaming Big",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dreaming_Big",
+    "wikiPageId": 109245
+  },
+  {
+    "id": "xc1-fc-quiet_moment-family-relations",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Family Relations",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Family_Relations",
+    "wikiPageId": 107701
+  },
+  {
+    "id": "xc1-fc-quiet_moment-kino-in-the-doldrums",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Kino in the Doldrums",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kino_in_the_Doldrums",
+    "wikiPageId": 108968
+  },
+  {
+    "id": "xc1-fc-quiet_moment-light-and-shadow",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Light and Shadow",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Light_and_Shadow",
+    "wikiPageId": 109244
+  },
+  {
+    "id": "xc1-fc-quiet_moment-making-plans",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Making Plans",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Making_Plans",
+    "wikiPageId": 109212
+  },
+  {
+    "id": "xc1-fc-quiet_moment-power-of-imagination",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Power of Imagination",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Power_of_Imagination",
+    "wikiPageId": 107702
+  },
+  {
+    "id": "xc1-fc-quiet_moment-strength-in-unity",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Strength in Unity",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strength_in_Unity",
+    "wikiPageId": 108995
+  },
+  {
+    "id": "xc1-fc-quiet_moment-the-land-in-the-sky",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "The Land in the Sky",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Land_in_the_Sky",
+    "wikiPageId": 107699
+  },
+  {
+    "id": "xc1-fc-quiet_moment-tyreas-uncertainty",
+    "gameId": "xc1-fc",
+    "category": "quiet_moment",
+    "name": "Tyrea's Uncertainty",
+    "region": "Bionis' Shoulder",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tyrea's_Uncertainty",
+    "wikiPageId": 108996
   }
 ]

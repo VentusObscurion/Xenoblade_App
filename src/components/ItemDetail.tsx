@@ -1,16 +1,20 @@
 import type { ReactNode } from 'react'
 import {
+  AFFINITY_COLOR_HEX,
+  parseGiftingEntries,
+} from '../lib/format-display.ts'
+import { formatH2HAffinityShort } from '../lib/h2h-availability.ts'
+import {
   getPrerequisiteStatusColor,
   getPrerequisiteStatusLabel,
 } from '../lib/prerequisites.ts'
-import {
-  formatH2HAffinityRequirement,
-} from '../lib/h2h-availability.ts'
 import type { ItemWithStatus } from '../types/tracker.ts'
 
 interface ItemDetailProps {
   item: ItemWithStatus | null
   onClose: () => void
+  notes?: string
+  onNotesChange?: (itemId: string, notes: string) => void
 }
 
 function DetailSection({
@@ -28,8 +32,49 @@ function DetailSection({
   )
 }
 
-export function ItemDetail({ item, onClose }: ItemDetailProps) {
+function BulletList({ lines }: { lines: string[] }) {
+  if (lines.length === 0) return null
+  return (
+    <ul className="detail-bullets">
+      {lines.map((line, i) => (
+        <li key={i}>{line}</li>
+      ))}
+    </ul>
+  )
+}
+
+function GiftingTable({ gifting }: { gifting: string }) {
+  const entries = parseGiftingEntries(gifting)
+  if (entries.length === 0) return <p>{gifting}</p>
+  return (
+    <table className="gifting-table">
+      <tbody>
+        {entries.map((entry) => (
+          <tr key={entry.character}>
+            <td>{entry.character}</td>
+            <td className="gifting-value">{entry.value}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  )
+}
+
+export function ItemDetail({
+  item,
+  onClose,
+  notes = '',
+  onNotesChange,
+}: ItemDetailProps) {
   if (!item) return null
+
+  const walkthroughLines = item.walkthrough
+    ? item.walkthrough.split('\n').filter(Boolean)
+    : []
+  const resultsLines = item.results ? item.results.split('\n').filter(Boolean) : []
+  const uniqueCommentLines = item.uniqueComments
+    ? item.uniqueComments.split('\n').filter(Boolean)
+    : []
 
   return (
     <aside className="item-detail">
@@ -58,12 +103,6 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
           {getPrerequisiteStatusLabel(item.prerequisiteStatus)}
         </span>
       </div>
-
-      {item.category === 'achievement' && item.description && (
-        <DetailSection title="Requirement">
-          <p>{item.description}</p>
-        </DetailSection>
-      )}
 
       {item.category === 'quest' ? (
         <>
@@ -98,9 +137,9 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
             </DetailSection>
           )}
 
-          {item.walkthrough && (
+          {walkthroughLines.length > 0 && (
             <DetailSection title="Walkthrough">
-              <pre className="walkthrough-text">{item.walkthrough}</pre>
+              <BulletList lines={walkthroughLines} />
             </DetailSection>
           )}
 
@@ -120,15 +159,15 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
             </DetailSection>
           )}
 
-          {item.results && (
+          {resultsLines.length > 0 && (
             <DetailSection title="Results">
-              <pre className="walkthrough-text">{item.results}</pre>
+              <BulletList lines={resultsLines} />
             </DetailSection>
           )}
 
-          {item.uniqueComments && (
+          {uniqueCommentLines.length > 0 && (
             <DetailSection title="Unique Comments">
-              <pre className="walkthrough-text">{item.uniqueComments}</pre>
+              <BulletList lines={uniqueCommentLines} />
             </DetailSection>
           )}
 
@@ -168,7 +207,7 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
 
           {item.itemGifting && (
             <DetailSection title="Gifting">
-              <p>{item.itemGifting}</p>
+              <GiftingTable gifting={item.itemGifting} />
             </DetailSection>
           )}
 
@@ -202,7 +241,12 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
 
           {item.affinityLevel !== undefined && item.affinityLevel > 0 && (
             <DetailSection title="Affinity Required">
-              <p>{formatH2HAffinityRequirement(item.affinityLevel)}</p>
+              <p
+                className="h2h-affinity-label"
+                style={{ color: AFFINITY_COLOR_HEX[item.affinityLevel] }}
+              >
+                {formatH2HAffinityShort(item.affinityLevel)}
+              </p>
             </DetailSection>
           )}
 
@@ -257,7 +301,7 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
         </>
       ) : (
         <>
-          {item.description && item.category !== 'achievement' && (
+          {item.description && (
             <DetailSection title="Description">
               <p>{item.description}</p>
             </DetailSection>
@@ -319,9 +363,9 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
             </DetailSection>
           )}
 
-          {item.walkthrough && (
+          {walkthroughLines.length > 0 && (
             <DetailSection title="Walkthrough">
-              <pre className="walkthrough-text">{item.walkthrough}</pre>
+              <BulletList lines={walkthroughLines} />
             </DetailSection>
           )}
 
@@ -358,15 +402,15 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
             </DetailSection>
           )}
 
-          {item.uniqueComments && (
+          {uniqueCommentLines.length > 0 && (
             <DetailSection title="Unique Comments">
-              <pre className="walkthrough-text">{item.uniqueComments}</pre>
+              <BulletList lines={uniqueCommentLines} />
             </DetailSection>
           )}
 
-          {item.results && (
+          {resultsLines.length > 0 && (
             <DetailSection title="Results">
-              <pre className="walkthrough-text">{item.results}</pre>
+              <BulletList lines={resultsLines} />
             </DetailSection>
           )}
 
@@ -376,6 +420,18 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
             </DetailSection>
           )}
         </>
+      )}
+
+      {onNotesChange && (
+        <DetailSection title="Notes">
+          <textarea
+            className="item-notes"
+            value={notes}
+            placeholder="Personal notes…"
+            rows={3}
+            onChange={(e) => onNotesChange(item.id, e.target.value)}
+          />
+        </DetailSection>
       )}
 
       <a

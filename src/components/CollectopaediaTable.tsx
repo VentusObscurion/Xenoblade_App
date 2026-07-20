@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { collectopaediaSlotId, compareCollectopaediaTypes, sortCollectopaediaRegions } from '../lib/collectopaedia.ts'
+import { parseGiftingEntries } from '../lib/format-display.ts'
 import { findItemByName } from '../lib/item-lookup.ts'
 import { isRegionIdDiscovered } from '../lib/region-discovery.ts'
 import type { GameState } from '../types/game-state.ts'
@@ -142,22 +143,43 @@ export function CollectopaediaTable({
             </p>
           )}
           {selectedItem.itemHasTrade && (
-            <p>
-              <strong>Trade:</strong>{' '}
-              {selectedItem.itemTradeInfo?.length
-                ? selectedItem.itemTradeInfo.join('; ')
-                : 'Available via NPC trade'}
-            </p>
+            <div className="collectopaedia-detail-block">
+              <strong>Trade</strong>
+              {selectedItem.itemTradeInfo?.length ? (
+                <ul>
+                  {selectedItem.itemTradeInfo.map((entry, i) => (
+                    <li key={i}>{entry}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p>Available via NPC trade</p>
+              )}
+            </div>
           )}
           {selectedItem.itemGifting && (
-            <p>
-              <strong>Gifting:</strong> {selectedItem.itemGifting}
-            </p>
+            <div className="collectopaedia-detail-block">
+              <strong>Gifting</strong>
+              <table className="gifting-table">
+                <tbody>
+                  {parseGiftingEntries(selectedItem.itemGifting).map((entry) => (
+                    <tr key={entry.character}>
+                      <td>{entry.character}</td>
+                      <td className="gifting-value">{entry.value}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
           )}
           {selectedItem.itemQuestUses && selectedItem.itemQuestUses.length > 0 && (
-            <p>
-              <strong>Quests:</strong> {selectedItem.itemQuestUses.join('; ')}
-            </p>
+            <div className="collectopaedia-detail-block">
+              <strong>Quests</strong>
+              <ul>
+                {selectedItem.itemQuestUses.map((quest, i) => (
+                  <li key={i}>{quest}</li>
+                ))}
+              </ul>
+            </div>
           )}
           {selectedItem.description && (
             <p>

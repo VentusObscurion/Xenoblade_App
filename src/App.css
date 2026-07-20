@@ -161,6 +161,62 @@ button {
   border-color: var(--accent-strong);
 }
 
+.tab-new-count {
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  background: var(--accent);
+  color: var(--bg-primary);
+  vertical-align: middle;
+}
+
+.new-badge {
+  display: inline-block;
+  margin-right: 0.4rem;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: var(--accent);
+  color: var(--bg-primary);
+  vertical-align: middle;
+}
+
+.checklist-item.is-new,
+.wiki-table tr.is-new {
+  background: color-mix(in srgb, var(--accent) 12%, transparent);
+}
+
+.notes-indicator {
+  margin-left: 0.35rem;
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+}
+
+.item-notes {
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+  min-height: 4.5rem;
+  padding: 0.55rem 0.65rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  font: inherit;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.dashboard-stat-new {
+  color: var(--accent);
+}
+
 .progress-bar-container {
   margin-bottom: 1rem;
 }
@@ -315,6 +371,63 @@ button {
   padding: 0.75rem;
   border-radius: var(--radius);
   border: 1px solid var(--border);
+}
+
+.detail-bullets {
+  margin: 0;
+  padding-left: 1.15rem;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.detail-bullets li + li {
+  margin-top: 0.35rem;
+}
+
+.gifting-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+}
+
+.gifting-table td {
+  padding: 0.2rem 0.4rem 0.2rem 0;
+  color: var(--text-secondary);
+}
+
+.gifting-table td:first-child {
+  color: var(--text-primary);
+  padding-right: 0.75rem;
+}
+
+.gifting-value {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.h2h-affinity-label {
+  font-weight: 600;
+}
+
+.collectopaedia-detail-block {
+  margin: 0.75rem 0;
+}
+
+.collectopaedia-detail-block strong {
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-secondary);
+}
+
+.collectopaedia-detail-block ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  color: var(--text-secondary);
+  font-size: 0.88rem;
 }
 
 .checklist-label {
@@ -963,3 +1076,124 @@ button {
   margin: 0 0 0.75rem;
   color: var(--text-secondary);
 }
+
+.category-playthrough-hint {
+  margin: 0 0 1rem;
+  padding: 0.65rem 0.85rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+}
+
+.playthrough-page h2 {
+  margin: 0 0 0.5rem;
+  color: var(--accent);
+}
+
+.playthrough-intro,
+.playthrough-hint {
+  color: var(--text-secondary);
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+}
+
+.playthrough-section {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.playthrough-section h3 {
+  margin: 0 0 0.75rem;
+  color: var(--accent);
+  font-size: 1rem;
+}
+
+.story-flag-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  margin-bottom: 1rem;
+}
+
+.story-flag-row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.story-flag-desc {
+  display: block;
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.reconstruction-field {
+  margin-top: 0.75rem;
+  max-width: none;
+}
+
+.reconstruction-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.reconstruction-controls input[type='range'] {
+  flex: 1;
+}
+
+.reconstruction-presets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+}
+
+.reconstruction-presets button {
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  border-radius: 4px;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.8rem;
+}
+
+.reconstruction-presets button.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.affinity-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.6rem;
+}
+
+.affinity-chart-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0.65rem;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+}
+
+.affinity-chart-row select {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+}
+

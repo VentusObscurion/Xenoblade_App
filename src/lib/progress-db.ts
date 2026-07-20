@@ -1,4 +1,10 @@
 import { openDB, type DBSchema, type IDBPDatabase } from 'idb'
+import {
+  clearAllGameStates,
+  exportGameStates,
+  importGameStates,
+  type StoredGameStates,
+} from './game-state-storage.ts'
 import type { ProgressEntry } from '../types/tracker.ts'
 
 interface ProgressDB extends DBSchema {
@@ -56,9 +62,10 @@ export async function exportProgress(): Promise<string> {
   const all = await getAllProgress()
   return JSON.stringify(
     {
-      version: 1,
+      version: 2,
       exportedAt: new Date().toISOString(),
       progress: all,
+      gameState: exportGameStates(),
     },
     null,
     2,
@@ -68,6 +75,7 @@ export async function exportProgress(): Promise<string> {
 export async function importProgress(json: string): Promise<number> {
   const data = JSON.parse(json) as {
     progress?: Record<string, ProgressEntry>
+    gameState?: StoredGameStates
   }
   const entries = Object.values(data.progress ?? {})
   const db = await getDb()
@@ -76,10 +84,13 @@ export async function importProgress(json: string): Promise<number> {
     await tx.store.put(entry)
   }
   await tx.done
+  importGameStates(data.gameState)
   return entries.length
 }
 
 export async function clearProgress(): Promise<void> {
   const db = await getDb()
   await db.clear('progress')
+  clearAllGameStates()
+  localStorage.removeItem('xenoblade-new-available')
 }

@@ -62,6 +62,85 @@ export async function getCategoryMembers(category: string): Promise<WikiPage[]> 
   return members.filter((m) => !m.title.startsWith('Category:'))
 }
 
+/** Include subcategory pages (Category:*) as well as normal pages. */
+export async function getCategoryMembersIncludingSubcats(
+  category: string,
+): Promise<WikiPage[]> {
+  const members: WikiPage[] = []
+  let continueToken: string | undefined
+
+  do {
+    const params: Record<string, string> = {
+      action: 'query',
+      list: 'categorymembers',
+      cmtitle: `Category:${category}`,
+      cmlimit: '500',
+      maxlag: '5',
+    }
+    if (continueToken) {
+      params.cmcontinue = continueToken
+    }
+
+    const data = (await apiRequest(params)) as {
+      query?: { categorymembers?: WikiPage[] }
+      continue?: { cmcontinue?: string }
+    }
+
+    if (data.query?.categorymembers) {
+      members.push(...data.query.categorymembers)
+    }
+    continueToken = data.continue?.cmcontinue
+  } while (continueToken)
+
+  return members
+}
+
+/** Walk subcategories and collect leaf pages with wikitext. */
+export async function getCategoryPagesRecursive(
+  category: string,
+  maxDepth = 2,
+): Promise<WikiPage[]> {
+  const pageByTitle = new Map<string, WikiPage>()
+  const visitedCats = new Set<string>()
+
+  async function walk(cat: string, depth: number): Promise<void> {
+    if (depth < 0 || visitedCats.has(cat)) return
+    visitedCats.add(cat)
+
+    const members = await getCategoryMembersIncludingSubcats(cat)
+    const pages: WikiPage[] = []
+    const subcats: string[] = []
+
+    for (const member of members) {
+      if (member.title.startsWith('Category:')) {
+        subcats.push(member.title.replace(/^Category:/, ''))
+      } else {
+        pages.push(member)
+      }
+    }
+
+    if (pages.length > 0) {
+      const withText = await getPageWikitext(pages.map((p) => p.title))
+      const textByTitle = new Map(withText.map((p) => [p.title, p]))
+      for (const page of pages) {
+        const full = textByTitle.get(page.title)
+        pageByTitle.set(page.title, {
+          pageid: full?.pageid ?? page.pageid,
+          title: page.title,
+          wikitext: full?.wikitext,
+        })
+      }
+    }
+
+    for (const sub of subcats) {
+      await walk(sub, depth - 1)
+    }
+  }
+
+  await walk(category, maxDepth)
+  return [...pageByTitle.values()]
+}
+
 export async function getPageWikitext(titles: string[]): Promise<WikiPage[]> {
   if (titles.length === 0) return []
 

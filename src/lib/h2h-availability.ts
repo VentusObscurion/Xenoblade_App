@@ -69,3 +69,11 @@ export function formatH2HAffinityRequirement(level: number): string {
   const symbol = AFFINITY_LEVEL_LABELS[level]
   return symbol ? `${symbol} (Level ${level})` : `Level ${level}`
 }
+
+/** Short label for lists: "3 - Green" */
+export function formatH2HAffinityShort(level: number): string {
+  const full = AFFINITY_LEVEL_LABELS[level]
+  if (!full) return String(level)
+  const color = full.split(' ')[0]
+  return `${level} - ${color}`
+}

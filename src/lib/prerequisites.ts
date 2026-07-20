@@ -10,7 +10,19 @@ import {
   formatH2HAffinityRequirement,
   isH2HAffinityMet,
 } from './h2h-availability.ts'
-import { isRegionDiscovered } from './region-discovery.ts'
+import {
+  extractQuestNameFromLabel,
+  isAreaAffinityMet,
+  isColony6InviteRequirement,
+  isIgnorablePrerequisite,
+  isQuestProgressLabel,
+  isStoryFlagMet,
+  matchStoryFlag,
+  parsePartyLeadRequirement,
+  parsePartyMemberRequirement,
+  resolveAccessRegion,
+} from './quest-prereq-parse.ts'
+import { getCanonicalRegion, isRegionDiscovered } from './region-discovery.ts'
 import { cleanWikiMarkup } from './wiki-text.ts'
 
 function normalizeName(name: string): string {
@@ -23,20 +35,47 @@ function normalizeName(name: string): string {
     .trim()
 }
 
+/**
+ * Resolve a prerequisite label to a quest id.
+ * Only exact / near-exact matches — no loose substring matching.
+ */
 export function findQuestRefId(label: string, items: TrackableItem[]): string | undefined {
-  const normalized = normalizeName(label)
-  if (!normalized) return undefined
+  const extracted = extractQuestNameFromLabel(label)
+  const normalized = normalizeName(extracted)
+  if (!normalized || normalized.length < 3) return undefined
 
-  const quest = items.find((item) => {
-    if (item.category !== 'quest') return false
+  const questItems = items.filter((item) => item.category === 'quest')
+
+  const exact = questItems.find((item) => normalizeName(item.name) === normalized)
+  if (exact) return exact.id
+
+  // Allow wiki quotes / trailing punctuation differences
+  const soft = questItems.find((item) => {
     const questName = normalizeName(item.name)
     return (
-      questName === normalized ||
-      normalized.includes(questName) ||
-      questName.includes(normalized)
+      questName === normalized.replace(/\?+$/, '') ||
+      normalized.replace(/\?+$/, '') === questName
     )
   })
-  return quest?.id
+  return soft?.id
+}
+
+function isLikelyQuestPrerequisite(prereq: Prerequisite): boolean {
+  if (prereq.refId || prereq.type === 'quest') return true
+  if (isIgnorablePrerequisite(prereq.label)) return false
+  if (isColony6InviteRequirement(prereq.label)) return false
+  if (parsePartyMemberRequirement(prereq.label)) return false
+  if (parsePartyLeadRequirement(prereq.label)) return false
+  if (matchStoryFlag(prereq.label)) return false
+  if (resolveAccessRegion(prereq.label) && /reached|access to|arrived/i.test(prereq.label)) {
+    return false
+  }
+  if (prereq.type === 'other' && isQuestProgressLabel(prereq.label)) return true
+  if (prereq.type === 'other') {
+    // Bare quest name without accepted/completed — only if exact match exists
+    return false
+  }
+  return false
 }
 
 export function getQuestDependencyIds(
@@ -46,20 +85,27 @@ export function getQuestDependencyIds(
   const deps = new Set<string>()
 
   for (const prereq of item.prerequisites) {
+    if (isIgnorablePrerequisite(prereq.label)) continue
+
     if (prereq.refId) {
       deps.add(prereq.refId)
       continue
     }
 
-    if (prereq.type === 'quest') {
+    if (prereq.type === 'quest' || isQuestProgressLabel(prereq.label)) {
       const refId = findQuestRefId(prereq.label, allQuests)
       if (refId) deps.add(refId)
       continue
     }
 
-    if (prereq.type === 'other') {
-      const refId = findQuestRefId(prereq.label, allQuests)
-      if (refId) deps.add(refId)
+    // Bare other labels that exactly match a quest name
+    if (prereq.type === 'other' && !isColony6InviteRequirement(prereq.label)) {
+      const extracted = extractQuestNameFromLabel(prereq.label)
+      const normalized = normalizeName(extracted)
+      const exact = allQuests.find(
+        (q) => q.category === 'quest' && normalizeName(q.name) === normalized,
+      )
+      if (exact && normalized.length >= 4) deps.add(exact.id)
     }
   }
 
@@ -71,14 +117,35 @@ export function resolveQuestReferences(items: TrackableItem[]): TrackableItem[] 
 
   return items.map((item) => ({
     ...item,
-    prerequisites: item.prerequisites.map((prereq) => {
-      const refId =
-        prereq.refId ??
-        (prereq.type === 'quest' || prereq.type === 'other'
-          ? findQuestRefId(prereq.label, questItems)
-          : undefined)
-      return refId ? { ...prereq, refId, type: 'quest' as const } : prereq
-    }),
+    prerequisites: item.prerequisites
+      .filter((prereq) => !isIgnorablePrerequisite(prereq.label))
+      .map((prereq) => {
+        if (prereq.refId) return prereq
+
+        const shouldResolve =
+          prereq.type === 'quest' ||
+          isQuestProgressLabel(prereq.label) ||
+          (prereq.type === 'other' &&
+            !isColony6InviteRequirement(prereq.label) &&
+            !parsePartyMemberRequirement(prereq.label) &&
+            !parsePartyLeadRequirement(prereq.label))
+
+        if (!shouldResolve) return prereq
+
+        const refId = findQuestRefId(prereq.label, questItems)
+        if (!refId) return prereq
+
+        // Only promote to quest type when it's clearly a quest progress label
+        // or an exact bare quest name
+        const exactBare =
+          normalizeName(extractQuestNameFromLabel(prereq.label)) ===
+          normalizeName(questItems.find((q) => q.id === refId)?.name ?? '')
+
+        if (prereq.type === 'quest' || isQuestProgressLabel(prereq.label) || exactBare) {
+          return { ...prereq, refId, type: 'quest' as const }
+        }
+        return prereq
+      }),
   }))
 }
 
@@ -104,39 +171,68 @@ function parseRequiredLevel(item: TrackableItem): number | undefined {
   return undefined
 }
 
-function parseAffinityArea(label: string): string | undefined {
-  const cleaned = cleanWikiMarkup(label)
-  const match = cleaned.match(/^(.+?)\s+area\b/i)
-  if (!match) return undefined
-  return match[1].replace(/\s*\(XC1\)\s*$/i, '').trim()
-}
-
-function parseRequiredAffinityStars(label: string): number {
-  const cleaned = cleanWikiMarkup(label)
-  const halfMatch = cleaned.match(/[☆★]?\s*(\d)\s*½|(\d)\s*1\/2/i)
-  if (halfMatch) {
-    const whole = parseInt(halfMatch[1] ?? halfMatch[2], 10)
-    return whole + 0.5
-  }
-  const starMatch = cleaned.match(/[☆★]?\s*(\d+)/)
-  if (starMatch) return parseInt(starMatch[1], 10)
-  const textMatch = cleaned.match(/(\d)[\s-]*star/i)
-  return textMatch ? parseInt(textMatch[1], 10) : 1
-}
-
 function isLevelMet(item: TrackableItem, gameState: GameState): boolean {
   const required = parseRequiredLevel(item)
   if (!required) return true
   return gameState.playerLevel >= required
 }
 
-function isAffinityMet(prereq: Prerequisite, gameState: GameState): boolean {
-  if (prereq.type !== 'affinity') return true
-  const area = parseAffinityArea(prereq.label)
-  if (!area) return true
-  const required = parseRequiredAffinityStars(prereq.label)
-  const current = gameState.areaAffinity[area] ?? 0
-  return current >= required
+function evaluateOtherPrerequisite(
+  prereq: Prerequisite,
+  gameState: GameState,
+): { met: boolean; tracked: boolean; label?: string } {
+  if (isIgnorablePrerequisite(prereq.label)) {
+    return { met: true, tracked: true }
+  }
+
+  const partyMember = parsePartyMemberRequirement(prereq.label)
+  if (partyMember) {
+    return {
+      met: gameState.partyMembers.includes(partyMember),
+      tracked: true,
+      label: `${partyMember} in party`,
+    }
+  }
+
+  const partyLead = parsePartyLeadRequirement(prereq.label)
+  if (partyLead) {
+    return {
+      met: gameState.partyLeader === partyLead,
+      tracked: true,
+      label: `${partyLead} in the lead`,
+    }
+  }
+
+  const storyMet = isStoryFlagMet(prereq.label, gameState)
+  if (storyMet !== undefined) {
+    return { met: storyMet, tracked: true }
+  }
+
+  const accessRegion = resolveAccessRegion(prereq.label)
+  if (
+    accessRegion &&
+    (/reached|access to|arrived|area reached/i.test(prereq.label) ||
+      prereq.type === 'area')
+  ) {
+    return {
+      met: gameState.discoveredAreas[accessRegion] === true,
+      tracked: true,
+      label: `${accessRegion} discovered`,
+    }
+  }
+
+  if (isColony6InviteRequirement(prereq.label)) {
+    // Tracked only loosely via reconstruction started for now
+    return {
+      met:
+        gameState.storyFlags.colony6_reconstruction_started === true ||
+        gameState.colony6Reconstruction > 0,
+      tracked: true,
+      label: prereq.label,
+    }
+  }
+
+  return { met: true, tracked: false }
 }
 
 export function isQuestChainVisible(
@@ -160,11 +256,31 @@ export function isItemAvailable(
   if (!isLevelMet(item, gameState)) return false
 
   for (const prereq of item.prerequisites) {
+    if (isIgnorablePrerequisite(prereq.label)) continue
+
     if (prereq.type === 'quest' || prereq.refId) {
       if (!isQuestPrerequisiteMet(prereq, progress, allItems)) return false
+      continue
     }
-    if (prereq.type === 'affinity' && !isAffinityMet(prereq, gameState)) {
-      return false
+
+    if (prereq.type === 'affinity') {
+      if (!isAreaAffinityMet(prereq.label, gameState)) return false
+      continue
+    }
+
+    if (prereq.type === 'area') {
+      const region = resolveAccessRegion(prereq.label) ?? getCanonicalRegion(prereq.label)
+      if (region && gameState.discoveredAreas[region] !== true) return false
+      continue
+    }
+
+    if (prereq.type === 'other' || prereq.type === 'story_flag') {
+      if (isQuestProgressLabel(prereq.label)) {
+        if (!isQuestPrerequisiteMet(prereq, progress, allItems)) return false
+        continue
+      }
+      const result = evaluateOtherPrerequisite(prereq, gameState)
+      if (result.tracked && !result.met) return false
     }
   }
 
@@ -179,9 +295,19 @@ export function evaluatePrerequisites(
 ): { status: PrerequisiteStatus; unmet: Prerequisite[] } {
   const unmet: Prerequisite[] = []
 
-  const questDeps = item.prerequisites.filter(
-    (p) => p.type === 'quest' || p.refId || findQuestRefId(p.label, allItems),
-  )
+  const questDeps = item.prerequisites.filter((p) => {
+    if (isIgnorablePrerequisite(p.label)) return false
+    if (p.type === 'quest' || p.refId) return true
+    if (isQuestProgressLabel(p.label)) return true
+    if (p.type === 'other') {
+      const name = normalizeName(extractQuestNameFromLabel(p.label))
+      return allItems.some(
+        (q) => q.category === 'quest' && normalizeName(q.name) === name && name.length >= 4,
+      )
+    }
+    return false
+  })
+
   for (const prereq of questDeps) {
     if (!isQuestPrerequisiteMet(prereq, progress, allItems)) {
       unmet.push(prereq)
@@ -192,7 +318,7 @@ export function evaluatePrerequisites(
     if (!isRegionDiscovered(item, gameState)) {
       unmet.push({
         type: 'area',
-        label: `${item.region ?? 'Area'} not yet discovered`,
+        label: `${getCanonicalRegion(item.region) ?? item.region ?? 'Area'} not yet discovered`,
       })
     }
     if (!isLevelMet(item, gameState)) {
@@ -218,8 +344,31 @@ export function evaluatePrerequisites(
       }
     } else {
       for (const prereq of item.prerequisites) {
-        if (prereq.type === 'affinity' && !isAffinityMet(prereq, gameState)) {
+        if (isIgnorablePrerequisite(prereq.label)) continue
+
+        if (prereq.type === 'affinity' && !isAreaAffinityMet(prereq.label, gameState)) {
           unmet.push(prereq)
+          continue
+        }
+
+        if (prereq.type === 'area') {
+          const region =
+            resolveAccessRegion(prereq.label) ?? getCanonicalRegion(prereq.label)
+          if (region && gameState.discoveredAreas[region] !== true) {
+            unmet.push({ type: 'area', label: `${region} discovered` })
+          }
+          continue
+        }
+
+        if (prereq.type === 'other' || prereq.type === 'story_flag') {
+          if (isLikelyQuestPrerequisite(prereq)) continue
+          const result = evaluateOtherPrerequisite(prereq, gameState)
+          if (result.tracked && !result.met) {
+            unmet.push({
+              type: prereq.type,
+              label: result.label ?? prereq.label,
+            })
+          }
         }
       }
     }

@@ -1,22 +1,72 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
+import {
+  readAppRoute,
+  writeAppRoute,
+  type AppRoute,
+  type AppView,
+} from './lib/app-route.ts'
 import { GameSelect } from './components/GameSelect.tsx'
 import { CategoryView } from './pages/CategoryView.tsx'
 import { DashboardPage } from './pages/DashboardPage.tsx'
+import { PlaythroughPage } from './pages/PlaythroughPage.tsx'
 import { SettingsPage } from './pages/SettingsPage.tsx'
+import { useGameState } from './hooks/useGameState.ts'
 import type { Category, GameId } from './types/tracker.ts'
 import './App.css'
 
-type View = 'dashboard' | 'tracker' | 'settings'
-
 function App() {
-  const [gameId, setGameId] = useState<GameId>('xc1')
-  const [view, setView] = useState<View>('dashboard')
-  const [trackerCategory, setTrackerCategory] = useState<Category | undefined>()
+  const [route, setRoute] = useState<AppRoute>(() => readAppRoute())
+  const {
+    gameState,
+    setPlayerLevel,
+    setAreaAffinity,
+    setAreaDiscovered,
+    setPartyMember,
+    setPartyLeader,
+    setCharacterAffinity,
+    setStoryFlag,
+    setColony6Reconstruction,
+  } = useGameState(route.gameId)
+
+  useEffect(() => {
+    writeAppRoute(route)
+  }, [route])
+
+  useEffect(() => {
+    const onHashChange = () => setRoute(readAppRoute())
+    window.addEventListener('hashchange', onHashChange)
+    return () => window.removeEventListener('hashchange', onHashChange)
+  }, [])
+
+  const setView = (view: AppView) => {
+    setRoute((prev) => ({
+      ...prev,
+      view,
+      category: view === 'tracker' ? prev.category : undefined,
+    }))
+  }
+
+  const setGameId = (gameId: GameId) => {
+    setRoute((prev) => {
+      const nextView =
+        prev.view === 'playthrough' && gameId !== 'xc1' ? 'dashboard' : prev.view
+      return { gameId, view: nextView, category: undefined }
+    })
+  }
 
   const handleNavigateToCategory = (category: Category) => {
-    setTrackerCategory(category)
-    setView('tracker')
+    setRoute((prev) => ({
+      ...prev,
+      view: 'tracker',
+      category,
+    }))
   }
+
+  const handleTrackerCategoryChange = (category: Category) => {
+    setRoute((prev) => ({ ...prev, view: 'tracker', category }))
+  }
+
+  const { gameId, view, category: trackerCategory } = route
 
   return (
     <div className="app">
@@ -32,13 +82,24 @@ function App() {
             </button>
             <button
               className={view === 'tracker' ? 'active' : ''}
-              onClick={() => {
-                setTrackerCategory(undefined)
-                setView('tracker')
-              }}
+              onClick={() =>
+                setRoute((prev) => ({
+                  ...prev,
+                  view: 'tracker',
+                  category: undefined,
+                }))
+              }
             >
               Tracker
             </button>
+            {gameId === 'xc1' && (
+              <button
+                className={view === 'playthrough' ? 'active' : ''}
+                onClick={() => setView('playthrough')}
+              >
+                Playthrough
+              </button>
+            )}
             <button
               className={view === 'settings' ? 'active' : ''}
               onClick={() => setView('settings')}
@@ -55,11 +116,24 @@ function App() {
       <main className="app-main">
         {view === 'dashboard' ? (
           <DashboardPage gameId={gameId} onNavigate={handleNavigateToCategory} />
+        ) : view === 'playthrough' ? (
+          <PlaythroughPage
+            gameState={gameState}
+            onLevelChange={setPlayerLevel}
+            onAffinityChange={setAreaAffinity}
+            onDiscoveredChange={setAreaDiscovered}
+            onPartyMemberChange={setPartyMember}
+            onPartyLeaderChange={setPartyLeader}
+            onCharacterAffinityChange={setCharacterAffinity}
+            onStoryFlagChange={setStoryFlag}
+            onColony6Change={setColony6Reconstruction}
+          />
         ) : view === 'tracker' ? (
           <CategoryView
-            key={`${gameId}-${trackerCategory ?? 'default'}`}
+            key={gameId}
             gameId={gameId}
             initialCategory={trackerCategory}
+            onCategoryChange={handleTrackerCategoryChange}
           />
         ) : (
           <SettingsPage />

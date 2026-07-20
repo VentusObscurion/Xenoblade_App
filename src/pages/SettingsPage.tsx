@@ -16,21 +16,26 @@ export function SettingsPage() {
     a.download = `xenoblade-progress-${new Date().toISOString().slice(0, 10)}.json`
     a.click()
     URL.revokeObjectURL(url)
-    setMessage('Progress exported.')
+    setMessage('Progress and playthrough state exported.')
   }
 
   const handleImport = async (file: File) => {
     try {
       const text = await file.text()
       const count = await importData(text)
-      setMessage(`Imported ${count} entries.`)
+      setMessage(`Imported ${count} checklist entries (and playthrough state if present). Reloading…`)
+      window.setTimeout(() => window.location.reload(), 600)
     } catch {
       setMessage('Import failed. Invalid file.')
     }
   }
 
   const handleClear = async () => {
-    if (confirm('Delete all progress? This cannot be undone.')) {
+    if (
+      confirm(
+        'Delete all checklist progress and playthrough state? This cannot be undone.',
+      )
+    ) {
       await clearProgress()
       window.location.reload()
     }
@@ -41,8 +46,11 @@ export function SettingsPage() {
       <h2>Settings</h2>
 
       <section className="settings-section">
-        <h3>Progress</h3>
-        <p>Your progress is stored locally in this browser.</p>
+        <h3>Backup</h3>
+        <p>
+          Checklist progress and Playthrough settings are stored locally in this
+          browser. Export includes both.
+        </p>
         <div className="settings-actions">
           <button className="btn-primary" onClick={handleExport}>
             Export
