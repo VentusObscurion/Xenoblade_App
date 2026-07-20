@@ -25,7 +25,6 @@ function App() {
     setAreaAffinity,
     setAreaDiscovered,
     setPartyMember,
-    setPartyLeader,
     setCharacterAffinity,
     setStoryFlag,
     setColony6Reconstruction,
@@ -129,7 +128,6 @@ function App() {
             onAffinityChange={setAreaAffinity}
             onDiscoveredChange={setAreaDiscovered}
             onPartyMemberChange={setPartyMember}
-            onPartyLeaderChange={setPartyLeader}
             onCharacterAffinityChange={setCharacterAffinity}
             onStoryFlagChange={setStoryFlag}
             onColony6Change={setColony6Reconstruction}

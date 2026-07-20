@@ -1,4 +1,3 @@
-import type { GameState } from '../types/game-state.ts'
 import type { ProgressEntry, TrackableItem } from '../types/tracker.ts'
 
 export type Colony6Section = 'Housing' | 'Commerce' | 'Nature' | 'Special'
@@ -125,7 +124,6 @@ export function isImmigrantAvailable(
   levels: Record<Colony6Section, number>,
   percent: number,
   population: number,
-  gameState: GameState,
   immigrants: TrackableItem[],
   progress: Record<string, ProgressEntry>,
 ): boolean {
@@ -136,7 +134,7 @@ export function isImmigrantAvailable(
   if (req.special !== undefined && levels.Special < req.special) return false
   if (req.minPercent !== undefined && percent < req.minPercent) return false
   if (req.population !== undefined && population < req.population) return false
-  if (req.leader && gameState.partyLeader !== req.leader) return false
+  // Leader notes (e.g. "Shulk as leader") stay visible in Conditions — not gated here.
   for (const name of req.requiresResident ?? []) {
     if (!isResident(name, immigrants, progress)) return false
   }

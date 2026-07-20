@@ -32,6 +32,22 @@ interface GroupedRow {
   showGold: boolean
 }
 
+function formatImmigrantRegion(region?: string): string {
+  if (!region) return '—'
+  const display = region.includes('|') ? region.split('|').pop()!.trim() : region
+  return display.replace(/\s*\(XC1\)\s*$/i, '').trim() || '—'
+}
+
+/** Keep wiki notes like "Shulk as leader" readable in the Conditions column. */
+function formatImmigrantConditions(raw?: string): string {
+  if (!raw?.trim()) return '—'
+  return raw
+    .replace(/,{2,}/g, ',')
+    .replace(/\s*,\s*/g, ', ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 function groupRows(items: ItemWithStatus[]): GroupedRow[] {
   const sorted = [...items].sort((a, b) => {
     const levelA = a.colonyLevel ?? 0
@@ -106,7 +122,6 @@ export function Colony6Table({
       levels,
       percent,
       population,
-      gameState,
       immigrants,
       progress,
     )
@@ -231,7 +246,6 @@ export function Colony6Table({
                   levels,
                   percent,
                   population,
-                  gameState,
                   immigrants,
                   progress,
                 )
@@ -245,9 +259,11 @@ export function Colony6Table({
                       {isNew && <span className="new-badge">New</span>}
                       {imm.name}
                     </td>
-                    <td>{imm.region ?? '—'}</td>
+                    <td>{formatImmigrantRegion(imm.region)}</td>
                     <td className="wiki-table-source">
-                      {imm.description ?? imm.obtainedFrom ?? '—'}
+                      {formatImmigrantConditions(
+                        imm.description ?? imm.obtainedFrom,
+                      )}
                     </td>
                     <td className="wiki-table-check-col">
                       <input

@@ -16,7 +16,7 @@ import {
   compareCollectopaediaRegions,
   compareCollectopaediaTypes,
 } from '../lib/collectopaedia.ts'
-import { isColony6MaterialAvailable } from '../lib/colony6-availability.ts'
+import { isColony6NextLevelMaterial } from '../lib/colony6-availability.ts'
 import {
   estimateColony6Percent,
   getAllColony6Levels,
@@ -136,6 +136,10 @@ export function CategoryView({
     () => withDerivedColony6(gameState, colonyMaterials, progress),
     [gameState, colonyMaterials, progress],
   )
+  const colonyLevels = useMemo(
+    () => getAllColony6Levels(colonyMaterials, progress),
+    [colonyMaterials, progress],
+  )
 
   const availableIds = useMemo(
     () => collectAvailableItemIds(allGameItems, progress, effectiveGameState),
@@ -169,14 +173,15 @@ export function CategoryView({
       let unmetPrerequisites = unmet
 
       if (item.category === 'colony_reconstruction') {
-        const available = isColony6MaterialAvailable(
-          item.obtainedFrom,
+        const available = isColony6NextLevelMaterial(
+          item,
+          colonyLevels,
           effectiveGameState,
         )
         prerequisiteStatus = available ? 'fulfilled' : 'blocked'
         unmetPrerequisites = available
           ? []
-          : [{ type: 'area', label: 'Source area / story gate not met yet' }]
+          : [{ type: 'area', label: 'Not the next level yet, or source locked' }]
       }
 
       return {
@@ -186,7 +191,7 @@ export function CategoryView({
         unmetPrerequisites,
       }
     })
-  }, [items, progress, allGameItems, effectiveGameState])
+  }, [items, progress, allGameItems, effectiveGameState, colonyLevels])
 
   const { filteredItems, questGroups } = useMemo(() => {
     let result = itemsWithStatus
@@ -281,7 +286,7 @@ export function CategoryView({
       result = result.filter(
         (item) =>
           item.completed ||
-          isColony6MaterialAvailable(item.obtainedFrom, effectiveGameState),
+          isColony6NextLevelMaterial(item, colonyLevels, effectiveGameState),
       )
     }
 
@@ -327,6 +332,7 @@ export function CategoryView({
     allGameItems,
     progress,
     effectiveGameState,
+    colonyLevels,
   ])
 
   const progressStats = useMemo(() => {

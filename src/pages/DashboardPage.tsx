@@ -5,7 +5,8 @@ import { useProgress } from '../hooks/useProgress.ts'
 import { useTrackableItems } from '../hooks/useTrackableItems.ts'
 import { collectAvailableItemIds } from '../lib/available-ids.ts'
 import { collectopaediaSlotId } from '../lib/collectopaedia.ts'
-import { isColony6MaterialAvailable } from '../lib/colony6-availability.ts'
+import { isColony6NextLevelMaterial } from '../lib/colony6-availability.ts'
+import { getAllColony6Levels } from '../lib/colony6-levels.ts'
 import { isH2HAvailable } from '../lib/h2h-availability.ts'
 import { filterAvailableQuests } from '../lib/quest-ordering.ts'
 import { isItemAvailable } from '../lib/prerequisites.ts'
@@ -84,10 +85,14 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
             isItemAvailable(i, progress, allGameItems, gameState),
         ).length
       } else if (category === 'colony_reconstruction') {
+        const materials = allGameItems.filter(
+          (i) => i.category === 'colony_reconstruction',
+        )
+        const levels = getAllColony6Levels(materials, progress)
         available = items.filter(
           (i) =>
             !progress[i.id]?.completed &&
-            isColony6MaterialAvailable(i.obtainedFrom, gameState),
+            isColony6NextLevelMaterial(i, levels, gameState),
         ).length
       }
 

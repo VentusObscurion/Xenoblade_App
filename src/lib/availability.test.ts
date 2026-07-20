@@ -1,7 +1,8 @@
 import { describe, expect, it } from 'vitest'
 import {
-  parseColony6ObtainedFrom,
   isColony6MaterialAvailable,
+  isColony6NextLevelMaterial,
+  parseColony6ObtainedFrom,
 } from './colony6-availability.ts'
 import {
   isImmigrantAvailable,
@@ -55,7 +56,7 @@ describe('colony6-availability', () => {
     expect(req.hasPurchaseFallback).toBe(true)
   })
 
-  it('treats purchase fallback as available', () => {
+  it('ignores Noponstone purchase and requires field sources', () => {
     const state: GameState = {
       ...DEFAULT_GAME_STATE,
       discoveredAreas: { ...DEFAULT_GAME_STATE.discoveredAreas, 'Eryth Sea': false },
@@ -65,7 +66,7 @@ describe('colony6-availability', () => {
         'Eryth Hiln in Eryth Sea, Purchase: Time Attack for 600 Noponstones (DE)',
         state,
       ),
-    ).toBe(true)
+    ).toBe(false)
   })
 
   it('blocks when region missing and no purchase', () => {
@@ -85,6 +86,36 @@ describe('colony6-availability', () => {
     }
     expect(
       isColony6MaterialAvailable("Volff in Bionis' Leg", state),
+    ).toBe(true)
+  })
+
+  it('marks only next section-level materials as level-up targets', () => {
+    const housingLv1: TrackableItem = {
+      id: 'm1',
+      gameId: 'xc1',
+      category: 'colony_reconstruction',
+      name: 'Material A',
+      collectType: 'Housing',
+      colonyLevel: 1,
+      obtainedFrom: "Volff in Bionis' Leg",
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const housingLv2: TrackableItem = {
+      ...housingLv1,
+      id: 'm2',
+      name: 'Material B',
+      colonyLevel: 2,
+    }
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: { ...DEFAULT_GAME_STATE.discoveredAreas, "Bionis' Leg": true },
+    }
+    const levels = { Housing: 0, Commerce: 0, Nature: 0, Special: 0 }
+    expect(isColony6NextLevelMaterial(housingLv1, levels, state)).toBe(true)
+    expect(isColony6NextLevelMaterial(housingLv2, levels, state)).toBe(false)
+    expect(
+      isColony6NextLevelMaterial(housingLv2, { ...levels, Housing: 1 }, state),
     ).toBe(true)
   })
 })
@@ -113,7 +144,6 @@ describe('colony6-levels', () => {
         levels,
         0,
         15,
-        DEFAULT_GAME_STATE,
         [rosemary],
         {},
       ),
@@ -124,7 +154,6 @@ describe('colony6-levels', () => {
         { ...levels, Housing: 4 },
         0,
         15,
-        DEFAULT_GAME_STATE,
         [rosemary],
         {},
       ),

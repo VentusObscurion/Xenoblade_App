@@ -30,7 +30,6 @@ interface PlaythroughPageProps {
   onAffinityChange: (area: string, stars: number) => void
   onDiscoveredChange: (area: string, discovered: boolean) => void
   onPartyMemberChange: (character: string, inParty: boolean) => void
-  onPartyLeaderChange: (character: string) => void
   onCharacterAffinityChange: (charA: string, charB: string, level: number) => void
   onStoryFlagChange: (flagId: string, value: boolean) => void
   onColony6Change: (percent: number) => void
@@ -43,7 +42,6 @@ export function PlaythroughPage({
   onAffinityChange,
   onDiscoveredChange,
   onPartyMemberChange,
-  onPartyLeaderChange,
   onCharacterAffinityChange,
   onStoryFlagChange,
   onColony6Change,
@@ -210,20 +208,6 @@ export function PlaythroughPage({
               </label>
             ))}
           </div>
-
-          <label className="game-state-field">
-            <span>Party leader</span>
-            <select
-              value={gameState.partyLeader}
-              onChange={(e) => onPartyLeaderChange(e.target.value)}
-            >
-              {gameState.partyMembers.map((character) => (
-                <option key={character} value={character}>
-                  {character}
-                </option>
-              ))}
-            </select>
-          </label>
 
           {characterPairs.length > 0 && (
             <div className="character-affinity-list">

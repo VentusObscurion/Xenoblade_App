@@ -1,4 +1,4 @@
-import { isColony6MaterialAvailable } from './colony6-availability.ts'
+import { isColony6NextLevelMaterial } from './colony6-availability.ts'
 import {
   estimateColony6Percent,
   estimateColony6Population,
@@ -63,7 +63,8 @@ export function collectAvailableItemIds(
     }
 
     if (item.category === 'colony_reconstruction') {
-      if (isColony6MaterialAvailable(item.obtainedFrom, gameState)) {
+      // NEW only for materials that unlock the next section level
+      if (isColony6NextLevelMaterial(item, levels, gameState)) {
         ids.push(item.id)
       }
       continue
@@ -76,7 +77,6 @@ export function collectAvailableItemIds(
           levels,
           percent,
           population,
-          gameState,
           immigrants,
           progress,
         )
