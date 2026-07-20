@@ -1,6 +1,8 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { Checklist } from '../components/Checklist.tsx'
 import { CategoryTabs } from '../components/CategoryTabs.tsx'
+import { CollectopaediaTable } from '../components/CollectopaediaTable.tsx'
+import { Colony6Table } from '../components/Colony6Table.tsx'
 import { FilterBar, type SortMode, type StatusFilter } from '../components/FilterBar.tsx'
 import { GameStatePanel } from '../components/GameStatePanel.tsx'
 import { ItemDetail } from '../components/ItemDetail.tsx'
@@ -8,6 +10,9 @@ import { ProgressBar } from '../components/ProgressBar.tsx'
 import { useGameState } from '../hooks/useGameState.ts'
 import { useProgress } from '../hooks/useProgress.ts'
 import { useTrackableItems } from '../hooks/useTrackableItems.ts'
+import { collectopaediaSlotId, compareCollectopaediaRegions, compareCollectopaediaTypes } from '../lib/collectopaedia.ts'
+import { buildItemLookup } from '../lib/item-lookup.ts'
+import { isH2HAvailable } from '../lib/h2h-availability.ts'
 import {
   filterAvailableQuests,
   filterVisibleQuests,
@@ -21,25 +26,65 @@ import { GAME_CATEGORIES } from '../types/tracker.ts'
 
 interface CategoryViewProps {
   gameId: GameId
+  initialCategory?: Category
 }
 
-export function CategoryView({ gameId }: CategoryViewProps) {
+const HIDE_COMPLETED_CATEGORIES: Category[] = [
+  'quest',
+  'heart_to_heart',
+  'unique_monster',
+]
+
+function usesTableView(category: Category, gameId: GameId): boolean {
+  return (
+    category === 'colony_reconstruction' ||
+    (category === 'collectopaedia' && gameId === 'xc1')
+  )
+}
+
+export function CategoryView({ gameId, initialCategory }: CategoryViewProps) {
   const availableCategories = GAME_CATEGORIES[gameId]
-  const [category, setCategory] = useState<Category>(availableCategories[0])
+  const [category, setCategory] = useState<Category>(
+    initialCategory ?? availableCategories[0],
+  )
   const [search, setSearch] = useState('')
   const [statusFilter, setStatusFilter] = useState<StatusFilter>('all')
   const [region, setRegion] = useState('')
   const [sortMode, setSortMode] = useState<SortMode>(() =>
-    getDefaultSortMode(availableCategories[0]),
+    getDefaultSortMode(initialCategory ?? availableCategories[0]),
   )
   const [hideUntilPrereqDone, setHideUntilPrereqDone] = useState(true)
-  const [showOnlyAvailable, setShowOnlyAvailable] = useState(false)
+  const [showOnlyAvailable, setShowOnlyAvailable] = useState(
+    (initialCategory ?? availableCategories[0]) === 'heart_to_heart',
+  )
+  const [showCompleted, setShowCompleted] = useState(false)
   const [selectedId, setSelectedId] = useState<string | null>(null)
 
   const { items, allGameItems, loading, error } = useTrackableItems(gameId, category)
   const { progress, toggle } = useProgress()
-  const { gameState, setPlayerLevel, setAreaAffinity, setAreaDiscovered } =
-    useGameState(gameId)
+  const {
+    gameState,
+    setPlayerLevel,
+    setAreaAffinity,
+    setAreaDiscovered,
+    setPartyMember,
+    setCharacterAffinity,
+  } = useGameState(gameId)
+
+  useEffect(() => {
+    if (initialCategory) {
+      setCategory(initialCategory)
+      setSelectedId(null)
+      setSortMode(getDefaultSortMode(initialCategory))
+      setShowOnlyAvailable(initialCategory === 'heart_to_heart')
+    }
+  }, [initialCategory])
+
+  useEffect(() => {
+    if (category === 'heart_to_heart') {
+      setShowOnlyAvailable(true)
+    }
+  }, [category])
 
   const allQuests = useMemo(
     () => allGameItems.filter((i) => i.category === 'quest'),
@@ -68,12 +113,20 @@ export function CategoryView({ gameId }: CategoryViewProps) {
 
     if (search) {
       const q = search.toLowerCase()
-      result = result.filter(
-        (item) =>
+      result = result.filter((item) => {
+        const slotText = item.collectopaediaSlots?.join(' ').toLowerCase() ?? ''
+        const charText = item.characters?.join(' ').toLowerCase() ?? ''
+        return (
           item.name.toLowerCase().includes(q) ||
           item.region?.toLowerCase().includes(q) ||
-          item.description?.toLowerCase().includes(q),
-      )
+          item.subLocation?.toLowerCase().includes(q) ||
+          item.description?.toLowerCase().includes(q) ||
+          item.collectType?.toLowerCase().includes(q) ||
+          item.obtainedFrom?.toLowerCase().includes(q) ||
+          charText.includes(q) ||
+          slotText.includes(q)
+        )
+      })
     }
 
     if (statusFilter === 'open') {
@@ -82,11 +135,21 @@ export function CategoryView({ gameId }: CategoryViewProps) {
       result = result.filter((item) => item.completed)
     }
 
+    if (HIDE_COMPLETED_CATEGORIES.includes(category) && !showCompleted) {
+      result = result.filter((item) => !item.completed)
+    }
+
     if (region) {
       result = result.filter((item) => item.region === region)
     }
 
-    result = filterByDiscoveredRegions(result, gameState)
+    if (
+      gameId === 'xc1' &&
+      category !== 'collectopaedia' &&
+      category !== 'colony_reconstruction'
+    ) {
+      result = filterByDiscoveredRegions(result, gameState)
+    }
 
     if (category === 'quest') {
       result = filterVisibleQuests(
@@ -106,13 +169,30 @@ export function CategoryView({ gameId }: CategoryViewProps) {
       }
     }
 
+    if (category === 'heart_to_heart' && showOnlyAvailable) {
+      result = result.filter((item) => isH2HAvailable(item, progress, gameState))
+    }
+
     let groups = undefined
     if (category === 'quest' && sortMode === 'prerequisites') {
       groups = groupQuestsByDepth(result, allQuests)
     } else if (sortMode === 'level') {
       result = [...result].sort((a, b) => (a.level ?? 0) - (b.level ?? 0))
-    } else {
+    } else if (!usesTableView(category, gameId)) {
       result = [...result].sort((a, b) => a.name.localeCompare(b.name))
+    } else if (category === 'colony_reconstruction') {
+      result = [...result].sort((a, b) => {
+        const levelA = a.colonyLevel ?? 0
+        const levelB = b.colonyLevel ?? 0
+        if (levelA !== levelB) return levelA - levelB
+        return a.name.localeCompare(b.name)
+      })
+    } else if (category === 'collectopaedia') {
+      result = [...result].sort((a, b) => {
+        const regionCmp = compareCollectopaediaRegions(a.region ?? '', b.region ?? '')
+        if (regionCmp !== 0) return regionCmp
+        return compareCollectopaediaTypes(a.collectType ?? '', b.collectType ?? '')
+      })
     }
 
     return { filteredItems: result, questGroups: groups }
@@ -123,16 +203,45 @@ export function CategoryView({ gameId }: CategoryViewProps) {
     region,
     sortMode,
     category,
+    gameId,
     hideUntilPrereqDone,
     showOnlyAvailable,
+    showCompleted,
     allQuests,
     progress,
     gameState,
   ])
 
-  const completedCount = itemsWithStatus.filter((i) => i.completed).length
+  const progressStats = useMemo(() => {
+    if (category === 'collectopaedia' && gameId === 'xc1') {
+      let total = 0
+      let completed = 0
+      for (const item of itemsWithStatus) {
+        item.collectopaediaSlots?.forEach((slot, index) => {
+          if (!slot) return
+          total++
+          if (progress[collectopaediaSlotId(item.id, index)]?.completed) completed++
+        })
+      }
+      return { completed, total }
+    }
+    return {
+      completed: itemsWithStatus.filter((i) => i.completed).length,
+      total: itemsWithStatus.length,
+    }
+  }, [category, gameId, itemsWithStatus, progress])
+
+  const itemLookup = useMemo(
+    () => buildItemLookup(allGameItems),
+    [allGameItems],
+  )
+
   const selectedItem =
     itemsWithStatus.find((i) => i.id === selectedId) ?? null
+  const tableView = usesTableView(category, gameId)
+  const showGameStatePanel =
+    gameId === 'xc1' &&
+    (category === 'heart_to_heart' || category === 'quest' || category === 'unique_monster')
 
   if (loading) {
     return <p className="loading">Loading data...</p>
@@ -150,22 +259,25 @@ export function CategoryView({ gameId }: CategoryViewProps) {
           setCategory(c)
           setSelectedId(null)
           setSortMode(getDefaultSortMode(c))
+          if (c === 'heart_to_heart') setShowOnlyAvailable(true)
         }}
         availableCategories={availableCategories}
       />
 
-      {gameId === 'xc1' && (
+      {showGameStatePanel && (
         <GameStatePanel
           gameState={gameState}
           onLevelChange={setPlayerLevel}
           onAffinityChange={setAreaAffinity}
           onDiscoveredChange={setAreaDiscovered}
+          onPartyMemberChange={setPartyMember}
+          onCharacterAffinityChange={setCharacterAffinity}
         />
       )}
 
       <ProgressBar
-        completed={completedCount}
-        total={itemsWithStatus.length}
+        completed={progressStats.completed}
+        total={progressStats.total}
         label="Progress"
       />
 
@@ -183,18 +295,38 @@ export function CategoryView({ gameId }: CategoryViewProps) {
         onHideUntilPrereqDoneChange={setHideUntilPrereqDone}
         showOnlyAvailable={showOnlyAvailable}
         onShowOnlyAvailableChange={setShowOnlyAvailable}
+        showCompleted={showCompleted}
+        onShowCompletedChange={setShowCompleted}
         showQuestOptions={category === 'quest'}
+        showHideCompleted={HIDE_COMPLETED_CATEGORIES.includes(category)}
+        showAvailabilityOptions={
+          category === 'quest' || category === 'heart_to_heart'
+        }
       />
 
-      <div className="content-split">
-        <Checklist
-          items={filteredItems}
-          groups={questGroups}
-          selectedId={selectedId}
-          onSelect={setSelectedId}
-          onToggle={toggle}
-        />
-        <ItemDetail item={selectedItem} onClose={() => setSelectedId(null)} />
+      <div className={`content-split ${tableView ? 'content-split-table' : ''}`}>
+        {category === 'collectopaedia' && gameId === 'xc1' ? (
+          <CollectopaediaTable
+            items={filteredItems}
+            progress={progress}
+            onToggleSlot={toggle}
+            gameState={gameState}
+            itemLookup={itemLookup}
+          />
+        ) : category === 'colony_reconstruction' ? (
+          <Colony6Table items={filteredItems} onToggle={toggle} />
+        ) : (
+          <Checklist
+            items={filteredItems}
+            groups={questGroups}
+            selectedId={selectedId}
+            onSelect={setSelectedId}
+            onToggle={toggle}
+          />
+        )}
+        {!tableView && (
+          <ItemDetail item={selectedItem} onClose={() => setSelectedId(null)} />
+        )}
       </div>
     </div>
   )

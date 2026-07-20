@@ -3,6 +3,9 @@ import {
   getPrerequisiteStatusColor,
   getPrerequisiteStatusLabel,
 } from '../lib/prerequisites.ts'
+import {
+  formatH2HAffinityRequirement,
+} from '../lib/h2h-availability.ts'
 import type { ItemWithStatus } from '../types/tracker.ts'
 
 interface ItemDetailProps {
@@ -132,6 +135,123 @@ export function ItemDetail({ item, onClose }: ItemDetailProps) {
           {item.trivia && (
             <DetailSection title="Trivia">
               <p>{item.trivia}</p>
+            </DetailSection>
+          )}
+        </>
+      ) : item.category === 'item' ? (
+        <>
+          {item.description && (
+            <DetailSection title="Description">
+              <p>{item.description}</p>
+            </DetailSection>
+          )}
+
+          {item.itemLocations && item.itemLocations.length > 0 && (
+            <DetailSection title="Location">
+              <p>{item.itemLocations.join(', ')}</p>
+            </DetailSection>
+          )}
+
+          {item.itemHasTrade && (
+            <DetailSection title="Trade">
+              {item.itemTradeInfo && item.itemTradeInfo.length > 0 ? (
+                <ul>
+                  {item.itemTradeInfo.map((entry, i) => (
+                    <li key={i}>{entry}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p>Available via NPC trade</p>
+              )}
+            </DetailSection>
+          )}
+
+          {item.itemGifting && (
+            <DetailSection title="Gifting">
+              <p>{item.itemGifting}</p>
+            </DetailSection>
+          )}
+
+          {item.itemQuestUses && item.itemQuestUses.length > 0 && (
+            <DetailSection title="Quests">
+              <ul>
+                {item.itemQuestUses.map((quest, i) => (
+                  <li key={i}>{quest}</li>
+                ))}
+              </ul>
+            </DetailSection>
+          )}
+        </>
+      ) : item.category === 'heart_to_heart' ? (
+        <>
+          {(item.region || item.subLocation) && (
+            <DetailSection title="Location">
+              <p>
+                {item.region}
+                {item.region && item.subLocation ? ' — ' : ''}
+                {item.subLocation}
+              </p>
+            </DetailSection>
+          )}
+
+          {item.characters && item.characters.length > 0 && (
+            <DetailSection title="Characters">
+              <p>{item.characters.join(' & ')}</p>
+            </DetailSection>
+          )}
+
+          {item.affinityLevel !== undefined && item.affinityLevel > 0 && (
+            <DetailSection title="Affinity Required">
+              <p>{formatH2HAffinityRequirement(item.affinityLevel)}</p>
+            </DetailSection>
+          )}
+
+          {item.timeOfDay && (
+            <DetailSection title="Time">
+              <p>{item.timeOfDay}</p>
+            </DetailSection>
+          )}
+
+          {item.h2hIntro && (
+            <DetailSection title="Introduction">
+              <pre className="walkthrough-text">{item.h2hIntro}</pre>
+            </DetailSection>
+          )}
+
+          {item.prerequisites.length > 0 && (
+            <DetailSection title="Requirements">
+              <ul className="prereq-list">
+                {item.prerequisites.map((prereq, i) => (
+                  <li key={i} className={`prereq-type-${prereq.type}`}>
+                    <span className="prereq-type">{prereq.type}</span>
+                    {prereq.label}
+                  </li>
+                ))}
+              </ul>
+            </DetailSection>
+          )}
+
+          {item.affinityEffects && (
+            <DetailSection title="Affinity Effects">
+              <p>{item.affinityEffects}</p>
+            </DetailSection>
+          )}
+
+          {item.h2hOutcomes && item.h2hOutcomes.length > 0 && (
+            <DetailSection title="Answers & Outcomes">
+              <div className="h2h-outcomes">
+                {item.h2hOutcomes.map((outcome, index) => (
+                  <div key={`${outcome.title}-${index}`} className="h2h-outcome">
+                    <h4>{outcome.title}</h4>
+                    {outcome.choices.length > 0 && (
+                      <p className="h2h-choices">
+                        <strong>Choices:</strong> {outcome.choices.join(' -> ')}
+                      </p>
+                    )}
+                    <pre className="walkthrough-text">{outcome.dialogue}</pre>
+                  </div>
+                ))}
+              </div>
             </DetailSection>
           )}
         </>

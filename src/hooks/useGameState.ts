@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 import {
   DEFAULT_GAME_STATE,
   normalizeGameState,
+  characterPairKey,
   type GameState,
 } from '../types/game-state.ts'
 import type { GameId } from '../types/tracker.ts'
@@ -66,5 +67,35 @@ export function useGameState(gameId: GameId) {
     [update],
   )
 
-  return { gameState, setPlayerLevel, setAreaAffinity, setAreaDiscovered }
+  const setPartyMember = useCallback(
+    (character: string, inParty: boolean) =>
+      update((prev) => {
+        const members = new Set(prev.partyMembers)
+        if (inParty) members.add(character)
+        else members.delete(character)
+        return { ...prev, partyMembers: [...members].sort() }
+      }),
+    [update],
+  )
+
+  const setCharacterAffinity = useCallback(
+    (charA: string, charB: string, level: number) =>
+      update((prev) => ({
+        ...prev,
+        characterAffinity: {
+          ...prev.characterAffinity,
+          [characterPairKey(charA, charB)]: Math.max(0, Math.min(5, level)),
+        },
+      })),
+    [update],
+  )
+
+  return {
+    gameState,
+    setPlayerLevel,
+    setAreaAffinity,
+    setAreaDiscovered,
+    setPartyMember,
+    setCharacterAffinity,
+  }
 }

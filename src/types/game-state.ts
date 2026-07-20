@@ -1,7 +1,35 @@
+export const XC1_CHARACTERS = [
+  'Shulk',
+  'Reyn',
+  'Sharla',
+  'Dunban',
+  'Melia',
+  'Riki',
+  'Fiora',
+] as const
+
+export type XC1Character = (typeof XC1_CHARACTERS)[number]
+
 export interface GameState {
   playerLevel: number
   areaAffinity: Record<string, number>
   discoveredAreas: Record<string, boolean>
+  partyMembers: string[]
+  characterAffinity: Record<string, number>
+}
+
+export function characterPairKey(a: string, b: string): string {
+  return [a, b].sort().join(' / ')
+}
+
+export function getCharacterPairs(members: string[]): Array<[string, string]> {
+  const pairs: Array<[string, string]> = []
+  for (let i = 0; i < members.length; i++) {
+    for (let j = i + 1; j < members.length; j++) {
+      pairs.push([members[i], members[j]])
+    }
+  }
+  return pairs
 }
 
 export interface DiscoverableRegion {
@@ -26,6 +54,8 @@ export const XC1_REGIONS: DiscoverableRegion[] = [
   { id: 'Galahad Fortress', hasAffinity: false },
   { id: 'Fallen Arm', hasAffinity: false },
   { id: 'Mechonis Field', hasAffinity: false },
+  { id: 'Prison Island', hasAffinity: false },
+  { id: "Bionis' Shoulder", hasAffinity: false },
   { id: 'Hidden Village', hasAffinity: true },
 ]
 
@@ -37,6 +67,8 @@ export const DEFAULT_GAME_STATE: GameState = {
   playerLevel: 1,
   areaAffinity: {},
   discoveredAreas: { ...DEFAULT_DISCOVERED_AREAS },
+  partyMembers: ['Shulk', 'Reyn'],
+  characterAffinity: {},
 }
 
 export function normalizeGameState(stored: Partial<GameState> | undefined): GameState {
@@ -47,6 +79,11 @@ export function normalizeGameState(stored: Partial<GameState> | undefined): Game
     discoveredAreas: {
       ...DEFAULT_DISCOVERED_AREAS,
       ...stored?.discoveredAreas,
+    },
+    partyMembers: stored?.partyMembers ?? DEFAULT_GAME_STATE.partyMembers,
+    characterAffinity: {
+      ...DEFAULT_GAME_STATE.characterAffinity,
+      ...stored?.characterAffinity,
     },
   }
 }

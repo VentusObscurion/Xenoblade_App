@@ -153,11 +153,10 @@
     "expReward": 29100,
     "apReward": 948,
     "drops": [
-      "Drops: === Chests ===\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Gogol Horn\n|mrate1 = 42.9\n|material2 = Creare Glyph (XC1)\n|mrate2 = 57.1\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Chests: =\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Gogol Horn\n|mrate1 = 42.9\n|material2 = Creare Glyph (XC1)\n|mrate2 = 57.1\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Wood: =\n{{Chest Wood\n|material1 = Gogol Horn\n|mrate1 = 42.9\n|material2 = Creare Glyph (XC1)\n|mrate2 = 57.1\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Silver: =\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Gold: =\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Meteor Staff\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Meteor Staff\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Sun Staff\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Sun Staff\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr"
+      "Chest rates: Wood 0%, Silver 0%, Gold 100%",
+      "Wood chest: Gogol Horn (42.9%), Creare Glyph (XC1) (57.1%)",
+      "Silver chest — Weapons: Fruit Bouncer (0 slots) — 35%; Snughug Blocker C (0 slots) — 35%; Will-o'-Wisp Staff (0 slots) — 30%",
+      "Gold chest — Weapons: Meteor Staff (2 slots) — 25%; Meteor Staff (3 slots) — 25%; Sun Staff (2 slots) — 25%; Sun Staff (3 slots) — 25%"
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Contemptuous_Greymane",
     "wikiPageId": 105863
@@ -380,9 +379,8 @@
     "spawnTime": "During Ponspectors Till We Cry",
     "respawn": "No",
     "drops": [
-      "Drops: 'Note:' This enemy drops no chests.\n===Chests===\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 0\n}}\n===Wood===\n{{Chest Wood\n|material1 = Demonic Everflame\n|mrate1 = 0\n}}\nCategory:XCFC Dragons\nCategory:Bionis' Shoulder Enemies\nCategory:XCFC Unique Monsters\nCategory:XCFC Level 76-80 Enemies\nCategory:XCFC Quest Exclusive Enemies\nCategory:XCFC Quest Enemies",
-      "Chests: =\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 0\n}}\n===Wood===\n{{Chest Wood\n|material1 = Demonic Everflame\n|mrate1 = 0\n}}\nCategory:XCFC Dragons\nCategory:Bionis' Shoulder Enemies\nCategory:XCFC Unique Monsters\nCategory:XCFC Level 76-80 Enemies\nCategory:XCFC Quest Exclusive Enemies\nCategory:XCFC Quest Enemies",
-      "Wood: =\n{{Chest Wood\n|material1 = Demonic Everflame\n|mrate1 = 0\n}}\nCategory:XCFC Dragons\nCategory:Bionis' Shoulder Enemies\nCategory:XCFC Unique Monsters\nCategory:XCFC Level 76-80 Enemies\nCategory:XCFC Quest Exclusive Enemies\nCategory:XCFC Quest Enemies"
+      "Chest rates: Wood 0%, Silver 0%, Gold 0%",
+      "Wood chest: Demonic Everflame (0%)"
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Prosecutor_Davrum",
     "wikiPageId": 105792
@@ -431,11 +429,10 @@
     "expReward": 16538,
     "apReward": 561,
     "drops": [
-      "Drops: === Chests ===\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Royal Kromar Pike\n|mrate1 = 42.2\n|material2 = Esse Glyph (XC1)\n|mrate2 = 57.8\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Chests: =\n{{Chest Rate\n|wood = 0\n|silver = 0\n|gold = 100\n}}\n=== Wood ===\n{{Chest Wood\n|material1 = Royal Kromar Pike\n|mrate1 = 42.2\n|material2 = Esse Glyph (XC1)\n|mrate2 = 57.8\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Wood: =\n{{Chest Wood\n|material1 = Royal Kromar Pike\n|mrate1 = 42.2\n|material2 = Esse Glyph (XC1)\n|mrate2 = 57.8\n}}\n=== Silver ===\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Silver: =\n{{Chest Silver\n|numberweapons = 3\n|weapon1 = Fruit Bouncer\n|wslots1 = 0\n| wrate1 = 35\n|weapon2 = Snughug Blocker C\n|wslots2 = 0\n| wrate2 = 35\n|weapon3 = Will-o'-Wisp Staff\n|wslots3 = 0\n| wrate3 = 30\n}}\n=== Gold ===\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr",
-      "Gold: =\n{{Chest Gold\n|numberweapons = 4\n|weapon1 = Jumbo Fruitshot\n|wslots1 = 2\n| wrate1 = 25\n|weapon2 = Jumbo Fruitshot\n|wslots2 = 3\n| wrate2 = 25\n|weapon3 = Tenderheart Blocker\n|wslots3 = 2\n| wrate3 = 25\n|weapon4 = Tenderheart Blocker\n|wslots4 = 3\n| wrate4 = 25\n}}\nclr"
+      "Chest rates: Wood 0%, Silver 0%, Gold 100%",
+      "Wood chest: Royal Kromar Pike (42.2%), Esse Glyph (XC1) (57.8%)",
+      "Silver chest — Weapons: Fruit Bouncer (0 slots) — 35%; Snughug Blocker C (0 slots) — 35%; Will-o'-Wisp Staff (0 slots) — 30%",
+      "Gold chest — Weapons: Jumbo Fruitshot (2 slots) — 25%; Jumbo Fruitshot (3 slots) — 25%; Tenderheart Blocker (2 slots) — 25%; Tenderheart Blocker (3 slots) — 25%"
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravager_Apelpis%C3%ADa",
     "wikiPageId": 105782

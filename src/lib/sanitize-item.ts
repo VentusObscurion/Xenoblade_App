@@ -22,6 +22,10 @@ export function sanitizeItem(item: TrackableItem): TrackableItem {
       : undefined,
     rewards: item.rewards?.map((r) => cleanWikiMarkup(r)),
     characters: item.characters?.map((c) => cleanWikiMarkup(c)),
+    itemLocations: item.itemLocations?.map((loc) => cleanWikiMarkup(loc)),
+    itemTradeInfo: item.itemTradeInfo?.map((entry) => cleanWikiMarkup(entry)),
+    itemGifting: item.itemGifting ? cleanWikiMarkup(item.itemGifting) : undefined,
+    itemQuestUses: item.itemQuestUses?.map((quest) => cleanWikiMarkup(quest)),
     prerequisites: item.prerequisites.map(cleanPrerequisite),
   }
 }

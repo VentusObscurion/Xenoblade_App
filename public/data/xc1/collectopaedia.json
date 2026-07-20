@@ -1,3510 +1,1618 @@
 [
   {
-    "id": "xc1-collectopaedia-colony-6-cute-orchid",
+    "id": "xc1-collectopaedia-colony-6-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Cute Orchid",
+    "name": "Colony 6 — Flower",
     "region": "Colony 6",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Cute Orchid",
+      "Sirius Anemone",
+      "Spirit Clematis",
+      null,
+      null
+    ],
+    "rewards": [
+      "Auto-Atk Stealth II"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
     "wikiPageId": 2223
   },
   {
-    "id": "xc1-collectopaedia-colony-6-sirius-anemone",
+    "id": "xc1-collectopaedia-colony-6-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Sirius Anemone",
+    "name": "Colony 6 — Animal",
     "region": "Colony 6",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Pyro Lizard",
+      "Amblygon Turtle",
+      "Dobercorgi",
+      null,
+      null
+    ],
+    "rewards": [
+      "Paralysis Resist II"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
     "wikiPageId": 2223
   },
   {
-    "id": "xc1-collectopaedia-colony-6-spirit-clematis",
+    "id": "xc1-collectopaedia-colony-6-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Spirit Clematis",
+    "name": "Colony 6 — Strange",
     "region": "Colony 6",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Verdant Eternity",
+      "White Night Rod",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Ether Def Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
     "wikiPageId": 2223
   },
   {
-    "id": "xc1-collectopaedia-colony-6-auto-atk-stealth-ii",
+    "id": "xc1-collectopaedia-makna-forest-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Auto-Atk Stealth II",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-colony-6-pyro-lizard",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Pyro Lizard",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-colony-6-amblygon-turtle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Amblygon Turtle",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-colony-6-dobercorgi",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Dobercorgi",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-colony-6-verdant-eternity",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Verdant Eternity",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-colony-6-white-night-rod",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "White Night Rod",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-colony-6-ether-def-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ether Def Up II",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "Part of Colony 6 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Collection",
-    "wikiPageId": 2223
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-schorl-mushroom",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Schorl Mushroom",
+    "name": "Makna Forest — Veg",
     "region": "Makna Forest",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Schorl Mushroom",
+      "Kelp Mushroom",
+      "Honey Rhubarb",
+      null,
+      null
+    ],
+    "rewards": [
+      "Sleep Resist III"
+    ],
     "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
     "wikiPageId": 2243
   },
   {
-    "id": "xc1-collectopaedia-makna-forest-kelp-mushroom",
+    "id": "xc1-collectopaedia-makna-forest-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Kelp Mushroom",
+    "name": "Makna Forest — Fruit",
     "region": "Makna Forest",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Dark Mango",
+      "Pure Cherry",
+      "Bitter Kiwi",
+      "Juicy Grape",
+      null
+    ],
+    "rewards": [
+      "Sky Gloves (1)"
+    ],
     "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
     "wikiPageId": 2243
   },
   {
-    "id": "xc1-collectopaedia-makna-forest-honey-rhubarb",
+    "id": "xc1-collectopaedia-makna-forest-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Honey Rhubarb",
+    "name": "Makna Forest — Flower",
     "region": "Makna Forest",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Enigma Lotus",
+      "Humming Nettle",
+      "Princess Daffodil",
+      "Black Iris",
+      null
+    ],
+    "rewards": [
+      "Blaze Defence III"
+    ],
     "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
     "wikiPageId": 2243
   },
   {
-    "id": "xc1-collectopaedia-makna-forest-dark-mango",
+    "id": "xc1-collectopaedia-makna-forest-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Dark Mango",
+    "name": "Makna Forest — Animal",
     "region": "Makna Forest",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Ash Fox",
+      "Soft Sea Cucumber",
+      "Fossil Monkey",
+      "Venomous Lizard",
+      null
+    ],
+    "rewards": [
+      "Sky Shoes (1)"
+    ],
     "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
     "wikiPageId": 2243
   },
   {
-    "id": "xc1-collectopaedia-makna-forest-pure-cherry",
+    "id": "xc1-collectopaedia-makna-forest-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Pure Cherry",
+    "name": "Makna Forest — Bug",
     "region": "Makna Forest",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "Scarlet Ladybird",
+      "Shield Bug",
+      "Hades Beetle",
+      "Benign Cricket",
+      null
+    ],
+    "rewards": [
+      "Slow III"
+    ],
     "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
     "wikiPageId": 2243
   },
   {
-    "id": "xc1-collectopaedia-makna-forest-bitter-kiwi",
+    "id": "xc1-collectopaedia-makna-forest-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Bitter Kiwi",
+    "name": "Makna Forest — Strange",
     "region": "Makna Forest",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Lemonade Sky",
+      "Forest of Gossip",
+      "Gravel Disk",
+      null,
+      null
+    ],
+    "rewards": [
+      "Debuff Plus II"
+    ],
     "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
     "wikiPageId": 2243
   },
   {
-    "id": "xc1-collectopaedia-makna-forest-juicy-grape",
+    "id": "xc1-collectopaedia-satorl-marsh-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Juicy Grape",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-sky-gloves-1",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sky Gloves (1)",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-enigma-lotus",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Enigma Lotus",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-humming-nettle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Humming Nettle",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-princess-daffodil",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Princess Daffodil",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-black-iris",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Black Iris",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-blaze-defence-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blaze Defence III",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-ash-fox",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ash Fox",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-soft-sea-cucumber",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Soft Sea Cucumber",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-fossil-monkey",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Fossil Monkey",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-venomous-lizard",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Venomous Lizard",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-sky-shoes-1",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sky Shoes (1)",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-scarlet-ladybird",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Scarlet Ladybird",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-shield-bug",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Shield Bug",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-hades-beetle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Hades Beetle",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-benign-cricket",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Benign Cricket",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-slow-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Slow III",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-lemonade-sky",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Lemonade Sky",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-forest-of-gossip",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Forest of Gossip",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-gravel-disk",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gravel Disk",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-makna-forest-debuff-plus-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Debuff Plus II",
-    "region": "Makna Forest",
-    "prerequisites": [],
-    "description": "Part of Makna Forest Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Makna_Forest_Collection",
-    "wikiPageId": 2243
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-blue-turnip",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blue Turnip",
+    "name": "Satorl Marsh — Veg",
     "region": "Satorl Marsh",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Blue Turnip",
+      "Cute Parsnip",
+      "Poisonous Gourd",
+      "Humming Cabbage",
+      null
+    ],
+    "rewards": [
+      "Nopol Gear"
+    ],
     "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
     "wikiPageId": 2229
   },
   {
-    "id": "xc1-collectopaedia-satorl-marsh-cute-parsnip",
+    "id": "xc1-collectopaedia-satorl-marsh-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Cute Parsnip",
+    "name": "Satorl Marsh — Flower",
     "region": "Satorl Marsh",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Sunflower Rogue",
+      "Merry Coronation",
+      "Ether Rose",
+      "Orb Daisy",
+      "Forget-You-Not"
+    ],
+    "rewards": [
+      "Jungle Shoes"
+    ],
     "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
     "wikiPageId": 2229
   },
   {
-    "id": "xc1-collectopaedia-satorl-marsh-poisonous-gourd",
+    "id": "xc1-collectopaedia-satorl-marsh-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Poisonous Gourd",
+    "name": "Satorl Marsh — Animal",
     "region": "Satorl Marsh",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Chimera Rabbit",
+      "Venom Platypus",
+      "Humming Cat",
+      null,
+      null
+    ],
+    "rewards": [
+      "Lock-On Resist II"
+    ],
     "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
     "wikiPageId": 2229
   },
   {
-    "id": "xc1-collectopaedia-satorl-marsh-humming-cabbage",
+    "id": "xc1-collectopaedia-satorl-marsh-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Humming Cabbage",
+    "name": "Satorl Marsh — Nature",
     "region": "Satorl Marsh",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "Mist Tree",
+      "Lemon Stone",
+      "Feather Leaf",
+      "Water Log",
+      "Wool Rock"
+    ],
+    "rewards": [
+      "Nopol Gauntlets"
+    ],
     "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
     "wikiPageId": 2229
   },
   {
-    "id": "xc1-collectopaedia-satorl-marsh-nopol-gear",
+    "id": "xc1-collectopaedia-satorl-marsh-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Nopol Gear",
+    "name": "Satorl Marsh — Parts",
     "region": "Satorl Marsh",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Blue Gear Shard",
+      "Rumble Part",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Strength Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
     "wikiPageId": 2229
   },
   {
-    "id": "xc1-collectopaedia-satorl-marsh-sunflower-rogue",
+    "id": "xc1-collectopaedia-satorl-marsh-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Sunflower Rogue",
+    "name": "Satorl Marsh — Strange",
     "region": "Satorl Marsh",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Pauper's Cup",
+      "Happy Carnival",
+      "Dawn Dice",
+      null,
+      null
+    ],
+    "rewards": [
+      "Haste II"
+    ],
     "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
     "wikiPageId": 2229
   },
   {
-    "id": "xc1-collectopaedia-satorl-marsh-merry-coronation",
+    "id": "xc1-collectopaedia-eryth-sea-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Merry Coronation",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-ether-rose",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ether Rose",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-orb-daisy",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Orb Daisy",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-forget-you-not",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Forget-You-Not",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-jungle-shoes",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Jungle Shoes",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-chimera-rabbit",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Chimera Rabbit",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-venom-platypus",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Venom Platypus",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-humming-cat",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Humming Cat",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-mist-tree",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mist Tree",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-lemon-stone",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Lemon Stone",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-feather-leaf",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Feather Leaf",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-water-log",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Water Log",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-wool-rock",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Wool Rock",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-nopol-gauntlets",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Nopol Gauntlets",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-blue-gear-shard",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blue Gear Shard",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-rumble-part",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rumble Part",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-strength-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Strength Up II",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-paupers-cup",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Pauper's Cup",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-happy-carnival",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Happy Carnival",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-dawn-dice",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Dawn Dice",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-satorl-marsh-haste-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Haste II",
-    "region": "Satorl Marsh",
-    "prerequisites": [],
-    "description": "Part of Satorl Marsh Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Satorl_Marsh_Collection",
-    "wikiPageId": 2229
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-pink-asparagus",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Pink Asparagus",
+    "name": "Eryth Sea — Veg",
     "region": "Eryth Sea",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Pink Asparagus",
+      "Tropical Radish",
+      "Dolphin Carrot",
+      "Gold Burdock",
+      null
+    ],
+    "rewards": [
+      "Critical Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
     "wikiPageId": 2454
   },
   {
-    "id": "xc1-collectopaedia-eryth-sea-tropical-radish",
+    "id": "xc1-collectopaedia-eryth-sea-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Tropical Radish",
+    "name": "Eryth Sea — Flower",
     "region": "Eryth Sea",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Sea Berry",
+      "Despair Clover",
+      "Doomsday Poppy",
+      "Night Lily",
+      "Razor Teasel"
+    ],
+    "rewards": [
+      "Mithril Armour"
+    ],
     "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
     "wikiPageId": 2454
   },
   {
-    "id": "xc1-collectopaedia-eryth-sea-dolphin-carrot",
+    "id": "xc1-collectopaedia-eryth-sea-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Dolphin Carrot",
+    "name": "Eryth Sea — Animal",
     "region": "Eryth Sea",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Sea Frog",
+      "Mane Cat",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Aerial Cloak II"
+    ],
     "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
     "wikiPageId": 2454
   },
   {
-    "id": "xc1-collectopaedia-eryth-sea-gold-burdock",
+    "id": "xc1-collectopaedia-eryth-sea-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Gold Burdock",
+    "name": "Eryth Sea — Nature",
     "region": "Eryth Sea",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "White Tail",
+      "Marine Marble",
+      "Oil Branch",
+      "Dilemma Rock",
+      null
+    ],
+    "rewards": [
+      "Mithril Leggings"
+    ],
     "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
     "wikiPageId": 2454
   },
   {
-    "id": "xc1-collectopaedia-eryth-sea-critical-up-ii",
+    "id": "xc1-collectopaedia-eryth-sea-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Critical Up II",
+    "name": "Eryth Sea — Strange",
     "region": "Eryth Sea",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "High Violet",
+      "Steel Hauyne",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Ether Up III"
+    ],
     "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
     "wikiPageId": 2454
   },
   {
-    "id": "xc1-collectopaedia-eryth-sea-sea-berry",
+    "id": "xc1-collectopaedia-valak-mountain-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Sea Berry",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-despair-clover",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Despair Clover",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-doomsday-poppy",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Doomsday Poppy",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-night-lily",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Night Lily",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-razor-teasel",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Razor Teasel",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-mithril-armour",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mithril Armour",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-sea-frog",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sea Frog",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-mane-cat",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mane Cat",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-aerial-cloak-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Aerial Cloak II",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-white-tail",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "White Tail",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-marine-marble",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Marine Marble",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-oil-branch",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Oil Branch",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-dilemma-rock",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Dilemma Rock",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-mithril-leggings",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mithril Leggings",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-high-violet",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "High Violet",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-steel-hauyne",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Steel Hauyne",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-eryth-sea-ether-up-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ether Up III",
-    "region": "Eryth Sea",
-    "prerequisites": [],
-    "description": "Part of Eryth Sea Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Sea_Collection",
-    "wikiPageId": 2454
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-sour-radish",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sour Radish",
+    "name": "Valak Mountain — Veg",
     "region": "Valak Mountain",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Sour Radish",
+      "Ice Cabbage",
+      "Girl Courgette",
+      "Amethyst Vanilla",
+      null
+    ],
+    "rewards": [
+      "Heavy Boots"
+    ],
     "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
     "wikiPageId": 2541
   },
   {
-    "id": "xc1-collectopaedia-valak-mountain-ice-cabbage",
+    "id": "xc1-collectopaedia-valak-mountain-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Ice Cabbage",
+    "name": "Valak Mountain — Fruit",
     "region": "Valak Mountain",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Ether Plum",
+      "Fire Apple",
+      "Ruby Mangosteen",
+      "Sour Grape",
+      null
+    ],
+    "rewards": [
+      "Chill Defence III"
+    ],
     "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
     "wikiPageId": 2541
   },
   {
-    "id": "xc1-collectopaedia-valak-mountain-girl-courgette",
+    "id": "xc1-collectopaedia-valak-mountain-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Girl Courgette",
+    "name": "Valak Mountain — Flower",
     "region": "Valak Mountain",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Fortune Mallow",
+      "Black Peony",
+      "Fatal Belladonna",
+      null,
+      null
+    ],
+    "rewards": [
+      "Confuse Resist III"
+    ],
     "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
     "wikiPageId": 2541
   },
   {
-    "id": "xc1-collectopaedia-valak-mountain-amethyst-vanilla",
+    "id": "xc1-collectopaedia-valak-mountain-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Amethyst Vanilla",
+    "name": "Valak Mountain — Animal",
     "region": "Valak Mountain",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Wet Rat",
+      "Ice Monkey",
+      "Crystal Frog",
+      "Mud Squirrel",
+      null
+    ],
+    "rewards": [
+      "Aura Heal II"
+    ],
     "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
     "wikiPageId": 2541
   },
   {
-    "id": "xc1-collectopaedia-valak-mountain-heavy-boots",
+    "id": "xc1-collectopaedia-valak-mountain-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Heavy Boots",
+    "name": "Valak Mountain — Nature",
     "region": "Valak Mountain",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "Gypsum Branch",
+      "Black Ash",
+      "Emerald Snow",
+      "Rabbit Stone",
+      "Broom Icicle"
+    ],
+    "rewards": [
+      "Heavy Gear"
+    ],
     "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
     "wikiPageId": 2541
   },
   {
-    "id": "xc1-collectopaedia-valak-mountain-ether-plum",
+    "id": "xc1-collectopaedia-valak-mountain-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Ether Plum",
+    "name": "Valak Mountain — Strange",
     "region": "Valak Mountain",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Frost Glass",
+      "Large Handcuffs",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Chill Plus III"
+    ],
     "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
     "wikiPageId": 2541
   },
   {
-    "id": "xc1-collectopaedia-valak-mountain-fire-apple",
+    "id": "xc1-collectopaedia-alcamoth-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Fire Apple",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-ruby-mangosteen",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ruby Mangosteen",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-sour-grape",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sour Grape",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-chill-defence-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Chill Defence III",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-fortune-mallow",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Fortune Mallow",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-black-peony",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Black Peony",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-fatal-belladonna",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Fatal Belladonna",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-wet-rat",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Wet Rat",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-ice-monkey",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ice Monkey",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-crystal-frog",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Crystal Frog",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-mud-squirrel",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mud Squirrel",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-aura-heal-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Aura Heal II",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-gypsum-branch",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gypsum Branch",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-black-ash",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Black Ash",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-emerald-snow",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Emerald Snow",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-rabbit-stone",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rabbit Stone",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-broom-icicle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Broom Icicle",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-heavy-gear",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Heavy Gear",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-frost-glass",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Frost Glass",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-large-handcuffs",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Large Handcuffs",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-valak-mountain-chill-plus-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Chill Plus III",
-    "region": "Valak Mountain",
-    "prerequisites": [],
-    "description": "Part of Valak Mountain Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Valak_Mountain_Collection",
-    "wikiPageId": 2541
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-cool-lemon",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Cool Lemon",
+    "name": "Alcamoth — Fruit",
     "region": "Alcamoth",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Cool Lemon",
+      "Heart Peach",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Blaze Plus III"
+    ],
     "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
     "wikiPageId": 2420
   },
   {
-    "id": "xc1-collectopaedia-alcamoth-heart-peach",
+    "id": "xc1-collectopaedia-alcamoth-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Heart Peach",
+    "name": "Alcamoth — Flower",
     "region": "Alcamoth",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Mystic Dahlia",
+      "Stardrop",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Muscle Up III"
+    ],
     "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
     "wikiPageId": 2420
   },
   {
-    "id": "xc1-collectopaedia-alcamoth-blaze-plus-iii",
+    "id": "xc1-collectopaedia-alcamoth-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Blaze Plus III",
+    "name": "Alcamoth — Strange",
     "region": "Alcamoth",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Ha Ha Ha",
+      "Thunder Atmos",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Paralysis Resist III"
+    ],
     "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
     "wikiPageId": 2420
   },
   {
-    "id": "xc1-collectopaedia-alcamoth-mystic-dahlia",
+    "id": "xc1-collectopaedia-galahad-fortress-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Mystic Dahlia",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-stardrop",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Stardrop",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-muscle-up-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Muscle Up III",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-ha-ha-ha",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ha Ha Ha",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-thunder-atmos",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Thunder Atmos",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-cool-lemon",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Cool Lemon",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-heart-peach",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Heart Peach",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-trendy-goggles",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Trendy Goggles",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-mystic-dahlia",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mystic Dahlia",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-stardrop",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Stardrop",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-trendy-gloves",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Trendy Gloves",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-nanoceros",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Nanoceros",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-mane-cat",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mane Cat",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-trendy-leggings",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Trendy Leggings",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-ha-ha-ha",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ha Ha Ha",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-thunder-atmos",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Thunder Atmos",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-alcamoth-trendy-fins",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Trendy Fins",
-    "region": "Alcamoth",
-    "prerequisites": [],
-    "description": "Part of Alcamoth Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Alcamoth_Collection",
-    "wikiPageId": 2420
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-wheel-lurker",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Wheel Lurker",
+    "name": "Galahad Fortress — Bug",
     "region": "Galahad Fortress",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "Wheel Lurker",
+      "Ultramarine Ant",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Terrain Defence II"
+    ],
     "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
     "wikiPageId": 2315
   },
   {
-    "id": "xc1-collectopaedia-galahad-fortress-ultramarine-ant",
+    "id": "xc1-collectopaedia-galahad-fortress-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Ultramarine Ant",
+    "name": "Galahad Fortress — Parts",
     "region": "Galahad Fortress",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Locust Spring",
+      "Art Core Coil",
+      "Tail Antenna",
+      null,
+      null
+    ],
+    "rewards": [
+      "Agility Down III"
+    ],
     "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
     "wikiPageId": 2315
   },
   {
-    "id": "xc1-collectopaedia-galahad-fortress-terrain-defence-ii",
+    "id": "xc1-collectopaedia-galahad-fortress-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Terrain Defence II",
+    "name": "Galahad Fortress — Strange",
     "region": "Galahad Fortress",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Hunger Crash",
+      "Splish Splash",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Ether Up III"
+    ],
     "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
     "wikiPageId": 2315
   },
   {
-    "id": "xc1-collectopaedia-galahad-fortress-locust-spring",
+    "id": "xc1-collectopaedia-mechonis-field-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Locust Spring",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-art-core-coil",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Art Core Coil",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-tail-antenna",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Tail Antenna",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-agility-down-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Agility Down III",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-hunger-crash",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Hunger Crash",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-splish-splash",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Splish Splash",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-galahad-fortress-ether-up-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ether Up III",
-    "region": "Galahad Fortress",
-    "prerequisites": [],
-    "description": "Part of Galahad Fortress Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galahad_Fortress_Collection",
-    "wikiPageId": 2315
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-juicy-steakplant",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Juicy Steakplant",
+    "name": "Mechonis Field — Veg",
     "region": "Mechonis Field",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Juicy Steakplant",
+      "Acerola Pea",
+      "Energy Aubergine",
+      "Sweet Pepper",
+      null
+    ],
+    "rewards": [
+      "Taurus Arms"
+    ],
     "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
     "wikiPageId": 4649
   },
   {
-    "id": "xc1-collectopaedia-mechonis-field-acerola-pea",
+    "id": "xc1-collectopaedia-mechonis-field-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Acerola Pea",
+    "name": "Mechonis Field — Flower",
     "region": "Mechonis Field",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Azure Hollyhock",
+      "Utopia Crocus",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Agility Up IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
     "wikiPageId": 4649
   },
   {
-    "id": "xc1-collectopaedia-mechonis-field-energy-aubergine",
+    "id": "xc1-collectopaedia-mechonis-field-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Energy Aubergine",
+    "name": "Mechonis Field — Bug",
     "region": "Mechonis Field",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "Scarlet Crawler",
+      "Shiny Scarab",
+      "Water Boatman",
+      null,
+      null
+    ],
+    "rewards": [
+      "Daze Up IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
     "wikiPageId": 4649
   },
   {
-    "id": "xc1-collectopaedia-mechonis-field-sweet-pepper",
+    "id": "xc1-collectopaedia-mechonis-field-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Sweet Pepper",
+    "name": "Mechonis Field — Nature",
     "region": "Mechonis Field",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "Ivy Nest",
+      "Mossy Panel",
+      "Bronze Wood",
+      null,
+      null
+    ],
+    "rewards": [
+      "First Attack Plus III"
+    ],
     "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
     "wikiPageId": 4649
   },
   {
-    "id": "xc1-collectopaedia-mechonis-field-taurus-arms",
+    "id": "xc1-collectopaedia-mechonis-field-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Taurus Arms",
+    "name": "Mechonis Field — Parts",
     "region": "Mechonis Field",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Retro Diode",
+      "Modern Blue Gear",
+      "Snow Transistor",
+      null,
+      null
+    ],
+    "rewards": [
+      "Lightning Attack IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
     "wikiPageId": 4649
   },
   {
-    "id": "xc1-collectopaedia-mechonis-field-azure-hollyhock",
+    "id": "xc1-collectopaedia-mechonis-field-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Azure Hollyhock",
+    "name": "Mechonis Field — Strange",
     "region": "Mechonis Field",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Tweet Tweet",
+      "Flame Frame",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Fall Defence IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
     "wikiPageId": 4649
   },
   {
-    "id": "xc1-collectopaedia-mechonis-field-utopia-crocus",
+    "id": "xc1-collectopaedia-bionis-leg-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Utopia Crocus",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-agility-up-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Agility Up IV",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-scarlet-crawler",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Scarlet Crawler",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-shiny-scarab",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Shiny Scarab",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-water-boatman",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Water Boatman",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-daze-up-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Daze Up IV",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-ivy-nest",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ivy Nest",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-mossy-panel",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mossy Panel",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-bronze-wood",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Bronze Wood",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-retro-diode",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Retro Diode",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-modern-blue-gear",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Modern Blue Gear",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-snow-transistor",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Snow Transistor",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-tweet-tweet",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Tweet Tweet",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-flame-frame",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Flame Frame",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-mechonis-field-fall-defence-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Fall Defence IV",
-    "region": "Mechonis Field",
-    "prerequisites": [],
-    "description": "Part of Mechonis Field Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mechonis_Field_Collection",
-    "wikiPageId": 4649
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-hot-taro",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Hot Taro",
+    "name": "Bionis' Leg — Veg",
     "region": "Bionis' Leg",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Hot Taro",
+      "Juicy Broccoli",
+      "Spicy Cabbage",
+      "Hard Lotus",
+      null
+    ],
+    "rewards": [
+      "Pelt Top"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
     "wikiPageId": 2790
   },
   {
-    "id": "xc1-collectopaedia-bionis-leg-juicy-broccoli",
+    "id": "xc1-collectopaedia-bionis-leg-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Juicy Broccoli",
+    "name": "Bionis' Leg — Fruit",
     "region": "Bionis' Leg",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Sour Gooseberry",
+      "Red Durian",
+      "Walnut Grape",
+      "Humming Plum",
+      null
+    ],
+    "rewards": [
+      "Paralysis II"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
     "wikiPageId": 2790
   },
   {
-    "id": "xc1-collectopaedia-bionis-leg-spicy-cabbage",
+    "id": "xc1-collectopaedia-bionis-leg-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Spicy Cabbage",
+    "name": "Bionis' Leg — Bug",
     "region": "Bionis' Leg",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "White Ladybird",
+      "Hill Firefly",
+      "Moth Crawler",
+      "Queen Locust",
+      "Fire Tarantula"
+    ],
+    "rewards": [
+      "Grand Gauntlets"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
     "wikiPageId": 2790
   },
   {
-    "id": "xc1-collectopaedia-bionis-leg-hard-lotus",
+    "id": "xc1-collectopaedia-bionis-leg-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Hard Lotus",
+    "name": "Bionis' Leg — Nature",
     "region": "Bionis' Leg",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "Mat Ice",
+      "Bluesky Bark",
+      "Pione Stone",
+      null,
+      null
+    ],
+    "rewards": [
+      "Bind Resist II"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
     "wikiPageId": 2790
   },
   {
-    "id": "xc1-collectopaedia-bionis-leg-pelt-top",
+    "id": "xc1-collectopaedia-bionis-leg-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Pelt Top",
+    "name": "Bionis' Leg — Parts",
     "region": "Bionis' Leg",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Rusty Bolt",
+      "Winding Gear",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Strength Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
     "wikiPageId": 2790
   },
   {
-    "id": "xc1-collectopaedia-bionis-leg-sour-gooseberry",
+    "id": "xc1-collectopaedia-bionis-leg-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Sour Gooseberry",
+    "name": "Bionis' Leg — Strange",
     "region": "Bionis' Leg",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Gold Dust Illusion",
+      "Devious Gravity",
+      "White Songbird",
+      "Death Bangle",
+      null
+    ],
+    "rewards": [
+      "Pelt Bottoms"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
     "wikiPageId": 2790
   },
   {
-    "id": "xc1-collectopaedia-bionis-leg-red-durian",
+    "id": "xc1-collectopaedia-bionis-interior-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Red Durian",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-walnut-grape",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Walnut Grape",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-humming-plum",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Humming Plum",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-paralysis-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Paralysis II",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-white-ladybird",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "White Ladybird",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-hill-firefly",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Hill Firefly",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-moth-crawler",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Moth Crawler",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-queen-locust",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Queen Locust",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-fire-tarantula",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Fire Tarantula",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-grand-gauntlets",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Grand Gauntlets",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-mat-ice",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Mat Ice",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-bluesky-bark",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Bluesky Bark",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-pione-stone",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Pione Stone",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-rusty-bolt",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rusty Bolt",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-winding-gear",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Winding Gear",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-strength-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Strength Up II",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-gold-dust-illusion",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gold Dust Illusion",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-devious-gravity",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Devious Gravity",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-white-songbird",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "White Songbird",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-death-bangle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Death Bangle",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-leg-pelt-bottoms",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Pelt Bottoms",
-    "region": "Bionis' Leg",
-    "prerequisites": [],
-    "description": "Part of Bionis' Leg Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Leg_Collection",
-    "wikiPageId": 2790
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-sarsaparilla",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sarsaparilla",
+    "name": "Bionis' Interior — Veg",
     "region": "Bionis' Interior",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Sarsaparilla",
+      "Black Liver Bean",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Haste V"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
     "wikiPageId": 4370
   },
   {
-    "id": "xc1-collectopaedia-bionis-interior-black-liver-bean",
+    "id": "xc1-collectopaedia-bionis-interior-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Black Liver Bean",
+    "name": "Bionis' Interior — Animal",
     "region": "Bionis' Interior",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Blood Worm",
+      "Azure Mouse",
+      "Happy Duck",
+      null,
+      null
+    ],
+    "rewards": [
+      "Aggro Down IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
     "wikiPageId": 4370
   },
   {
-    "id": "xc1-collectopaedia-bionis-interior-haste-v",
+    "id": "xc1-collectopaedia-bionis-interior-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Haste V",
+    "name": "Bionis' Interior — Strange",
     "region": "Bionis' Interior",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Tap Tap Tap",
+      "High Entia Jewel",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Strength Down V"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
     "wikiPageId": 4370
   },
   {
-    "id": "xc1-collectopaedia-bionis-interior-blood-worm",
+    "id": "xc1-collectopaedia-tephra-cave-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Blood Worm",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-azure-mouse",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Azure Mouse",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-happy-duck",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Happy Duck",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-aggro-down-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Aggro Down IV",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-tap-tap-tap",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Tap Tap Tap",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-high-entia-jewel",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "High Entia Jewel",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-interior-strength-down-v",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Strength Down V",
-    "region": "Bionis' Interior",
-    "prerequisites": [],
-    "description": "Part of Bionis' Interior Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Interior_Collection",
-    "wikiPageId": 4370
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-clear-almond",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Clear Almond",
+    "name": "Tephra Cave — Fruit",
     "region": "Tephra Cave",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Clear Almond",
+      "Bright Fig",
+      "Dark Grape",
+      null,
+      null
+    ],
+    "rewards": [
+      "Lightning Attack II"
+    ],
     "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
     "wikiPageId": 2230
   },
   {
-    "id": "xc1-collectopaedia-tephra-cave-bright-fig",
+    "id": "xc1-collectopaedia-tephra-cave-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Bright Fig",
+    "name": "Tephra Cave — Flower",
     "region": "Tephra Cave",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Insanity Mint",
+      "Night Tulip",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Poison Defence III"
+    ],
     "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
     "wikiPageId": 2230
   },
   {
-    "id": "xc1-collectopaedia-tephra-cave-dark-grape",
+    "id": "xc1-collectopaedia-tephra-cave-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Dark Grape",
+    "name": "Tephra Cave — Animal",
     "region": "Tephra Cave",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Shin Newt",
+      "Cave Rat",
+      "Shin Gecko",
+      "Happy Rabbit",
+      null
+    ],
+    "rewards": [
+      "HP Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
     "wikiPageId": 2230
   },
   {
-    "id": "xc1-collectopaedia-tephra-cave-insanity-mint",
+    "id": "xc1-collectopaedia-tephra-cave-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Insanity Mint",
+    "name": "Tephra Cave — Bug",
     "region": "Tephra Cave",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "Brown Butterfly",
+      "Gold Caterpillar",
+      "Rumble Stonefly",
+      null,
+      null
+    ],
+    "rewards": [
+      "Slow Resist II"
+    ],
     "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
     "wikiPageId": 2230
   },
   {
-    "id": "xc1-collectopaedia-tephra-cave-night-tulip",
+    "id": "xc1-collectopaedia-tephra-cave-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Night Tulip",
+    "name": "Tephra Cave — Nature",
     "region": "Tephra Cave",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "Kneecap Rock",
+      "Confusion Ivy",
+      "Clarity Moss",
+      null,
+      null
+    ],
+    "rewards": [
+      "Attack Plus II"
+    ],
     "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
     "wikiPageId": 2230
   },
   {
-    "id": "xc1-collectopaedia-tephra-cave-poison-defence-iii",
+    "id": "xc1-collectopaedia-tephra-cave-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Poison Defence III",
+    "name": "Tephra Cave — Strange",
     "region": "Tephra Cave",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Leaf Mystery",
+      "Steel Silk",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Attack Stability II"
+    ],
     "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
     "wikiPageId": 2230
   },
   {
-    "id": "xc1-collectopaedia-tephra-cave-shin-newt",
+    "id": "xc1-collectopaedia-colony-9-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Shin Newt",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-cave-rat",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Cave Rat",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-shin-gecko",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Shin Gecko",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-happy-rabbit",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Happy Rabbit",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-hp-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "HP Up II",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-brown-butterfly",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Brown Butterfly",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-gold-caterpillar",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gold Caterpillar",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-rumble-stonefly",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rumble Stonefly",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-kneecap-rock",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Kneecap Rock",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-confusion-ivy",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Confusion Ivy",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-clarity-moss",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Clarity Moss",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-leaf-mystery",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Leaf Mystery",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-tephra-cave-steel-silk",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Steel Silk",
-    "region": "Tephra Cave",
-    "prerequisites": [],
-    "description": "Part of Tephra Cave Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tephra_Cave_Collection",
-    "wikiPageId": 2230
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-sweet-wasabi",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sweet Wasabi",
+    "name": "Colony 9 — Veg",
     "region": "Colony 9",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Sweet Wasabi",
+      "Cool Potato",
+      "Red Lettuce",
+      "Chewy Radish",
+      null
+    ],
+    "rewards": [
+      "Quick Step III"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
     "wikiPageId": 2221
   },
   {
-    "id": "xc1-collectopaedia-colony-9-cool-potato",
+    "id": "xc1-collectopaedia-colony-9-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Cool Potato",
+    "name": "Colony 9 — Fruit",
     "region": "Colony 9",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Dance Apple",
+      "Black Kiwi",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Agility Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
     "wikiPageId": 2221
   },
   {
-    "id": "xc1-collectopaedia-colony-9-red-lettuce",
+    "id": "xc1-collectopaedia-colony-9-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Red Lettuce",
+    "name": "Colony 9 — Flower",
     "region": "Colony 9",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Strong Dandelion",
+      "Moon Flower",
+      "Dawn Hydrangea",
+      null,
+      null
+    ],
+    "rewards": [
+      "Poison Defence III"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
     "wikiPageId": 2221
   },
   {
-    "id": "xc1-collectopaedia-colony-9-chewy-radish",
+    "id": "xc1-collectopaedia-colony-9-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Chewy Radish",
+    "name": "Colony 9 — Bug",
     "region": "Colony 9",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "Prairie Dragonfly",
+      "Giant Hornet",
+      "White Beetle",
+      "Sorrow Beetle",
+      null
+    ],
+    "rewards": [
+      "Regnas Gauntlets"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
     "wikiPageId": 2221
   },
   {
-    "id": "xc1-collectopaedia-colony-9-quick-step-iii",
+    "id": "xc1-collectopaedia-colony-9-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Quick Step III",
+    "name": "Colony 9 — Parts",
     "region": "Colony 9",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Blue Chain",
+      "Rabbit Diode",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Ether Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
     "wikiPageId": 2221
   },
   {
-    "id": "xc1-collectopaedia-colony-9-dance-apple",
+    "id": "xc1-collectopaedia-colony-9-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Dance Apple",
+    "name": "Colony 9 — Strange",
     "region": "Colony 9",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Plate Snow",
+      "Rainbow Zirconia",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Strength Up II"
+    ],
     "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
     "wikiPageId": 2221
   },
   {
-    "id": "xc1-collectopaedia-colony-9-black-kiwi",
+    "id": "xc1-collectopaedia-frontier-village-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Black Kiwi",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-agility-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Agility Up II",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-strong-dandelion",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Strong Dandelion",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-moon-flower",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Moon Flower",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-dawn-hydrangea",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Dawn Hydrangea",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-poison-defence-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Poison Defence III",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-prairie-dragonfly",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Prairie Dragonfly",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-giant-hornet",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Giant Hornet",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-white-beetle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "White Beetle",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-sorrow-beetle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sorrow Beetle",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-regnas-gauntlets",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Regnas Gauntlets",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-blue-chain",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blue Chain",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-rabbit-diode",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rabbit Diode",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-ether-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ether Up II",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-plate-snow",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Plate Snow",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-rainbow-zirconia",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rainbow Zirconia",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-colony-9-strength-up-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Strength Up II",
-    "region": "Colony 9",
-    "prerequisites": [],
-    "description": "Part of Colony 9 Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9_Collection",
-    "wikiPageId": 2221
-  },
-  {
-    "id": "xc1-collectopaedia-frontier-village-spicy-nut",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Spicy Nut",
+    "name": "Frontier Village — Fruit",
     "region": "Frontier Village",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Spicy Nut",
+      "Crimson Citrus",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Strength Up III"
+    ],
     "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
     "wikiPageId": 2291
   },
   {
-    "id": "xc1-collectopaedia-frontier-village-crimson-citrus",
+    "id": "xc1-collectopaedia-frontier-village-bug",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Crimson Citrus",
+    "name": "Frontier Village — Bug",
     "region": "Frontier Village",
+    "collectType": "Bug",
+    "collectopaediaSlots": [
+      "Rainbow Bug",
+      "Empress Beetle",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Weapon Power II"
+    ],
     "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
     "wikiPageId": 2291
   },
   {
-    "id": "xc1-collectopaedia-frontier-village-strength-up-iii",
+    "id": "xc1-collectopaedia-frontier-village-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Strength Up III",
+    "name": "Frontier Village — Strange",
     "region": "Frontier Village",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Rumble Box",
+      "Black Panel",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Agility Up III"
+    ],
     "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
     "wikiPageId": 2291
   },
   {
-    "id": "xc1-collectopaedia-frontier-village-rainbow-bug",
+    "id": "xc1-collectopaedia-fallen-arm-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Rainbow Bug",
-    "region": "Frontier Village",
-    "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
-    "wikiPageId": 2291
-  },
-  {
-    "id": "xc1-collectopaedia-frontier-village-empress-beetle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Empress Beetle",
-    "region": "Frontier Village",
-    "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
-    "wikiPageId": 2291
-  },
-  {
-    "id": "xc1-collectopaedia-frontier-village-weapon-power-ii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Weapon Power II",
-    "region": "Frontier Village",
-    "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
-    "wikiPageId": 2291
-  },
-  {
-    "id": "xc1-collectopaedia-frontier-village-rumble-box",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rumble Box",
-    "region": "Frontier Village",
-    "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
-    "wikiPageId": 2291
-  },
-  {
-    "id": "xc1-collectopaedia-frontier-village-black-panel",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Black Panel",
-    "region": "Frontier Village",
-    "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
-    "wikiPageId": 2291
-  },
-  {
-    "id": "xc1-collectopaedia-frontier-village-agility-up-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Agility Up III",
-    "region": "Frontier Village",
-    "prerequisites": [],
-    "description": "Part of Frontier Village Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frontier_Village_Collection",
-    "wikiPageId": 2291
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-sour-turnip",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sour Turnip",
+    "name": "Fallen Arm — Veg",
     "region": "Fallen Arm",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Sour Turnip",
+      "Golden Beetroot",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Muscle Up IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
     "wikiPageId": 4648
   },
   {
-    "id": "xc1-collectopaedia-fallen-arm-golden-beetroot",
+    "id": "xc1-collectopaedia-fallen-arm-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Golden Beetroot",
+    "name": "Fallen Arm — Fruit",
     "region": "Fallen Arm",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "White Plum",
+      "Ice Kiwi Fruit",
+      "Spicy Papaya",
+      "Large Mango",
+      null
+    ],
+    "rewards": [
+      "Heat Sink III"
+    ],
     "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
     "wikiPageId": 4648
   },
   {
-    "id": "xc1-collectopaedia-fallen-arm-muscle-up-iv",
+    "id": "xc1-collectopaedia-fallen-arm-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Muscle Up IV",
+    "name": "Fallen Arm — Animal",
     "region": "Fallen Arm",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Oil Oyster",
+      "Dark Fish",
+      "Ether Penguin",
+      "Rainbow Slug",
+      null
+    ],
+    "rewards": [
+      "Gemini Boots"
+    ],
     "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
     "wikiPageId": 4648
   },
   {
-    "id": "xc1-collectopaedia-fallen-arm-white-plum",
+    "id": "xc1-collectopaedia-fallen-arm-nature",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "White Plum",
+    "name": "Fallen Arm — Nature",
     "region": "Fallen Arm",
+    "collectType": "Nature",
+    "collectopaediaSlots": [
+      "Poisonous Coral",
+      "Poison Ivy",
+      "Amber Leaf",
+      null,
+      null
+    ],
+    "rewards": [
+      "Blaze Defence IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
     "wikiPageId": 4648
   },
   {
-    "id": "xc1-collectopaedia-fallen-arm-ice-kiwi-fruit",
+    "id": "xc1-collectopaedia-fallen-arm-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Ice Kiwi Fruit",
+    "name": "Fallen Arm — Parts",
     "region": "Fallen Arm",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Warning Lamp",
+      "Digital Filament",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Muscle Up IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
     "wikiPageId": 4648
   },
   {
-    "id": "xc1-collectopaedia-fallen-arm-spicy-papaya",
+    "id": "xc1-collectopaedia-fallen-arm-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Spicy Papaya",
+    "name": "Fallen Arm — Strange",
     "region": "Fallen Arm",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Star Cute",
+      "Summer Star",
+      null,
+      null,
+      null
+    ],
+    "rewards": [
+      "Strength Up IV"
+    ],
     "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
     "wikiPageId": 4648
   },
   {
-    "id": "xc1-collectopaedia-fallen-arm-large-mango",
+    "id": "xc1-collectopaedia-sword-valley-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Large Mango",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-heat-sink-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Heat Sink III",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-oil-oyster",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Oil Oyster",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-dark-fish",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Dark Fish",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-ether-penguin",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Ether Penguin",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-rainbow-slug",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rainbow Slug",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-gemini-boots",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gemini Boots",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-poisonous-coral",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Poisonous Coral",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-poison-ivy",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Poison Ivy",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-amber-leaf",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Amber Leaf",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-blaze-defence-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blaze Defence IV",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-warning-lamp",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Warning Lamp",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-digital-filament",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Digital Filament",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-muscle-up-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Muscle Up IV",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-star-cute",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Star Cute",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-summer-star",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Summer Star",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-fallen-arm-strength-up-iv",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Strength Up IV",
-    "region": "Fallen Arm",
-    "prerequisites": [],
-    "description": "Part of Fallen Arm Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fallen_Arm_Collection",
-    "wikiPageId": 4648
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-fire-pepper",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Fire Pepper",
+    "name": "Sword Valley — Veg",
     "region": "Sword Valley",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Fire Pepper",
+      "Meaty Carrot",
+      "Bitter Broccoli",
+      null,
+      null
+    ],
+    "rewards": [
+      "Good Footing III"
+    ],
     "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
     "wikiPageId": 2301
   },
   {
-    "id": "xc1-collectopaedia-sword-valley-meaty-carrot",
+    "id": "xc1-collectopaedia-sword-valley-fruit",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Meaty Carrot",
+    "name": "Sword Valley — Fruit",
     "region": "Sword Valley",
+    "collectType": "Fruit",
+    "collectopaediaSlots": [
+      "Bitter Melon",
+      "Citron Gooseberry",
+      "Juicy Melon",
+      "Amethyst Melon",
+      null
+    ],
+    "rewards": [
+      "HP Steal III"
+    ],
     "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
     "wikiPageId": 2301
   },
   {
-    "id": "xc1-collectopaedia-sword-valley-bitter-broccoli",
+    "id": "xc1-collectopaedia-sword-valley-flower",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Bitter Broccoli",
+    "name": "Sword Valley — Flower",
     "region": "Sword Valley",
+    "collectType": "Flower",
+    "collectopaediaSlots": [
+      "Jujube Silver",
+      "Black Blossom",
+      "Abyss Heather",
+      "Delerium Foxglove",
+      null
+    ],
+    "rewards": [
+      "Auto-Heal Up III"
+    ],
     "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
     "wikiPageId": 2301
   },
   {
-    "id": "xc1-collectopaedia-sword-valley-good-footing-iii",
+    "id": "xc1-collectopaedia-sword-valley-parts",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Good Footing III",
+    "name": "Sword Valley — Parts",
     "region": "Sword Valley",
+    "collectType": "Parts",
+    "collectopaediaSlots": [
+      "Gold Condenser",
+      "Purple Lamp",
+      "Crimson Gear",
+      null,
+      null
+    ],
+    "rewards": [
+      "First Attack Plus III"
+    ],
     "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
     "wikiPageId": 2301
   },
   {
-    "id": "xc1-collectopaedia-sword-valley-bitter-melon",
+    "id": "xc1-collectopaedia-sword-valley-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Bitter Melon",
+    "name": "Sword Valley — Strange",
     "region": "Sword Valley",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Red Frontier",
+      "Darkness Bottle",
+      "Bud of Eternity",
+      null,
+      null
+    ],
+    "rewards": [
+      "Art Seal Resist III"
+    ],
     "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
     "wikiPageId": 2301
   },
   {
-    "id": "xc1-collectopaedia-sword-valley-citron-gooseberry",
+    "id": "xc1-collectopaedia-bionis-shoulder-veg",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Citron Gooseberry",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-juicy-melon",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Juicy Melon",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-amethyst-melon",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Amethyst Melon",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-hp-steal-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "HP Steal III",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-jujube-silver",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Jujube Silver",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-black-blossom",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Black Blossom",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-abyss-heather",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Abyss Heather",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-delerium-foxglove",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Delerium Foxglove",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-auto-heal-up-iii",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Auto-Heal Up III",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-gold-condenser",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gold Condenser",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-purple-lamp",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Purple Lamp",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-crimson-gear",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Crimson Gear",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-red-frontier",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Red Frontier",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-darkness-bottle",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Darkness Bottle",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-sword-valley-bud-of-eternity",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Bud of Eternity",
-    "region": "Sword Valley",
-    "prerequisites": [],
-    "description": "Part of Sword Valley Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sword_Valley_Collection",
-    "wikiPageId": 2301
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-rainbow-carrot",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Rainbow Carrot",
+    "name": "Bionis' Shoulder — Veg",
     "region": "Bionis' Shoulder",
+    "collectType": "Veg",
+    "collectopaediaSlots": [
+      "Rainbow Carrot",
+      "High Leaf",
+      "Cream Wheat",
+      "Morrow Cob",
+      "Kilopumpkin"
+    ],
+    "rewards": [
+      "Valak Corsage"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
     "wikiPageId": 105478
   },
   {
-    "id": "xc1-collectopaedia-bionis-shoulder-high-leaf",
+    "id": "xc1-collectopaedia-bionis-shoulder-animal",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "High Leaf",
+    "name": "Bionis' Shoulder — Animal",
     "region": "Bionis' Shoulder",
+    "collectType": "Animal",
+    "collectopaediaSlots": [
+      "Angel Bream",
+      "Gentleclam",
+      "Sky Mole",
+      "Blade Bird",
+      "Palmtop Elephant"
+    ],
+    "rewards": [
+      "Valak Bracelets"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
     "wikiPageId": 105478
   },
   {
-    "id": "xc1-collectopaedia-bionis-shoulder-cream-wheat",
+    "id": "xc1-collectopaedia-bionis-shoulder-part",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Cream Wheat",
+    "name": "Bionis' Shoulder — Part",
     "region": "Bionis' Shoulder",
+    "collectType": "Part",
+    "collectopaediaSlots": [
+      "Half Part",
+      "Snare Wire",
+      "Subzero Steel",
+      "Blaze Chain",
+      "Congenial Cogs"
+    ],
+    "rewards": [
+      "Valak Skirt"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
     "wikiPageId": 105478
   },
   {
-    "id": "xc1-collectopaedia-bionis-shoulder-morrow-cob",
+    "id": "xc1-collectopaedia-bionis-shoulder-strange",
     "gameId": "xc1",
     "category": "collectopaedia",
-    "name": "Morrow Cob",
+    "name": "Bionis' Shoulder — Strange",
     "region": "Bionis' Shoulder",
+    "collectType": "Strange",
+    "collectopaediaSlots": [
+      "Swirly Slash",
+      "Hero Nipper",
+      "Highlightning",
+      "Dubious Sculpture",
+      "Shimmertumble"
+    ],
+    "rewards": [
+      "Valak Sandles"
+    ],
     "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-kilopumpkin",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Kilopumpkin",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-valak-corsage",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Valak Corsage",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-angel-bream",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Angel Bream",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-gentleclam",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Gentleclam",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-sky-mole",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Sky Mole",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-blade-bird",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blade Bird",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-palmtop-elephant",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Palmtop Elephant",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-valak-bracelets",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Valak Bracelets",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-half-part",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Half Part",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-snare-wire",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Snare Wire",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-subzero-steel",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Subzero Steel",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-blaze-chain",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Blaze Chain",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-congenial-cogs",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Congenial Cogs",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-valak-skirt",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Valak Skirt",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-swirly-slash",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Swirly Slash",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-hero-nipper",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Hero Nipper",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-highlightning",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Highlightning",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-dubious-sculpture",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Dubious Sculpture",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-shimmertumble",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Shimmertumble",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
-    "wikiPageId": 105478
-  },
-  {
-    "id": "xc1-collectopaedia-bionis-shoulder-valak-sandles",
-    "gameId": "xc1",
-    "category": "collectopaedia",
-    "name": "Valak Sandles",
-    "region": "Bionis' Shoulder",
-    "prerequisites": [],
-    "description": "Part of Bionis' Shoulder Collection set",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bionis'_Shoulder_Collection",
     "wikiPageId": 105478
   }

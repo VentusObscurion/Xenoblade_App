@@ -124,3 +124,24 @@ export async function getCategoryPagesWithWikitext(
 export function wikiPageUrl(title: string): string {
   return `https://xenoblade.fandom.com/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`
 }
+
+export async function expandWikiTemplates(texts: string[]): Promise<string[]> {
+  if (texts.length === 0) return []
+
+  const results: string[] = []
+  const batchSize = 20
+
+  for (let i = 0; i < texts.length; i += batchSize) {
+    const batch = texts.slice(i, i + batchSize)
+    for (const text of batch) {
+      const data = (await apiRequest({
+        action: 'expandtemplates',
+        text,
+        maxlag: '5',
+      })) as { expandtemplates?: { wikitext?: string } }
+      results.push(data.expandtemplates?.wikitext ?? '')
+    }
+  }
+
+  return results
+}

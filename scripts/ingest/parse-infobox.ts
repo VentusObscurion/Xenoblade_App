@@ -2,6 +2,8 @@ import type { Prerequisite, PrerequisiteType } from '../../src/types/tracker.ts'
 
 export function stripWikiMarkup(text: string): string {
   return text
+    .replace(/\{\{!\}\}/g, '|')
+    .replace(/\[\[(?:File|Image|Datei):[^\]]*\|([^\]]+)\]\]/gi, '$1')
     .replace(/\[\[(?:File|Image|Datei):[^\]]*\]\]/gi, '')
     .replace(/\{\{([^}|]+)(?:\|[^}]*)?\}\}/g, '$1')
     .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, '$2')
@@ -158,6 +160,57 @@ function parseInfoboxFields(wikitext: string, templatePattern: RegExp): Record<s
   }
 
   return fields
+}
+
+export function parseNamedTemplate(
+  wikitext: string,
+  templateName: string,
+): Record<string, string> {
+  const pattern = new RegExp(
+    `\\{\\{${templateName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`,
+    'i',
+  )
+  const rawFields = getTemplateRawFields(wikitext, pattern)
+  const fields: Record<string, string> = {}
+  for (const [key, value] of Object.entries(rawFields)) {
+    const stripped = stripWikiMarkup(value)
+    if (stripped) fields[key] = stripped
+  }
+  return fields
+}
+
+export function parseAllNamedTemplates(
+  wikitext: string,
+  templateName: string,
+): Record<string, string>[] {
+  const pattern = new RegExp(
+    `\\{\\{${templateName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`,
+    'gi',
+  )
+  const results: Record<string, string>[] = []
+  let match: RegExpExecArray | null
+  while ((match = pattern.exec(wikitext)) !== null) {
+    const content = extractBalancedTemplate(wikitext, match.index)
+    if (!content) continue
+    const rawFields = extractTemplateParams(content)
+    const fields: Record<string, string> = {}
+    for (const [key, value] of Object.entries(rawFields)) {
+      const stripped = stripWikiMarkup(value)
+      if (stripped) fields[key] = stripped
+    }
+    if (Object.keys(fields).length > 0) results.push(fields)
+  }
+  return results
+}
+
+function getTemplateRawFields(wikitext: string, templatePattern: RegExp): Record<string, string> {
+  const startMatch = wikitext.match(templatePattern)
+  if (!startMatch || startMatch.index === undefined) return {}
+
+  const content = extractBalancedTemplate(wikitext, startMatch.index)
+  if (!content) return {}
+
+  return extractTemplateParams(content)
 }
 
 function getInfoboxRawFields(

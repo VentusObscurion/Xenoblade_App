@@ -4,51 +4,87 @@ export interface WikiTableRow {
   cells: string[]
 }
 
-function parseRowCells(rowText: string): string[] {
-  const cells: string[] = []
-  let currentCell = ''
-  const lines = rowText.split('\n')
+export function extractWikiTable(wikitext: string, startIndex: number): string | null {
+  if (!wikitext.startsWith('{|', startIndex)) return null
 
-  for (const line of lines) {
-    const trimmed = line.trim()
-    if (!trimmed) continue
-
-    if (trimmed.startsWith('|-') || trimmed.startsWith('{|') || trimmed === '|}') continue
-
-    if (trimmed.startsWith('!')) continue
-
-    if (trimmed.startsWith('|')) {
-      if (currentCell) {
-        cells.push(stripWikiMarkup(currentCell.trim()))
-        currentCell = ''
-      }
-
-      const cellContent = trimmed.slice(1).trim()
-      if (cellContent.includes('||')) {
-        const inlineParts = cellContent.split('||')
-        for (let i = 0; i < inlineParts.length; i++) {
-          const part = stripWikiMarkup(inlineParts[i].trim())
-          if (i === 0 && cells.length > 0 && inlineParts.length > 1) {
-            cells.push(part)
-          } else if (i === 0 && inlineParts.length > 1) {
-            cells.push(part)
-          } else {
-            cells.push(part)
-          }
-        }
-      } else {
-        currentCell = cellContent
-      }
-    } else {
-      currentCell += (currentCell ? '\n' : '') + trimmed
+  let depth = 0
+  for (let i = startIndex; i < wikitext.length - 1; i++) {
+    if (wikitext.slice(i, i + 2) === '{|') {
+      depth++
+      i++
+      continue
+    }
+    if (wikitext.slice(i, i + 2) === '|}') {
+      depth--
+      if (depth === 0) return wikitext.slice(startIndex, i + 2)
+      i++
     }
   }
 
-  if (currentCell) {
-    cells.push(stripWikiMarkup(currentCell.trim()))
+  return null
+}
+
+function processTableCell(raw: string): string {
+  if (/class\s*=\s*["']empty["']/i.test(raw)) return ''
+  return stripWikiMarkup(raw.trim())
+}
+
+export function parseTableCells(chunk: string): string[] {
+  const cells: string[] = []
+  let current = ''
+
+  for (const line of chunk.split('\n')) {
+    const trimmed = line.trim()
+    if (!trimmed || trimmed.startsWith('|-') || trimmed === '|}' || trimmed.startsWith('{|')) {
+      continue
+    }
+
+    if (trimmed.startsWith('!')) {
+      if (current) cells.push(processTableCell(current))
+      const content = trimmed.slice(1).trim()
+      const headerValue = content.match(/\|\s*([^|]+)$/)
+      current = headerValue ? headerValue[1].trim() : content
+      continue
+    }
+
+    if (trimmed.startsWith('||')) {
+      if (current) cells.push(processTableCell(current))
+      current = ''
+      for (const part of trimmed.split('||')) {
+        const cell = part.replace(/^\|/, '').trim()
+        if (cell) cells.push(processTableCell(cell))
+      }
+      continue
+    }
+
+    if (trimmed.startsWith('|')) {
+      if (current) cells.push(processTableCell(current))
+      const afterFirst = trimmed.slice(1)
+      const inlineValue = afterFirst.match(/^[^|]*\|(.+)$/)
+      if (inlineValue && /rowspan|style|colspan|align|vertical-align/i.test(afterFirst)) {
+        cells.push(processTableCell(inlineValue[1]))
+        current = ''
+      } else if (afterFirst.includes('||')) {
+        for (const part of afterFirst.split('||')) {
+          const cell = part.trim()
+          if (cell) cells.push(processTableCell(cell))
+        }
+        current = ''
+      } else {
+        current = afterFirst
+      }
+      continue
+    }
+
+    current += (current ? '\n' : '') + trimmed
   }
 
-  return cells.filter((c) => c.length > 0)
+  if (current) cells.push(processTableCell(current))
+  return cells
+}
+
+function parseRowCells(rowText: string): string[] {
+  return parseTableCells(rowText).filter((c) => c.length > 0)
 }
 
 function isSectionHeaderRow(cells: string[]): boolean {

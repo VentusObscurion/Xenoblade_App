@@ -5,6 +5,11 @@ import type {
   ProgressEntry,
   TrackableItem,
 } from '../types/tracker.ts'
+import {
+  areH2HCharactersInParty,
+  formatH2HAffinityRequirement,
+  isH2HAffinityMet,
+} from './h2h-availability.ts'
 import { isRegionDiscovered } from './region-discovery.ts'
 import { cleanWikiMarkup } from './wiki-text.ts'
 
@@ -196,14 +201,38 @@ export function evaluatePrerequisites(
         unmet.push({ type: 'level', label: `Level ${required}` })
       }
     }
-    for (const prereq of item.prerequisites) {
-      if (prereq.type === 'affinity' && !isAffinityMet(prereq, gameState)) {
-        unmet.push(prereq)
+
+    if (item.category === 'heart_to_heart') {
+      const chars = item.characters ?? []
+      if (chars.length >= 2 && !areH2HCharactersInParty(item, gameState)) {
+        unmet.push({
+          type: 'other',
+          label: `Requires ${chars.join(' and ')} in party`,
+        })
+      }
+      if (item.affinityLevel && item.affinityLevel > 0 && !isH2HAffinityMet(item, gameState)) {
+        unmet.push({
+          type: 'affinity',
+          label: formatH2HAffinityRequirement(item.affinityLevel),
+        })
+      }
+    } else {
+      for (const prereq of item.prerequisites) {
+        if (prereq.type === 'affinity' && !isAffinityMet(prereq, gameState)) {
+          unmet.push(prereq)
+        }
       }
     }
   }
 
-  const checkable = questDeps.length + (gameState ? 1 : 0)
+  let checkable = questDeps.length
+  if (gameState) {
+    checkable += 1
+    if (item.category === 'heart_to_heart') {
+      if ((item.characters?.length ?? 0) >= 2) checkable += 1
+      if (item.affinityLevel && item.affinityLevel > 0) checkable += 1
+    }
+  }
   if (checkable === 0 && unmet.length === 0) {
     return { status: 'unknown', unmet: [] }
   }

@@ -1,1097 +1,898 @@
 [
   {
-    "id": "xc1-colony_reconstruction-general-2-x-spotted-volff-hide-volff-in-bionis-leg-purchase-time-attack-for-900-nopo",
+    "id": "xc1-colony_reconstruction-housing-lvl1-0-2-x-spotted-volff-hide",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Spotted Volff Hide; Volff in Bionis' Leg, Purchase: Time Attack for 900 Noponstones (DE)",
+    "name": "2 x Spotted Volff Hide",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 1,
+    "colonyGold": "9,000 G",
+    "obtainedFrom": "Volff in Bionis' Leg, Purchase: Time Attack for 900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |9,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |9,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-tephra-cave-trade-peppino-colony-9-3-purchase-time-attack-fo",
+    "id": "xc1-colony_reconstruction-housing-lvl1-1-2-x-steel-silk",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Tephra Cave, Trade: Peppino (Colony 9 ☆3), Purchase: Time Attack for 9,200 Noponstones ",
+    "name": "2 x Steel Silk",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 1,
+    "colonyGold": "9,000 G",
+    "obtainedFrom": "Collectable: Tephra Cave, Trade: Peppino (Colony 9 ☆3), Purchase: Time Attack for 9,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Steel Silk",
-    "rewards": [
-      "2 x Steel Silk"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-4-x-bunnia-scent-wood-ogre-bunnia-in-satorl-marsh-trade-bokoko-1-purchase",
+    "id": "xc1-colony_reconstruction-housing-lvl2-0-4-x-bunnia-scent-wood",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "4 x Bunnia Scent Wood; Ogre Bunnia in Satorl Marsh, Trade: Bokoko (☆1), Purchase: Time Attack for 1,",
+    "name": "4 x Bunnia Scent Wood",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 2,
+    "colonyGold": "19,000 G",
+    "obtainedFrom": "Ogre Bunnia in Satorl Marsh, Trade: Bokoko (☆1), Purchase: Time Attack for 1,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |19,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |19,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-makna-forest-trade-rasha-overtrade-berryjammy-2-puko-2",
+    "id": "xc1-colony_reconstruction-housing-lvl2-1-1-x-fossil-monkey",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Makna Forest, Trade: Rasha (overtrade), Berryjammy (☆2), Puko (☆2), Purchase: Time Atta",
+    "name": "1 x Fossil Monkey",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 2,
+    "colonyGold": "19,000 G",
+    "obtainedFrom": "Collectable: Makna Forest, Trade: Rasha (overtrade), Berryjammy (☆2), Puko (☆2), Purchase: Time Attack for 7,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 1 x Fossil Monkey",
-    "rewards": [
-      "1 x Fossil Monkey"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-1-x-eks-iron-heart-eks-in-makna-forest-trade-nelo-2-purchase-time-attack",
+    "id": "xc1-colony_reconstruction-housing-lvl3-0-1-x-eks-iron-heart",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "1 x Eks Iron Heart; Eks in Makna Forest, Trade: Nelo (☆2), Purchase: Time Attack for 1,700 Noponston",
+    "name": "1 x Eks Iron Heart",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 3,
+    "colonyGold": "55,000 G",
+    "obtainedFrom": "Eks in Makna Forest, Trade: Nelo (☆2), Purchase: Time Attack for 1,700 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |55,000 G",
-    "rewards": [
-      "rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |55,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-andos-in-eryth-sea-trade-galdo-jerell-1-purchase-time-attack-for-700-no",
+    "id": "xc1-colony_reconstruction-housing-lvl3-1-4-x-sturdy-armour",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Andos in Eryth Sea, Trade: Galdo, Jer'ell (☆1), Purchase: Time Attack for 700 Noponstones (DE)",
+    "name": "4 x Sturdy Armour",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 3,
+    "colonyGold": "55,000 G",
+    "obtainedFrom": "Andos in Eryth Sea, Trade: Galdo, Jer'ell (☆1), Purchase: Time Attack for 700 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 4 x Sturdy Armour",
-    "rewards": [
-      "4 x Sturdy Armour"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-eryth-sea-trade-scarlen-ricoth-2-purchase-time-attack-for-6",
+    "id": "xc1-colony_reconstruction-housing-lvl3-2-2-x-oil-branch",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Eryth Sea, Trade: Scarlen, Ricoth (☆2), Purchase: Time Attack for 6,300 Noponstones (DE",
+    "name": "2 x Oil Branch",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 3,
+    "colonyGold": "55,000 G",
+    "obtainedFrom": "Collectable: Eryth Sea, Trade: Scarlen, Ricoth (☆2), Purchase: Time Attack for 6,300 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Oil Branch",
-    "rewards": [
-      "2 x Oil Branch"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-5-x-ponio-hoof-seal-ponio-in-fallen-arm-trade-eleqa-5-purchase-time-atta",
+    "id": "xc1-colony_reconstruction-housing-lvl4-0-5-x-ponio-hoof-seal",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "5 x Ponio Hoof Seal; Ponio in Fallen Arm, Trade: Eleqa (☆5), Purchase: Time Attack for 3,900 Noponst",
+    "name": "5 x Ponio Hoof Seal",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 4,
+    "colonyGold": "120,000 G",
+    "obtainedFrom": "Ponio in Fallen Arm, Trade: Eleqa (☆5), Purchase: Time Attack for 3,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |120,000 G",
-    "rewards": [
-      "rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |120,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-volff-in-fallen-arm-trade-neonik-overtrade-xekit-5-purchase-time-attac",
+    "id": "xc1-colony_reconstruction-housing-lvl4-1-3-x-royal-volff-hide",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Volff in Fallen Arm, Trade: Neonik (overtrade), Xekit (☆5), Purchase: Time Attack for 4,100 Noponsto",
+    "name": "3 x Royal Volff Hide",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 4,
+    "colonyGold": "120,000 G",
+    "obtainedFrom": "Volff in Fallen Arm, Trade: Neonik (overtrade), Xekit (☆5), Purchase: Time Attack for 4,100 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Royal Volff Hide",
-    "rewards": [
-      "3 x Royal Volff Hide"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-fallen-arm-trade-natalia-overtrade-karlos-5-purchase-time",
+    "id": "xc1-colony_reconstruction-housing-lvl4-2-3-x-warning-lamp",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Fallen Arm, Trade: Natalia (overtrade), Karlos (☆5), Purchase: Time Attack for 10,500 N",
+    "name": "3 x Warning Lamp",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 4,
+    "colonyGold": "120,000 G",
+    "obtainedFrom": "Collectable: Fallen Arm, Trade: Natalia (overtrade), Karlos (☆5), Purchase: Time Attack for 10,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Warning Lamp",
-    "rewards": [
-      "3 x Warning Lamp"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-mechonis-field-or-colony-6-level-3-special-trade-norara-colony-6",
+    "id": "xc1-colony_reconstruction-housing-lvl4-3-2-x-retro-diode",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable:Mechonis Field or Colony 6 Level 3 Special, Trade: Norara (Colony 6 ☆5), Purchase: Time ",
+    "name": "2 x Retro Diode",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 4,
+    "colonyGold": "120,000 G",
+    "obtainedFrom": "Collectable:Mechonis Field or Colony 6 Level 3 Special, Trade: Norara (Colony 6 ☆5), Purchase: Time Attack for 13,800 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Retro Diode",
-    "rewards": [
-      "2 x Retro Diode"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-vang-star-wing-vang-in-windy-cave-and-tephra-cave-purchase-time-attack-fo",
+    "id": "xc1-colony_reconstruction-housing-lvl5-0-2-x-vang-star-wing",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Vang Star Wing; Vang in Windy Cave and Tephra Cave, Purchase: Time Attack for 6,800 Noponstones ",
+    "name": "2 x Vang Star Wing",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 5,
+    "colonyGold": "300,000 G",
+    "obtainedFrom": "Vang in Windy Cave and Tephra Cave, Purchase: Time Attack for 6,800 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |300,000 G",
-    "rewards": [
-      "rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |300,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-gogol-in-bionis-leg-and-satorl-marsh-purchase-time-attack-for-7-500-noponston",
+    "id": "xc1-colony_reconstruction-housing-lvl5-1-3-x-gogol-horn",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Gogol in Bionis' Leg and Satorl Marsh, Purchase: Time Attack for 7,500 Noponstones (DE)",
+    "name": "3 x Gogol Horn",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 5,
+    "colonyGold": "300,000 G",
+    "obtainedFrom": "Gogol in Bionis' Leg and Satorl Marsh, Purchase: Time Attack for 7,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Gogol Horn",
-    "rewards": [
-      "3 x Gogol Horn"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-sword-valley-trade-rizaka-5-purchase-time-attack-for-27-600",
+    "id": "xc1-colony_reconstruction-housing-lvl5-2-2-x-red-frontier",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Sword Valley, Trade: Rizaka (☆5), Purchase: Time Attack for 27,600 Noponstones (DE)",
+    "name": "2 x Red Frontier",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 5,
+    "colonyGold": "300,000 G",
+    "obtainedFrom": "Collectable: Sword Valley, Trade: Rizaka (☆5), Purchase: Time Attack for 27,600 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Red Frontier",
-    "rewards": [
-      "2 x Red Frontier"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-central-factory-or-colony-6-level-4-special-trade-peppino-colony",
+    "id": "xc1-colony_reconstruction-housing-lvl5-3-2-x-black-styrene",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Central Factory or Colony 6 Level 4 Special, Trade: Peppino (Colony 6 ☆5), Purchase: Ti",
+    "name": "2 x Black Styrene",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 5,
+    "colonyGold": "300,000 G",
+    "obtainedFrom": "Collectable: Central Factory or Colony 6 Level 4 Special, Trade: Peppino (Colony 6 ☆5), Purchase: Time Attack for 16,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Black Styrene",
-    "rewards": [
-      "2 x Black Styrene"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-colony-9-or-colony-6-level-2-special-trade-dionysis-1-purchas",
+    "id": "xc1-colony_reconstruction-housing-lvl5-4-3-x-rainbow-zirconia",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Colony 9 or Colony 6 Level 2 Special, Trade: Dionysis (☆1), Purchase: Time Attack for 3",
+    "name": "3 x Rainbow Zirconia",
     "region": "Colony 6",
+    "collectType": "Housing",
+    "colonyLevel": 5,
+    "colonyGold": "300,000 G",
+    "obtainedFrom": "Collectable: Colony 9 or Colony 6 Level 2 Special, Trade: Dionysis (☆1), Purchase: Time Attack for 3,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Rainbow Zirconia",
-    "rewards": [
-      "3 x Rainbow Zirconia"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-igna-hide-jacket-igna-in-satorl-marsh-and-exile-fortress-purchase-time-at",
+    "id": "xc1-colony_reconstruction-commerce-lvl1-0-2-x-igna-hide-jacket",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Igna Hide Jacket; Igna in Satorl Marsh and Exile Fortress, Purchase: Time Attack for 1,400 Nopon",
+    "name": "2 x Igna Hide Jacket",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 1,
+    "colonyGold": "10,000 G",
+    "obtainedFrom": "Igna in Satorl Marsh and Exile Fortress, Purchase: Time Attack for 1,400 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |10,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |10,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-colony-6-in-hope-farm-area-trade-arda-colony-6-1-purchase-ti",
+    "id": "xc1-colony_reconstruction-commerce-lvl1-1-2-x-amblygon-turtle",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Colony 6 in Hope Farm area, Trade: Arda (Colony 6 ☆1), Purchase: Time Attack for 4,300 ",
+    "name": "2 x Amblygon Turtle",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 1,
+    "colonyGold": "10,000 G",
+    "obtainedFrom": "Collectable: Colony 6 in Hope Farm area, Trade: Arda (Colony 6 ☆1), Purchase: Time Attack for 4,300 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Amblygon Turtle",
-    "rewards": [
-      "2 x Amblygon Turtle"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-3-x-hode-plank-hyle-hode-in-makna-forest-trade-lupa-3-purchase-time-atta",
+    "id": "xc1-colony_reconstruction-commerce-lvl2-0-3-x-hode-plank",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "3 x Hode Plank; Hyle Hode in Makna Forest, Trade: Lupa (☆3), Purchase: Time Attack for 1,700 Noponst",
+    "name": "3 x Hode Plank",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 2,
+    "colonyGold": "22,000 G",
+    "obtainedFrom": "Hyle Hode in Makna Forest, Trade: Lupa (☆3), Purchase: Time Attack for 1,700 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |22,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |22,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-ether-mine-trade-olga-colony-6-1-purchase-time-attack-for-6",
+    "id": "xc1-colony_reconstruction-commerce-lvl2-1-2-x-ready-coil",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Ether Mine, Trade: Olga (Colony 6 ☆1), Purchase: Time Attack for 6,600 Noponstones (DE)",
+    "name": "2 x Ready Coil",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 2,
+    "colonyGold": "22,000 G",
+    "obtainedFrom": "Collectable: Ether Mine, Trade: Olga (Colony 6 ☆1), Purchase: Time Attack for 6,600 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Ready Coil",
-    "rewards": [
-      "2 x Ready Coil"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-3-x-shiny-kromar-hide-kromar-in-eryth-sea-trade-arielle-2-purchase-time",
+    "id": "xc1-colony_reconstruction-commerce-lvl3-0-3-x-shiny-kromar-hide",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "3 x Shiny Kromar Hide; Kromar in Eryth Sea, Trade: Arielle (☆2), Purchase: Time Attack for 2,100 Nop",
+    "name": "3 x Shiny Kromar Hide",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 3,
+    "colonyGold": "55,000 G",
+    "obtainedFrom": "Kromar in Eryth Sea, Trade: Arielle (☆2), Purchase: Time Attack for 2,100 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |55,000 G",
-    "rewards": [
-      "rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |55,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-kromar-in-eryth-sea-trade-yura-alcamoth-2-purchase-time-attack-for-2-100",
+    "id": "xc1-colony_reconstruction-commerce-lvl3-1-2-x-slick-kromar-stone",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Kromar in Eryth Sea, Trade: Yura (Alcamoth ☆2), Purchase: Time Attack for 2,100 Noponstones (DE)",
+    "name": "2 x Slick Kromar Stone",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 3,
+    "colonyGold": "55,000 G",
+    "obtainedFrom": "Kromar in Eryth Sea, Trade: Yura (Alcamoth ☆2), Purchase: Time Attack for 2,100 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Slick Kromar Stone",
-    "rewards": [
-      "2 x Slick Kromar Stone"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-high-entia-tomb-trade-cian-alcamoth-4-purchase-time-attack-f",
+    "id": "xc1-colony_reconstruction-commerce-lvl3-2-2-x-blue-ladybird",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: High Entia Tomb, Trade: Cian (Alcamoth ☆4), Purchase: Time Attack for 7,500 Noponstones",
+    "name": "2 x Blue Ladybird",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 3,
+    "colonyGold": "55,000 G",
+    "obtainedFrom": "Collectable: High Entia Tomb, Trade: Cian (Alcamoth ☆4), Purchase: Time Attack for 7,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Blue Ladybird",
-    "rewards": [
-      "2 x Blue Ladybird"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-5-x-piranhax-fishmeal-fair-piranhax-in-fallen-arm-radiocarpea-coast-purchase",
+    "id": "xc1-colony_reconstruction-commerce-lvl4-0-5-x-piranhax-fishmeal",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "5 x Piranhax Fishmeal; Fair Piranhax in Fallen Arm, Radiocarpea Coast, Purchase: Time Attack for 4,3",
+    "name": "5 x Piranhax Fishmeal",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 4,
+    "colonyGold": "100,000 G",
+    "obtainedFrom": "Fair Piranhax in Fallen Arm, Radiocarpea Coast, Purchase: Time Attack for 4,300 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |100,000 G",
-    "rewards": [
-      "rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |100,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-antol-in-fallen-arm-digit-1-trade-shilx-hidden-village-3-purchase-time-a",
+    "id": "xc1-colony_reconstruction-commerce-lvl4-1-8-x-silver-antol-fibre",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Antol in Fallen Arm, Digit 1, Trade: Shilx (Hidden Village ☆3), Purchase: Time Attack for 2,900 Nopo",
+    "name": "8 x Silver Antol Fibre",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 4,
+    "colonyGold": "100,000 G",
+    "obtainedFrom": "Antol in Fallen Arm, Digit 1, Trade: Shilx (Hidden Village ☆3), Purchase: Time Attack for 2,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 8 x Silver Antol Fibre",
-    "rewards": [
-      "8 x Silver Antol Fibre"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-fallen-arm-trade-eleqa-3-voltak-overtrade-purchase-time-a",
+    "id": "xc1-colony_reconstruction-commerce-lvl4-2-3-x-sour-turnip",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Fallen Arm, Trade: Eleqa (☆3), Voltak (overtrade), Purchase: Time Attack for 13,200 Nop",
+    "name": "3 x Sour Turnip",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 4,
+    "colonyGold": "100,000 G",
+    "obtainedFrom": "Collectable: Fallen Arm, Trade: Eleqa (☆3), Voltak (overtrade), Purchase: Time Attack for 13,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Sour Turnip",
-    "rewards": [
-      "3 x Sour Turnip"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-mechonis-field-trade-noporikh-5-purchase-time-attack-for-5",
+    "id": "xc1-colony_reconstruction-commerce-lvl4-3-2-x-mossy-panel",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Mechonis Field, Trade: Nopo'rikh (☆5), Purchase: Time Attack for 5,500 Noponstones (DE)",
+    "name": "2 x Mossy Panel",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 4,
+    "colonyGold": "100,000 G",
+    "obtainedFrom": "Collectable: Mechonis Field, Trade: Nopo'rikh (☆5), Purchase: Time Attack for 5,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Mossy Panel",
-    "rewards": [
-      "2 x Mossy Panel"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-1-x-ocean-elixir-of-life-kyel-lexos-in-colony-6-after-mechonis-core-trade-ata",
+    "id": "xc1-colony_reconstruction-commerce-lvl5-0-1-x-ocean-elixir-of-life",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "1 x Ocean Elixir of Life; Kyel Lexos in Colony 6 after Mechonis Core, Trade: Atael after Mechonis Co",
+    "name": "1 x Ocean Elixir of Life",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 5,
+    "colonyGold": "250,000 G",
+    "obtainedFrom": "Kyel Lexos in Colony 6 after Mechonis Core, Trade: Atael after Mechonis Core (☆5), Purchase: Time Attack for 7,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |250,000 G",
-    "rewards": [
-      "rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |250,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-throne-sardi-in-colony-9-purchase-time-attack-for-7-900-noponstones-de",
+    "id": "xc1-colony_reconstruction-commerce-lvl5-1-4-x-ancient-sardi-meat",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Throne Sardi in Colony 9, Purchase: Time Attack for 7,900 Noponstones (DE)",
+    "name": "4 x Ancient Sardi Meat",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 5,
+    "colonyGold": "250,000 G",
+    "obtainedFrom": "Throne Sardi in Colony 9, Purchase: Time Attack for 7,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 4 x Ancient Sardi Meat",
-    "rewards": [
-      "4 x Ancient Sardi Meat"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-galahad-fortress-trade-kazat-4-purchase-time-attack-for-18-90",
+    "id": "xc1-colony_reconstruction-commerce-lvl5-2-2-x-art-core-coil",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Galahad Fortress, Trade Kazat (☆4), Purchase: Time Attack for 18,900 Noponstones (DE)",
+    "name": "2 x Art Core Coil",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 5,
+    "colonyGold": "250,000 G",
+    "obtainedFrom": "Collectable: Galahad Fortress, Trade Kazat (☆4), Purchase: Time Attack for 18,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Art Core Coil",
-    "rewards": [
-      "2 x Art Core Coil"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-agniratha-purchase-time-attack-for-15-800-noponstones-de",
+    "id": "xc1-colony_reconstruction-commerce-lvl5-3-1-x-fortune-feather",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Agniratha, Purchase: Time Attack for 15,800 Noponstones (DE)",
+    "name": "1 x Fortune Feather",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 5,
+    "colonyGold": "250,000 G",
+    "obtainedFrom": "Collectable: Agniratha, Purchase: Time Attack for 15,800 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 1 x Fortune Feather",
-    "rewards": [
-      "1 x Fortune Feather"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-bionis-leg-purchase-time-attack-for-2-400-noponstones-de",
+    "id": "xc1-colony_reconstruction-commerce-lvl5-4-4-x-hill-firefly",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Bionis' Leg, Purchase: Time Attack for 2,400 Noponstones (DE)",
+    "name": "4 x Hill Firefly",
     "region": "Colony 6",
+    "collectType": "Commerce",
+    "colonyLevel": 5,
+    "colonyGold": "250,000 G",
+    "obtainedFrom": "Collectable: Bionis' Leg, Purchase: Time Attack for 2,400 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 4 x Hill Firefly",
-    "rewards": [
-      "4 x Hill Firefly"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-sharp-hox-spur-hox-in-bionis-leg-trade-matryona-colony-6-1-purchase",
+    "id": "xc1-colony_reconstruction-nature-lvl1-0-2-x-sharp-hox-spur",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Sharp Hox Spur; Hox in Bionis' Leg, Trade: Matryona (Colony 6 ☆1), Purchase: Time Attack for 800",
+    "name": "2 x Sharp Hox Spur",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 1,
+    "colonyGold": "5,000 G",
+    "obtainedFrom": "Hox in Bionis' Leg, Trade: Matryona (Colony 6 ☆1), Purchase: Time Attack for 800 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |5,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |5,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-tephra-cave-trade-anna-bionis-leg-1-dorothy-3-purchase",
+    "id": "xc1-colony_reconstruction-nature-lvl1-1-2-x-dark-grape",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Tephra Cave, Trade: Anna (Bionis' Leg ☆1), Dorothy (☆3), Purchase: Time Attack for 2,50",
+    "name": "2 x Dark Grape",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 1,
+    "colonyGold": "5,000 G",
+    "obtainedFrom": "Collectable: Tephra Cave, Trade: Anna (Bionis' Leg ☆1), Dorothy (☆3), Purchase: Time Attack for 2,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Dark Grape",
-    "rewards": [
-      "2 x Dark Grape"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-quadwing-bag-quadwing-in-satorl-marsh-purchase-time-attack-for-1-200-nopo",
+    "id": "xc1-colony_reconstruction-nature-lvl2-0-2-x-quadwing-bag",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Quadwing Bag; Quadwing in Satorl Marsh, Purchase: Time Attack for 1,200 Noponstones (DE)",
+    "name": "2 x Quadwing Bag",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 2,
+    "colonyGold": "18,000 G",
+    "obtainedFrom": "Quadwing in Satorl Marsh, Purchase: Time Attack for 1,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |18,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |18,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-frontier-village-trade-dobadoba-4-purchase-time-attack-for-1",
+    "id": "xc1-colony_reconstruction-nature-lvl2-1-3-x-empress-beetle",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Frontier Village, Trade: Dobadoba (☆4), Purchase: Time Attack for 10,100 Noponstones (D",
+    "name": "3 x Empress Beetle",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 2,
+    "colonyGold": "18,000 G",
+    "obtainedFrom": "Collectable: Frontier Village, Trade: Dobadoba (☆4), Purchase: Time Attack for 10,100 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Empress Beetle",
-    "rewards": [
-      "3 x Empress Beetle"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-3-x-jagged-tail-eryth-hiln-eryth-ansel-in-eryth-sea-trade-kurralth-alcamoth",
+    "id": "xc1-colony_reconstruction-nature-lvl3-0-3-x-jagged-tail",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "3 x Jagged Tail; Eryth Hiln, Eryth Ansel in Eryth Sea, Trade: Kurralth (Alcamoth ☆1), Trade: Talia a",
+    "name": "3 x Jagged Tail",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 3,
+    "colonyGold": "40,000 G",
+    "obtainedFrom": "Eryth Hiln, Eryth Ansel in Eryth Sea, Trade: Kurralth (Alcamoth ☆1), Trade: Talia after Mechonis Core, Purchase: Time Attack for 600 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |40,000 G",
-    "rewards": [
-      "rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |40,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-eryth-sea-trade-atael-alcamoth-2-purchase-time-attack-for-13",
+    "id": "xc1-colony_reconstruction-nature-lvl3-1-2-x-despair-clover",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Eryth Sea, Trade: Atael (Alcamoth ☆2), Purchase: Time Attack for 13,500 Noponstones (DE",
+    "name": "2 x Despair Clover",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 3,
+    "colonyGold": "40,000 G",
+    "obtainedFrom": "Collectable: Eryth Sea, Trade: Atael (Alcamoth ☆2), Purchase: Time Attack for 13,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Despair Clover",
-    "rewards": [
-      "2 x Despair Clover"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-valak-mountain-trade-yura-valak-mountain-4-purchase-time-att",
+    "id": "xc1-colony_reconstruction-nature-lvl3-2-2-x-ice-cabbage",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Valak Mountain, Trade: Yura (Valak Mountain ☆4), Purchase: Time Attack for 13,600 Nopon",
+    "name": "2 x Ice Cabbage",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 3,
+    "colonyGold": "40,000 G",
+    "obtainedFrom": "Collectable: Valak Mountain, Trade: Yura (Valak Mountain ☆4), Purchase: Time Attack for 13,600 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Ice Cabbage",
-    "rewards": [
-      "2 x Ice Cabbage"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-3-x-caterpile-silk-royal-caterpile-in-bionis-leg-trade-sylviane-overtrade",
+    "id": "xc1-colony_reconstruction-nature-lvl4-0-3-x-caterpile-silk",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "3 x Caterpile Silk; Royal Caterpile in Bionis' Leg, Trade: Sylviane (overtrade), Dorothy (☆5), Purch",
+    "name": "3 x Caterpile Silk",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 4,
+    "colonyGold": "99,000 G",
+    "obtainedFrom": "Royal Caterpile in Bionis' Leg, Trade: Sylviane (overtrade), Dorothy (☆5), Purchase: Time Attack for 5,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |99,000 G",
-    "rewards": [
-      "rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |99,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-dark-hox-white-hox-in-bionis-leg-trade-bozatrox-mechonis-field-4-jerell",
+    "id": "xc1-colony_reconstruction-nature-lvl4-1-3-x-hox-daylight-spur",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Dark Hox, White Hox in Bionis' Leg, Trade: Bozatrox (Mechonis Field ☆4), Jer'ell (overtrade), Purcha",
+    "name": "3 x Hox Daylight Spur",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 4,
+    "colonyGold": "99,000 G",
+    "obtainedFrom": "Dark Hox, White Hox in Bionis' Leg, Trade: Bozatrox (Mechonis Field ☆4), Jer'ell (overtrade), Purchase: Time Attack for 7,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Hox Daylight Spur",
-    "rewards": [
-      "3 x Hox Daylight Spur"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-fallen-arm-trade-shilx-fallen-arm-3-qofaria-overtrade-purc",
+    "id": "xc1-colony_reconstruction-nature-lvl4-2-3-x-oil-oyster",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Fallen Arm, Trade: Shilx (Fallen Arm ☆3), Qofaria (overtrade), Purchase: Time Attack fo",
+    "name": "3 x Oil Oyster",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 4,
+    "colonyGold": "99,000 G",
+    "obtainedFrom": "Collectable: Fallen Arm, Trade: Shilx (Fallen Arm ☆3), Qofaria (overtrade), Purchase: Time Attack for 5,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Oil Oyster",
-    "rewards": [
-      "3 x Oil Oyster"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-fallen-arm-trade-prox-3-eleqa-overtrade-purchase-time-att",
+    "id": "xc1-colony_reconstruction-nature-lvl4-3-3-x-white-plum",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Fallen Arm, Trade: Prox (☆3), Eleqa (overtrade), Purchase: Time Attack for 11,800 Nopon",
+    "name": "3 x White Plum",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 4,
+    "colonyGold": "99,000 G",
+    "obtainedFrom": "Collectable: Fallen Arm, Trade: Prox (☆3), Eleqa (overtrade), Purchase: Time Attack for 11,800 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x White Plum",
-    "rewards": [
-      "3 x White Plum"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-3-x-ardun-elder-beard-magnis-ardun-in-bionis-leg-purchase-time-attack-for-7",
+    "id": "xc1-colony_reconstruction-nature-lvl5-0-3-x-ardun-elder-beard",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "3 x Ardun Elder Beard; Magnis Ardun in Bionis' Leg, Purchase: Time Attack for 7,500 Noponstones (DE)",
+    "name": "3 x Ardun Elder Beard",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 5,
+    "colonyGold": "280,000 G",
+    "obtainedFrom": "Magnis Ardun in Bionis' Leg, Purchase: Time Attack for 7,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |280,000 G",
-    "rewards": [
-      "rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |280,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-leg-tokilos-in-bionis-leg-purchase-time-attack-for-6-800-noponstones-de",
+    "id": "xc1-colony_reconstruction-nature-lvl5-1-1-x-tokilos-king-egg",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Leg Tokilos in Bionis' Leg, Purchase: Time Attack for 6,800 Noponstones (DE)",
+    "name": "1 x Tokilos King Egg",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 5,
+    "colonyGold": "280,000 G",
+    "obtainedFrom": "Leg Tokilos in Bionis' Leg, Purchase: Time Attack for 6,800 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 1 x Tokilos King Egg",
-    "rewards": [
-      "1 x Tokilos King Egg"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-agniratha-trade-berryjammy-colony-6-5-purchase-time-attack-f",
+    "id": "xc1-colony_reconstruction-nature-lvl5-2-2-x-lewisia-silver",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Agniratha, Trade: Berryjammy (Colony 6 ☆5), Purchase: Time Attack for 12,900 Noponstone",
+    "name": "2 x Lewisia Silver",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 5,
+    "colonyGold": "280,000 G",
+    "obtainedFrom": "Collectable: Agniratha, Trade: Berryjammy (Colony 6 ☆5), Purchase: Time Attack for 12,900 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Lewisia Silver",
-    "rewards": [
-      "2 x Lewisia Silver"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-bionis-interior-purchase-time-attack-for-23-400-noponstones-de",
+    "id": "xc1-colony_reconstruction-nature-lvl5-3-2-x-black-liver-bean",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Bionis' Interior, Purchase: Time Attack for 23,400 Noponstones (DE)",
+    "name": "2 x Black Liver Bean",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 5,
+    "colonyGold": "280,000 G",
+    "obtainedFrom": "Collectable: Bionis' Interior, Purchase: Time Attack for 23,400 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Black Liver Bean",
-    "rewards": [
-      "2 x Black Liver Bean"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-ether-mine-trade-norara-colony-6-1-purchase-time-attack-for",
+    "id": "xc1-colony_reconstruction-nature-lvl5-4-2-x-black-beetle",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Ether Mine, Trade: Norara (Colony 6 ☆1), Purchase: Time Attack for 4,200 Noponstones (D",
+    "name": "2 x Black Beetle",
     "region": "Colony 6",
+    "collectType": "Nature",
+    "colonyLevel": 5,
+    "colonyGold": "280,000 G",
+    "obtainedFrom": "Collectable: Ether Mine, Trade: Norara (Colony 6 ☆1), Purchase: Time Attack for 4,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Black Beetle",
-    "rewards": [
-      "2 x Black Beetle"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-1-x-light-rain-element-aqua-nebula-on-bionis-leg-trade-satata-refugee-camp",
+    "id": "xc1-colony_reconstruction-special-lvl1-0-1-x-light-rain-element",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "1 x Light Rain Element; Aqua Nebula on Bionis' Leg, Trade: Satata (Refugee Camp, overtrade), Norara ",
+    "name": "1 x Light Rain Element",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 1,
+    "colonyGold": "8,000 G",
+    "obtainedFrom": "Aqua Nebula on Bionis' Leg, Trade: Satata (Refugee Camp, overtrade), Norara (Colony 6 ☆4), Purchase: Time Attack for 1,300 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |8,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |8,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-tephra-cave-trade-werner-colony-9-2-purchase-time-attack-for",
+    "id": "xc1-colony_reconstruction-special-lvl1-1-1-x-kneecap-rock",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Tephra Cave, Trade: Werner (Colony 9 ☆2), Purchase: Time Attack for 6,700 Noponstones (",
+    "name": "1 x Kneecap Rock",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 1,
+    "colonyGold": "8,000 G",
+    "obtainedFrom": "Collectable: Tephra Cave, Trade: Werner (Colony 9 ☆2), Purchase: Time Attack for 6,700 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 1 x Kneecap Rock",
-    "rewards": [
-      "1 x Kneecap Rock"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-dust-element-caris-nebula-in-makna-forest-trade-hoko-frontier-village-4",
+    "id": "xc1-colony_reconstruction-special-lvl2-0-2-x-dust-element",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Dust Element; Caris Nebula in Makna Forest, Trade: Hoko (Frontier Village ☆4), Purchase: Time At",
+    "name": "2 x Dust Element",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 2,
+    "colonyGold": "25,000 G",
+    "obtainedFrom": "Caris Nebula in Makna Forest, Trade: Hoko (Frontier Village ☆4), Purchase: Time Attack for 3,000 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |25,000 G",
-    "rewards": [
-      "rowspan=\"2\" style=\"text-align:right; vertical-align:middle;\" |25,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-eryth-sea-trade-talia-alcamoth-1-purchase-time-attack-for-8",
+    "id": "xc1-colony_reconstruction-special-lvl2-1-3-x-sea-berry",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Eryth Sea, Trade: Talia (Alcamoth ☆1), Purchase: Time Attack for 8,100 Noponstones (DE)",
+    "name": "3 x Sea Berry",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 2,
+    "colonyGold": "25,000 G",
+    "obtainedFrom": "Collectable: Eryth Sea, Trade: Talia (Alcamoth ☆1), Purchase: Time Attack for 8,100 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Sea Berry",
-    "rewards": [
-      "3 x Sea Berry"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-squall-element-bono-nebula-in-eryth-sea-trade-nelo-alcamoth-3-trade",
+    "id": "xc1-colony_reconstruction-special-lvl3-0-2-x-squall-element",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Squall Element; Bono Nebula in Eryth Sea, Trade: Nelo (Alcamoth ☆3), Trade: En Argentis after Me",
+    "name": "2 x Squall Element",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 3,
+    "colonyGold": "50,000 G",
+    "obtainedFrom": "Bono Nebula in Eryth Sea, Trade: Nelo (Alcamoth ☆3), Trade: En Argentis after Mechonis Core, Purchase: Time Attack for 2,600 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |50,000 G",
-    "rewards": [
-      "rowspan=\"3\" style=\"text-align:right; vertical-align:middle;\" |50,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-reef-nebula-in-valak-mountain-trade-yura-valak-overtrade-purchase-time-at",
+    "id": "xc1-colony_reconstruction-special-lvl3-1-2-x-snow-element",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Reef Nebula in Valak Mountain, Trade: Yura (Valak, overtrade), Purchase: Time Attack for 5,700 Nopon",
+    "name": "2 x Snow Element",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 3,
+    "colonyGold": "50,000 G",
+    "obtainedFrom": "Reef Nebula in Valak Mountain, Trade: Yura (Valak, overtrade), Purchase: Time Attack for 5,700 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Snow Element",
-    "rewards": [
-      "2 x Snow Element"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-makna-forest-trade-kilaki-rono-3-purchase-time-attack-for-1",
+    "id": "xc1-colony_reconstruction-special-lvl3-2-3-x-lemonade-sky",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Makna Forest, Trade: Kilaki, Rono (☆3), Purchase: Time Attack for 12,200 Noponstones (D",
+    "name": "3 x Lemonade Sky",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 3,
+    "colonyGold": "50,000 G",
+    "obtainedFrom": "Collectable: Makna Forest, Trade: Kilaki, Rono (☆3), Purchase: Time Attack for 12,200 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Lemonade Sky",
-    "rewards": [
-      "3 x Lemonade Sky"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-3-x-flexible-selua-cell-largo-selua-in-bionis-interior-purchase-time-attack",
+    "id": "xc1-colony_reconstruction-special-lvl4-0-3-x-flexible-selua-cell",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "3 x Flexible Selua Cell; Largo Selua in Bionis' Interior, Purchase: Time Attack for 8,600 Noponstone",
+    "name": "3 x Flexible Selua Cell",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 4,
+    "colonyGold": "130,000 G",
+    "obtainedFrom": "Largo Selua in Bionis' Interior, Purchase: Time Attack for 8,600 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |130,000 G",
-    "rewards": [
-      "rowspan=\"4\" style=\"text-align:right; vertical-align:middle;\" |130,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-wool-selua-in-bionis-interior-purchase-time-attack-for-9-100-noponstones-de",
+    "id": "xc1-colony_reconstruction-special-lvl4-1-3-x-steel-selua-cell",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Wool Selua in Bionis' Interior, Purchase: Time Attack for 9,100 Noponstones (DE)",
+    "name": "3 x Steel Selua Cell",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 4,
+    "colonyGold": "130,000 G",
+    "obtainedFrom": "Wool Selua in Bionis' Interior, Purchase: Time Attack for 9,100 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Steel Selua Cell",
-    "rewards": [
-      "3 x Steel Selua Cell"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-fallen-arm-purchase-time-attack-for-23-700-noponstones-de",
+    "id": "xc1-colony_reconstruction-special-lvl4-2-2-x-rainbow-slug",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Fallen Arm, Purchase: Time Attack for 23,700 Noponstones (DE)",
+    "name": "2 x Rainbow Slug",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 4,
+    "colonyGold": "130,000 G",
+    "obtainedFrom": "Collectable: Fallen Arm, Purchase: Time Attack for 23,700 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Rainbow Slug",
-    "rewards": [
-      "2 x Rainbow Slug"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-mechonis-field-trade-scarlen-after-mechonis-core-purchase-time",
+    "id": "xc1-colony_reconstruction-special-lvl4-3-2-x-azure-hollyhock",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Mechonis Field, Trade: Scarlen after Mechonis Core, Purchase: Time Attack for 11,000 No",
+    "name": "2 x Azure Hollyhock",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 4,
+    "colonyGold": "130,000 G",
+    "obtainedFrom": "Collectable: Mechonis Field, Trade: Scarlen after Mechonis Core, Purchase: Time Attack for 11,000 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Azure Hollyhock",
-    "rewards": [
-      "2 x Azure Hollyhock"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-2-x-inferno-element-cratere-nebula-in-prison-island-purchase-time-attack-for",
+    "id": "xc1-colony_reconstruction-special-lvl5-0-2-x-inferno-element",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "2 x Inferno Element; Cratere Nebula in Prison Island, Purchase: Time Attack for 11,000 Noponstones (",
+    "name": "2 x Inferno Element",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 5,
+    "colonyGold": "400,000 G",
+    "obtainedFrom": "Cratere Nebula in Prison Island, Purchase: Time Attack for 11,000 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |400,000 G",
-    "rewards": [
-      "rowspan=\"5\" style=\"text-align:right; vertical-align:middle;\" |400,000 G"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-solare-nebula-in-prison-island-purchase-time-attack-for-11-400-noponstones-de",
+    "id": "xc1-colony_reconstruction-special-lvl5-1-2-x-bolt-element",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Solare Nebula in Prison Island, Purchase: Time Attack for 11,400 Noponstones (DE)",
+    "name": "2 x Bolt Element",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 5,
+    "colonyGold": "400,000 G",
+    "obtainedFrom": "Solare Nebula in Prison Island, Purchase: Time Attack for 11,400 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Bolt Element",
-    "rewards": [
-      "2 x Bolt Element"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-agniratha-trade-oleksiy-colony-6-5-purchase-time-attack-for",
+    "id": "xc1-colony_reconstruction-special-lvl5-2-3-x-blue-light-amp",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Agniratha, Trade: Oleksiy (Colony 6 ☆5), Purchase: Time Attack for 11,500 Noponstones (",
+    "name": "3 x Blue Light Amp",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 5,
+    "colonyGold": "400,000 G",
+    "obtainedFrom": "Collectable: Agniratha, Trade: Oleksiy (Colony 6 ☆5), Purchase: Time Attack for 11,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Blue Light Amp",
-    "rewards": [
-      "3 x Blue Light Amp"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-central-factory-trade-shilx-colony-6-5-purchase-time-attack",
+    "id": "xc1-colony_reconstruction-special-lvl5-3-2-x-angel-engine-x",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Central Factory, Trade: Shilx (Colony 6 ☆5), Purchase: Time Attack for 22,500 Noponston",
+    "name": "2 x Angel Engine X",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 5,
+    "colonyGold": "400,000 G",
+    "obtainedFrom": "Collectable: Central Factory, Trade: Shilx (Colony 6 ☆5), Purchase: Time Attack for 22,500 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 2 x Angel Engine X",
-    "rewards": [
-      "2 x Angel Engine X"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   },
   {
-    "id": "xc1-colony_reconstruction-general-collectable-colony-9-trade-moritz-1-purchase-time-attack-for-3-000-nopon",
+    "id": "xc1-colony_reconstruction-special-lvl5-4-3-x-rabbit-diode",
     "gameId": "xc1",
     "category": "colony_reconstruction",
-    "name": "Collectable: Colony 9, Trade: Moritz (☆1), Purchase: Time Attack for 3,000 Noponstones (DE)",
+    "name": "3 x Rabbit Diode",
     "region": "Colony 6",
+    "collectType": "Special",
+    "colonyLevel": 5,
+    "colonyGold": "400,000 G",
+    "obtainedFrom": "Collectable: Colony 9, Trade: Moritz (☆1), Purchase: Time Attack for 3,000 Noponstones (DE)",
     "prerequisites": [],
-    "description": "General — Cost: 3 x Rabbit Diode",
-    "rewards": [
-      "3 x Rabbit Diode"
-    ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-oriental-glasses",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Oriental Glasses",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: Housing Lvl 5",
-    "rewards": [
-      "Housing Lvl 5"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-titan-arms",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Titan Arms",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: Commerce Lvl 5",
-    "rewards": [
-      "Commerce Lvl 5"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-exp-up-iv",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "EXP Up IV",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: Nature Lvl 5",
-    "rewards": [
-      "Nature Lvl 5"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-master-glasses",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Master Glasses",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: Special Lvl 5",
-    "rewards": [
-      "Special Lvl 5"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-ultra-small-reactor",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Ultra Small Reactor",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: All Lvl 1",
-    "rewards": [
-      "All Lvl 1"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-exp-up-iii",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "EXP Up III",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: All Lvl 2",
-    "rewards": [
-      "All Lvl 2"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-topple-plus-iv",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Topple Plus IV",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: All Lvl 3",
-    "rewards": [
-      "All Lvl 3"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-debuff-resist-v",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Debuff Resist V",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: All Lvl 4",
-    "rewards": [
-      "All Lvl 4"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
-  },
-  {
-    "id": "xc1-colony_reconstruction-general-titan-plate",
-    "gameId": "xc1",
-    "category": "colony_reconstruction",
-    "name": "Titan Plate",
-    "region": "Colony 6",
-    "prerequisites": [],
-    "description": "General — Cost: All Lvl 5",
-    "rewards": [
-      "All Lvl 5"
-    ],
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_6_Reconstruction",
-    "wikiPageId": 2378,
-    "collectType": "General"
+    "wikiPageId": 2378
   }
 ]

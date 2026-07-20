@@ -4,6 +4,7 @@ const CATEGORY_FILES: Partial<Record<string, string>> = {
   achievement: 'achievements.json',
   heart_to_heart: 'heart-to-hearts.json',
   quiet_moment: 'quiet-moments.json',
+  item: 'items.json',
   collectopaedia: 'collectopaedia.json',
   landmark: 'landmarks.json',
   colony_reconstruction: 'colony-reconstruction.json',

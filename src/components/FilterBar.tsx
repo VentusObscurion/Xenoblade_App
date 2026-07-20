@@ -15,7 +15,11 @@ interface FilterBarProps {
   onHideUntilPrereqDoneChange: (value: boolean) => void
   showOnlyAvailable: boolean
   onShowOnlyAvailableChange: (value: boolean) => void
+  showCompleted?: boolean
+  onShowCompletedChange?: (value: boolean) => void
   showQuestOptions?: boolean
+  showHideCompleted?: boolean
+  showAvailabilityOptions?: boolean
 }
 
 export function FilterBar({
@@ -32,7 +36,11 @@ export function FilterBar({
   onHideUntilPrereqDoneChange,
   showOnlyAvailable,
   onShowOnlyAvailableChange,
+  showCompleted = true,
+  onShowCompletedChange,
   showQuestOptions = false,
+  showHideCompleted = false,
+  showAvailabilityOptions = false,
 }: FilterBarProps) {
   return (
     <div className="filter-bar">
@@ -77,6 +85,16 @@ export function FilterBar({
           <option value="prerequisites">By prerequisites</option>
         )}
       </select>
+      {showHideCompleted && (
+        <label className="filter-checkbox">
+          <input
+            type="checkbox"
+            checked={showCompleted}
+            onChange={(e) => onShowCompletedChange?.(e.target.checked)}
+          />
+          Show completed
+        </label>
+      )}
       {showQuestOptions && (
         <>
           <label className="filter-checkbox">
@@ -87,15 +105,17 @@ export function FilterBar({
             />
             Unlock via prior quests
           </label>
-          <label className="filter-checkbox">
-            <input
-              type="checkbox"
-              checked={showOnlyAvailable}
-              onChange={(e) => onShowOnlyAvailableChange(e.target.checked)}
-            />
-            Available only
-          </label>
         </>
+      )}
+      {showAvailabilityOptions && (
+        <label className="filter-checkbox">
+          <input
+            type="checkbox"
+            checked={showOnlyAvailable}
+            onChange={(e) => onShowOnlyAvailableChange(e.target.checked)}
+          />
+          Available only
+        </label>
       )}
     </div>
   )

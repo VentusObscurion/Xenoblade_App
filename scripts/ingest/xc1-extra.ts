@@ -1,13 +1,16 @@
 import type { GameId, TrackableItem } from '../../src/types/tracker.ts'
+import { parseMonsterDrops } from './parse-chest-drops.ts'
+import { parseItemExtras } from './parse-item-extras.ts'
 import {
   extractQuestGuide,
   parseGenericInfobox,
+  parseInfobox,
   parseWikiSection,
   slugify,
   stripWikiMarkup,
 } from './parse-infobox.ts'
-import { parseAllWikitableWithHeaders } from './parse-wikitable.ts'
-import { getPageWikitext, wikiPageUrl } from './wiki-client.ts'
+import { extractWikiTable, parseTableCells } from './parse-wikitable.ts'
+import { expandWikiTemplates, getCategoryPagesWithWikitext, getPageWikitext, wikiPageUrl } from './wiki-client.ts'
 
 function makeId(gameId: GameId, category: string, name: string): string {
   return `${gameId}-${category}-${slugify(name)}`
@@ -59,6 +62,134 @@ const XC1_COLLECTION_PAGES = [
   'Sword Valley Collection',
   "Bionis' Shoulder Collection",
 ]
+
+const XC1_ITEM_CATEGORIES = [
+  'XC_Vegetables',
+  'XC_Fruit',
+  'XC_Flowers',
+  'XC_Bugs',
+  'XC_Parts',
+  'XC_Strange',
+]
+
+const COLONY6_SECTIONS = ['Housing', 'Commerce', 'Nature', 'Special'] as const
+
+function parseCollectionTable(wikitext: string, region: string, gameId: GameId): TrackableItem[] {
+  const start =
+    wikitext.search(/\{\|\s*class="xc1 collectopaedia"/i) >= 0
+      ? wikitext.search(/\{\|\s*class="xc1 collectopaedia"/i)
+      : wikitext.indexOf('{|')
+  if (start === -1) return []
+
+  const tableContent = extractWikiTable(wikitext, start)
+  if (!tableContent) return []
+
+  const items: TrackableItem[] = []
+  const rowChunks = tableContent.split(/\n\s*\|-/)
+
+  for (const chunk of rowChunks) {
+    const cells = parseTableCells(chunk)
+    if (cells.length < 3) continue
+    if (cells[0].toLowerCase().includes('type')) continue
+
+    const collectType = cells[0] || 'Unknown'
+    const slotCells = cells.slice(1, 6)
+    while (slotCells.length < 5) slotCells.push('')
+    const slots = slotCells.map((cell) => (cell && cell.length > 0 ? cell : null))
+    const reward = cells[6] ?? cells[cells.length - 1] ?? ''
+
+    if (!collectType || collectType.toLowerCase() === 'reward') continue
+
+    const name = `${region} — ${collectType}`
+    items.push({
+      id: makeId(gameId, 'collectopaedia', name),
+      gameId,
+      category: 'collectopaedia',
+      name,
+      region,
+      collectType,
+      collectopaediaSlots: slots,
+      rewards: reward ? [reward] : undefined,
+      prerequisites: [],
+      wikiUrl: wikiPageUrl(`${region} Collection`),
+    })
+  }
+
+  return items
+}
+
+function parseColony6Section(
+  wikitext: string,
+  section: string,
+  gameId: GameId,
+): TrackableItem[] {
+  const sectionMatch = wikitext.match(
+    new RegExp(`==\\s*${section}\\s*==([\\s\\S]*?)(?=\\n==[^=]|$)`, 'i'),
+  )
+  if (!sectionMatch) return []
+
+  const tableStart = sectionMatch[1].indexOf('{|')
+  if (tableStart === -1) return []
+
+  const tableContent = extractWikiTable(sectionMatch[1], tableStart)
+  if (!tableContent) return []
+
+  const items: TrackableItem[] = []
+  const rowChunks = tableContent.split(/\n\s*\|-/)
+  let currentLevel: number | undefined
+  let currentGold: string | undefined
+  let materialIndex = 0
+
+  for (const chunk of rowChunks) {
+    const cells = parseTableCells(chunk)
+    if (cells.length === 0) continue
+    if (cells[0].toLowerCase() === 'level') continue
+
+    const levelMatch = cells[0].match(/^(\d)$/)
+    if (levelMatch) {
+      currentLevel = parseInt(levelMatch[1], 10)
+      currentGold = cells[1] || currentGold
+      materialIndex = 0
+      if (cells.length >= 4) {
+        addColony6Material(items, gameId, section, currentLevel, currentGold, cells[2], cells[3], materialIndex++)
+      }
+      continue
+    }
+
+    if (cells.length >= 2 && currentLevel !== undefined) {
+      addColony6Material(items, gameId, section, currentLevel, currentGold, cells[0], cells[1], materialIndex++)
+    }
+  }
+
+  return items
+}
+
+function addColony6Material(
+  items: TrackableItem[],
+  gameId: GameId,
+  section: string,
+  level: number,
+  gold: string | undefined,
+  material: string,
+  obtainedFrom: string,
+  materialIndex: number,
+): void {
+  if (!material || /^(level|gold|items needed|obtained from)$/i.test(material)) return
+
+  items.push({
+    id: makeId(gameId, 'colony_reconstruction', `${section}-lvl${level}-${materialIndex}-${material}`),
+    gameId,
+    category: 'colony_reconstruction',
+    name: material,
+    region: 'Colony 6',
+    collectType: section,
+    colonyLevel: level,
+    colonyGold: gold,
+    obtainedFrom,
+    prerequisites: [],
+    wikiUrl: wikiPageUrl('Colony 6 Reconstruction'),
+  })
+}
 
 export async function fetchLandmarks(gameId: GameId): Promise<TrackableItem[]> {
   console.log('  Fetching landmarks from area pages')
@@ -113,6 +244,72 @@ export async function fetchLandmarks(gameId: GameId): Promise<TrackableItem[]> {
   return items
 }
 
+export async function fetchXC1Items(gameId: GameId): Promise<TrackableItem[]> {
+  console.log('  Fetching XC1 collectable items')
+  const items: TrackableItem[] = []
+  const seen = new Set<string>()
+  const pending: Array<{
+    page: { pageid: number; title: string; wikitext?: string }
+    name: string
+    fields: Record<string, string>
+    giftingTemplate: string
+  }> = []
+
+  for (const category of XC1_ITEM_CATEGORIES) {
+    const pages = await getCategoryPagesWithWikitext(category)
+    for (const page of pages) {
+      if (!page.wikitext) continue
+      const fields = parseInfobox(page.wikitext, ['item', 'Item'])
+      const name = (fields.name || page.title).replace(/ \(XC1\)$/, '')
+      const id = makeId(gameId, 'item', name)
+      if (seen.has(id)) continue
+      seen.add(id)
+
+      pending.push({
+        page,
+        name,
+        fields,
+        giftingTemplate: page.wikitext.includes('{{Gifting')
+          ? `{{Gifting|${fields.name || name}}}`
+          : '',
+      })
+    }
+  }
+
+  console.log(`  Expanding gifting templates for ${pending.filter((p) => p.giftingTemplate).length} items`)
+  const giftingTemplates = pending.map((p) => p.giftingTemplate)
+  const expandedGifting = await expandWikiTemplates(giftingTemplates)
+
+  for (let i = 0; i < pending.length; i++) {
+    const { page, name, fields } = pending[i]
+    const extras = parseItemExtras(
+      page.wikitext ?? '',
+      fields.source,
+      expandedGifting[i] || undefined,
+    )
+
+    items.push({
+      id: makeId(gameId, 'item', name),
+      gameId,
+      category: 'item',
+      name,
+      collectType: fields.type,
+      region: extras.locations[0] ?? fields.source,
+      description: fields.caption || fields.description,
+      itemLocations: extras.locations,
+      itemHasTrade: extras.hasTrade,
+      itemTradeInfo: extras.tradeInfo.length > 0 ? extras.tradeInfo : undefined,
+      itemGifting: extras.gifting,
+      itemQuestUses: extras.questUses.length > 0 ? extras.questUses : undefined,
+      prerequisites: [],
+      wikiUrl: wikiPageUrl(page.title),
+      wikiPageId: page.pageid,
+    })
+  }
+
+  return items
+}
+
 export async function fetchXC1Collectopaedia(gameId: GameId): Promise<TrackableItem[]> {
   console.log('  Fetching XC1 region collections (Collectopaedia)')
   const items: TrackableItem[] = []
@@ -123,25 +320,10 @@ export async function fetchXC1Collectopaedia(gameId: GameId): Promise<TrackableI
     if (!wikitext) continue
 
     const region = pageTitle.replace(' Collection', '')
-    const rows = parseAllWikitableWithHeaders(wikitext)
-    for (const row of rows) {
-      const cells = row.cells.filter((c) => !c.startsWith('class=') && c !== '')
-      for (const cell of cells) {
-        if (cell.length < 2 || cell.includes('Resist') || cell.includes('Attack')) continue
-        const name = stripWikiMarkup(cell)
-        if (!name || name.length > 60) continue
-        items.push({
-          id: makeId(gameId, 'collectopaedia', `${region}-${name}`),
-          gameId,
-          category: 'collectopaedia',
-          name,
-          region,
-          prerequisites: [],
-          description: `Part of ${region} Collection set`,
-          wikiUrl: wikiPageUrl(pageTitle),
-          wikiPageId: pages[0]?.pageid,
-        })
-      }
+    const sets = parseCollectionTable(wikitext, region, gameId)
+    for (const set of sets) {
+      set.wikiPageId = pages[0]?.pageid
+      items.push(set)
     }
   }
 
@@ -155,36 +337,12 @@ export async function fetchColony6Reconstruction(gameId: GameId): Promise<Tracka
   if (!wikitext) return []
 
   const items: TrackableItem[] = []
-  const rows = parseAllWikitableWithHeaders(wikitext)
-  let currentCategory = 'General'
-
-  for (const row of rows) {
-    const cells = row.cells.map((c) => stripWikiMarkup(c)).filter(Boolean)
-    if (cells.length === 0) continue
-
-    if (cells.length === 1 && cells[0].length < 40) {
-      currentCategory = cells[0]
-      continue
+  for (const section of COLONY6_SECTIONS) {
+    const sectionItems = parseColony6Section(wikitext, section, gameId)
+    for (const item of sectionItems) {
+      item.wikiPageId = pages[0]?.pageid
+      items.push(item)
     }
-
-    const cost = cells[0]
-    const materials = cells.slice(1).join('; ')
-    if (!materials) continue
-
-    const name = `${currentCategory}: ${materials.slice(0, 80)}`
-    items.push({
-      id: makeId(gameId, 'colony_reconstruction', name),
-      gameId,
-      category: 'colony_reconstruction',
-      name: materials.slice(0, 100),
-      region: 'Colony 6',
-      prerequisites: [],
-      description: `${currentCategory} — Cost: ${cost}`,
-      rewards: [cost],
-      wikiUrl: wikiPageUrl('Colony 6 Reconstruction'),
-      wikiPageId: pages[0]?.pageid,
-      collectType: currentCategory,
-    })
   }
 
   return items
@@ -198,12 +356,7 @@ export function parseMonsterExtras(wikitext: string): {
   drops: string[]
 } {
   const fields = parseGenericInfobox(wikitext)
-  const drops: string[] = []
-
-  for (const section of ['Drops', 'Chests', 'Wood', 'Silver', 'Gold']) {
-    const content = parseWikiSection(wikitext, section)
-    if (content) drops.push(`${section}: ${content}`)
-  }
+  const drops = parseMonsterDrops(wikitext)
 
   return {
     spawnTime: fields.spawntime || fields['spawn time'],

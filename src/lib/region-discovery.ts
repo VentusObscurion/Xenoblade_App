@@ -28,7 +28,17 @@ export function isRegionDiscovered(
   gameState: GameState,
 ): boolean {
   const canonical = getCanonicalRegion(item.region)
-  if (!canonical) return true
+  if (!canonical) return false
+  return gameState.discoveredAreas[canonical] === true
+}
+
+export function isRegionIdDiscovered(
+  region: string | undefined,
+  gameState: GameState,
+): boolean {
+  if (!region) return false
+  const canonical = getCanonicalRegion(region)
+  if (!canonical) return false
   return gameState.discoveredAreas[canonical] === true
 }
 

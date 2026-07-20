@@ -16,9 +16,11 @@ import {
   fetchColony6Reconstruction,
   fetchLandmarks,
   fetchXC1Collectopaedia,
+  fetchXC1Items,
   parseMonsterExtras,
   parseQuestExtras,
 } from './xc1-extra.ts'
+import { parseH2HPage } from './parse-h2h.ts'
 import {
   getCategoryPagesWithWikitext,
   getPageWikitext,
@@ -291,6 +293,70 @@ async function fetchAchievements(gameId: GameId): Promise<TrackableItem[]> {
   return items
 }
 
+async function enrichHeartToHearts(items: TrackableItem[]): Promise<TrackableItem[]> {
+  if (items.length === 0) return items
+
+  console.log(`  Enriching ${items.length} heart-to-hearts from individual pages`)
+  const titles = items.map((item) => item.name.replace(/ /g, '_'))
+  const pages = await getPageWikitext(titles)
+  const wikitextByTitle = new Map<string, string>()
+  for (const page of pages) {
+    if (page.wikitext) {
+      wikitextByTitle.set(page.title.replace(/_/g, ' '), page.wikitext)
+    }
+  }
+
+  return items.map((item) => {
+    const wikitext = wikitextByTitle.get(item.name)
+    if (!wikitext) return item
+
+    const details = parseH2HPage(wikitext)
+    const prerequisites = [...item.prerequisites]
+
+    if (details.subLocation) {
+      const locIdx = prerequisites.findIndex((p) => p.type === 'area')
+      if (locIdx >= 0) {
+        prerequisites[locIdx] = { type: 'area', label: details.subLocation }
+      } else {
+        prerequisites.unshift({ type: 'area', label: details.subLocation })
+      }
+    }
+
+    if (details.affinityLevel !== undefined) {
+      const affIdx = prerequisites.findIndex((p) => p.type === 'affinity')
+      const affLabel =
+        details.affinityLabel ?? `Character affinity level ${details.affinityLevel}`
+      if (affIdx >= 0) {
+        prerequisites[affIdx] = { type: 'affinity', label: affLabel }
+      } else {
+        prerequisites.push({ type: 'affinity', label: affLabel })
+      }
+    }
+
+    if (details.otherRequirements) {
+      const hasOther = prerequisites.some(
+        (p) => p.type === 'other' && p.label === details.otherRequirements,
+      )
+      if (!hasOther) {
+        prerequisites.push({ type: 'other', label: details.otherRequirements })
+      }
+    }
+
+    return {
+      ...item,
+      region: details.region ?? item.region,
+      subLocation: details.subLocation ?? item.subLocation,
+      characters: details.characters.length > 0 ? details.characters : item.characters,
+      affinityLevel: details.affinityLevel,
+      timeOfDay: details.timeWindow ?? item.timeOfDay,
+      affinityEffects: details.affinityEffects ?? item.affinityEffects,
+      h2hIntro: details.intro ?? item.h2hIntro,
+      h2hOutcomes: details.outcomes ?? item.h2hOutcomes,
+      prerequisites,
+    }
+  })
+}
+
 async function fetchHeartToHearts(gameId: GameId): Promise<TrackableItem[]> {
   console.log('  Fetching heart-to-hearts')
   const items: TrackableItem[] = []
@@ -346,7 +412,7 @@ async function fetchHeartToHearts(gameId: GameId): Promise<TrackableItem[]> {
     }
   }
 
-  return items
+  return enrichHeartToHearts(items)
 }
 
 async function fetchQuietMoments(gameId: GameId): Promise<TrackableItem[]> {
@@ -439,6 +505,7 @@ export async function ingestXC1(): Promise<void> {
   const xc1Monsters = await fetchUniqueMonsters('XC_Unique_Monsters', 'xc1')
   const xc1Achievements = await fetchAchievements('xc1')
   const xc1H2H = await fetchHeartToHearts('xc1')
+  const xc1Items = await fetchXC1Items('xc1')
   const xc1Collectopaedia = await fetchXC1Collectopaedia('xc1')
   const xc1Landmarks = await fetchLandmarks('xc1')
   const xc1Colony6 = await fetchColony6Reconstruction('xc1')
@@ -459,6 +526,7 @@ export async function ingestXC1(): Promise<void> {
   writeJson(join(xc1Dir, 'unique-monsters.json'), xc1Monsters)
   writeJson(join(xc1Dir, 'achievements.json'), xc1Achievements)
   writeJson(join(xc1Dir, 'heart-to-hearts.json'), xc1H2H)
+  writeJson(join(xc1Dir, 'items.json'), xc1Items)
   writeJson(join(xc1Dir, 'collectopaedia.json'), xc1Collectopaedia)
   writeJson(join(xc1Dir, 'landmarks.json'), xc1Landmarks)
   writeJson(join(xc1Dir, 'colony-reconstruction.json'), xc1Colony6)
@@ -480,6 +548,7 @@ export async function ingestXC1(): Promise<void> {
           unique_monster: xc1Monsters.length,
           achievement: xc1Achievements.length,
           heart_to_heart: xc1H2H.length,
+          item: xc1Items.length,
           collectopaedia: xc1Collectopaedia.length,
           landmark: xc1Landmarks.length,
           colony_reconstruction: xc1Colony6.length,
@@ -503,7 +572,8 @@ export async function ingestXC1(): Promise<void> {
   console.log(`  XC1 Unique Monsters: ${xc1Monsters.length}`)
   console.log(`  XC1 Achievements: ${xc1Achievements.length}`)
   console.log(`  XC1 Heart-to-Hearts: ${xc1H2H.length}`)
-  console.log(`  XC1 Collectopaedia: ${xc1Collectopaedia.length}`)
+  console.log(`  XC1 Items: ${xc1Items.length}`)
+  console.log(`  XC1 Collectopaedia sets: ${xc1Collectopaedia.length}`)
   console.log(`  XC1 Landmarks: ${xc1Landmarks.length}`)
   console.log(`  XC1 Colony 6 Reconstruction: ${xc1Colony6.length}`)
   console.log(`  FC Quests: ${fcQuests.length}`)

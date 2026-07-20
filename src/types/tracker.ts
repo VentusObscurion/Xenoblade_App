@@ -6,6 +6,7 @@ export type Category =
   | 'achievement'
   | 'heart_to_heart'
   | 'quiet_moment'
+  | 'item'
   | 'collectopaedia'
   | 'landmark'
   | 'colony_reconstruction'
@@ -23,6 +24,12 @@ export interface Prerequisite {
   type: PrerequisiteType
   label: string
   refId?: string
+}
+
+export interface H2HOutcome {
+  title: string
+  choices: string[]
+  dialogue: string
 }
 
 export interface TrackableItem {
@@ -54,12 +61,26 @@ export interface TrackableItem {
   drops?: string[]
   // Heart-to-heart details
   characters?: string[]
+  affinityLevel?: number
   timeOfDay?: string
   affinityEffects?: string
+  h2hIntro?: string
+  h2hOutcomes?: H2HOutcome[]
+  // Item details
+  itemLocations?: string[]
+  itemHasTrade?: boolean
+  itemTradeInfo?: string[]
+  itemGifting?: string
+  itemQuestUses?: string[]
   // Collectopaedia details
   collectType?: string
   rarity?: string
   quantity?: string
+  collectopaediaSlots?: (string | null)[]
+  // Colony 6 reconstruction
+  colonyLevel?: number
+  colonyGold?: string
+  obtainedFrom?: string
 }
 
 export interface ProgressEntry {
@@ -113,6 +134,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   achievement: 'Achievements',
   heart_to_heart: 'Heart-to-Hearts',
   quiet_moment: 'Quiet Moments',
+  item: 'Items',
   collectopaedia: 'Collectopaedia',
   landmark: 'Landmarks',
   colony_reconstruction: 'Colony 6 Reconstruction',
@@ -124,8 +146,8 @@ export const GAME_CATEGORIES: Record<GameId, Category[]> = {
     'unique_monster',
     'achievement',
     'heart_to_heart',
+    'item',
     'collectopaedia',
-    'landmark',
     'colony_reconstruction',
   ],
   'xc1-fc': ['quest', 'unique_monster', 'quiet_moment'],

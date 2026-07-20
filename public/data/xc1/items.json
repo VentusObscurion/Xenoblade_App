@@ -1,0 +1,4848 @@
+[
+  {
+    "id": "xc1-item-acerola-pea",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Acerola Pea",
+    "collectType": "Vegetable",
+    "region": "Mechonis Field",
+    "description": "A pea so bitter it'll drain the colour from your face.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 8; Dunban: 2; Reyn: -2; Sharla: -4; Riki: 8; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Acerola_Pea",
+    "wikiPageId": 4851
+  },
+  {
+    "id": "xc1-item-amethyst-vanilla",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Amethyst Vanilla",
+    "collectType": "Vegetable",
+    "region": "Valak Mountain",
+    "description": "A strongly sour veg to warm you up. Available in cold lands. Tastes OK.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zain · ☆1 ※ · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: 8; Dunban: 2; Reyn: -8; Sharla: 2; Riki: 10; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Amethyst_Vanilla_(XC1)",
+    "wikiPageId": 4342
+  },
+  {
+    "id": "xc1-item-bitter-broccoli",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Bitter Broccoli",
+    "collectType": "Vegetable",
+    "region": "Sword Valley",
+    "description": "This stays bitter no matter how you cook it. Looks pretty ordinary though.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Vronik · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: 10; Dunban: 2; Reyn: 4; Sharla: -4; Riki: 2; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bitter_Broccoli",
+    "wikiPageId": 4601
+  },
+  {
+    "id": "xc1-item-black-liver-bean",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Liver Bean",
+    "collectType": "Vegetable",
+    "region": "Bionis' Interior",
+    "description": "Though strongly bitter, a skilled chef can turn it into a gourmet food.",
+    "itemLocations": [
+      "Bionis' Interior"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 12; Dunban: 8; Reyn: 8; Sharla: 4; Riki: -2; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Liver_Bean_(XC1)",
+    "wikiPageId": 2889
+  },
+  {
+    "id": "xc1-item-blue-root",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Root",
+    "collectType": "Vegetable",
+    "region": "Central Factory",
+    "description": "A gentle fragrance enveloped in a delicious sweetness.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Minana · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 12; Dunban: -10; Reyn: 4; Sharla: 2; Riki: 14; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Root",
+    "wikiPageId": 4891
+  },
+  {
+    "id": "xc1-item-blue-turnip",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Turnip",
+    "collectType": "Vegetable",
+    "region": "Satorl Marsh",
+    "description": "Blue's not the most appetising colour, but one bite and you're hooked.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Talia · ☆2 ※1 · Satorl Marsh",
+      "Nikita · ☆4 · Colony 6",
+      "Adidi · ☆5 ※2 · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 12; Dunban: 2; Reyn: 2; Sharla: -2; Riki: 10; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Turnip",
+    "wikiPageId": 2449
+  },
+  {
+    "id": "xc1-item-chewy-radish",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Chewy Radish",
+    "collectType": "Vegetable",
+    "region": "Colony 9",
+    "description": "Red and sour, thus difficult to cook. Used medicinally as a restorative.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Jackson · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Kenny Rohan · ☆2 · Colony 9 (XC1) | Colony 9",
+      "Giorgio · ☆3 · Colony 9 (XC1) | Colony 9",
+      "Earnest · ☆3 · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 16; Dunban: -4; Reyn: 2; Sharla: 4; Riki: 10; Melia: 4",
+    "itemQuestUses": [
+      "''Chemist's Reopening''"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Chewy_Radish_(XC1)",
+    "wikiPageId": 2303
+  },
+  {
+    "id": "xc1-item-cool-potato",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Cool Potato",
+    "collectType": "Vegetable",
+    "region": "Colony 9",
+    "description": "A cooling green root that is particularly valued in the summer.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Leopold · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Rocco · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Peppino · ☆2 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: 2; Reyn: 4; Sharla: -10; Riki: 14; Melia: -4",
+    "itemQuestUses": [
+      "Collection Quest 1"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cool_Potato_(XC1)",
+    "wikiPageId": 4389
+  },
+  {
+    "id": "xc1-item-cute-parsnip",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Cute Parsnip",
+    "collectType": "Vegetable",
+    "region": "Satorl Marsh",
+    "description": "Pleasing to the eye and very sweet. Some folk plant it for decoration.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zazadan · ☆1 · Satorl Marsh",
+      "Don Argentis · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: 20; Dunban: -16; Reyn: 4; Sharla: 2; Riki: 8; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cute_Parsnip",
+    "wikiPageId": 3757
+  },
+  {
+    "id": "xc1-item-dolphin-carrot",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dolphin Carrot",
+    "collectType": "Vegetable",
+    "region": "Eryth Sea",
+    "description": "Cute little vegetable, but eating it turns your tongue orange for weeks.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Teelan · ☆1 · Alcamoth",
+      "Zain · ☆1 · Alcamoth",
+      "En Argentis · ☆1 ※ · Eryth Sea",
+      "Naroth · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: 8; Dunban: 2; Reyn: 4; Sharla: -6; Riki: 2; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dolphin_Carrot_(XC1)",
+    "wikiPageId": 4811
+  },
+  {
+    "id": "xc1-item-energy-aubergine",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Energy Aubergine",
+    "collectType": "Vegetable",
+    "region": "Mechonis Field",
+    "description": "Bitter green aubergine that builds stamina. Recommended for men.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Bozatrox · ☆4 · Mechonis Field",
+      "Bozatrox · ☆4 ※ · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: 10; Dunban: 10; Reyn: 28; Sharla: -2; Riki: 18; Melia: -12",
+    "itemQuestUses": [
+      "Finding the Unfindable"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Energy_Aubergine_(XC1)",
+    "wikiPageId": 3301
+  },
+  {
+    "id": "xc1-item-fire-pepper",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fire Pepper",
+    "collectType": "Vegetable",
+    "region": "Sword Valley",
+    "description": "So hot you'll think you're on fire. Actually, you are on fire!",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Voltak · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: -2; Dunban: 2; Reyn: 12; Sharla: 18; Riki: 6; Melia: -8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fire_Pepper_(XC1)",
+    "wikiPageId": 3712
+  },
+  {
+    "id": "xc1-item-girl-courgette",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Girl Courgette",
+    "collectType": "Vegetable",
+    "region": "Valak Mountain",
+    "description": "A cute red courgette. Sweet and succulent.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kurralth · ☆1 ※ · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 14; Dunban: -6; Reyn: 18; Sharla: 2; Riki: 8; Melia: -12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Girl_Courgette",
+    "wikiPageId": 3492
+  },
+  {
+    "id": "xc1-item-gold-burdock",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Gold Burdock",
+    "collectType": "Vegetable",
+    "region": "Eryth Sea",
+    "description": "Cook longer for extra sweetness and eponymous golden colour.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Galvin · ☆1 · Alcamoth",
+      "Kaelin · ☆1 · Alcamoth",
+      "Vidian · ☆1 ※ · Eryth Sea",
+      "Zain · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -18; Fiora: 12; Dunban: 6; Reyn: 6; Sharla: 10; Riki: 10; Melia: -6",
+    "itemQuestUses": [
+      "Collection Quest 1"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gold_Burdock_(XC1)",
+    "wikiPageId": 2475
+  },
+  {
+    "id": "xc1-item-golden-beetroot",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Golden Beetroot",
+    "collectType": "Vegetable",
+    "region": "Fallen Arm",
+    "description": "A beetroot variety considered the best on Mechonis. Harvested frozen.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kazat · ☆3 · Fallen Arm",
+      "Zilex · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: 14; Dunban: -6; Reyn: 4; Sharla: -6; Riki: 16; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Golden_Beetroot_(XC1)",
+    "wikiPageId": 4835
+  },
+  {
+    "id": "xc1-item-hard-lotus",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Hard Lotus",
+    "collectType": "Vegetable",
+    "region": "Bionis' Leg",
+    "description": "Green and surprisingly spicy. Eat it and you'll soon feel the burn.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -6; Fiora: -6; Dunban: 2; Reyn: 4; Sharla: 16; Riki: 14; Melia: -6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hard_Lotus",
+    "wikiPageId": 3279
+  },
+  {
+    "id": "xc1-item-honey-rhubarb",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Honey Rhubarb",
+    "collectType": "Vegetable",
+    "region": "Makna Forest",
+    "description": "A cool, sweet, honey-like foodstuff. Most Nopon are crazy about it.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kuriku · ☆1 · Frontier Village",
+      "Pepa · ☆1 · Frontier Village",
+      "Deki · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: -12; Fiora: 12; Dunban: 2; Reyn: 4; Sharla: 2; Riki: 14; Melia: -4",
+    "itemQuestUses": [
+      "Cook-Off Comeback?"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Honey_Rhubarb",
+    "wikiPageId": 2288
+  },
+  {
+    "id": "xc1-item-hot-taro",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Hot Taro",
+    "collectType": "Vegetable",
+    "region": "Bionis' Leg",
+    "description": "Gives off steam even when raw. No need to cook this \"chef's friend\".",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Nikita · Overtrade · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: -10; Fiora: 10; Dunban: 6; Reyn: -2; Sharla: 2; Riki: 8; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hot_Taro",
+    "wikiPageId": 3884
+  },
+  {
+    "id": "xc1-item-humming-cabbage",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Humming Cabbage",
+    "collectType": "Vegetable",
+    "region": "Satorl Marsh",
+    "description": "Eating it makes you want to spontaneously start singing.",
+    "itemLocations": [
+      "Satorl Marsh",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zel Argentis · ☆1 ※ · Satorl Marsh",
+      "Dulland · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 4; Dunban: 2; Reyn: 20; Sharla: 2; Riki: 12; Melia: -10",
+    "itemQuestUses": [
+      "Things that Hum"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Humming_Cabbage",
+    "wikiPageId": 3454
+  },
+  {
+    "id": "xc1-item-ice-cabbage",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ice Cabbage",
+    "collectType": "Vegetable",
+    "region": "Valak Mountain",
+    "description": "Only grows in cold places. It looks spicy, but it's actually not.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Yura · ☆4 ※ · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 16; Dunban: -6; Reyn: 6; Sharla: -2; Riki: 16; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ice_Cabbage_(XC1)",
+    "wikiPageId": 2577
+  },
+  {
+    "id": "xc1-item-juicy-broccoli",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Juicy Broccoli",
+    "collectType": "Vegetable",
+    "region": "Bionis' Leg",
+    "description": "Take a bite to release its green juice. A sweet and popular vegetable.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -12; Fiora: 14; Dunban: 2; Reyn: 6; Sharla: 2; Riki: 8; Melia: -2",
+    "itemQuestUses": [
+      "Out-of-Luck Giorgio"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Juicy_Broccoli_(XC1)",
+    "wikiPageId": 3887
+  },
+  {
+    "id": "xc1-item-juicy-steakplant",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Juicy Steakplant",
+    "collectType": "Vegetable",
+    "region": "Mechonis Field",
+    "description": "Doesn't look good, but tastes nice. Looks like meat when you cut into it.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -8; Fiora: 10; Dunban: 2; Reyn: 4; Sharla: 8; Riki: 2; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Juicy_Steakplant",
+    "wikiPageId": 4850
+  },
+  {
+    "id": "xc1-item-kelp-mushroom",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Kelp Mushroom",
+    "collectType": "Vegetable",
+    "region": "Makna Forest",
+    "description": "A slippery mushroom that is sweet and healthy.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Lalapa · ☆1 · Frontier Village",
+      "Norara · ☆1 · Frontier Village",
+      "Kokora · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 10; Dunban: -10; Reyn: 6; Sharla: 4; Riki: 16; Melia: -6",
+    "itemQuestUses": [
+      "Mushy Mushrooms"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kelp_Mushroom_(XC1)",
+    "wikiPageId": 2286
+  },
+  {
+    "id": "xc1-item-meaty-carrot",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Meaty Carrot",
+    "collectType": "Vegetable",
+    "region": "Sword Valley",
+    "description": "So succulent, you can't help feeling it's animal flesh and not a vegetable.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Eleqa · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -12; Fiora: 12; Dunban: -2; Reyn: 18; Sharla: 8; Riki: 8; Melia: -10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Meaty_Carrot_(XC1)",
+    "wikiPageId": 3520
+  },
+  {
+    "id": "xc1-item-meaty-potato",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Meaty Potato",
+    "collectType": "Vegetable",
+    "region": "Central Factory",
+    "description": "More like a meat than a potato. Feels like you're eating a meatball.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -6; Fiora: 10; Dunban: 2; Reyn: 24; Sharla: 2; Riki: 8; Melia: -16",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Meaty_Potato",
+    "wikiPageId": 3384
+  },
+  {
+    "id": "xc1-item-pink-asparagus",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Pink Asparagus",
+    "collectType": "Vegetable",
+    "region": "Eryth Sea",
+    "description": "So hot you'll think there's been an explosion in your mouth.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kaleka · ☆1 · Alcamoth",
+      "Vidian · ☆1 ※ · Alcamoth",
+      "Shalen · ☆1 · Eryth Sea",
+      "Lecrough · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: -6; Dunban: 2; Reyn: 6; Sharla: 14; Riki: 14; Melia: -4",
+    "itemQuestUses": [
+      "Collect Quest 2"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pink_Asparagus_(XC1)",
+    "wikiPageId": 4808
+  },
+  {
+    "id": "xc1-item-poisonous-gourd",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Poisonous Gourd",
+    "collectType": "Vegetable",
+    "region": "Satorl Marsh",
+    "description": "Eating it raw saps energy fast! Cook it to make a bitter condiment.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rozeal · ☆1 · Satorl Marsh",
+      "Gowago|Gowago (XC)※ · ☆3 · Colony 6",
+      "Shilx · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: 2; Reyn: -2; Sharla: 2; Riki: 4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poisonous_Gourd",
+    "wikiPageId": 4694
+  },
+  {
+    "id": "xc1-item-red-lettuce",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Red Lettuce",
+    "collectType": "Vegetable",
+    "region": "Colony 9",
+    "description": "A particularly spicy lettuce that kids are keen to avoid.",
+    "itemLocations": [
+      "Colony 9",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Giorgio · ☆1 · Colony 9 (XC1)|Colony 9",
+      "King Squeeze · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Désirée · ☆2 ※ · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 2; Dunban: 2; Reyn: 12; Sharla: 14; Riki: 8; Melia: -10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Red_Lettuce",
+    "wikiPageId": 3882
+  },
+  {
+    "id": "xc1-item-sarsaparilla",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sarsaparilla",
+    "collectType": "Vegetable",
+    "region": "Bionis' Interior",
+    "description": "A very hot vegetable. The best cook on Bionis can't make this taste good.",
+    "itemLocations": [
+      "Bionis' Interior"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -6; Fiora: 2; Dunban: 2; Reyn: -2; Sharla: 16; Riki: 8; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sarsaparilla",
+    "wikiPageId": 4371
+  },
+  {
+    "id": "xc1-item-schorl-mushroom",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Schorl Mushroom",
+    "collectType": "Vegetable",
+    "region": "Makna Forest",
+    "description": "Looks like a cold green mushroom, but is actually succulent and tasty.",
+    "itemLocations": [
+      "Makna Forest",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kokora · ☆1 · Frontier Village",
+      "Tuzu · ☆1 · Frontier Village",
+      "Nopon Sage (XC1)|Nopon Sage · ☆1 · Makna Forest",
+      "Ababa · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: 2; Reyn: 18; Sharla: -4; Riki: 8; Melia: -12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Schorl_Mushroom_(XC1)",
+    "wikiPageId": 2285
+  },
+  {
+    "id": "xc1-item-sour-radish",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sour Radish",
+    "collectType": "Vegetable",
+    "region": "Valak Mountain",
+    "description": "The sour taste will give you a kick. Often used in alternative medicine.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kurralth · ☆1 ※ · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 10; Dunban: 2; Reyn: 2; Sharla: 2; Riki: 8; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sour_Radish",
+    "wikiPageId": 4340
+  },
+  {
+    "id": "xc1-item-sour-turnip",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sour Turnip",
+    "collectType": "Vegetable",
+    "region": "Fallen Arm",
+    "description": "More astringent than sour really. Considered tasty in some regions.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Eleqa · ☆3 · Fallen Arm",
+      "Voltak · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: 2; Reyn: 4; Sharla: 2; Riki: 8; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sour_Turnip",
+    "wikiPageId": 2728
+  },
+  {
+    "id": "xc1-item-spicy-cabbage",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Spicy Cabbage",
+    "collectType": "Vegetable",
+    "region": "Bionis' Leg",
+    "description": "Packed with nutrients, but a complex veg that's tricky to prepare properly.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -4; Fiora: 10; Dunban: -2; Reyn: 24; Sharla: 4; Riki: 8; Melia: -16",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spicy_Cabbage",
+    "wikiPageId": 3278
+  },
+  {
+    "id": "xc1-item-sweet-pepper",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sweet Pepper",
+    "collectType": "Vegetable",
+    "region": "Mechonis Field",
+    "description": "A sweet fruit that is often mistakenly thought of as a vegetable.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -10; Fiora: 14; Dunban: -10; Reyn: 4; Sharla: 10; Riki: 6; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweet_Pepper",
+    "wikiPageId": 4852
+  },
+  {
+    "id": "xc1-item-sweet-wasabi",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sweet Wasabi",
+    "collectType": "Vegetable",
+    "region": "Colony 9",
+    "description": "A strange spicy-sweet green wasabi. It looks quite normal otherwise.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Werner · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Zukazu · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Sylviane · ☆2 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 8; Dunban: -10; Reyn: 6; Sharla: 2; Riki: 14; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweet_Wasabi_(XC1)",
+    "wikiPageId": 3876
+  },
+  {
+    "id": "xc1-item-tropical-radish",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Tropical Radish",
+    "collectType": "Vegetable",
+    "region": "Eryth Sea",
+    "description": "Reveals a tropical colour when you brush off the inky-black clay. Sweet.",
+    "itemLocations": [
+      "Eryth Sea",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ricoth · ☆1 · Alcamoth",
+      "Talia · ☆1 ※ · Eryth Sea",
+      "Elior · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: 14; Dunban: -4; Reyn: 4; Sharla: 2; Riki: 2; Melia: 2",
+    "itemQuestUses": [
+      "Cook-Off Comeback?"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tropical_Radish",
+    "wikiPageId": 4809
+  },
+  {
+    "id": "xc1-item-file-veg-png",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "File:Veg.PNG",
+    "itemLocations": [],
+    "itemHasTrade": false,
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVeg.PNG",
+    "wikiPageId": 2479
+  },
+  {
+    "id": "xc1-item-amethyst-melon",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Amethyst Melon",
+    "collectType": "Fruit",
+    "region": "Sword Valley",
+    "description": "Esteemed as a dessert fruit, but also highly valued as a decorative plant.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zilex · ☆4 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 2; Dunban: -2; Reyn: -16; Sharla: 12; Riki: 10; Melia: 20",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Amethyst_Melon_(XC1)",
+    "wikiPageId": 4095
+  },
+  {
+    "id": "xc1-item-bitter-kiwi",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Bitter Kiwi",
+    "collectType": "Fruit",
+    "region": "Makna Forest",
+    "description": "A fruit whose undeniable bitterness yields to eventual deliciousness.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dabidabi · ☆3 · Frontier Village",
+      "Leku · ☆3 · Frontier Village",
+      "Nopon Sage (XC1)|Nopon Sage · ☆5 · Makna Forest"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -6; Dunban: -4; Reyn: -6; Sharla: 10; Riki: 10; Melia: 12",
+    "itemQuestUses": [
+      "Ingredients For A Brew"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bitter_Kiwi",
+    "wikiPageId": 2544
+  },
+  {
+    "id": "xc1-item-bitter-melon",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Bitter Melon",
+    "collectType": "Fruit",
+    "region": "Sword Valley",
+    "description": "The tangy taste of this melon strengthens as it ripens.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Qofaria · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: -8; Dunban: -4; Reyn: -6; Sharla: 10; Riki: 8; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bitter_Melon",
+    "wikiPageId": 4602
+  },
+  {
+    "id": "xc1-item-black-kiwi",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Kiwi",
+    "collectType": "Fruit",
+    "region": "Colony 9",
+    "description": "A tremendously bitter kiwi fruit with a tremendously addictive taste.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Nic · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Paola · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Cheryl · ☆3 · Colony 9 (XC1) | Colony 9",
+      "Marcia · Overtrade · Colony 9 (XC1) | Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -4; Dunban: 2; Reyn: -10; Sharla: 12; Riki: 2; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Kiwi_(XC1)",
+    "wikiPageId": 4391
+  },
+  {
+    "id": "xc1-item-bright-fig",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Bright Fig",
+    "collectType": "Fruit",
+    "region": "Tephra Cave",
+    "description": "Top class juicy fig that glows yellow. Can even be seen in the dark.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Liliana · ☆2 · Colony 9 (XC1) | Colony 9",
+      "Shura · ☆3 ※ · Tephra Cave",
+      "Olga · ☆5 · Bionis' Leg",
+      "Talonyth · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: -2; Reyn: 10; Sharla: 18; Riki: 10; Melia: 2",
+    "itemQuestUses": [
+      "Collection Quest 2"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bright_Fig_(XC1)",
+    "wikiPageId": 3751
+  },
+  {
+    "id": "xc1-item-citron-gooseberry",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Citron Gooseberry",
+    "collectType": "Fruit",
+    "region": "Sword Valley",
+    "description": "It tastes good at first, but it gets so sour as you chew that you feel sick.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Mixik · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: -4; Reyn: -6; Sharla: 12; Riki: 8; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Citron_Gooseberry",
+    "wikiPageId": 4603
+  },
+  {
+    "id": "xc1-item-clear-almond",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Clear Almond",
+    "collectType": "Fruit",
+    "region": "Tephra Cave",
+    "description": "Its spiciness gives a nice little kick. It has a clear blue colour like water.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ewan · ☆1 · Bionis' Leg",
+      "Nikita · ☆1 · Bionis' Leg",
+      "Elior · ☆2 ※ · Bionis' Leg",
+      "Rocco · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Oleksiy · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -2; Dunban: -4; Reyn: -12; Sharla: 6; Riki: 6; Melia: 14",
+    "itemQuestUses": [
+      "Collection Quest 1"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Clear_Almond",
+    "wikiPageId": 4396
+  },
+  {
+    "id": "xc1-item-cool-lemon",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Cool Lemon",
+    "collectType": "Fruit",
+    "region": "Alcamoth",
+    "description": "A cold lemon that calms the spirit. Often eaten after arguments.",
+    "itemLocations": [
+      "Alcamoth"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Elior · ☆3 · Alcamoth",
+      "Vidian · ☆3 · Alcamoth",
+      "Lar'shen · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: -2; Dunban: -6; Reyn: -6; Sharla: 12; Riki: 14; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cool_Lemon",
+    "wikiPageId": 4354
+  },
+  {
+    "id": "xc1-item-crimson-citrus",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Crimson Citrus",
+    "collectType": "Fruit",
+    "region": "Frontier Village",
+    "description": "Looks hot because of the red pulp, but it's just bitter really.",
+    "itemLocations": [
+      "Frontier Village"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Medi · ☆4 · Frontier Village",
+      "Pachipa · ☆4 · Frontier Village",
+      "Leku · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: -10; Reyn: -14; Sharla: 10; Riki: 10; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crimson_Citrus",
+    "wikiPageId": 2290
+  },
+  {
+    "id": "xc1-item-dance-apple",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dance Apple",
+    "collectType": "Fruit",
+    "region": "Colony 9",
+    "description": "A red apple that's perfect for parties. Really gets things moving.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Liliana · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Oleksiy · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Rosemary · ☆1 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: -2; Dunban: 2; Reyn: -2; Sharla: 10; Riki: 10; Melia: 2",
+    "itemQuestUses": [
+      "A Curry Conundrum"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dance_Apple_(XC1)",
+    "wikiPageId": 4390
+  },
+  {
+    "id": "xc1-item-dark-grape",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dark Grape",
+    "collectType": "Fruit",
+    "region": "Tephra Cave",
+    "description": "A mature black grape with a concentrated sweetness.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Anna (XC1)|Anna · ☆1 · Bionis' Leg",
+      "Pama · ☆2 · Bionis' Leg",
+      "Dorothy (XC1)|Dorothy · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Désirée · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: -14; Reyn: -14; Sharla: 12; Riki: 6; Melia: 14",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Grape_(XC1)",
+    "wikiPageId": 2650
+  },
+  {
+    "id": "xc1-item-dark-mango",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dark Mango",
+    "collectType": "Fruit",
+    "region": "Makna Forest",
+    "description": "Often sneaks its way into boxes of sweet mangoes. Makes you feel blue.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Adidi · ☆1 ※1 · Frontier Village",
+      "Rasha · ☆1 · Frontier Village",
+      "Adidi · Overtrade ※2 · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -2; Dunban: 2; Reyn: -6; Sharla: 8; Riki: -4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dark_Mango",
+    "wikiPageId": 2266
+  },
+  {
+    "id": "xc1-item-deadly-kiwi",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Deadly Kiwi",
+    "collectType": "Fruit",
+    "region": "Prison Island",
+    "description": "A black kiwi fruit so cold that all other fruits pale in comparison.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: -2; Dunban: 4; Reyn: -2; Sharla: 4; Riki: 4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Deadly_Kiwi_(XC1)",
+    "wikiPageId": 4614
+  },
+  {
+    "id": "xc1-item-death-lychee",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Death Lychee",
+    "collectType": "Fruit",
+    "region": "Prison Island",
+    "description": "A sweetness to die for. Press it for a white juice that's like cream soda.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: -14; Reyn: 2; Sharla: 10; Riki: 8; Melia: 2",
+    "itemQuestUses": [
+      "A Dauntless Trader (Nopo'rikh route only)"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Death_Lychee",
+    "wikiPageId": 4613
+  },
+  {
+    "id": "xc1-item-dry-lemon",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dry Lemon",
+    "collectType": "Fruit",
+    "region": "Prison Island",
+    "description": "So cold the juice seems frozen. Delicious if that doesn't bother you.",
+    "itemLocations": [
+      "Prison Island",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -2; Fiora: -2; Dunban: -4; Reyn: -4; Sharla: 6; Riki: 14; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dry_Lemon_(XC1)",
+    "wikiPageId": 4612
+  },
+  {
+    "id": "xc1-item-ether-plum",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ether Plum",
+    "collectType": "Fruit",
+    "region": "Valak Mountain",
+    "description": "A satisfyingly sweet plum that is popular with the ladies.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: -20; Reyn: -4; Sharla: 6; Riki: 8; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Plum_(XC1)",
+    "wikiPageId": 4337
+  },
+  {
+    "id": "xc1-item-fire-apple",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fire Apple",
+    "collectType": "Fruit",
+    "region": "Valak Mountain",
+    "description": "Looks like an ordinary apple, but one bite and you'll be spouting flames.",
+    "itemLocations": [
+      "Valak Mountain",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: -12; Dunban: -2; Reyn: -2; Sharla: 22; Riki: 8; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fire_Apple",
+    "wikiPageId": 3673
+  },
+  {
+    "id": "xc1-item-heart-peach",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Heart Peach",
+    "collectType": "Fruit",
+    "region": "Alcamoth",
+    "description": "A peach that's warm to the touch. Eat it before declaring your love.",
+    "itemLocations": [
+      "Alcamoth",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kurralth · ☆3 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 2; Dunban: 4; Reyn: 2; Sharla: 12; Riki: 10; Melia: 4",
+    "itemQuestUses": [
+      "Getting to Know Dorothy"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heart_Peach_(XC1)",
+    "wikiPageId": 4355
+  },
+  {
+    "id": "xc1-item-hell-raspberry",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Hell Raspberry",
+    "collectType": "Fruit",
+    "region": "Prison Island",
+    "description": "HOT! People who have eaten it have sworn they've seen demonic visions.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -4; Fiora: -12; Dunban: -4; Reyn: -6; Sharla: 30; Riki: 6; Melia: 6",
+    "itemQuestUses": [
+      "''A Maid's Concerns''"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hell_Raspberry",
+    "wikiPageId": 3770
+  },
+  {
+    "id": "xc1-item-humming-plum",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Humming Plum",
+    "collectType": "Fruit",
+    "region": "Bionis' Leg",
+    "description": "A plum that makes you burst into song when you eat it.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: 2; Reyn: -6; Sharla: 2; Riki: 12; Melia: 6",
+    "itemQuestUses": [
+      "Things that Hum"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Humming_Plum_(XC1)",
+    "wikiPageId": 4682
+  },
+  {
+    "id": "xc1-item-ice-kiwi-fruit",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ice Kiwi Fruit",
+    "collectType": "Fruit",
+    "region": "Fallen Arm",
+    "description": "A cool kiwi that clears the head. Helps you to study at night.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Natalia · ☆3 · Fallen Arm",
+      "Rizaka · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -8; Dunban: -4; Reyn: -6; Sharla: 2; Riki: 20; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ice_Kiwi_Fruit",
+    "wikiPageId": 4836
+  },
+  {
+    "id": "xc1-item-juicy-blueberry",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Juicy Blueberry",
+    "collectType": "Fruit",
+    "region": "Agniratha",
+    "description": "Crammed full of juice. So good it melts your soul away.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 8; Fiora: -2; Dunban: -4; Reyn: 8; Sharla: 4; Riki: 8; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Juicy_Blueberry",
+    "wikiPageId": 4903
+  },
+  {
+    "id": "xc1-item-juicy-grape",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Juicy Grape",
+    "collectType": "Fruit",
+    "region": "Makna Forest",
+    "description": "Insects are attracted to its seeping juices, so it's hard to get a good one.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kaleka · ☆1 ※ · Frontier Village",
+      "Puko · ☆1 · Frontier Village",
+      "Tati · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: -2; Reyn: 2; Sharla: 10; Riki: 8; Melia: 4",
+    "itemQuestUses": [
+      "Weak Berryjammy"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Juicy_Grape_(XC1)",
+    "wikiPageId": 2275
+  },
+  {
+    "id": "xc1-item-juicy-melon",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Juicy Melon",
+    "collectType": "Fruit",
+    "region": "Sword Valley",
+    "description": "The juice of this melon drips like water.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Karlos · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -8; Dunban: -2; Reyn: 8; Sharla: 10; Riki: 14; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Juicy_Melon_(XC1)",
+    "wikiPageId": 4604
+  },
+  {
+    "id": "xc1-item-large-mango",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Large Mango",
+    "collectType": "Fruit",
+    "region": "Fallen Arm",
+    "description": "The fruit attracts bugs, but it's too bitter for people to eat anyway.",
+    "itemLocations": [
+      "Fallen Arm",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Neonik · ☆3 · Fallen Arm",
+      "Xekit · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -2; Dunban: 2; Reyn: -6; Sharla: 12; Riki: -4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Large_Mango",
+    "wikiPageId": 4838
+  },
+  {
+    "id": "xc1-item-pure-cherry",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Pure Cherry",
+    "collectType": "Fruit",
+    "region": "Makna Forest",
+    "description": "Usually grown beside clean waters. Eating it brings clarity.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Gadada · ☆1 · Frontier Village",
+      "Popipo · ☆1 ※ · Frontier Village",
+      "Norara · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: -2; Reyn: -2; Sharla: 12; Riki: 8; Melia: 6",
+    "itemQuestUses": [
+      "Collection Quest 2"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pure_Cherry",
+    "wikiPageId": 4759
+  },
+  {
+    "id": "xc1-item-red-durian",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Red Durian",
+    "collectType": "Fruit",
+    "region": "Bionis' Leg",
+    "description": "A strong fruit that makes you sweat. Used as a cold remedy for kids.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "En Argentis · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 6; Dunban: -4; Reyn: -2; Sharla: 10; Riki: 12; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Red_Durian_(XC1)",
+    "wikiPageId": 4680
+  },
+  {
+    "id": "xc1-item-ruby-mangosteen",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ruby Mangosteen",
+    "collectType": "Fruit",
+    "region": "Valak Mountain",
+    "description": "A fruit that sparkles like a jewel. Outshines other fruits in tanginess.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: -10; Reyn: -14; Sharla: 12; Riki: 8; Melia: 12",
+    "itemQuestUses": [
+      "''World's Strongest Flavour''"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ruby_Mangosteen_(XC1)",
+    "wikiPageId": 4338
+  },
+  {
+    "id": "xc1-item-sour-gooseberry",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sour Gooseberry",
+    "collectType": "Fruit",
+    "region": "Bionis' Leg",
+    "description": "A bitter fruit from which prairie trees sprout. Grating it yields a green dye.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kiroki · ☆1 · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -18; Dunban: -2; Reyn: -4; Sharla: 24; Riki: 16; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sour_Gooseberry_(XC1)",
+    "wikiPageId": 3671
+  },
+  {
+    "id": "xc1-item-sour-grape",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sour Grape",
+    "collectType": "Fruit",
+    "region": "Valak Mountain",
+    "description": "An astringency results from chewing., Ferment for a wonderful fragrance.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: -2; Dunban: -4; Reyn: -10; Sharla: 10; Riki: 2; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sour_Grape",
+    "wikiPageId": 4339
+  },
+  {
+    "id": "xc1-item-spicy-banana",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Spicy Banana",
+    "collectType": "Fruit",
+    "region": "Agniratha",
+    "description": "Tastes disgusting when eaten raw. Cultivated on Mechonis.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Peppino · ☆1 ※ · Tephra Cave"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -2; Dunban: 2; Reyn: -6; Sharla: 4; Riki: 6; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spicy_Banana",
+    "wikiPageId": 4905
+  },
+  {
+    "id": "xc1-item-spicy-nut",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Spicy Nut",
+    "collectType": "Fruit",
+    "region": "Frontier Village",
+    "description": "A little sweet, but spicy on the tongue. Irresistibly stimulating.",
+    "itemLocations": [
+      "Frontier Village"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kokora · ☆4 · Frontier Village",
+      "Rasha · ☆4 · Frontier Village",
+      "Minana · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -12; Dunban: -4; Reyn: -6; Sharla: 18; Riki: 6; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spicy_Nut_(XC1)",
+    "wikiPageId": 3789
+  },
+  {
+    "id": "xc1-item-spicy-papaya",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Spicy Papaya",
+    "collectType": "Fruit",
+    "region": "Fallen Arm",
+    "description": "Warms your body to the core. Good for poor circulation.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Eiz · ☆3 · Fallen Arm",
+      "Vronik · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: -2; Dunban: 2; Reyn: 2; Sharla: 10; Riki: 8; Melia: 2",
+    "itemQuestUses": [
+      "Nopon Determination"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spicy_Papaya",
+    "wikiPageId": 4837
+  },
+  {
+    "id": "xc1-item-sweet-lime",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sweet Lime",
+    "collectType": "Fruit",
+    "region": "Agniratha",
+    "description": "Eating the lime feels like chewing lumps of sugar.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: -8; Reyn: -2; Sharla: 12; Riki: 2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweet_Lime",
+    "wikiPageId": 4904
+  },
+  {
+    "id": "xc1-item-walnut-grape",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Walnut Grape",
+    "collectType": "Fruit",
+    "region": "Bionis' Leg",
+    "description": "A grape in a hard shell. Too bitter to eat even if you manage to crack it.",
+    "itemLocations": [
+      "Bionis' Leg",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 8; Fiora: -2; Dunban: -4; Reyn: -12; Sharla: 10; Riki: 2; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Walnut_Grape_(XC1)",
+    "wikiPageId": 4681
+  },
+  {
+    "id": "xc1-item-white-plum",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Plum",
+    "collectType": "Fruit",
+    "region": "Fallen Arm",
+    "description": "A tangy fruit with a white pulp. A mouth-watering sight.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Prox · ☆3 · Fallen Arm",
+      "Eleqa · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: 2; Reyn: -4; Sharla: 8; Riki: 6; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Plum",
+    "wikiPageId": 2733
+  },
+  {
+    "id": "xc1-item-file-fruit-png",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "File:Fruit.PNG",
+    "itemLocations": [],
+    "itemHasTrade": false,
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFruit.PNG",
+    "wikiPageId": 2485
+  },
+  {
+    "id": "xc1-item-abyss-heather",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Abyss Heather",
+    "collectType": "Flower",
+    "region": "Sword Valley",
+    "description": "A purple metal flower whose light keeps others away.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6",
+      "Trade (Shilx)"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Shilx · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 6; Dunban: 12; Reyn: -8; Sharla: 2; Riki: -2; Melia: 14",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Abyss_Heather_(XC1)",
+    "wikiPageId": 4606
+  },
+  {
+    "id": "xc1-item-azure-hollyhock",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Azure Hollyhock",
+    "collectType": "Flower",
+    "region": "Mechonis Field",
+    "description": "A beautiful flower also known as the sea-blue stone.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Scarlen · ☆1 ※ · Satorl Marsh"
+    ],
+    "itemGifting": "Shulk: 22; Fiora: 4; Dunban: -2; Reyn: -2; Sharla: -4; Riki: -12; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Azure_Hollyhock",
+    "wikiPageId": 2893
+  },
+  {
+    "id": "xc1-item-bellflower-crystal",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Bellflower Crystal",
+    "collectType": "Flower",
+    "region": "Agniratha",
+    "description": "A quartz flower that lets fly its petals in a wonderful way when picked.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 8; Fiora: 2; Dunban: -2; Reyn: 6; Sharla: -2; Riki: -2; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bellflower_Crystal_(XC1)",
+    "wikiPageId": 4907
+  },
+  {
+    "id": "xc1-item-black-blossom",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Blossom",
+    "collectType": "Flower",
+    "region": "Sword Valley",
+    "description": "A small, sharp black flower. Widespread, but not well liked.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rakzet · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 16; Fiora: 4; Dunban: 6; Reyn: -2; Sharla: 2; Riki: -18; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Blossom_(XC1)",
+    "wikiPageId": 3140
+  },
+  {
+    "id": "xc1-item-black-iris",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Iris",
+    "collectType": "Flower",
+    "region": "Makna Forest",
+    "description": "The stem has hidden thorns that will injure anything that touches them.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Pipiki · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: 14; Dunban: 6; Reyn: -2; Sharla: 2; Riki: -2; Melia: 8",
+    "itemQuestUses": [
+      "A Place to Come Home to"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Iris_(XC1)",
+    "wikiPageId": 4760
+  },
+  {
+    "id": "xc1-item-black-peony",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Peony",
+    "collectType": "Flower",
+    "region": "Valak Mountain",
+    "description": "When a petal falls it emits a sound that makes the heart leap.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kurralth · ☆2 ※ · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 8; Dunban: 4; Reyn: -2; Sharla: 2; Riki: -2; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Peony_(XC1)",
+    "wikiPageId": 4344
+  },
+  {
+    "id": "xc1-item-cute-orchid",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Cute Orchid",
+    "collectType": "Flower",
+    "region": "Colony 6",
+    "description": "This bloom is truly lovely, but is soon scattered away on the breeze.",
+    "itemLocations": [
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Nikita · ☆1 · Colony 6",
+      "Kiroki · ☆3 · Colony 6",
+      "Ewan · ☆1 ※ · Ether Mine (XC1)|Ether Mine"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 12; Dunban: -8; Reyn: -2; Sharla: 2; Riki: 4; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cute_Orchid",
+    "wikiPageId": 4360
+  },
+  {
+    "id": "xc1-item-dawn-hydrangea",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dawn Hydrangea",
+    "collectType": "Flower",
+    "region": "Colony 9",
+    "description": "A yellow flower that brings good luck to the finder. Good for pressing.",
+    "itemLocations": [
+      "Colony 9",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kantz · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Sonia · ☆2 · Colony 9 (XC1) | Colony 9",
+      "Minnie · ☆3 · Colony 9 (XC1) | Colony 9",
+      "Cheryl · Overtrade · Colony 9 (XC1) | Colony 9"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 4; Dunban: -2; Reyn: -2; Sharla: 6; Riki: 4; Melia: 4",
+    "itemQuestUses": [
+      "Flattened Flowers"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dawn_Hydrangea_(XC1)",
+    "wikiPageId": 2324
+  },
+  {
+    "id": "xc1-item-delerium-foxglove",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Delerium Foxglove",
+    "collectType": "Flower",
+    "region": "Sword Valley",
+    "description": "Delicate black flower of great rarity that takes its nutrients from charcoal.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rizaka · ☆5 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 20; Dunban: 2; Reyn: 2; Sharla: 4; Riki: -6; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Delerium_Foxglove_(XC1)",
+    "wikiPageId": 4607
+  },
+  {
+    "id": "xc1-item-despair-clover",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Despair Clover",
+    "collectType": "Flower",
+    "region": "Eryth Sea",
+    "description": "Flower with thermal properties. Carry it around to keep warm.",
+    "itemLocations": [
+      "Eryth Sea",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Atael · ☆2 · Alcamoth",
+      "Mir'leiz · ☆5 ※ · Eryth Sea"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 8; Dunban: 12; Reyn: 2; Sharla: 4; Riki: -6; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Despair_Clover",
+    "wikiPageId": 2599
+  },
+  {
+    "id": "xc1-item-doomsday-poppy",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Doomsday Poppy",
+    "collectType": "Flower",
+    "region": "Eryth Sea",
+    "description": "Grows in clusters near water. Everyone adores its purple petals.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Arielle · ☆1 · Alcamoth",
+      "Vol'aren · ☆1 · Alcamoth",
+      "En Argentis · ☆2 ※ · Eryth Sea",
+      "Galvin · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 2; Reyn: -18; Sharla: 10; Riki: -2; Melia: 16",
+    "itemQuestUses": [
+      "Collect Quest 1"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Doomsday_Poppy_(XC1)",
+    "wikiPageId": 4812
+  },
+  {
+    "id": "xc1-item-enigma-lotus",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Enigma Lotus",
+    "collectType": "Flower",
+    "region": "Makna Forest",
+    "description": "Wonderful form when budding. Valued as an ornamental flower.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dedeba · ☆1 · Frontier Village",
+      "Kilaki · ☆1 · Frontier Village",
+      "Npa · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: -8; Reyn: -2; Sharla: 2; Riki: 4; Melia: 10",
+    "itemQuestUses": [
+      "Decoration Makeover"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Enigma_Lotus",
+    "wikiPageId": 2283
+  },
+  {
+    "id": "xc1-item-ether-rose",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ether Rose",
+    "collectType": "Flower",
+    "region": "Satorl Marsh",
+    "description": "The white petals are lovely to look at, but its stench keeps creatures away.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Jer'ell · ☆2 · Satorl Marsh",
+      "Olga · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 6; Dunban: 12; Reyn: 6; Sharla: 2; Riki: -2; Melia: 2",
+    "itemQuestUses": [
+      "Going Out to Play"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Rose",
+    "wikiPageId": 4697
+  },
+  {
+    "id": "xc1-item-fatal-belladonna",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fatal Belladonna",
+    "collectType": "Flower",
+    "region": "Valak Mountain",
+    "description": "Looks like a fairy at play. Makes everybody smile.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 18; Dunban: -2; Reyn: -2; Sharla: 4; Riki: -8; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fatal_Belladonna_(XC1)",
+    "wikiPageId": 4345
+  },
+  {
+    "id": "xc1-item-forget-you-not",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Forget-You-Not",
+    "collectType": "Flower",
+    "region": "Satorl Marsh",
+    "description": "A flower of celebration used at weddings. A symbol of constancy.",
+    "itemLocations": [
+      "Satorl Marsh",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ewan · ☆3 ※ · Satorl Marsh"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: 10; Dunban: 2; Reyn: 2; Sharla: -10; Riki: 2; Melia: 18",
+    "itemQuestUses": [
+      "A Place To Come Home To"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Forget-You-Not",
+    "wikiPageId": 3006
+  },
+  {
+    "id": "xc1-item-fortune-mallow",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fortune Mallow",
+    "collectType": "Flower",
+    "region": "Valak Mountain",
+    "description": "Popular with women and children. Some find it too beautiful to behold.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zain · ☆2 ※ · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: -8; Reyn: -2; Sharla: 2; Riki: 4; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fortune_Mallow_(XC1)",
+    "wikiPageId": 4343
+  },
+  {
+    "id": "xc1-item-freesia-cyst",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Freesia Cyst",
+    "collectType": "Flower",
+    "region": "Agniratha",
+    "description": "Looks like it bloomed from amethyst. Touching its petals brings calm.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "En Argentis · ☆2 ※ · Tephra Cave"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 8; Dunban: 2; Reyn: -6; Sharla: 2; Riki: 6; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Freesia_Cyst",
+    "wikiPageId": 4906
+  },
+  {
+    "id": "xc1-item-humming-nettle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Humming Nettle",
+    "collectType": "Flower",
+    "region": "Makna Forest",
+    "description": "Black petals like musical notes. When they sway you want to sing.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Deki · ☆2 · Frontier Village",
+      "Yusa · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 6; Dunban: 4; Reyn: 2; Sharla: 2; Riki: -6; Melia: 6",
+    "itemQuestUses": [
+      "Things that Hum"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Humming_Nettle",
+    "wikiPageId": 2284
+  },
+  {
+    "id": "xc1-item-insanity-mint",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Insanity Mint",
+    "collectType": "Flower",
+    "region": "Tephra Cave",
+    "description": "Emits a savage smell powerful enough to knock you out.",
+    "itemLocations": [
+      "Tephra Cave",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Gorman · ☆1 · Bionis' Leg",
+      "Matryona · ☆2 · Bionis' Leg",
+      "Miller · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -8; Dunban: -2; Reyn: 4; Sharla: 2; Riki: 4; Melia: 12",
+    "itemQuestUses": [
+      "Overworked and Underpaid"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Insanity_Mint",
+    "wikiPageId": 4397
+  },
+  {
+    "id": "xc1-item-jujube-silver",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Jujube Silver",
+    "collectType": "Flower",
+    "region": "Sword Valley",
+    "description": "A shiny metallic flower of real beauty that only grows on Mechonis.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Orkatix · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 6; Dunban: -2; Reyn: -10; Sharla: 14; Riki: -2; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jujube_Silver_(XC1)",
+    "wikiPageId": 4605
+  },
+  {
+    "id": "xc1-item-lewisia-silver",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Lewisia Silver",
+    "collectType": "Flower",
+    "region": "Agniratha",
+    "description": "Wild white prairie flower. Retains its wildness after picking.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Berryjammy · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 2; Dunban: -4; Reyn: 10; Sharla: 4; Riki: -2; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lewisia_Silver_(XC1)",
+    "wikiPageId": 2887
+  },
+  {
+    "id": "xc1-item-merry-coronation",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Merry Coronation",
+    "collectType": "Flower",
+    "region": "Satorl Marsh",
+    "description": "Sways joyfully even when there's no wind. A perfect ornamental plant.",
+    "itemLocations": [
+      "Satorl Marsh",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Bokoko · ☆2 · Satorl Marsh",
+      "Gorman · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 4; Dunban: -2; Reyn: -2; Sharla: 8; Riki: 4; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Merry_Coronation",
+    "wikiPageId": 4696
+  },
+  {
+    "id": "xc1-item-moon-flower",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Moon Flower",
+    "collectType": "Flower",
+    "region": "Colony 9",
+    "description": "A large round lofty blue flower. All other blooms fade when it opens.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Désirée · ☆1 ※ · Colony 9 (XC1)|Colony 9",
+      "Miller · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Andreas · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Paola · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: 2; Dunban: -2; Reyn: 6; Sharla: -4; Riki: -2; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Moon_Flower_(XC1)",
+    "wikiPageId": 4393
+  },
+  {
+    "id": "xc1-item-mystic-dahlia",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Mystic Dahlia",
+    "collectType": "Flower",
+    "region": "Alcamoth",
+    "description": "Almost constantly exhibits yellow flowers. Adored by the ruling family.",
+    "itemLocations": [
+      "Alcamoth"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Galdo · ☆3 · Alcamoth",
+      "Scarlen · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 4; Dunban: -2; Reyn: -2; Sharla: 4; Riki: -2; Melia: 18",
+    "itemQuestUses": [
+      "A Dauntless Trader (B route only, involving Norara)"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mystic_Dahlia_(XC1)",
+    "wikiPageId": 4356
+  },
+  {
+    "id": "xc1-item-night-lily",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Night Lily",
+    "collectType": "Flower",
+    "region": "Eryth Sea",
+    "description": "Blooms by night, scatters by morning creating in time a carpet of black.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ma'crish · ☆1 · Alcamoth",
+      "Popipo · ☆1 · Alcamoth",
+      "Mir'leiz · ☆2 ※ · Eryth Sea",
+      "Merisa · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 6; Dunban: 4; Reyn: 2; Sharla: -4; Riki: -8; Melia: 18",
+    "itemQuestUses": [
+      "''Désirée's Apology''"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Night_Lily_(XC1)",
+    "wikiPageId": 2455
+  },
+  {
+    "id": "xc1-item-night-tulip",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Night Tulip",
+    "collectType": "Flower",
+    "region": "Tephra Cave",
+    "description": "A tulip that reflects a beautiful black light.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Arda · ☆1 · Bionis' Leg",
+      "Emmy Leater · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Andreas · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: 6; Reyn: -10; Sharla: 10; Riki: -8; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Night_Tulip",
+    "wikiPageId": 4398
+  },
+  {
+    "id": "xc1-item-orb-daisy",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Orb Daisy",
+    "collectType": "Flower",
+    "region": "Satorl Marsh",
+    "description": "This black-petalled flower is widely known for its medicinal properties.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Bokoko · ☆3 · Satorl Marsh",
+      "Matryona · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 16; Fiora: 8; Dunban: 4; Reyn: -2; Sharla: 4; Riki: -18; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Orb_Daisy",
+    "wikiPageId": 3139
+  },
+  {
+    "id": "xc1-item-princess-daffodil",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Princess Daffodil",
+    "collectType": "Flower",
+    "region": "Makna Forest",
+    "description": "The favourite flower of princesses of old. It's even named after one.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Npa · ☆2 · Frontier Village",
+      "Kuriku · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: 6; Dunban: -2; Reyn: -12; Sharla: 2; Riki: -2; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Princess_Daffodil",
+    "wikiPageId": 2281
+  },
+  {
+    "id": "xc1-item-razor-teasel",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Razor Teasel",
+    "collectType": "Flower",
+    "region": "Eryth Sea",
+    "description": "Emits exotic sounds. Puts you in a really good mood.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ruthan · ☆1 · Alcamoth",
+      "Yura · ☆1 · Alcamoth",
+      "Vidian · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: -2; Reyn: -2; Sharla: 2; Riki: 10; Melia: 4",
+    "itemQuestUses": [
+      "''Betty's Gift''"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Razor_Teasel",
+    "wikiPageId": 4813
+  },
+  {
+    "id": "xc1-item-sea-berry",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sea Berry",
+    "collectType": "Flower",
+    "region": "Eryth Sea",
+    "description": "An enormous white flower. Reminds you of a snowy scene when open.",
+    "itemLocations": [
+      "Eryth Sea",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Talia · ☆1 · Alcamoth",
+      "Vidian · ☆1 · Alcamoth",
+      "Jarack · ☆2 · Eryth Sea",
+      "Mir'leiz · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -10; Fiora: 6; Dunban: 12; Reyn: 4; Sharla: 2; Riki: -2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sea_Berry_(XC1)",
+    "wikiPageId": 2460
+  },
+  {
+    "id": "xc1-item-sirius-anemone",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sirius Anemone",
+    "collectType": "Flower",
+    "region": "Colony 6",
+    "description": "Blooms secretly in hidden spots. Used as a remedy to calm the mind.",
+    "itemLocations": [
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Hoko · ☆3 · Colony 6",
+      "Daza · ☆5 · Colony 6",
+      "Nikita · Overtrade · Colony 6",
+      "Emmy Leater · ☆5 ※ · Ether Mine (XC1)|Ether Mine"
+    ],
+    "itemGifting": "Shulk: 18; Fiora: 8; Dunban: 2; Reyn: -4; Sharla: 4; Riki: -10; Melia: 14",
+    "itemQuestUses": [
+      "''Chemist's Reopening''"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sirius_Anemone_(XC1)",
+    "wikiPageId": 2224
+  },
+  {
+    "id": "xc1-item-spirit-clematis",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Spirit Clematis",
+    "collectType": "Flower",
+    "region": "Colony 6",
+    "description": "The petals look a bit intimidating, but it's supremely beautiful and fragrant.",
+    "itemLocations": [
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Anna (XC1)|Anna · ☆1 · Colony 6",
+      "Ewan · ☆3 · Colony 6",
+      "Emmy Leater · ☆1 ※ · Ether Mine (XC1)|Ether Mine",
+      "Pama · Overtrade · Colony 6"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 6; Dunban: 12; Reyn: -8; Sharla: 2; Riki: -2; Melia: 16",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spirit_Clematis_(XC1)",
+    "wikiPageId": 4361
+  },
+  {
+    "id": "xc1-item-stardrop",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Stardrop",
+    "collectType": "Flower",
+    "region": "Alcamoth",
+    "description": "Looks like a purple star shining in the night sky. Inspires awe.",
+    "itemLocations": [
+      "Alcamoth"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Galdo · ☆3 · Alcamoth",
+      "Miriall · ☆3 · Alcamoth",
+      "Donnis · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: 6; Dunban: 12; Reyn: -8; Sharla: 2; Riki: -2; Melia: 14",
+    "itemQuestUses": [
+      "Collection Quest 3"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stardrop",
+    "wikiPageId": 4357
+  },
+  {
+    "id": "xc1-item-strong-dandelion",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Strong Dandelion",
+    "collectType": "Flower",
+    "region": "Colony 9",
+    "description": "Known for its small black petals. The roots make a throat medicine.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Marcia · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Mefimefi · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Emmy Leater · ☆3 · Colony 9 (XC1) | Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 4; Reyn: -12; Sharla: 10; Riki: -8; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strong_Dandelion_(XC1)",
+    "wikiPageId": 4392
+  },
+  {
+    "id": "xc1-item-sunflower-rogue",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sunflower Rogue",
+    "collectType": "Flower",
+    "region": "Satorl Marsh",
+    "description": "Only blooms in the wild. Withers the moment it is plucked.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Talia · ☆1 ※ · Satorl Marsh",
+      "Pama · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 2; Dunban: 2; Reyn: 4; Sharla: 6; Riki: -2; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sunflower_Rogue_(XC1)",
+    "wikiPageId": 4695
+  },
+  {
+    "id": "xc1-item-utopia-crocus",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Utopia Crocus",
+    "collectType": "Flower",
+    "region": "Mechonis Field",
+    "description": "Looks just like a piece of beryl has come into bloom. Its glow enthralls.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -2; Fiora: 12; Dunban: -6; Reyn: 2; Sharla: 6; Riki: 4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Utopia_Crocus",
+    "wikiPageId": 4849
+  },
+  {
+    "id": "xc1-item-file-flower-png",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "File:Flower.PNG",
+    "itemLocations": [],
+    "itemHasTrade": false,
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlower.PNG",
+    "wikiPageId": 2480
+  },
+  {
+    "id": "xc1-item-benign-cricket",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Benign Cricket",
+    "collectType": "Bug",
+    "region": "Makna Forest",
+    "description": "Flies like a shooting star. A moving swarm is called a Meteor.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Deki · ☆1 · Frontier Village",
+      "Dobadoba · ☆3 · Frontier Village",
+      "Migaga · ☆3 · Frontier Village",
+      "Cherri · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: -6; Dunban: 6; Reyn: 10; Sharla: 2; Riki: 14; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Benign_Cricket_(XC1)",
+    "wikiPageId": 2287
+  },
+  {
+    "id": "xc1-item-black-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Beetle",
+    "collectType": "Bug",
+    "region": "Ether Mine",
+    "description": "Has a sheen like black metal. Kids love it because it looks so cool.",
+    "itemLocations": [
+      "Ether Mine",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Norara · ☆1 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: 12; Reyn: 6; Sharla: -8; Riki: 8; Melia: -8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Beetle",
+    "wikiPageId": 2890
+  },
+  {
+    "id": "xc1-item-blue-ladybird",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Ladybird",
+    "collectType": "Bug",
+    "region": "High Entia Tomb",
+    "description": "This ladybird traps air in its hairs so it can even breathe under water.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Cian · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -2; Dunban: 6; Reyn: 2; Sharla: -8; Riki: 8; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Ladybird_(XC1)",
+    "wikiPageId": 2725
+  },
+  {
+    "id": "xc1-item-brown-butterfly",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Brown Butterfly",
+    "collectType": "Bug",
+    "region": "Tephra Cave",
+    "description": "Blends into the sky while in flight. Also known as Heaven's Teardrop.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Niranira (XC1)|Niranira · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Talonyth · ☆3 ※ · Bionis' Leg",
+      "Suzanna · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: 2; Dunban: 6; Reyn: 6; Sharla: -12; Riki: 16; Melia: -8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Brown_Butterfly",
+    "wikiPageId": 4677
+  },
+  {
+    "id": "xc1-item-dew-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dew Beetle",
+    "collectType": "Bug",
+    "region": "Central Factory",
+    "description": "Damp with the morning dew. Drying leaves it wrinkly.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 8; Fiora: -6; Dunban: 12; Reyn: 4; Sharla: -6; Riki: 4; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dew_Beetle",
+    "wikiPageId": 4894
+  },
+  {
+    "id": "xc1-item-electric-cricket",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Electric Cricket",
+    "collectType": "Bug",
+    "region": "Agniratha",
+    "description": "This bug fires thunderbolts, but the effort leaves it dazed and immobile.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 8; Reyn: -8; Sharla: -6; Riki: 10; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Electric_Cricket_(XC1)",
+    "wikiPageId": 4908
+  },
+  {
+    "id": "xc1-item-emperor-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Emperor Beetle",
+    "collectType": "Bug",
+    "region": "Prison Island",
+    "description": "A stocky beetle whose red colouring and ferocity are second to none.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -8; Fiora: 6; Dunban: 14; Reyn: 2; Sharla: -10; Riki: 8; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Emperor_Beetle_(XC1)",
+    "wikiPageId": 4622
+  },
+  {
+    "id": "xc1-item-empress-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Empress Beetle",
+    "collectType": "Bug",
+    "region": "Frontier Village",
+    "description": "Emits a celestial light which attains intense beauty in its dying moments.",
+    "itemLocations": [
+      "Frontier Village"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dobadoba · ☆4 · Frontier Village",
+      "Hoko · ☆5 · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -4; Dunban: 12; Reyn: 10; Sharla: -10; Riki: 8; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Empress_Beetle_(XC1)",
+    "wikiPageId": 2385
+  },
+  {
+    "id": "xc1-item-fire-tarantula",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fire Tarantula",
+    "collectType": "Bug",
+    "region": "Bionis' Leg",
+    "description": "An adorable tarantula whose many hairs are deadly poisonous.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 14; Dunban: 6; Reyn: -6; Sharla: -4; Riki: 8; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fire_Tarantula_(XC1)",
+    "wikiPageId": 4686
+  },
+  {
+    "id": "xc1-item-giant-hornet",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Giant Hornet",
+    "collectType": "Bug",
+    "region": "Colony 9",
+    "description": "A giant white hornet so heavy that it squashes any flower it alights on.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dean · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Désirée · ☆2 ※ · Colony 9 (XC1)|Colony 9",
+      "Suzanna · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Dorothy (XC1)|Dorothy · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -8; Dunban: 8; Reyn: 16; Sharla: -6; Riki: 8; Melia: -8",
+    "itemQuestUses": [
+      "Collection Quest 4"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Giant_Hornet",
+    "wikiPageId": 3648
+  },
+  {
+    "id": "xc1-item-glider-cockroach",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Glider Cockroach",
+    "collectType": "Bug",
+    "region": "Central Factory",
+    "description": "Mystery bug that flies at great speed. Even its life-cycle is a mystery.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -4; Fiora: -2; Dunban: 2; Reyn: 6; Sharla: 2; Riki: 22; Melia: -6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Glider_Cockroach",
+    "wikiPageId": 4895
+  },
+  {
+    "id": "xc1-item-gold-caterpillar",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Gold Caterpillar",
+    "collectType": "Bug",
+    "region": "Tephra Cave",
+    "description": "Insect larva. Sparkles in shiny gold for only a few hours after hatching.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ma'crish · ☆1 ※ · Bionis' Leg",
+      "Nikita · ☆3 · Bionis' Leg",
+      "Jolele · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Françoise · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: -4; Fiora: 2; Dunban: 8; Reyn: 4; Sharla: -4; Riki: 10; Melia: 2",
+    "itemQuestUses": [
+      "Looking for Gold Bugs"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gold_Caterpillar",
+    "wikiPageId": 4402
+  },
+  {
+    "id": "xc1-item-green-earwig",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Green Earwig",
+    "collectType": "Bug",
+    "region": "High Entia Tomb",
+    "description": "Coloured in rich green, the shade of which varies slightly by habitat.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Mir'leiz · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -6; Dunban: 8; Reyn: 4; Sharla: -4; Riki: 10; Melia: -6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Green_Earwig",
+    "wikiPageId": 4365
+  },
+  {
+    "id": "xc1-item-hades-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Hades Beetle",
+    "collectType": "Bug",
+    "region": "Makna Forest",
+    "description": "A black hue so dark you feel you're being drawn into an abyss.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ababa · ☆1 · Frontier Village",
+      "Npa · ☆3 · Frontier Village",
+      "Gadada · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: 12; Reyn: 4; Sharla: -2; Riki: 12; Melia: -10",
+    "itemQuestUses": [
+      "Secret Elixir Ingredients"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hades_Beetle_(XC1)",
+    "wikiPageId": 2312
+  },
+  {
+    "id": "xc1-item-hill-firefly",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Hill Firefly",
+    "collectType": "Bug",
+    "region": "Bionis' Leg",
+    "description": "Lives on cliffs. Its numbers appear to correlate with shooting star rates.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: 10; Reyn: 2; Sharla: -6; Riki: 8; Melia: -8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hill_Firefly_(XC1)",
+    "wikiPageId": 2753
+  },
+  {
+    "id": "xc1-item-love-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Love Beetle",
+    "collectType": "Bug",
+    "region": "Trade",
+    "description": "An indigo-coloured bug. Beautiful, but known best for its belligerence.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Lupa · ☆3 · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: 10; Reyn: -12; Sharla: 2; Riki: 10; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Love_Beetle_(XC1)",
+    "wikiPageId": 3760
+  },
+  {
+    "id": "xc1-item-minute-mantis",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Minute Mantis",
+    "collectType": "Bug",
+    "region": "Trade",
+    "description": "A giant bug with 77 stripes. It never moves, so it's pretty hard to find.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Sonia · ☆3 · Colony 9 (XC1) | Colony 9"
+    ],
+    "itemGifting": "Shulk: -10; Fiora: -2; Dunban: 12; Reyn: 2; Sharla: -8; Riki: 22; Melia: -6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Minute_Mantis_(XC1)",
+    "wikiPageId": 3258
+  },
+  {
+    "id": "xc1-item-moth-crawler",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Moth Crawler",
+    "collectType": "Bug",
+    "region": "Bionis' Leg",
+    "description": "Weird little wriggler. It's harmless, so it's fun to roll it between your fingers.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Satata · ☆1 · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: -2; Dunban: 2; Reyn: 6; Sharla: -6; Riki: 30; Melia: -10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Moth_Crawler",
+    "wikiPageId": 4684
+  },
+  {
+    "id": "xc1-item-mystery-firefly",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Mystery Firefly",
+    "collectType": "Bug",
+    "region": "Ether Mine",
+    "description": "Also called Singtings. Its discoverer thought she was seeing things.",
+    "itemLocations": [
+      "Ether Mine"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Gowago · ☆1 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 16; Fiora: 2; Dunban: 8; Reyn: 2; Sharla: -10; Riki: 2; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mystery_Firefly_(XC1)",
+    "wikiPageId": 3146
+  },
+  {
+    "id": "xc1-item-prairie-dragonfly",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Prairie Dragonfly",
+    "collectType": "Bug",
+    "region": "Colony 9",
+    "description": "A dragonfly that hides in the plains. Intimidating when disturbed.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Erik · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Dorothy (XC1)|Dorothy · ☆2 · Colony 9 (XC1)|Colony 9",
+      "Niranira (XC1)|Niranira · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Oleksiy · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: -6; Dunban: 20; Reyn: 4; Sharla: -4; Riki: 16; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prairie_Dragonfly_(XC1)",
+    "wikiPageId": 3260
+  },
+  {
+    "id": "xc1-item-queen-locust",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Queen Locust",
+    "collectType": "Bug",
+    "region": "Bionis' Leg",
+    "description": "Deep red like the setting sun, it's a popular gift for the ladies.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 2; Reyn: -4; Sharla: 2; Riki: 12; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Queen_Locust",
+    "wikiPageId": 4685
+  },
+  {
+    "id": "xc1-item-rainbow-bug",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rainbow Bug",
+    "collectType": "Bug",
+    "region": "Frontier Village",
+    "description": "Shines in myriad colours as it swims. This probably lures small fish.",
+    "itemLocations": [
+      "Frontier Village"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Miko · ☆4 · Frontier Village",
+      "Kilaki · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: 8; Reyn: -6; Sharla: 8; Riki: 10; Melia: -14",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rainbow_Bug_(XC1)",
+    "wikiPageId": 2289
+  },
+  {
+    "id": "xc1-item-rubber-mantis",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rubber Mantis",
+    "collectType": "Bug",
+    "region": "Ether Mine",
+    "description": "An elastic mantis that will attack with its pincers. Doesn't hurt though.",
+    "itemLocations": [
+      "Ether Mine"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Nopo'rikh · ☆1 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -8; Fiora: -2; Dunban: 16; Reyn: 4; Sharla: -6; Riki: 24; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rubber_Mantis",
+    "wikiPageId": 4377
+  },
+  {
+    "id": "xc1-item-rumble-stonefly",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rumble Stonefly",
+    "collectType": "Bug",
+    "region": "Tephra Cave",
+    "description": "It moves gracefully and sings sweetly. Very beautiful.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dulland · ☆1 ※ · Bionis' Leg",
+      "Arda · ☆3 · Bionis' Leg",
+      "Betty · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Kenny Rohan · ☆4 · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 16; Fiora: -2; Dunban: 10; Reyn: -6; Sharla: 2; Riki: 2; Melia: -2",
+    "itemQuestUses": [
+      "Things that Rumble"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rumble_Stonefly",
+    "wikiPageId": 3145
+  },
+  {
+    "id": "xc1-item-scarlet-crawler",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Scarlet Crawler",
+    "collectType": "Bug",
+    "region": "Mechonis Field",
+    "description": "A caterpillar of delicate red whose fine hairs are sharp like needles.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -4; Fiora: 6; Dunban: 4; Reyn: 4; Sharla: -8; Riki: 8; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Scarlet_Crawler",
+    "wikiPageId": 4853
+  },
+  {
+    "id": "xc1-item-scarlet-ladybird",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Scarlet Ladybird",
+    "collectType": "Bug",
+    "region": "Makna Forest",
+    "description": "A bright red ladybird. A decent dye is made from is defensive secretions.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Lupa · ☆2 · Frontier Village",
+      "Don Argentis · ☆2 ※ · Frontier Village",
+      "Pokapoka · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 2; Reyn: 4; Sharla: 2; Riki: 10; Melia: -12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Scarlet_Ladybird",
+    "wikiPageId": 2268
+  },
+  {
+    "id": "xc1-item-scissor-bug",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Scissor Bug",
+    "collectType": "Bug",
+    "region": "Agniratha",
+    "description": "Has a giant set of pincers that it lubricates with a secretion.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "En Argentis · ☆1 ※ · Tephra Cave"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 2; Dunban: 8; Reyn: 10; Sharla: -10; Riki: 10; Melia: -12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Scissor_Bug",
+    "wikiPageId": 4909
+  },
+  {
+    "id": "xc1-item-se-orita-scarab",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Señorita Scarab",
+    "collectType": "Bug",
+    "region": "Prison Island",
+    "description": "Although stocky, as befits a beetle, it has a graceful ladylike demeanour.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 8; Fiora: -6; Dunban: 10; Reyn: 4; Sharla: -6; Riki: 4; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Se%C3%B1orita_Scarab",
+    "wikiPageId": 4621
+  },
+  {
+    "id": "xc1-item-shield-bug",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Shield Bug",
+    "collectType": "Bug",
+    "region": "Makna Forest",
+    "description": "After dreams of dancing in the sky, this species turned blue.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Baroba · ☆2 ※ · Frontier Village",
+      "Miko · ☆2 · Frontier Village",
+      "Dobadoba · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 22; Fiora: -2; Dunban: 8; Reyn: 6; Sharla: -12; Riki: 2; Melia: -4",
+    "itemQuestUses": [
+      "Hunt for Bug-Loving Friend"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shield_Bug_(XC1)",
+    "wikiPageId": 2309
+  },
+  {
+    "id": "xc1-item-shiny-scarab",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Shiny Scarab",
+    "collectType": "Bug",
+    "region": "Mechonis Field",
+    "description": "A cute shiny beetle. It's not really one to pick a fight with others.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 18; Dunban: 2; Reyn: -2; Sharla: -6; Riki: 10; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shiny_Scarab",
+    "wikiPageId": 4854
+  },
+  {
+    "id": "xc1-item-sorrow-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sorrow Beetle",
+    "collectType": "Bug",
+    "region": "Colony 9",
+    "description": "A frustrated-looking beetle mostly found near water for some reason.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Françoise · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Betty · ☆2 · Colony 9 (XC1)|Colony 9",
+      "Gorman · ☆3 · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -4; Dunban: 14; Reyn: 2; Sharla: -4; Riki: 14; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sorrow_Beetle",
+    "wikiPageId": 3704
+  },
+  {
+    "id": "xc1-item-ultramarine-ant",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ultramarine Ant",
+    "collectType": "Bug",
+    "region": "Galahad Fortress",
+    "description": "An azure ant with giant jaws. Toils stoically for its queen.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Prox · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -6; Dunban: 8; Reyn: 10; Sharla: -12; Riki: 10; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ultramarine_Ant",
+    "wikiPageId": 4384
+  },
+  {
+    "id": "xc1-item-water-boatman",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Water Boatman",
+    "collectType": "Bug",
+    "region": "Mechonis Field",
+    "description": "It's hard to pick up this slippery lad. That protects it against foes.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Bozatrox · ☆1 · Mechonis Field"
+    ],
+    "itemGifting": "Shulk: 18; Fiora: 2; Dunban: 8; Reyn: 12; Sharla: -14; Riki: 4; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Water_Boatman",
+    "wikiPageId": 3149
+  },
+  {
+    "id": "xc1-item-wheel-lurker",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Wheel Lurker",
+    "collectType": "Bug",
+    "region": "Galahad Fortress",
+    "description": "Dwells in the cogs of machinery. Its secretions clog the wheels.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Mixik · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -6; Dunban: 8; Reyn: 10; Sharla: -14; Riki: 16; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wheel_Lurker",
+    "wikiPageId": 4826
+  },
+  {
+    "id": "xc1-item-white-beetle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Beetle",
+    "collectType": "Bug",
+    "region": "Colony 9",
+    "description": "A beetle with white stripes. Beats its smooth wings to call.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Arnaut · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Raoul · ☆2 · Colony 9 (XC1)|Colony 9",
+      "Narine · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Giorgio · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 10; Reyn: 4; Sharla: -8; Riki: 10; Melia: -10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Beetle",
+    "wikiPageId": 4394
+  },
+  {
+    "id": "xc1-item-white-ladybird",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Ladybird",
+    "collectType": "Bug",
+    "region": "Bionis' Leg",
+    "description": "A ladybird with white spots all over. Males are known by another name.",
+    "itemLocations": [
+      "Bionis' Leg",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 8; Reyn: 4; Sharla: -2; Riki: 10; Melia: -12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Ladybird",
+    "wikiPageId": 4683
+  },
+  {
+    "id": "xc1-item-file-bug-png",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "File:Bug.PNG",
+    "itemLocations": [],
+    "itemHasTrade": false,
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABug.PNG",
+    "wikiPageId": 2484
+  },
+  {
+    "id": "xc1-item-angel-engine-x",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Angel Engine X",
+    "collectType": "Part",
+    "region": "Central Factory",
+    "description": "A machine designed to look like an angel flapping its wings.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Oleksiy · ☆2 ※ · Satorl Marsh",
+      "Shilx · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: -4; Dunban: 8; Reyn: -2; Sharla: 12; Riki: 2; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Angel_Engine_X",
+    "wikiPageId": 2899
+  },
+  {
+    "id": "xc1-item-angel-engine-y",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Angel Engine Y",
+    "collectType": "Part",
+    "region": "Trade",
+    "description": "A machine designed to look like an angel alighting.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rakzet · ☆3 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -6; Dunban: 18; Reyn: 6; Sharla: 2; Riki: -2; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Angel_Engine_Y",
+    "wikiPageId": 4043
+  },
+  {
+    "id": "xc1-item-art-core-coil",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Art Core Coil",
+    "collectType": "Parts",
+    "region": "Galahad Fortress",
+    "description": "Strange blue metal artifact. Hard to believe it's machine-made.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kazat · ☆4 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 18; Fiora: -4; Dunban: 8; Reyn: 2; Sharla: -8; Riki: 2; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Art_Core_Coil_(XC1)",
+    "wikiPageId": 2881
+  },
+  {
+    "id": "xc1-item-black-chip",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Chip",
+    "collectType": "Part",
+    "region": "Ether Mine",
+    "description": "A black chip with residual charge. Unfortunately the wiring is busted.",
+    "itemLocations": [
+      "Ether Mine",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 14; Fiora: -12; Dunban: 12; Reyn: 8; Sharla: 2; Riki: -8; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Chip",
+    "wikiPageId": 4381
+  },
+  {
+    "id": "xc1-item-blue-chain",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Chain",
+    "collectType": "Parts",
+    "region": "Colony 9",
+    "description": "Some kind of machine part or other. Looks old but should be usable.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Shura · ☆1 · Colony 9 (XC1) | Colony 9",
+      "Monica (XC1)|Monica · ☆2 · Colony 9 (XC1) | Colony 9",
+      "Pama · ☆2 · Bionis' Leg",
+      "Jiroque · ☆3 · Colony 9 (XC1) | Colony 9",
+      "Liliana · Overtrade · Colony 9 (XC1) | Colony 9"
+    ],
+    "itemGifting": "Shulk: 30; Fiora: -6; Dunban: 6; Reyn: 2; Sharla: -4; Riki: -12; Melia: 4",
+    "itemQuestUses": [
+      "The Broken Watch"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Chain_(XC1)",
+    "wikiPageId": 3131
+  },
+  {
+    "id": "xc1-item-blue-gear-shard",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Gear Shard",
+    "collectType": "Part",
+    "region": "Satorl Marsh",
+    "description": "Sharp shard. Somebody could have their eye out with that!",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rosemary · ☆4 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -6; Dunban: 18; Reyn: 2; Sharla: -6; Riki: -2; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Gear_Shard_(XC1)",
+    "wikiPageId": 4168
+  },
+  {
+    "id": "xc1-item-blue-light-amp",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Light Amp",
+    "collectType": "Part",
+    "region": "Agniratha",
+    "description": "An amp that emits a blue light. The reason for this is unclear.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Oleksiy · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 16; Fiora: -6; Dunban: 6; Reyn: -12; Sharla: 4; Riki: 2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Light_Amp",
+    "wikiPageId": 2898
+  },
+  {
+    "id": "xc1-item-crimson-gear",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Crimson Gear",
+    "collectType": "Part",
+    "region": "Sword Valley",
+    "description": "A lovely red gearwheel. No one has any idea what it's for though.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zilex · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: 2; Dunban: 2; Reyn: -10; Sharla: 8; Riki: 2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crimson_Gear_(XC1)",
+    "wikiPageId": 4610
+  },
+  {
+    "id": "xc1-item-digital-filament",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Digital Filament",
+    "collectType": "Parts",
+    "region": "Fallen Arm",
+    "description": "A part for stable current distribution. Emits a suspicious purple glow.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Natalia · ☆5 · Fallen Arm",
+      "Orkatix · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 24; Fiora: -6; Dunban: 6; Reyn: -6; Sharla: 2; Riki: -14; Melia: 12",
+    "itemQuestUses": [
+      "Fixing a Broken Door"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Digital_Filament_(XC1)",
+    "wikiPageId": 3135
+  },
+  {
+    "id": "xc1-item-fairy-tale-diode",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fairy Tale Diode",
+    "collectType": "Part",
+    "region": "Agniratha",
+    "description": "They say gazing into the red light traps you in an enchanted world.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: 12; Dunban: -6; Reyn: 2; Sharla: -2; Riki: -2; Melia: 4",
+    "itemQuestUses": [
+      "Agniratha Beautification 1"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fairy_Tale_Diode",
+    "wikiPageId": 4912
+  },
+  {
+    "id": "xc1-item-fancy-bolt",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fancy Bolt",
+    "collectType": "Part",
+    "region": "Agniratha",
+    "description": "A bolt with a strangely pretty head. Tightening it looks like fun.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: 2; Dunban: -2; Reyn: 2; Sharla: -2; Riki: 4; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fancy_Bolt_(XC1)",
+    "wikiPageId": 4911
+  },
+  {
+    "id": "xc1-item-gold-condenser",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Gold Condenser",
+    "collectType": "Part",
+    "region": "Sword Valley",
+    "description": "It's metallic and thus conductive. One hesitates to use it though.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zarkort · ☆1 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: -8; Dunban: 18; Reyn: 2; Sharla: 6; Riki: -2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gold_Condenser_(XC1)",
+    "wikiPageId": 4608
+  },
+  {
+    "id": "xc1-item-golden-cog",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Golden Cog",
+    "collectType": "Part",
+    "region": "Trade",
+    "description": "A gearwheel fully made of gold. It couldn't work in any known machine.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Oleksiy · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 2; Dunban: 6; Reyn: -2; Sharla: -2; Riki: -4; Melia: 14",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Golden_Cog_(XC1)",
+    "wikiPageId": 4313
+  },
+  {
+    "id": "xc1-item-grape-spring",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Grape Spring",
+    "collectType": "Part",
+    "region": "Agniratha",
+    "description": "A spring shaped like a grape. Why is it shaped this way? Nobody knows.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 24; Fiora: -4; Dunban: 6; Reyn: -6; Sharla: 2; Riki: -14; Melia: 10",
+    "itemQuestUses": [
+      "Agniratha Beautification 2"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Grape_Spring_(XC1)",
+    "wikiPageId": 3136
+  },
+  {
+    "id": "xc1-item-green-cam",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Green Cam",
+    "collectType": "Part",
+    "region": "Prison Island",
+    "description": "Many's the scientist that would enjoy thinking up ways to use this part.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 12; Fiora: -12; Dunban: 6; Reyn: 2; Sharla: -2; Riki: 10; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Green_Cam",
+    "wikiPageId": 4620
+  },
+  {
+    "id": "xc1-item-green-diode",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Green Diode",
+    "collectType": "Part",
+    "region": "High Entia Tomb",
+    "description": "It's covered in moss and its light is dim, but that just makes it alluring.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Piko · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: -10; Dunban: 6; Reyn: 2; Sharla: -6; Riki: 4; Melia: 12",
+    "itemQuestUses": [
+      "A Necessary Upgrade"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Green_Diode_(XC1)",
+    "wikiPageId": 4108
+  },
+  {
+    "id": "xc1-item-leaf-coil",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Leaf Coil",
+    "collectType": "Part",
+    "region": "Central Factory",
+    "description": "A coil with a leafy colour. Used as a missile in some fields.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: -12; Dunban: 6; Reyn: 2; Sharla: 2; Riki: 8; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Leaf_Coil_(XC1)",
+    "wikiPageId": 4898
+  },
+  {
+    "id": "xc1-item-locust-spring",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Locust Spring",
+    "collectType": "Part",
+    "region": "Galahad Fortress",
+    "description": "A bouncy spring that seems alive. Hard to know where it'll bounce next.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Orkatix · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: -12; Dunban: 6; Reyn: 2; Sharla: -2; Riki: 12; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Locust_Spring_(XC1)",
+    "wikiPageId": 4385
+  },
+  {
+    "id": "xc1-item-modern-blue-gear",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Modern Blue Gear",
+    "collectType": "Part",
+    "region": "Mechonis Field",
+    "description": "Efficiently-constructed gearwheel. So beautiful it's a shame to use it.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 16; Fiora: -4; Dunban: 8; Reyn: -10; Sharla: 4; Riki: 2; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Modern_Blue_Gear_(XC1)",
+    "wikiPageId": 3150
+  },
+  {
+    "id": "xc1-item-modern-resistor",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Modern Resistor",
+    "collectType": "Part",
+    "region": "Prison Island",
+    "description": "Now useless for memory storage. Might make a nice ornament though.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: -6; Dunban: 6; Reyn: -18; Sharla: 6; Riki: 4; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Modern_Resistor_(XC1)",
+    "wikiPageId": 4619
+  },
+  {
+    "id": "xc1-item-purple-lamp",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Purple Lamp",
+    "collectType": "Part",
+    "region": "Sword Valley",
+    "description": "A lamp that emits a purple light. Its glow is profoundly mysterious.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Voltak · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: -6; Dunban: 6; Reyn: -6; Sharla: -6; Riki: -2; Melia: 18",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Purple_Lamp_(XC1)",
+    "wikiPageId": 4609
+  },
+  {
+    "id": "xc1-item-rabbit-diode",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rabbit Diode",
+    "collectType": "Part",
+    "region": "Colony 9",
+    "description": "A cute pink machine part reminiscent of a bunny's tail.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Moritz · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Jan · ☆2 · Colony 9 (XC1)|Colony 9",
+      "Satata · ☆2 · Bionis' Leg",
+      "Sesame · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Rocco · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: 12; Dunban: -6; Reyn: 2; Sharla: 2; Riki: -4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rabbit_Diode_(XC1)",
+    "wikiPageId": 2900
+  },
+  {
+    "id": "xc1-item-ready-coil",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ready Coil",
+    "collectType": "Part",
+    "region": "Ether Mine",
+    "description": "A coil wound with red wire. You could make a fun gadget with it.",
+    "itemLocations": [
+      "Ether Mine"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Olga · ☆1 · Colony 6",
+      "En Argentis · ☆1 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: 2; Dunban: 2; Reyn: 2; Sharla: -2; Riki: 6; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ready_Coil",
+    "wikiPageId": 2442
+  },
+  {
+    "id": "xc1-item-retro-diode",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Retro Diode",
+    "collectType": "Part",
+    "region": "Mechonis Field",
+    "description": "An archaic diode with a red light that's always on.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Norara · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: 2; Dunban: 2; Reyn: 2; Sharla: -6; Riki: -2; Melia: 14",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Retro_Diode_(XC1)",
+    "wikiPageId": 2720
+  },
+  {
+    "id": "xc1-item-rumble-part",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rumble Part",
+    "collectType": "Part",
+    "region": "Satorl Marsh",
+    "description": "A white part that beats a constant rhythm. Puts you in a singing mood.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Mefimefi · ☆4 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -4; Dunban: 6; Reyn: 6; Sharla: 2; Riki: 4; Melia: -6",
+    "itemQuestUses": [
+      "Things that Rumble"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rumble_Part_(XC1)",
+    "wikiPageId": 4706
+  },
+  {
+    "id": "xc1-item-rusty-bolt",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rusty Bolt",
+    "collectType": "Part",
+    "region": "Bionis' Leg",
+    "description": "A bolt that's rusted away by the elements. Probably useless now.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: -6; Dunban: 2; Reyn: 6; Sharla: 4; Riki: -2; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rusty_Bolt_(XC1)",
+    "wikiPageId": 4690
+  },
+  {
+    "id": "xc1-item-snow-transistor",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Snow Transistor",
+    "collectType": "Part",
+    "region": "Mechonis Field",
+    "description": "A transistor that causes visions of snow flurries when you switch it on.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: -6; Dunban: 6; Reyn: 8; Sharla: 2; Riki: 4; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Snow_Transistor_(XC1)",
+    "wikiPageId": 4858
+  },
+  {
+    "id": "xc1-item-spiral-lamp",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Spiral Lamp",
+    "collectType": "Part",
+    "region": "High Entia Tomb",
+    "description": "A helical lamp with a nasty crack. There's no point trying to fix it.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kaleka · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -6; Dunban: 12; Reyn: 2; Sharla: 2; Riki: 2; Melia: 2",
+    "itemQuestUses": [
+      "Collection Quest 4"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spiral_Lamp",
+    "wikiPageId": 4367
+  },
+  {
+    "id": "xc1-item-strong-screw",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Strong Screw",
+    "collectType": "Part",
+    "region": "Prison Island",
+    "description": "A blue heart-shaped screw. Small and cute, but hard to handle.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 16; Fiora: 8; Dunban: -2; Reyn: 2; Sharla: -6; Riki: -6; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strong_Screw_(XC1)",
+    "wikiPageId": 3187
+  },
+  {
+    "id": "xc1-item-tail-antenna",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Tail Antenna",
+    "collectType": "Part",
+    "region": "Galahad Fortress",
+    "description": "Cute like a cat's tail. It has a distinctive rigid form.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Eiz · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 10; Fiora: 8; Dunban: 6; Reyn: 2; Sharla: -2; Riki: -10; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tail_Antenna_(XC1)",
+    "wikiPageId": 4386
+  },
+  {
+    "id": "xc1-item-thunder-compass",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Thunder Compass",
+    "collectType": "Part",
+    "region": "Trade",
+    "description": "A compass favoured by adventurers. The needle looks like a thunderbolt.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Jarack · ☆3 · Eryth Sea"
+    ],
+    "itemGifting": "Shulk: 18; Fiora: -4; Dunban: 6; Reyn: 2; Sharla: 8; Riki: -12; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thunder_Compass_(XC1)",
+    "wikiPageId": 4314
+  },
+  {
+    "id": "xc1-item-warning-lamp",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Warning Lamp",
+    "collectType": "Part",
+    "region": "Fallen Arm",
+    "description": "A lamp that shines on low power. Fragile though, so it breaks easily.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Karlos · ☆5 · Fallen Arm",
+      "Natalia · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -10; Dunban: 4; Reyn: 8; Sharla: 6; Riki: -2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Warning_Lamp_(XC1)",
+    "wikiPageId": 2719
+  },
+  {
+    "id": "xc1-item-warrior-screw",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Warrior Screw",
+    "collectType": "Part",
+    "region": "Central Factory",
+    "description": "It's red with rust, but who cares! A gutsy wild little screw.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 12; Fiora: -6; Dunban: 2; Reyn: 6; Sharla: 2; Riki: -2; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Warrior_Screw_(XC1)",
+    "wikiPageId": 4899
+  },
+  {
+    "id": "xc1-item-white-cover",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Cover",
+    "collectType": "Part",
+    "region": "Prison Island",
+    "description": "Lovely solid white board. You don't want to know what it's made from.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 12; Fiora: 8; Dunban: 2; Reyn: 6; Sharla: -2; Riki: -4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Cover_(XC1)",
+    "wikiPageId": 4618
+  },
+  {
+    "id": "xc1-item-white-tube",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Tube",
+    "collectType": "Part",
+    "region": "High Entia Tomb",
+    "description": "A piece of broken vacuum tube. Its beauty endures however.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Don Argentis · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: -6; Dunban: 8; Reyn: -4; Sharla: 8; Riki: 2; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Tube",
+    "wikiPageId": 4366
+  },
+  {
+    "id": "xc1-item-winding-gear",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Winding Gear",
+    "collectType": "Part",
+    "region": "Bionis' Leg",
+    "description": "A curved white cog. Why was it made like that? Nobody knows.",
+    "itemLocations": [
+      "Bionis' Leg",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 24; Fiora: -8; Dunban: 6; Reyn: 4; Sharla: 4; Riki: -12; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Winding_Gear_(XC1)",
+    "wikiPageId": 3132
+  },
+  {
+    "id": "xc1-item-file-part-png",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "File:Part.PNG",
+    "itemLocations": [],
+    "itemHasTrade": false,
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APart.PNG",
+    "wikiPageId": 2486
+  },
+  {
+    "id": "xc1-item-black-panel",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Black Panel",
+    "collectType": "Strange",
+    "region": "Frontier Village",
+    "description": "Melia named this in a hurry. It's really just an odd black panel.",
+    "itemLocations": [
+      "Frontier Village"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kaleka · ☆4 ※ · Frontier Village",
+      "Pachipa · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 18; Fiora: 4; Dunban: 10; Reyn: 2; Sharla: 4; Riki: -12; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Panel",
+    "wikiPageId": 3229
+  },
+  {
+    "id": "xc1-item-blue-blood",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Blood",
+    "collectType": "Strange",
+    "region": "Prison Island",
+    "description": "Melia named this cautiously. It's a blood stained pendant.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 18; Fiora: 10; Dunban: -2; Reyn: 6; Sharla: 4; Riki: -6; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Blood_(XC1)",
+    "wikiPageId": 4626
+  },
+  {
+    "id": "xc1-item-blue-glow",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Blue Glow",
+    "collectType": "Strange",
+    "region": "Prison Island",
+    "description": "Dunban felt down when he named it. A sorrowful and ominous ball of light.",
+    "itemLocations": [
+      "Prison Island"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: 16; Reyn: 6; Sharla: -2; Riki: 4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Glow",
+    "wikiPageId": 4625
+  },
+  {
+    "id": "xc1-item-bud-of-eternity",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Bud of Eternity",
+    "collectType": "Strange",
+    "region": "Sword Valley",
+    "description": "Dunban smiled as he named this. Beautifully lush.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Xekit · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -2; Dunban: 4; Reyn: -6; Sharla: 10; Riki: 10; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bud_of_Eternity",
+    "wikiPageId": 3151
+  },
+  {
+    "id": "xc1-item-coin-of-fortune",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Coin of Fortune",
+    "collectType": "Strange",
+    "region": "Trade",
+    "description": "Fiora felt destined to name this. A gold coin once used as currency.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Ma'crish · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 4; Dunban: 4; Reyn: 2; Sharla: 6; Riki: 4; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Coin_of_Fortune",
+    "wikiPageId": 4315
+  },
+  {
+    "id": "xc1-item-darkness-bottle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Darkness Bottle",
+    "collectType": "Strange",
+    "region": "Sword Valley",
+    "description": "Melia named this proudly. Darker and deeper than the night.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Vronik · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: 10; Reyn: 4; Sharla: -2; Riki: -2; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Darkness_Bottle",
+    "wikiPageId": 4611
+  },
+  {
+    "id": "xc1-item-dawn-dice",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dawn Dice",
+    "collectType": "Strange",
+    "region": "Satorl Marsh",
+    "description": "Reyn named this while daydreaming. Pretty dice made of red stone.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Zel Argentis · ☆4 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 18; Dunban: -8; Reyn: 4; Sharla: 6; Riki: 4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dawn_Dice",
+    "wikiPageId": 4708
+  },
+  {
+    "id": "xc1-item-death-bangle",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Death Bangle",
+    "collectType": "Strange",
+    "region": "Bionis' Leg",
+    "description": "Reyn came up with this on the spot. It's made from viciously sharp fangs.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -10; Fiora: 6; Dunban: 18; Reyn: 6; Sharla: 12; Riki: 4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Death_Bangle",
+    "wikiPageId": 4693
+  },
+  {
+    "id": "xc1-item-devious-gravity",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Devious Gravity",
+    "collectType": "Strange",
+    "region": "Bionis' Leg",
+    "description": "Reyn came up with this at random. Gives a wild savage impression.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: -2; Dunban: 10; Reyn: 12; Sharla: 4; Riki: -4; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Devious_Gravity",
+    "wikiPageId": 4691
+  },
+  {
+    "id": "xc1-item-dramatic-night",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Dramatic Night",
+    "collectType": "Strange",
+    "region": "Agniratha",
+    "description": "Reyn was serious when he named this dangerous-looking component.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 18; Fiora: 4; Dunban: 10; Reyn: 4; Sharla: 4; Riki: -12; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dramatic_Night",
+    "wikiPageId": 3255
+  },
+  {
+    "id": "xc1-item-eryth-blue",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Eryth Blue",
+    "collectType": "Strange",
+    "region": "Agniratha",
+    "description": "Melia was sentimental when naming this board, blue as Eryth Sea.",
+    "itemLocations": [
+      "Agniratha",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 10; Fiora: 4; Dunban: 4; Reyn: 6; Sharla: -8; Riki: 4; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eryth_Blue",
+    "wikiPageId": 4913
+  },
+  {
+    "id": "xc1-item-fire-abron",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Fire Abron",
+    "collectType": "Strange",
+    "region": "Ether Mine",
+    "description": "Sharla named this deep red statue of an unknown subject.",
+    "itemLocations": [
+      "Ether Mine"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -6; Fiora: 10; Dunban: 12; Reyn: 2; Sharla: 4; Riki: 6; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fire_Abron",
+    "wikiPageId": 4383
+  },
+  {
+    "id": "xc1-item-flame-frame",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Flame Frame",
+    "collectType": "Strange",
+    "region": "Mechonis Field",
+    "description": "Sharla named this cautiously. Peep inside to see a merry light.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 6; Fiora: -2; Dunban: 4; Reyn: 6; Sharla: 2; Riki: 14; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Flame_Frame",
+    "wikiPageId": 4860
+  },
+  {
+    "id": "xc1-item-forest-of-gossip",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Forest of Gossip",
+    "collectType": "Strange",
+    "region": "Makna Forest",
+    "description": "Dunban scowled as he named this. It makes a lively sound in the wind.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dabidabi · ☆3 ※ · Frontier Village",
+      "Tuzu · ☆3 · Frontier Village",
+      "Puko · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -4; Dunban: 4; Reyn: 4; Sharla: 4; Riki: 16; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Forest_of_Gossip",
+    "wikiPageId": 4761
+  },
+  {
+    "id": "xc1-item-frost-glass",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Frost Glass",
+    "collectType": "Strange",
+    "region": "Valak Mountain",
+    "description": "Shulk was shivering as he named it. No one knows if it's ice or glass.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dakuku · ☆5 · Valak Mountain"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: 2; Dunban: 6; Reyn: 6; Sharla: 2; Riki: 14; Melia: 10",
+    "itemQuestUses": [
+      "Broken Ether Furnace"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frost_Glass",
+    "wikiPageId": 4352
+  },
+  {
+    "id": "xc1-item-gold-dust-illusion",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Gold Dust Illusion",
+    "collectType": "Strange",
+    "region": "Bionis' Leg",
+    "description": "A starry-eyed Shulk named this. A sand that shines a beautiful gold.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -2; Fiora: 4; Dunban: 4; Reyn: -6; Sharla: 16; Riki: 4; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gold_Dust_Illusion",
+    "wikiPageId": 3764
+  },
+  {
+    "id": "xc1-item-gravel-disk",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Gravel Disk",
+    "collectType": "Strange",
+    "region": "Makna Forest",
+    "description": "Shulk was guessing what this was. Not unlike a mirror of gravel.",
+    "itemLocations": [
+      "Makna Forest"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Nelo · ☆3 ※ · Frontier Village",
+      "Popipo · ☆3 ※ · Frontier Village",
+      "Rono · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 8; Fiora: 2; Dunban: 8; Reyn: 14; Sharla: 14; Riki: 8; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gravel_Disk",
+    "wikiPageId": 4762
+  },
+  {
+    "id": "xc1-item-ha-ha-ha",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Ha Ha Ha",
+    "collectType": "Strange",
+    "region": "Alcamoth",
+    "description": "Riki seemed to enjoy naming this. It's some kind of furry white creature.",
+    "itemLocations": [
+      "Alcamoth"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Baroba · ☆3 · Alcamoth",
+      "Nelo · ☆3 · Alcamoth",
+      "Caul · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 16; Dunban: -2; Reyn: 10; Sharla: 4; Riki: 4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ha_Ha_Ha",
+    "wikiPageId": 4358
+  },
+  {
+    "id": "xc1-item-happy-carnival",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Happy Carnival",
+    "collectType": "Strange",
+    "region": "Satorl Marsh",
+    "description": "Reyn was laughing as he named this weird liquid that chimes when stirred.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Pipiki · ☆2 · Frontier Village",
+      "Pokapoka · ☆5 · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 12; Fiora: 6; Dunban: 6; Reyn: 6; Sharla: 2; Riki: 12; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Happy_Carnival",
+    "wikiPageId": 4707
+  },
+  {
+    "id": "xc1-item-high-entia-jewel",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "High Entia Jewel",
+    "collectType": "Strange",
+    "region": "Bionis' Interior",
+    "description": "Melia named this deferentially. A ring with lovely old-style designs.",
+    "itemLocations": [
+      "Bionis' Interior",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: 6; Reyn: -12; Sharla: 12; Riki: 2; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Entia_Jewel",
+    "wikiPageId": 4374
+  },
+  {
+    "id": "xc1-item-high-violet",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "High Violet",
+    "collectType": "Strange",
+    "region": "Eryth Sea",
+    "description": "Melia named this instinctively. A staff that gathers harmful energy.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Jer'ell · ☆2 · Alcamoth",
+      "Yura · ☆2 · Alcamoth",
+      "Teelan · ☆5 ※ · Eryth Sea",
+      "Ruthan · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -2; Dunban: 4; Reyn: 4; Sharla: 6; Riki: 6; Melia: 8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/High_Violet",
+    "wikiPageId": 4817
+  },
+  {
+    "id": "xc1-item-hunger-crash",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Hunger Crash",
+    "collectType": "Strange",
+    "region": "Galahad Fortress",
+    "description": "Reyn named this with satisfaction. A juicy food that quickly fills you up.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Theo · ☆2 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: -4; Dunban: 2; Reyn: 22; Sharla: 2; Riki: 2; Melia: -4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hunger_Crash",
+    "wikiPageId": 3420
+  },
+  {
+    "id": "xc1-item-large-handcuffs",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Large Handcuffs",
+    "collectType": "Strange",
+    "region": "Valak Mountain",
+    "description": "Didn't take Reyn long to name these. Big green rings made of monster fur.",
+    "itemLocations": [
+      "Valak Mountain"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: -2; Dunban: 4; Reyn: 10; Sharla: 4; Riki: 10; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Large_Handcuffs",
+    "wikiPageId": 4353
+  },
+  {
+    "id": "xc1-item-leaf-mystery",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Leaf Mystery",
+    "collectType": "Strange",
+    "region": "Tephra Cave",
+    "description": "Fiora delightedly named this. A fresh leaf that quietly glows.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Shura · ☆1 ※ · Tephra Cave",
+      "King Squeeze · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Nic · ☆4 · Colony 9 (XC1)|Colony 9",
+      "Gerugu · ☆5 · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: -2; Dunban: 4; Reyn: 6; Sharla: -4; Riki: 10; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Leaf_Mystery",
+    "wikiPageId": 4405
+  },
+  {
+    "id": "xc1-item-lemonade-sky",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Lemonade Sky",
+    "collectType": "Strange",
+    "region": "Makna Forest",
+    "description": "Sharla looked wistful as she named this deep blue stone of nostalgia.",
+    "itemLocations": [
+      "Makna Forest",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kilaki · ☆3 · Frontier Village",
+      "Rono · ☆3 · Frontier Village",
+      "Medi · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: 16; Reyn: 6; Sharla: -2; Riki: 6; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lemonade_Sky",
+    "wikiPageId": 2274
+  },
+  {
+    "id": "xc1-item-love-crane",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Love Crane",
+    "collectType": "Strange",
+    "region": "Ether Mine",
+    "description": "Sharla named this as she saw it. Gold in colour and moves prettily.",
+    "itemLocations": [
+      "Ether Mine",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Neonik · ☆1 · Colony 6",
+      "Pokapoka · ☆3 · Colony 6"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 16; Dunban: -2; Reyn: 4; Sharla: 10; Riki: 4; Melia: 2",
+    "itemQuestUses": [
+      "Decoration Makeover"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Love_Crane",
+    "wikiPageId": 4382
+  },
+  {
+    "id": "xc1-item-love-source",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Love Source",
+    "collectType": "Strange",
+    "region": "Trade",
+    "description": "A strange love potion much sought-after throughout Bionis.",
+    "itemLocations": [],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Jer'ell · ☆5 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 100; Fiora: 100; Dunban: 100; Reyn: 100; Sharla: 100; Riki: 100; Melia: 100",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Love_Source_(XC1)",
+    "wikiPageId": 4175
+  },
+  {
+    "id": "xc1-item-macro-passion",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Macro Passion",
+    "collectType": "Strange",
+    "region": "High Entia Tomb",
+    "description": "Sharla named this on impulse. A passionate ball of red thread.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Lesunia · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 10; Dunban: -2; Reyn: 6; Sharla: 4; Riki: 10; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Macro_Passion",
+    "wikiPageId": 4369
+  },
+  {
+    "id": "xc1-item-parts-noble",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Parts Noble",
+    "collectType": "Strange",
+    "region": "Central Factory",
+    "description": "Fiora named this bashfully. Coloured in beautiful white.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 6; Fiora: 4; Dunban: 4; Reyn: 2; Sharla: 10; Riki: 6; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Parts_Noble",
+    "wikiPageId": 4902
+  },
+  {
+    "id": "xc1-item-paupers-cup",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Pauper's Cup",
+    "collectType": "Strange",
+    "region": "Satorl Marsh",
+    "description": "Dunban fretted over what to call this. An overly-tiny cup of obscure usage.",
+    "itemLocations": [
+      "Satorl Marsh"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Minana · ☆4 · Colony 6"
+    ],
+    "itemGifting": "Shulk: 24; Fiora: 4; Dunban: 4; Reyn: 6; Sharla: -2; Riki: -8; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pauper's_Cup",
+    "wikiPageId": 3138
+  },
+  {
+    "id": "xc1-item-plate-snow",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Plate Snow",
+    "collectType": "Strange",
+    "region": "Colony 9",
+    "description": "A horrible white thing that Fiora named when she was little.",
+    "itemLocations": [
+      "Colony 9"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Jolele · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Matryona · ☆2 · Bionis' Leg",
+      "Perrine · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Sonia · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: -6; Fiora: 4; Dunban: 16; Reyn: 10; Sharla: 4; Riki: 4; Melia: -2",
+    "itemQuestUses": [
+      "Collection Quest 2"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Plate_Snow",
+    "wikiPageId": 4395
+  },
+  {
+    "id": "xc1-item-rainbow-zirconia",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rainbow Zirconia",
+    "collectType": "Strange",
+    "region": "Colony 9",
+    "description": "Reyn did his best to name this. Reflects light like a pretty rainbow.",
+    "itemLocations": [
+      "Colony 9",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dionysis · ☆1 · Colony 9 (XC1)|Colony 9",
+      "Lukas · ☆2 · Colony 9 (XC1)|Colony 9",
+      "Batubatu · ☆2 · Bionis' Leg",
+      "Werner · Overtrade · Colony 9 (XC1)|Colony 9"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: 4; Reyn: -6; Sharla: 6; Riki: 6; Melia: 8",
+    "itemQuestUses": [
+      "Collection Quest 3",
+      "Housing level 5 - three needed."
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rainbow_Zirconia_(XC1)",
+    "wikiPageId": 2407
+  },
+  {
+    "id": "xc1-item-red-frontier",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Red Frontier",
+    "collectType": "Strange",
+    "region": "Sword Valley",
+    "description": "Sharla looked wild as she named it. A weird red brick tougher than iron.",
+    "itemLocations": [
+      "Sword Valley",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rizaka · ☆5 · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: 6; Dunban: 2; Reyn: 12; Sharla: 6; Riki: 8; Melia: 6",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Red_Frontier",
+    "wikiPageId": 2715
+  },
+  {
+    "id": "xc1-item-rumble-box",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Rumble Box",
+    "collectType": "Strange",
+    "region": "Frontier Village",
+    "description": "Riki named this without hesitation. A purple box that plays music.",
+    "itemLocations": [
+      "Frontier Village"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Dabidabi · ☆4 ※ · Frontier Village",
+      "Modamo · Overtrade · Frontier Village"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: 4; Reyn: -2; Sharla: -2; Riki: 4; Melia: 16",
+    "itemQuestUses": [
+      "Things that Rumble"
+    ],
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rumble_Box",
+    "wikiPageId": 2313
+  },
+  {
+    "id": "xc1-item-sacred-panther",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Sacred Panther",
+    "collectType": "Strange",
+    "region": "Central Factory",
+    "description": "Sharla named this as she saw fit. Sharp and angular like a panther.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Oleksiy · ☆4 ※ · Satorl Marsh"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: 6; Dunban: 12; Reyn: 8; Sharla: 2; Riki: 2; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sacred_Panther",
+    "wikiPageId": 4901
+  },
+  {
+    "id": "xc1-item-smoke-cylinder",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Smoke Cylinder",
+    "collectType": "Strange",
+    "region": "Central Factory",
+    "description": "Dunban named this item dubiously. A pretty smoke-emitting cylinder.",
+    "itemLocations": [
+      "Central Factory",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 6; Fiora: 6; Dunban: 4; Reyn: -14; Sharla: 10; Riki: 4; Melia: 14",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Smoke_Cylinder",
+    "wikiPageId": 4900
+  },
+  {
+    "id": "xc1-item-splish-splash",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Splish Splash",
+    "collectType": "Strange",
+    "region": "Galahad Fortress",
+    "description": "Riki named this without thinking. One touch stains your hand red.",
+    "itemLocations": [
+      "Galahad Fortress",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: -2; Reyn: 10; Sharla: 6; Riki: 4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Splish_Splash",
+    "wikiPageId": 4387
+  },
+  {
+    "id": "xc1-item-star-cute",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Star Cute",
+    "collectType": "Strange",
+    "region": "Fallen Arm",
+    "description": "Fiora named this in a flurry. Deep green stardust.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Neonik · ☆5 · Fallen Arm",
+      "Eiz · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 12; Dunban: -2; Reyn: 4; Sharla: 2; Riki: 10; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Star_Cute",
+    "wikiPageId": 4844
+  },
+  {
+    "id": "xc1-item-steel-hauyne",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Steel Hauyne",
+    "collectType": "Strange",
+    "region": "Eryth Sea",
+    "description": "Reyn boldly named this purple item that is both gemstone and steel.",
+    "itemLocations": [
+      "Eryth Sea"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Kurralth · ☆2 · Alcamoth",
+      "Galdo · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 18; Fiora: 6; Dunban: 4; Reyn: -4; Sharla: 2; Riki: -4; Melia: 12",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Steel_Hauyne",
+    "wikiPageId": 3238
+  },
+  {
+    "id": "xc1-item-steel-silk",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Steel Silk",
+    "collectType": "Strange",
+    "region": "Tephra Cave",
+    "description": "Dunban called it this a long time ago. It's soft like silk when wet.",
+    "itemLocations": [
+      "Tephra Cave"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Peppino · ☆3 · Colony 9 (XC1)|Colony 9",
+      "Désirée · ☆4 ※1 · Colony 9 (XC1)|Colony 9",
+      "Ma'crish · ☆5 ※2 · Bionis' Leg"
+    ],
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: 8; Reyn: 4; Sharla: 4; Riki: 2; Melia: 18",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Steel_Silk",
+    "wikiPageId": 2415
+  },
+  {
+    "id": "xc1-item-summer-star",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Summer Star",
+    "collectType": "Strange",
+    "region": "Fallen Arm",
+    "description": "Shulk named this admiringly. So tangy it makes you laugh.",
+    "itemLocations": [
+      "Fallen Arm"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Qofaria · ☆5 · Fallen Arm",
+      "Rakzet · Overtrade · Fallen Arm"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 4; Dunban: -2; Reyn: -4; Sharla: 4; Riki: 10; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Summer_Star",
+    "wikiPageId": 4845
+  },
+  {
+    "id": "xc1-item-tap-tap-tap",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Tap Tap Tap",
+    "collectType": "Strange",
+    "region": "Bionis' Interior",
+    "description": "Riki did a jig when he named this. Might come in handy at a dance.",
+    "itemLocations": [
+      "Bionis' Interior"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 2; Fiora: 10; Dunban: -2; Reyn: 4; Sharla: -2; Riki: 4; Melia: 10",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tap_Tap_Tap",
+    "wikiPageId": 4373
+  },
+  {
+    "id": "xc1-item-tasty-sausage",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Tasty Sausage",
+    "collectType": "Strange",
+    "region": "High Entia Tomb",
+    "description": "Riki was munching on this sweet golden tubelike thing as he named it.",
+    "itemLocations": [
+      "High Entia Tomb"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Teelan · ☆4 · Alcamoth"
+    ],
+    "itemGifting": "Shulk: -2; Fiora: 10; Dunban: -6; Reyn: 2; Sharla: 10; Riki: 4; Melia: -2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tasty_Sausage_(XC1)",
+    "wikiPageId": 4368
+  },
+  {
+    "id": "xc1-item-thunder-atmos",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Thunder Atmos",
+    "collectType": "Strange",
+    "region": "Alcamoth",
+    "description": "Shulk really wanted to name this. A half-ball that booms when thrown.",
+    "itemLocations": [
+      "Alcamoth",
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Talonyth · ☆3 · Alcamoth",
+      "Zel Argentis · ☆3 · Alcamoth",
+      "Kaleka · Overtrade · Alcamoth"
+    ],
+    "itemGifting": "Shulk: 2; Fiora: 6; Dunban: 6; Reyn: 10; Sharla: 12; Riki: 10; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thunder_Atmos",
+    "wikiPageId": 4359
+  },
+  {
+    "id": "xc1-item-tweet-tweet",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Tweet Tweet",
+    "collectType": "Strange",
+    "region": "Mechonis Field",
+    "description": "Riki was chirping when he named it. A weird feathery thing like a chick.",
+    "itemLocations": [
+      "Mechonis Field",
+      "Colony 6"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: -2; Fiora: 16; Dunban: -2; Reyn: 4; Sharla: 10; Riki: 4; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tweet_Tweet",
+    "wikiPageId": 4859
+  },
+  {
+    "id": "xc1-item-verdant-eternity",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "Verdant Eternity",
+    "collectType": "Strange",
+    "region": "Colony 6",
+    "description": "Shulk mulled over this for ages. A leaf that never withers.",
+    "itemLocations": [
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Werner · ☆1 · Colony 6",
+      "Satata · Overtrade · Colony 6"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -8; Dunban: 4; Reyn: 10; Sharla: 4; Riki: 12; Melia: 4",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Verdant_Eternity",
+    "wikiPageId": 4364
+  },
+  {
+    "id": "xc1-item-white-night-rod",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Night Rod",
+    "collectType": "Strange",
+    "region": "Colony 6",
+    "description": "Reyn was able to name this quickly. It's a white shiny metal rod.",
+    "itemLocations": [
+      "Colony 6"
+    ],
+    "itemHasTrade": true,
+    "itemTradeInfo": [
+      "Rosemary · ☆1 · Colony 6",
+      "Ewan · ☆4 ※ · Ether Mine (XC1)|Ether Mine",
+      "Arda · Overtrade · Colony 6"
+    ],
+    "itemGifting": "Shulk: 6; Fiora: -2; Dunban: 4; Reyn: 16; Sharla: 6; Riki: 4; Melia: 2",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Night_Rod",
+    "wikiPageId": 3653
+  },
+  {
+    "id": "xc1-item-white-songbird",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "White Songbird",
+    "collectType": "Strange",
+    "region": "Bionis' Leg",
+    "description": "A poetic name given by Shulk. Makes a fresh sound in the breeze.",
+    "itemLocations": [
+      "Bionis' Leg"
+    ],
+    "itemHasTrade": false,
+    "itemGifting": "Shulk: 4; Fiora: 4; Dunban: 4; Reyn: 10; Sharla: 6; Riki: 10; Melia: -8",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Songbird",
+    "wikiPageId": 4692
+  },
+  {
+    "id": "xc1-item-file-strange-png",
+    "gameId": "xc1",
+    "category": "item",
+    "name": "File:Strange.PNG",
+    "itemLocations": [],
+    "itemHasTrade": false,
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStrange.PNG",
+    "wikiPageId": 2482
+  }
+]

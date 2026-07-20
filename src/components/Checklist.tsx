@@ -51,6 +51,9 @@ function ChecklistItem({
               {[item.collectType, item.description].filter(Boolean).join(' · ')}
             </span>
           )}
+          {item.category === 'item' && item.collectType && (
+            <span className="checklist-subtitle">{item.collectType}</span>
+          )}
         </div>
         <div className="checklist-meta">
           {item.region && <span className="meta-small">{item.region}</span>}
