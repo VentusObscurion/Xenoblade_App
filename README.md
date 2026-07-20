@@ -9,21 +9,34 @@ An offline-capable Progressive Web App for tracking completion in **Xenoblade Ch
 ### Xenoblade Chronicles (XC1)
 - Quests, Unique Monsters, Heart-to-Hearts
 - Collectopaedia (with item detail lookup) and Colony 6 Reconstruction
-- Quest prerequisites, walkthroughs, and rewards from the wiki
-- Playthrough state: level, story flags, Affinity Charts, party, discovered regions
-- Playthrough-aware availability for quests, H2H, and Colony 6 materials
-- Newly unlocked entries stay highlighted until you open them
-
-### Xenoblade Chronicles 2 (XC2)
-- Collectopaedia
+- Playthrough: story flags, Affinity Charts, party, discovered regions
 
 ### Future Connected
 - Quests, Unique Monsters, Quiet Moments
 
+### Xenoblade Chronicles 2
+- Quests, Unique Monsters, Heart-to-Hearts, Blades, Collectopaedia
+- Playthrough: Titan / Development Affinity Charts, Drivers, story flags
+
+### Torna ~ The Golden Country
+- Quests, Unique Monsters, Collectopaedia
+- Playthrough: Community Affinity, party, regions
+
+### Xenoblade Chronicles 3
+- Quests, Unique Monsters, Heroes, Collectopaedia
+- Playthrough: Colony Affinity, party, regions
+
+### Future Redeemed
+- Quests, Unique Monsters, Collectopaedia
+- Playthrough: Affinity Charts, party, Cent-Omnia regions
+
+### Xenoblade Chronicles X
+- Coming later (different systems)
+
 ### General
 - Local progress + playthrough state in the browser
 - Export / import backup as JSON (checklist + playthrough)
-- Deep links via URL hash (e.g. `#/xc1/tracker/quest`)
+- Deep links via URL hash (e.g. `#/xc2/tracker/blade`)
 - Offline support after first load (PWA)
 - Personal notes on checklist entries
 
@@ -31,8 +44,8 @@ An offline-capable Progressive Web App for tracking completion in **Xenoblade Ch
 
 ```bash
 npm install
-npm run fetch-data   # Pull wiki data (optional locally, ~1 min)
-npm test             # Unit tests (prerequisites / Colony 6 / new-available)
+npm run fetch-data   # Pull wiki data for all games (~several minutes)
+npm test
 npm run dev
 ```
 

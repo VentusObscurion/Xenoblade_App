@@ -1,20 +1,21 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-20T13:04:42.357Z",
+  "generatedAt": "2026-07-20T16:36:14.475Z",
   "attribution": "Data from Xenoblade Wiki (CC BY-SA 3.0)",
   "wikiBaseUrl": "https://xenoblade.fandom.com",
   "games": {
     "xc1": {
       "name": "Xenoblade Chronicles",
       "categories": {
-        "quest": 346,
+        "quest": 415,
         "unique_monster": 156,
         "achievement": 200,
         "heart_to_heart": 77,
         "item": 234,
         "collectopaedia": 77,
         "landmark": 373,
-        "colony_reconstruction": 64
+        "colony_reconstruction": 64,
+        "colony_immigrant": 22
       }
     },
     "xc1-fc": {
@@ -28,7 +29,36 @@
     "xc2": {
       "name": "Xenoblade Chronicles 2",
       "categories": {
+        "quest": 304,
+        "unique_monster": 128,
+        "heart_to_heart": 73,
+        "blade": 244,
         "collectopaedia": 316
+      }
+    },
+    "xc2-torna": {
+      "name": "Torna ~ The Golden Country",
+      "categories": {
+        "quest": 60,
+        "unique_monster": 53,
+        "collectopaedia": 41
+      }
+    },
+    "xc3": {
+      "name": "Xenoblade Chronicles 3",
+      "categories": {
+        "quest": 406,
+        "unique_monster": 419,
+        "hero": 70,
+        "collectopaedia": 415
+      }
+    },
+    "xc3-fr": {
+      "name": "Future Redeemed",
+      "categories": {
+        "quest": 89,
+        "unique_monster": 62,
+        "collectopaedia": 94
       }
     }
   }

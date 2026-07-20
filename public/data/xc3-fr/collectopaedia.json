@@ -1,0 +1,937 @@
+[
+  {
+    "id": "xc3-fr-collectopaedia-absurd-branch",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Absurd Branch",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Absurd_Branch_(FR)",
+    "wikiPageId": 126942,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-amethyst-vanilla",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Amethyst Vanilla",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Amethyst_Vanilla_(FR)",
+    "wikiPageId": 127018,
+    "collectType": "Vegetable"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-armu-barley",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Armu Barley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Armu_Barley",
+    "wikiPageId": 121327,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-baggy-swede",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Baggy Swede",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Baggy_Swede",
+    "wikiPageId": 127554,
+    "collectType": "Vegetable"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-bizarrenacle",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Bizarrenacle",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bizarrenacle",
+    "wikiPageId": 121336,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-black-peony",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Black Peony",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Peony_(FR)",
+    "wikiPageId": 126955,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-blood-emerald",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Blood Emerald",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blood_Emerald",
+    "wikiPageId": 120886,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-blossom-belt",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Blossom Belt",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blossom_Belt",
+    "wikiPageId": 127550,
+    "collectType": "Machine Part"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-bluesky-bark",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Bluesky Bark",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bluesky_Bark_(FR)",
+    "wikiPageId": 126960,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-broom-icicle",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Broom Icicle",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Broom_Icicle_(FR)",
+    "wikiPageId": 127017,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-bullet-screen",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Bullet Screen",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bullet_Screen",
+    "wikiPageId": 120844,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-capronite",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Capronite",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Capronite",
+    "wikiPageId": 120843,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-clicky-topaz",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Clicky Topaz",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Clicky_Topaz",
+    "wikiPageId": 127551,
+    "collectType": "Gemstone"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-comet-carrot",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Comet Carrot",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Comet_Carrot",
+    "wikiPageId": 120967,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-cool-potato",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Cool Potato",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cool_Potato_(FR)",
+    "wikiPageId": 126923,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-cracker-nut",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Cracker Nut",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cracker_Nut",
+    "wikiPageId": 120946,
+    "collectType": "Seed"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-cutting-edge-aloe",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Cutting-Edge Aloe",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cutting-Edge_Aloe",
+    "wikiPageId": 127552,
+    "collectType": "Plant"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-dainty-shroom",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Dainty Shroom",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dainty_Shroom",
+    "wikiPageId": 120839,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-dawn-hydrangea",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Dawn Hydrangea",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dawn_Hydrangea_(FR)",
+    "wikiPageId": 127011,
+    "collectType": "Flower"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-delicate-bell",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Delicate Bell",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Delicate_Bell",
+    "wikiPageId": 120799,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-demon-marble",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Demon Marble",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Demon_Marble",
+    "wikiPageId": 121310,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-dry-lemon",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Dry Lemon",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dry_Lemon_(FR)",
+    "wikiPageId": 126940,
+    "collectType": "Fruit"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-emerald-snow",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Emerald Snow",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Emerald_Snow_(FR)",
+    "wikiPageId": 127020,
+    "collectType": "Ore"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-ether-plum",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Ether Plum",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Plum_(FR)",
+    "wikiPageId": 126941,
+    "collectType": "Fruit"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-filling-onion",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Filling Onion",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Filling_Onion",
+    "wikiPageId": 120791,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-flake-crystal",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Flake Crystal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Flake_Crystal",
+    "wikiPageId": 121255,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-fluid-cranker",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Fluid Cranker",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fluid_Cranker",
+    "wikiPageId": 122904,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-foolin-ivy",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Foolin' Ivy",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Foolin'_Ivy_(FR)",
+    "wikiPageId": 127002,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-garlus-fossil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Garlus Fossil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Garlus_Fossil",
+    "wikiPageId": 127522,
+    "collectType": "Fossil"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-greedstone",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Greedstone",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Greedstone",
+    "wikiPageId": 120788,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-gypsum-branch",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Gypsum Branch",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gypsum_Branch_(FR)",
+    "wikiPageId": 127016,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-heyday-poplar",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Heyday Poplar",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heyday_Poplar",
+    "wikiPageId": 121302,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-humming-plum",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Humming Plum",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Humming_Plum_(FR)",
+    "wikiPageId": 126946,
+    "collectType": "Fruit"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-ice-cabbage",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Ice Cabbage",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ice_Cabbage_(FR)",
+    "wikiPageId": 127021,
+    "collectType": "Vegetable"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-icicle-marine",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Icicle Marine",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Icicle_Marine_(FR)",
+    "wikiPageId": 127003,
+    "collectType": "Gemstone"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-ingot-carrot",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Ingot Carrot",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ingot_Carrot",
+    "wikiPageId": 120937,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-jalapenoki",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Jalapenoki",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jalapenoki",
+    "wikiPageId": 120828,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-kelp-mushroom",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Kelp Mushroom",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kelp_Mushroom_(XC3)",
+    "wikiPageId": 120977,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-lacquer-stone",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Lacquer Stone",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lacquer_Stone_(FR)",
+    "wikiPageId": 127005,
+    "collectType": "Ore"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-limelightstone",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Limelightstone",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Limelightstone",
+    "wikiPageId": 120824,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-lucky-spice",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Lucky Spice",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lucky_Spice",
+    "wikiPageId": 121451,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-magnet-clay",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Magnet Clay",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Magnet_Clay_(FR)",
+    "wikiPageId": 127010,
+    "collectType": "Ore"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-mallow-o-the-marsh",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Mallow-o'-the-Marsh",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mallow-o'-the-Marsh",
+    "wikiPageId": 120821,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-melancholy-rose",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Melancholy Rose",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Melancholy_Rose_(FR)",
+    "wikiPageId": 126997,
+    "collectType": "Flower"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-micropuff",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Micropuff",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Micropuff",
+    "wikiPageId": 120785,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-milky-soy",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Milky Soy",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Milky_Soy",
+    "wikiPageId": 120935,
+    "collectType": "Seed"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-mock-lobster-pseudoshell",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Mock-Lobster Pseudoshell",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mock-Lobster_Pseudoshell",
+    "wikiPageId": 127553,
+    "collectType": "Shell"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-modern-resistor",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Modern Resistor",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Modern_Resistor_(XC3)",
+    "wikiPageId": 124451,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-monochromagnetite",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Monochromagnetite",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monochromagnetite",
+    "wikiPageId": 121370,
+    "collectType": "Ore"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-mudclam",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Mudclam",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mudclam",
+    "wikiPageId": 120868,
+    "collectType": "Shell"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-nebula-fossil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Nebula Fossil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nebula_Fossil",
+    "wikiPageId": 127520,
+    "collectType": "Fossil"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-noise-bite",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Noise Bite",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Noise_Bite_(XC3)",
+    "wikiPageId": 121416,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-oil-lentil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Oil Lentil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Oil_Lentil",
+    "wikiPageId": 120866,
+    "collectType": "Seed"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-paste-bean",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Paste Bean",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Paste_Bean",
+    "wikiPageId": 120933,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-peng-fossil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Peng Fossil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Peng_Fossil",
+    "wikiPageId": 127521,
+    "collectType": "Fossil"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-pione-stone",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Pione Stone",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pione_Stone_(XC3)",
+    "wikiPageId": 120973,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-plate-pothos",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Plate Pothos",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Plate_Pothos",
+    "wikiPageId": 120783,
+    "collectType": "Plant"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-polar-pearl",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Polar Pearl",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Polar_Pearl_(XC3)",
+    "wikiPageId": 121273,
+    "collectType": "Gemstone"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-powder-pearl",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Powder Pearl",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Powder_Pearl",
+    "wikiPageId": 120864,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-pruning-wood",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Pruning Wood",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pruning_Wood",
+    "wikiPageId": 127555,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-rabbit-diode",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Rabbit Diode",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rabbit_Diode_(FR)",
+    "wikiPageId": 127013,
+    "collectType": "Machine Part"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-rabbit-stone",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Rabbit Stone",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rabbit_Stone_(FR)",
+    "wikiPageId": 127009,
+    "collectType": "Ore"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-rainbow-zirconia",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Rainbow Zirconia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rainbow_Zirconia_(FR)",
+    "wikiPageId": 126922,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-razzle-basil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Razzle Basil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Razzle_Basil",
+    "wikiPageId": 120927,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-red-durian",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Red Durian",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Red_Durian_(FR)",
+    "wikiPageId": 126947,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-royal-red-scallop",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Royal Red Scallop",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Royal_Red_Scallop",
+    "wikiPageId": 121385,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-ruby-pineapple",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Ruby Pineapple",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ruby_Pineapple_(XC3)",
+    "wikiPageId": 120958,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-rusty-bolt",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Rusty Bolt",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rusty_Bolt_(FR)",
+    "wikiPageId": 126943,
+    "collectType": "Machine Part"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-silverseed",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Silverseed",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Silverseed",
+    "wikiPageId": 120857,
+    "collectType": "Seed"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-simmertree",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Simmertree",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Simmertree",
+    "wikiPageId": 126569,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-sour-gooseberry",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Sour Gooseberry",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sour_Gooseberry_(FR)",
+    "wikiPageId": 126945,
+    "collectType": "Fruit"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-squood-fossil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Squood Fossil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Squood_Fossil",
+    "wikiPageId": 127523,
+    "collectType": "Fossil"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-strong-dandelion",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Strong Dandelion",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strong_Dandelion_(XC3)",
+    "wikiPageId": 120921,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-strong-screw",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Strong Screw",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Strong_Screw_(FR)",
+    "wikiPageId": 127019,
+    "collectType": "Machine Parts"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-sweet-wasabi",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Sweet Wasabi",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweet_Wasabi_(FR)",
+    "wikiPageId": 127012,
+    "collectType": "Vegetable"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-tentacled-oyster",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Tentacled Oyster",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tentacled_Oyster",
+    "wikiPageId": 121391,
+    "collectType": "Shell"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-thirsty-oak",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Thirsty Oak",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thirsty_Oak",
+    "wikiPageId": 127556,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-tootshroom",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Tootshroom",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tootshroom",
+    "wikiPageId": 127549,
+    "collectType": "Mushroom"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-torta-fossil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Torta Fossil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Torta_Fossil",
+    "wikiPageId": 127519,
+    "collectType": "Fossil"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-twin-generators",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Twin Generators",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Twin_Generators",
+    "wikiPageId": 120919,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-urchon-fossil",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Urchon Fossil",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Urchon_Fossil",
+    "wikiPageId": 121397,
+    "collectType": "Fossil"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-varicini",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Varicini",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Varicini",
+    "wikiPageId": 121297,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-vinenut",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Vinenut",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vinenut_(FR)",
+    "wikiPageId": 126998,
+    "collectType": "Wood"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-walnut-grape",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Walnut Grape",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Walnut_Grape_(FR)",
+    "wikiPageId": 127015,
+    "collectType": "Fruit"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-warning-lamp",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Warning Lamp",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Warning_Lamp_(XC3)",
+    "wikiPageId": 120954,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-white-cover",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "White Cover",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/White_Cover_(XC3)",
+    "wikiPageId": 121454,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-winding-gear",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Winding Gear",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Winding_Gear_(FR)",
+    "wikiPageId": 127014,
+    "collectType": "Machine Parts"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-wool-rock",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Wool Rock",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wool_Rock_(FR)",
+    "wikiPageId": 126925,
+    "collectType": "Ore"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-wyrdstone",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Wyrdstone",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wyrdstone",
+    "wikiPageId": 121399,
+    "collectType": "Collectible"
+  },
+  {
+    "id": "xc3-fr-collectopaedia-aurora-shelf-collectopaedia",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Aurora Shelf Collectopaedia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Aurora_Shelf_Collectopaedia",
+    "wikiPageId": 127525
+  },
+  {
+    "id": "xc3-fr-collectopaedia-black-mountains-collectopaedia",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Black Mountains Collectopaedia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Black_Mountains_Collectopaedia",
+    "wikiPageId": 127528
+  },
+  {
+    "id": "xc3-fr-collectopaedia-the-ragmos-desolation-collectopaedia",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "The Ragmos Desolation Collectopaedia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ragmos_Desolation_Collectopaedia",
+    "wikiPageId": 127527
+  },
+  {
+    "id": "xc3-fr-collectopaedia-vermilion-woods-collectopaedia",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Vermilion Woods Collectopaedia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vermilion_Woods_Collectopaedia",
+    "wikiPageId": 127524
+  },
+  {
+    "id": "xc3-fr-collectopaedia-yesterdale-collectopaedia",
+    "gameId": "xc3-fr",
+    "category": "collectopaedia",
+    "name": "Yesterdale Collectopaedia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Yesterdale_Collectopaedia",
+    "wikiPageId": 127526
+  }
+]

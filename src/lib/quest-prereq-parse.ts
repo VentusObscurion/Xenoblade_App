@@ -61,6 +61,15 @@ export function isIgnorablePrerequisite(label: string): boolean {
   return /^(none|n\/a)$/i.test(cleanWikiMarkup(label).trim())
 }
 
+export function getQuestProgressMode(
+  label: string,
+): 'accepted' | 'completed' | 'not_completed' {
+  const cleaned = cleanWikiMarkup(label)
+  if (/\bnot completed\b/i.test(cleaned)) return 'not_completed'
+  if (/\baccepted\b/i.test(cleaned)) return 'accepted'
+  return 'completed'
+}
+
 export function isQuestProgressLabel(label: string): boolean {
   const cleaned = cleanWikiMarkup(label)
   return /\b(accepted|completed|not completed)\b/i.test(cleaned)
@@ -71,6 +80,8 @@ export function extractQuestNameFromLabel(label: string): string {
     .replace(/^['"]+|['"]+$/g, '')
     .replace(/\s*\([^)]*route[^)]*\)\s*/gi, ' ')
     .replace(/\s*\b(accepted|completed|not completed)\b.*$/i, '')
+    // Wiki sometimes appends "story quest" after the quest title
+    .replace(/\s*\bstory\s+quest\b\s*$/i, '')
     .replace(/\s+or\s+.+$/i, '')
     .replace(/\s+/g, ' ')
     .trim()

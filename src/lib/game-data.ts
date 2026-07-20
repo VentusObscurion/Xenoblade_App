@@ -16,6 +16,9 @@ function categoriesToLoad(gameId: GameId): Category[] {
   if (gameId === 'xc1' && cats.includes('collectopaedia') && !cats.includes('item')) {
     cats.push('item')
   }
+  if (gameId === 'xc1' && cats.includes('colony_reconstruction')) {
+    cats.push('colony_immigrant')
+  }
   return cats
 }
 

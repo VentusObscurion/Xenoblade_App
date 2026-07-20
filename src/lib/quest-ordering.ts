@@ -83,9 +83,9 @@ export function filterVisibleQuests(
 
 export function filterAvailableQuests(
   quests: TrackableItem[],
-  allQuests: TrackableItem[],
+  allItems: TrackableItem[],
   progress: Record<string, ProgressEntry>,
   gameState: GameState,
 ): TrackableItem[] {
-  return quests.filter((q) => isItemAvailable(q, progress, allQuests, gameState))
+  return quests.filter((q) => isItemAvailable(q, progress, allItems, gameState))
 }

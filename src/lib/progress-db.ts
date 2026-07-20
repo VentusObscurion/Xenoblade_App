@@ -48,10 +48,12 @@ export async function setProgress(entry: ProgressEntry): Promise<void> {
 
 export async function toggleProgress(itemId: string): Promise<ProgressEntry> {
   const existing = await getProgress(itemId)
+  const completed = !existing?.completed
   const entry: ProgressEntry = {
     itemId,
-    completed: !existing?.completed,
-    completedAt: !existing?.completed ? new Date().toISOString() : undefined,
+    accepted: completed ? true : existing?.accepted === true,
+    completed,
+    completedAt: completed ? new Date().toISOString() : undefined,
     notes: existing?.notes,
   }
   await setProgress(entry)

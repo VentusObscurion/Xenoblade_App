@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "fetch-data": "tsx scripts/build-data.ts",
+    "fetch-new-games": "tsx scripts/fetch-new-games.ts",
     "lint": "oxlint",
     "preview": "vite preview",
     "test": "vitest run",

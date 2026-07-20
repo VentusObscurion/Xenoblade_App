@@ -3,14 +3,21 @@ import {
   parseColony6ObtainedFrom,
   isColony6MaterialAvailable,
 } from './colony6-availability.ts'
+import {
+  isImmigrantAvailable,
+  parseImmigrantConditions,
+} from './colony6-levels.ts'
 import { DEFAULT_GAME_STATE, type GameState } from '../types/game-state.ts'
+import { isItemAvailable } from './prerequisites.ts'
 import {
   extractQuestNameFromLabel,
+  getQuestProgressMode,
   parseRequiredAffinityStars,
   resolveAffinityRegion,
   resolveAccessRegion,
 } from './quest-prereq-parse.ts'
 import { syncNewlyAvailable, markItemSeen, getNewlyAvailableIds } from './new-available.ts'
+import type { TrackableItem } from '../types/tracker.ts'
 
 describe('quest-prereq-parse', () => {
   it('resolves affinity regions and star requirements', () => {
@@ -21,6 +28,15 @@ describe('quest-prereq-parse', () => {
   it('extracts quest names from progress labels', () => {
     expect(extractQuestNameFromLabel('A Thoughtful Present accepted')).toBe(
       'A Thoughtful Present',
+    )
+    expect(
+      extractQuestNameFromLabel('An Errand for the Heropon story quest accepted'),
+    ).toBe('An Errand for the Heropon')
+  })
+
+  it('detects accepted progress mode', () => {
+    expect(getQuestProgressMode('An Errand for the Heropon story quest accepted')).toBe(
+      'accepted',
     )
   })
 
@@ -69,6 +85,145 @@ describe('colony6-availability', () => {
     }
     expect(
       isColony6MaterialAvailable("Volff in Bionis' Leg", state),
+    ).toBe(true)
+  })
+})
+
+describe('colony6-levels', () => {
+  it('parses immigrant housing requirements', () => {
+    const req = parseImmigrantConditions('Housing Lv 4, Commerce Lv 1')
+    expect(req.housing).toBe(4)
+    expect(req.commerce).toBe(1)
+  })
+
+  it('gates immigrants on section levels', () => {
+    const rosemary: TrackableItem = {
+      id: 'xc1-colony_immigrant-rosemary',
+      gameId: 'xc1',
+      category: 'colony_immigrant',
+      name: 'Rosemary',
+      description: 'Housing Lv 4',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const levels = { Housing: 3, Commerce: 0, Nature: 0, Special: 0 }
+    expect(
+      isImmigrantAvailable(
+        rosemary,
+        levels,
+        0,
+        15,
+        DEFAULT_GAME_STATE,
+        [rosemary],
+        {},
+      ),
+    ).toBe(false)
+    expect(
+      isImmigrantAvailable(
+        rosemary,
+        { ...levels, Housing: 4 },
+        0,
+        15,
+        DEFAULT_GAME_STATE,
+        [rosemary],
+        {},
+      ),
+    ).toBe(true)
+  })
+})
+
+describe('quest accepted prerequisites', () => {
+  it('unlocks quest when prior quest is accepted or completed', () => {
+    const prior: TrackableItem = {
+      id: 'xc1-quest-an-errand-for-the-heropon',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'An Errand for the Heropon',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const dependent: TrackableItem = {
+      id: 'xc1-quest-fixing-time-mushrooms',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'Fixing Time Mushrooms',
+      region: 'Frontier Village',
+      prerequisites: [
+        {
+          type: 'quest',
+          label: 'An Errand for the Heropon story quest accepted',
+          refId: prior.id,
+        },
+      ],
+      wikiUrl: '',
+    }
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Frontier Village': true,
+      },
+      partyMembers: [...DEFAULT_GAME_STATE.partyMembers, 'Riki'],
+      playerLevel: 99,
+    }
+
+    expect(isItemAvailable(dependent, {}, [prior, dependent], state)).toBe(false)
+    expect(
+      isItemAvailable(
+        dependent,
+        { [prior.id]: { itemId: prior.id, accepted: true, completed: false } },
+        [prior, dependent],
+        state,
+      ),
+    ).toBe(true)
+    expect(
+      isItemAvailable(
+        dependent,
+        { [prior.id]: { itemId: prior.id, completed: true } },
+        [prior, dependent],
+        state,
+      ),
+    ).toBe(true)
+  })
+
+  it('blocks Colony 6 quests until immigrant is invited', () => {
+    const rosemary: TrackableItem = {
+      id: 'xc1-colony_immigrant-rosemary',
+      gameId: 'xc1',
+      category: 'colony_immigrant',
+      name: 'Rosemary',
+      description: 'Housing Lv 4',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const quest: TrackableItem = {
+      id: 'xc1-quest-in-pursuit-of-love',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'In Pursuit of Love',
+      region: 'Colony 6',
+      prerequisites: [
+        { type: 'other', label: 'Rosemary invited to Colony 6' },
+      ],
+      wikiUrl: '',
+    }
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Colony 6': true,
+      },
+      playerLevel: 99,
+    }
+
+    expect(isItemAvailable(quest, {}, [quest, rosemary], state)).toBe(false)
+    expect(
+      isItemAvailable(
+        quest,
+        { [rosemary.id]: { itemId: rosemary.id, completed: true } },
+        [quest, rosemary],
+        state,
+      ),
     ).toBe(true)
   })
 })

@@ -1,0 +1,808 @@
+[
+  {
+    "id": "xc3-fr-unique_monster-advent-wolf-marduk",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Advent Wolf Marduk",
+    "region": "Vermilion Woods (Colony Gamma Wreckage)",
+    "level": 9,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 9"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Advent_Wolf_Marduk",
+    "wikiPageId": 128174,
+    "collectType": "Volff"
+  },
+  {
+    "id": "xc3-fr-unique_monster-bioluminescent-bob",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Bioluminescent Bob",
+    "region": "Yesterdale (Gotrock Oracle Ruins)",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bioluminescent_Bob",
+    "wikiPageId": 127137,
+    "collectType": "Egel"
+  },
+  {
+    "id": "xc3-fr-unique_monster-bombastic-rotbart-jr",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Bombastic Rotbart Jr.",
+    "region": "Vermilion Woods (Leaf-Strewn Clearing)",
+    "level": 10,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 10"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bombastic_Rotbart_Jr.",
+    "wikiPageId": 127166,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc3-fr-unique_monster-cavalier-macbright",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Cavalier MacBright",
+    "region": "Aurora Shelf (Agni's Tomb Ruins)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cavalier_MacBright",
+    "wikiPageId": 128182,
+    "collectType": "Igna"
+  },
+  {
+    "id": "xc3-fr-unique_monster-cryoconite-laurel",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Cryoconite Laurel",
+    "region": "Yesterdale (Lakeside Grotto)",
+    "level": 26,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 26"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cryoconite_Laurel",
+    "wikiPageId": 128215,
+    "collectType": "Moglum"
+  },
+  {
+    "id": "xc3-fr-unique_monster-dragon-god-alcar",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Dragon God Alcar",
+    "region": "Black Mountains (Raxeal Lavaflow)",
+    "level": 46,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 46"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dragon_God_Alcar",
+    "wikiPageId": 127151,
+    "collectType": "Draigul"
+  },
+  {
+    "id": "xc3-fr-unique_monster-fogdweller-abaasy",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Fogdweller Abaasy",
+    "region": "Black Mountains (Valak Mountain)",
+    "level": 100,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 100"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fogdweller_Abaasy",
+    "wikiPageId": 126798,
+    "collectType": "Fogbeast Draigul"
+  },
+  {
+    "id": "xc3-fr-unique_monster-foghewn-augustus",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Foghewn Augustus",
+    "region": "Black Mountains (Travalga Bridge)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Foghewn_Augustus",
+    "wikiPageId": 128216,
+    "collectType": "Fogbeast Egel"
+  },
+  {
+    "id": "xc3-fr-unique_monster-fograptor-dnari",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Fograptor D'nari",
+    "region": "Aurora Shelf (Declessa Altar)",
+    "level": 37,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 37"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fograptor_D'nari",
+    "wikiPageId": 128019,
+    "collectType": "Fogbeast Vollgull"
+  },
+  {
+    "id": "xc3-fr-unique_monster-fogstalker-naiara",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Fogstalker Naiara",
+    "region": "Vermilion Woods (Behind Rhogett Causeway)",
+    "level": 45,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 45"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fogstalker_Naiara",
+    "wikiPageId": 128158,
+    "collectType": "Fogbeast Feris"
+  },
+  {
+    "id": "xc3-fr-unique_monster-fogtrawler-tallstuff",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Fogtrawler Tallstuff",
+    "region": "Aurora Shelf (Sullied Temple of Abitalia)",
+    "level": 55,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 55"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fogtrawler_Tallstuff",
+    "wikiPageId": 128217,
+    "collectType": "Fogbeast Garaffa"
+  },
+  {
+    "id": "xc3-fr-unique_monster-gotthard-the-ethereal",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Gotthard, the Ethereal",
+    "region": "Aurora Shelf (Sullied Temple of Abitalia)",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gotthard%2C_the_Ethereal",
+    "wikiPageId": 127143,
+    "collectType": "Darbus"
+  },
+  {
+    "id": "xc3-fr-unique_monster-hallowcanter-hazerune",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Hallowcanter Hazerune",
+    "region": "Black Mountains (Belgazas' Drifts)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hallowcanter_Hazerune",
+    "wikiPageId": 128218,
+    "collectType": "Aries"
+  },
+  {
+    "id": "xc3-fr-unique_monster-hilltop-chegwin",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Hilltop Chegwin",
+    "region": "Aurora Shelf (Zalmor's Falls)",
+    "level": 13,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 13"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hilltop_Chegwin",
+    "wikiPageId": 128219,
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc3-fr-unique_monster-many-lived-derrick",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Many-Lived Derrick",
+    "region": "The Ragmos Desolation (Gelgemos Garrison)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Many-Lived_Derrick",
+    "wikiPageId": 128220,
+    "collectType": "Taos"
+  },
+  {
+    "id": "xc3-fr-unique_monster-naberius-invictus",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Naberius Invictus",
+    "region": "The Ragmos Desolation (Magwall Road)",
+    "level": 40,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 40"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Naberius_Invictus",
+    "wikiPageId": 127615,
+    "collectType": "Levnis (Sagittarius)"
+  },
+  {
+    "id": "xc3-fr-unique_monster-peacebringer-divalo",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Peacebringer Divalo",
+    "region": "Vermilion Woods (Colony Gamma Wreckage)",
+    "level": 90,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 90"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Peacebringer_Divalo",
+    "wikiPageId": 127159,
+    "collectType": "Levnis (Gyrinus)"
+  },
+  {
+    "id": "xc3-fr-unique_monster-perambulator-moritz",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Perambulator Moritz",
+    "region": "The Ragmos Desolation (Lumos Garrison)",
+    "level": 28,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 28"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perambulator_Moritz",
+    "wikiPageId": 127613,
+    "collectType": "Levnis (Avis)"
+  },
+  {
+    "id": "xc3-fr-unique_monster-prohibitor-giuseppe",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Prohibitor Giuseppe",
+    "region": "Vermilion Woods (Inconspicuous Cave)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Prohibitor_Giuseppe",
+    "wikiPageId": 128221,
+    "collectType": "Brog"
+  },
+  {
+    "id": "xc3-fr-unique_monster-radicalized-godwin",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Radicalized Godwin",
+    "region": "Aurora Shelf (Exile Fortress Ruins)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Radicalized_Godwin",
+    "wikiPageId": 128222,
+    "collectType": "Igna"
+  },
+  {
+    "id": "xc3-fr-unique_monster-sensational-gigapur",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Sensational Gigapur",
+    "region": "Black Mountains (Gravina Bridge)",
+    "level": 47,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 47"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sensational_Gigapur",
+    "wikiPageId": 127633,
+    "collectType": "Fogbeast Laia"
+  },
+  {
+    "id": "xc3-fr-unique_monster-smackdown-brannigan",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Smackdown Brannigan",
+    "region": "Yesterdale (Tephra Hill)",
+    "level": 24,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 24"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Smackdown_Brannigan",
+    "wikiPageId": 128023,
+    "collectType": "Aligo"
+  },
+  {
+    "id": "xc3-fr-unique_monster-smothering-andante",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Smothering Andante",
+    "region": "Aurora Shelf (Gaur Viaduct)",
+    "level": 11,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 11"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Smothering_Andante",
+    "wikiPageId": 128223,
+    "collectType": "Ardun"
+  },
+  {
+    "id": "xc3-fr-unique_monster-stronghammer-dorga",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Stronghammer Dorga",
+    "region": "Vermilion Woods (Colony 5 Wreckage)",
+    "level": 90,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 90"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stronghammer_Dorga",
+    "wikiPageId": 127161,
+    "collectType": "Levnis (Gastrates)"
+  },
+  {
+    "id": "xc3-fr-unique_monster-superboss",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Superboss",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Superboss",
+    "wikiPageId": 3079
+  },
+  {
+    "id": "xc3-fr-unique_monster-surrogate-fitzpatrick",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Surrogate Fitzpatrick",
+    "region": "The Ragmos Desolation (Raguel Bridge)",
+    "level": 41,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 41"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Surrogate_Fitzpatrick",
+    "wikiPageId": 128224,
+    "collectType": "Vollgull"
+  },
+  {
+    "id": "xc3-fr-unique_monster-sworn-protector-hector",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Sworn Protector Hector",
+    "region": "The Ragmos Desolation (Waterlogged Daksha Shrine)",
+    "level": 32,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 32"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sworn_Protector_Hector",
+    "wikiPageId": 128225,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc3-fr-unique_monster-tenebrous-muramasa",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Tenebrous Muramasa",
+    "region": "Yesterdale (Ruined Anti-Air Battery 3)",
+    "level": 39,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 39"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tenebrous_Muramasa",
+    "wikiPageId": 128021,
+    "collectType": "Taos"
+  },
+  {
+    "id": "xc3-fr-unique_monster-thunderfish-duna-roa",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Thunderfish Duna-Roa",
+    "region": "The Ragmos Desolation (Raguel Lake)",
+    "level": 80,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 80"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thunderfish_Duna-Roa",
+    "wikiPageId": 127147,
+    "collectType": "Ravoon"
+  },
+  {
+    "id": "xc3-fr-unique_monster-treehugger-gerald",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Treehugger Gerald",
+    "region": "Aurora Shelf (Waypoint Sapling)",
+    "level": 14,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 14"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Treehugger_Gerald",
+    "wikiPageId": 128226,
+    "collectType": "Ellook"
+  },
+  {
+    "id": "xc3-fr-unique_monster-troglodyte-umir",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Troglodyte Umir",
+    "region": "Yesterdale (Tephra Hill)",
+    "level": 22,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 22"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Troglodyte_Umir",
+    "wikiPageId": 128034,
+    "collectType": "Caterpile"
+  },
+  {
+    "id": "xc3-fr-unique_monster-watchful-valencia",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "Watchful Valencia",
+    "region": "Aurora Shelf (Ragrinar Passage)",
+    "level": 10,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 10"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Watchful_Valencia",
+    "wikiPageId": 128227,
+    "collectType": "Rhogul"
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-advent-wolf-marduk-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Advent Wolf Marduk.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdvent_Wolf_Marduk.jpg",
+    "wikiPageId": 128173
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-bioluminescentbob-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:BioluminescentBob.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABioluminescentBob.jpg",
+    "wikiPageId": 126753
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-bombastic-rotbart-jr-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Bombastic Rotbart Jr.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABombastic_Rotbart_Jr.jpg",
+    "wikiPageId": 128171
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-cavalier-macbright-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Cavalier MacBright.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACavalier_MacBright.jpg",
+    "wikiPageId": 128181
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-cryoconite-laurel-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Cryoconite Laurel.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACryoconite_Laurel.jpg",
+    "wikiPageId": 129332
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fogdwellerabaasy-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:FogdwellerAbaasy.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFogdwellerAbaasy.jpg",
+    "wikiPageId": 126757
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-foghewn-augustus-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Foghewn Augustus.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFoghewn_Augustus.jpg",
+    "wikiPageId": 130097
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fograptor-dnari-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Fograptor D'nari.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFograptor_D'nari.jpg",
+    "wikiPageId": 128018
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fogstalker-naiara-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Fogstalker Naiara.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFogstalker_Naiara.jpg",
+    "wikiPageId": 128157
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fogtrawler-tallstuff-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Fogtrawler Tallstuff.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFogtrawler_Tallstuff.jpg",
+    "wikiPageId": 130095
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fr-naberius-invictus-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:FR Naberius Invictus.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFR_Naberius_Invictus.jpg",
+    "wikiPageId": 127614
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fr-perambulator-moritz-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:FR Perambulator Moritz.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFR_Perambulator_Moritz.jpg",
+    "wikiPageId": 127612
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-fr-sensational-gigapur-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:FR Sensational Gigapur.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFR_Sensational_Gigapur.jpg",
+    "wikiPageId": 127632
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-gotthardtheethereal-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:GotthardTheEthereal.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGotthardTheEthereal.jpg",
+    "wikiPageId": 126752
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-hallowcanter-hazerune-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Hallowcanter Hazerune.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHallowcanter_Hazerune.jpg",
+    "wikiPageId": 130093
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-hilltop-chegwin-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Hilltop Chegwin.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHilltop_Chegwin.jpg",
+    "wikiPageId": 130091
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-many-lived-derrick-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Many-Lived Derrick.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMany-Lived_Derrick.jpg",
+    "wikiPageId": 130089
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-peacebringerdivalo-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:PeacebringerDivalo.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APeacebringerDivalo.jpg",
+    "wikiPageId": 126755
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-prohibitor-giuseppe-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Prohibitor Giuseppe.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AProhibitor_Giuseppe.jpg",
+    "wikiPageId": 130087
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-radicalized-godwin-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Radicalized Godwin.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARadicalized_Godwin.jpg",
+    "wikiPageId": 130085
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-smackdown-brannigan-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Smackdown Brannigan.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASmackdown_Brannigan.jpg",
+    "wikiPageId": 128022
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-smothering-andante-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Smothering Andante.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASmothering_Andante.jpg",
+    "wikiPageId": 130083
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-stronghammerdorga-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:StronghammerDorga.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStronghammerDorga.jpg",
+    "wikiPageId": 126756
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-surrogate-fitzpatrick-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Surrogate Fitzpatrick.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASurrogate_Fitzpatrick.jpg",
+    "wikiPageId": 130081
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-sworn-protector-hector-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Sworn Protector Hector.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASworn_Protector_Hector.jpg",
+    "wikiPageId": 130079
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-tenebrous-muramasa-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Tenebrous Muramasa.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATenebrous_Muramasa.jpg",
+    "wikiPageId": 128020
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-thunderfishdunaroa-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:ThunderfishDunaRoa.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThunderfishDunaRoa.jpg",
+    "wikiPageId": 126754
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-treehugger-gerald-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Treehugger Gerald.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATreehugger_Gerald.jpg",
+    "wikiPageId": 130077
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-troglodyte-umir-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Troglodyte Umir.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATroglodyte_Umir.jpg",
+    "wikiPageId": 128033
+  },
+  {
+    "id": "xc3-fr-unique_monster-file-watchful-valencia-jpg",
+    "gameId": "xc3-fr",
+    "category": "unique_monster",
+    "name": "File:Watchful Valencia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWatchful_Valencia.jpg",
+    "wikiPageId": 130074
+  }
+]

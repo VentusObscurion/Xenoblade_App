@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "xc2-unique_monster-acute-melvyn",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Acute Melvyn",
+    "region": "Gormott Province (Twin Trunks Hill)",
+    "level": 25,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 25"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Acute_Melvyn",
+    "wikiPageId": 75654,
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc2-unique_monster-anguished-solomon",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Anguished Solomon",
+    "region": "Gormott Province (Coolley Lake)",
+    "level": 28,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 28"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Anguished_Solomon",
+    "wikiPageId": 75930,
+    "element": "Water",
+    "collectType": "Piranhax"
+  },
+  {
+    "id": "xc2-unique_monster-antecedent-xiaxia",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Antecedent Xiaxia",
+    "region": "Empire of Mor Ardain (Artificial Blade Adjustment)",
+    "level": 99,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 99"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Antecedent_Xiaxia",
+    "wikiPageId": 74447,
+    "element": "Dark",
+    "collectType": "Artificial Blade (Machine)"
+  },
+  {
+    "id": "xc2-unique_monster-armored-brennan",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Armored Brennan",
+    "region": "Empire of Mor Ardain (Chansagh Wastes)",
+    "level": 86,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 86"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Armored_Brennan",
+    "wikiPageId": 74348,
+    "element": "Earth",
+    "collectType": "Ropl, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-artifice-ophion",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Artifice Ophion",
+    "region": "Cliffs of Morytha (Gotrock Oracle Ruins)",
+    "level": 117,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 117"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Artifice_Ophion",
+    "wikiPageId": 74445,
+    "element": "Dark",
+    "collectType": "Artifice"
+  },
+  {
+    "id": "xc2-unique_monster-atrocious-hermes",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Atrocious Hermes",
+    "region": "Temperantia (Bastion of Varrac)",
+    "level": 58,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 58"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Atrocious_Hermes",
+    "wikiPageId": 74412,
+    "element": "None",
+    "collectType": "Igna, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-autumn-shower-melvin",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Autumn-Shower Melvin",
+    "region": "Kingdom of Tantal (Lumos Pillar)",
+    "level": 46,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 46"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Autumn-Shower_Melvin",
+    "wikiPageId": 76224,
+    "element": "None",
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-azure-reginald",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Azure Reginald",
+    "region": "Kingdom of Uraya (Coralline Sanctum)",
+    "level": 41,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 41"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Azure_Reginald",
+    "wikiPageId": 75547,
+    "element": "Water",
+    "collectType": "Lexos"
+  },
+  {
+    "id": "xc2-unique_monster-beast-hunter-william",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Beast-Hunter William",
+    "region": "Kingdom of Uraya (Olethro Playhouse)",
+    "level": 99,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 99"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Beast-Hunter_William",
+    "wikiPageId": 75948,
+    "element": "None",
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-blue-eyed-korbin",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Blue-Eyed Korbin",
+    "region": "Kingdom of Tantal (Amphoret Pillar)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue-Eyed_Korbin",
+    "wikiPageId": 76216,
+    "element": "Wind",
+    "collectType": "Volff, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-chickenheart-dagmara",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Chickenheart Dagmara",
+    "region": "Empire of Mor Ardain (Industrial Zone, Upper Duct)",
+    "level": 120,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 120"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Chickenheart_Dagmara",
+    "wikiPageId": 75561,
+    "element": "None",
+    "collectType": "Pippito (Beast)"
+  },
+  {
+    "id": "xc2-unique_monster-climactic-honnold",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Climactic Honnold",
+    "region": "Leftherian Archipelago (Isle of Urchon)",
+    "level": 45,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 45"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Climactic_Honnold",
+    "wikiPageId": 74238,
+    "element": "Water",
+    "collectType": "Urchon"
+  },
+  {
+    "id": "xc2-unique_monster-cloud-sea-king-ken",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Cloud Sea King Ken",
+    "region": "Kingdom of Tantal (Genbu Drifts)",
+    "level": 110,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 110"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cloud_Sea_King_Ken",
+    "wikiPageId": 75562,
+    "element": "Ice",
+    "collectType": "Squood"
+  },
+  {
+    "id": "xc2-unique_monster-confiscator-jimmy",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Confiscator Jimmy",
+    "region": "Leftherian Archipelago (Daram Isle)",
+    "level": 38,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 38"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Confiscator_Jimmy",
+    "wikiPageId": 74241,
+    "element": "None",
+    "collectType": "Jagron Driver"
+  },
+  {
+    "id": "xc2-unique_monster-crimson-derrick",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Crimson Derrick",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crimson_Derrick",
+    "wikiPageId": 74251
+  },
+  {
+    "id": "xc2-unique_monster-cunning-saggie",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Cunning Saggie",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cunning_Saggie",
+    "wikiPageId": 75524
+  },
+  {
+    "id": "xc2-unique_monster-decapitator-marvin",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Decapitator Marvin",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Decapitator_Marvin",
+    "wikiPageId": 74342
+  },
+  {
+    "id": "xc2-unique_monster-dedicated-conroy",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Dedicated Conroy",
+    "region": "Kingdom of Tantal (Tirkinlandia)",
+    "level": 51,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 51"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dedicated_Conroy",
+    "wikiPageId": 74949,
+    "element": "None",
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc2-unique_monster-deep-green-oscar",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Deep-Green Oscar",
+    "region": "Kingdom of Tantal (Sacred Ice Caverns)",
+    "level": 41,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 41"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Deep-Green_Oscar",
+    "wikiPageId": 75936,
+    "collectType": "Ellook"
+  },
+  {
+    "id": "xc2-unique_monster-demon-king-gilbert",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Demon King Gilbert",
+    "region": "Kingdom of Uraya (Badfella's Cave Fort)",
+    "level": 80,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 80"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Demon_King_Gilbert",
+    "wikiPageId": 75946,
+    "element": "None",
+    "collectType": "Igna"
+  },
+  {
+    "id": "xc2-unique_monster-demon-shell-jacob",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Demon-Shell Jacob",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Demon-Shell_Jacob",
+    "wikiPageId": 74071
+  },
+  {
+    "id": "xc2-unique_monster-enlightened-morris",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Enlightened Morris",
+    "region": "Kingdom of Tantal (Pippito's Haunt)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Enlightened_Morris",
+    "wikiPageId": 74962,
+    "element": "None",
+    "collectType": "Pippito"
+  },
+  {
+    "id": "xc2-unique_monster-epicurean-ligia",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Epicurean Ligia",
+    "region": "Leftherian Archipelago (Lud Cloudway)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Epicurean_Ligia",
+    "wikiPageId": 74423,
+    "collectType": "Lysaat Driver"
+  },
+  {
+    "id": "xc2-unique_monster-evileye-mambor",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Evileye Mambor",
+    "region": "Cliffs of Morytha (Path of the Believer)",
+    "level": 54,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 54"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Evileye_Mambor",
+    "wikiPageId": 74319,
+    "collectType": "Aspar, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-excavator-darius",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Excavator Darius",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Excavator_Darius",
+    "wikiPageId": 74415
+  },
+  {
+    "id": "xc2-unique_monster-gladiator-orion",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Gladiator Orion",
+    "region": "Cliffs of Morytha (Hallowed Godswood Shrine)",
+    "level": 100,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 100"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gladiator_Orion",
+    "wikiPageId": 74972,
+    "element": "None",
+    "collectType": "Driver (Humanoid)"
+  },
+  {
+    "id": "xc2-unique_monster-glamorous-alfred",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Glamorous Alfred",
+    "region": "Spirit Crucible Elpys (Chamber of Offering)",
+    "level": 50,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 50"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Glamorous_Alfred",
+    "wikiPageId": 74495,
+    "element": "Ice",
+    "collectType": "Arachno"
+  },
+  {
+    "id": "xc2-unique_monster-grievous-clive",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Grievous Clive",
+    "region": "Temperantia (Jagron's Citadel)",
+    "level": 94,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 94"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Grievous_Clive",
+    "wikiPageId": 76232,
+    "element": "None",
+    "collectType": "Jagron"
+  },
+  {
+    "id": "xc2-unique_monster-hard-bitten-xavier",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Hard-Bitten Xavier",
+    "region": "Spirit Crucible Elpys (Elpys Great Hall)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hard-Bitten_Xavier",
+    "wikiPageId": 76225,
+    "collectType": "Urchon, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-haywire-kustal",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Haywire Kustal",
+    "region": "World Tree (Lower Level)",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Haywire_Kustal",
+    "wikiPageId": 75457,
+    "element": "None",
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-haywire-phoebus",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Haywire Phoebus",
+    "region": "World Tree (7th Perimeter Defense Post)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Haywire_Phoebus",
+    "wikiPageId": 76215,
+    "element": "None",
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-haywire-radclyffe",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Haywire Radclyffe",
+    "region": "World Tree (Sky Bridge)",
+    "level": 58,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 58"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Haywire_Radclyffe",
+    "wikiPageId": 75943,
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-heroic-edwin",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Heroic Edwin",
+    "region": "Kingdom of Tantal (Pillar City Ruins)",
+    "level": 44,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 44"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heroic_Edwin",
+    "wikiPageId": 75940,
+    "collectType": "Garlus"
+  },
+  {
+    "id": "xc2-unique_monster-holy-lancer-efrain",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Holy Lancer Efrain",
+    "region": "Spirit Crucible Elpys (Chamber of Pillars)",
+    "level": 51,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 51"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Holy_Lancer_Efrain",
+    "wikiPageId": 75495,
+    "element": "Wind",
+    "collectType": "Marrin"
+  },
+  {
+    "id": "xc2-unique_monster-howitzer-leon",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Howitzer Leon",
+    "region": "Kingdom of Uraya (Old Quarry)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Howitzer_Leon",
+    "wikiPageId": 74966,
+    "collectType": "Gyanna"
+  },
+  {
+    "id": "xc2-unique_monster-immovable-gonzalez",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Immovable Gonzalez",
+    "region": "Gormott Province (Nocclia Woods)",
+    "level": 90,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 90"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Immovable_Gonzalez_(XC2)",
+    "wikiPageId": 73554,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc2-unique_monster-impassable-edgar",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Impassable Edgar",
+    "region": "Kingdom of Tantal (Declessa Altar Hill)",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Impassable_Edgar",
+    "wikiPageId": 74330,
+    "element": "None",
+    "collectType": "Garlus"
+  },
+  {
+    "id": "xc2-unique_monster-implacable-dylan",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Implacable Dylan",
+    "region": "Kingdom of Uraya (Acid Gullet)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Implacable_Dylan",
+    "wikiPageId": 74902,
+    "element": "None",
+    "collectType": "Riik"
+  },
+  {
+    "id": "xc2-unique_monster-incandescent-marcus",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Incandescent Marcus",
+    "region": "Kingdom of Tantal (Pillar City Ruins)",
+    "level": 54,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 54"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Incandescent_Marcus",
+    "wikiPageId": 75942,
+    "element": "Ice",
+    "collectType": "Plambus"
+  },
+  {
+    "id": "xc2-unique_monster-insectivore-malcom",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Insectivore Malcom",
+    "region": "Gormott Province (Upper Level - Right)",
+    "level": 75,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 75"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Insectivore_Malcom",
+    "wikiPageId": 75921,
+    "element": "Wind",
+    "collectType": "Vang"
+  },
+  {
+    "id": "xc2-unique_monster-jadeite-polly",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Jadeite Polly",
+    "region": "Leftherian Archipelago (Baldotas Isle)",
+    "level": 38,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 38"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jadeite_Polly",
+    "wikiPageId": 74491,
+    "collectType": "Grady"
+  },
+  {
+    "id": "xc2-unique_monster-judicial-kollin",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Judicial Kollin",
+    "region": "Empire of Mor Ardain (Delizé's Infirmary)",
+    "level": 33,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 33"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Judicial_Kollin",
+    "wikiPageId": 74903,
+    "collectType": "Igna"
+  },
+  {
+    "id": "xc2-unique_monster-leonine-sadie",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Leonine Sadie",
+    "region": "Temperantia (Titan Weapon Dig Site)",
+    "level": 95,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 95"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Leonine_Sadie",
+    "wikiPageId": 75563,
+    "element": "Earth",
+    "collectType": "Sauros (Beast)"
+  },
+  {
+    "id": "xc2-unique_monster-machine-gun-julio",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Machine-Gun Julio",
+    "region": "Cliffs of Morytha (Morytha Falls)",
+    "level": 53,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 53"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Machine-Gun_Julio",
+    "wikiPageId": 75540,
+    "element": "None",
+    "collectType": "Ansel"
+  },
+  {
+    "id": "xc2-unique_monster-malicious-dimitri",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Malicious Dimitri",
+    "region": "Land of Morytha (Evacuation )",
+    "level": 57,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 57"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Malicious_Dimitri",
+    "wikiPageId": 75483,
+    "collectType": "Guldo"
+  },
+  {
+    "id": "xc2-unique_monster-man-eating-glenn",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Man-Eating Glenn",
+    "region": "Empire of Mor Ardain (Jelidorend Highlands)",
+    "level": 32,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 32"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Man-Eating_Glenn",
+    "wikiPageId": 74130,
+    "collectType": "Griffox"
+  },
+  {
+    "id": "xc2-unique_monster-martial-kamron",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Martial Kamron",
+    "region": "Kingdom of Uraya (Stone Gate Ruins)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Martial_Kamron",
+    "wikiPageId": 73644,
+    "element": "None",
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-mk-vi-familion",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Mk. VI Familion",
+    "region": "World Tree (Lv. 2, Mizar: Central Deck)",
+    "level": 62,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 62"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VI_Familion",
+    "wikiPageId": 75944,
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-mk-vi-gerolf",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Mk. VI Gerolf",
+    "region": "World Tree (Alioth, Elevator",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VI_Gerolf",
+    "wikiPageId": 76227,
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-mk-vi-margot",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Mk. VI Margot",
+    "region": "World Tree (Data Processing Room)",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VI_Margot",
+    "wikiPageId": 76226,
+    "element": "None",
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-mk-vii-arek",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Mk. VII Arek",
+    "region": "World Tree (Lv. 4, Megrez)",
+    "level": 114,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 114"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VII_Arek",
+    "wikiPageId": 74895,
+    "element": "None",
+    "collectType": "Sovereign"
+  },
+  {
+    "id": "xc2-unique_monster-moonlighting-elwyn",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Moonlighting Elwyn",
+    "region": "Gormott Province (Plains of Evening Calm)",
+    "level": 8,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 8"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Moonlighting_Elwyn",
+    "wikiPageId": 74128,
+    "element": "None",
+    "collectType": "Bunnit"
+  },
+  {
+    "id": "xc2-unique_monster-muscley-damian",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Muscley Damian",
+    "region": "Kingdom of Tantal (Sanguinous Grotto)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Muscley_Damian",
+    "wikiPageId": 74958,
+    "element": "None",
+    "collectType": "Buloofo"
+  },
+  {
+    "id": "xc2-unique_monster-myrmidon-eugene",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Myrmidon Eugene",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Myrmidon_Eugene",
+    "wikiPageId": 75490
+  },
+  {
+    "id": "xc2-unique_monster-nitpicking-beru",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Nitpicking Beru",
+    "region": "Gormott Province (Solitary Block",
+    "level": 27,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 27"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nitpicking_Beru",
+    "wikiPageId": 75787,
+    "element": "None",
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-parasite-aplacus",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Parasite Aplacus",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Parasite_Aplacus",
+    "wikiPageId": 75406
+  },
+  {
+    "id": "xc2-unique_monster-peerless-beaufort",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Peerless Beaufort",
+    "region": "Leftherian Archipelago (Isle of Sleeping Remains)",
+    "level": 49,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 49"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Peerless_Beaufort",
+    "wikiPageId": 74243,
+    "collectType": "Crustip"
+  },
+  {
+    "id": "xc2-unique_monster-pernicious-benf",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Pernicious Benf",
+    "region": "Temperantia (Aegishammer)",
+    "level": 109,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 109"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pernicious_Benf",
+    "wikiPageId": 75564,
+    "element": "None",
+    "collectType": "Behemoth (Beast)"
+  },
+  {
+    "id": "xc2-unique_monster-perplexed-stoyan",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Perplexed Stoyan",
+    "region": "Leftherian Archipelago (Little Garden of Tradition)",
+    "level": 47,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 47"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perplexed_Stoyan",
+    "wikiPageId": 74965,
+    "collectType": "Serprond"
+  },
+  {
+    "id": "xc2-unique_monster-praetorian-argus",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Praetorian Argus",
+    "region": "World Tree (7th Perimeter Skyport)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Praetorian_Argus",
+    "wikiPageId": 75596,
+    "element": "None",
+    "collectType": "Indoline Loyalist, Titan"
+  },
+  {
+    "id": "xc2-unique_monster-praetorian-medea",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Praetorian Medea",
+    "region": "World Tree (7th Perimeter Skyport)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Praetorian_Medea",
+    "wikiPageId": 75597,
+    "collectType": "Indoline Loyalist, Titan"
+  },
+  {
+    "id": "xc2-unique_monster-rapturous-scandia",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Rapturous Scandia",
+    "region": "Leftherian Archipelago (Godsford Isle)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rapturous_Scandia",
+    "wikiPageId": 75565,
+    "collectType": "Taos"
+  },
+  {
+    "id": "xc2-unique_monster-ravenwing-skull",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Ravenwing Skull",
+    "region": "Temperantia (Xataris Spring)",
+    "level": 62,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 62"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravenwing_Skull",
+    "wikiPageId": 74425,
+    "collectType": "Ageshu"
+  },
+  {
+    "id": "xc2-unique_monster-reeking-douglas",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Reeking Douglas",
+    "region": "Gormott Province (Brigands' Hideout)",
+    "level": 104,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 104"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reeking_Douglas",
+    "wikiPageId": 75566,
+    "element": "None",
+    "collectType": "Rapchor (Beast)"
+  },
+  {
+    "id": "xc2-unique_monster-relentless-arduran",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Relentless Arduran",
+    "region": "Gormott Province (Kloom Farm)",
+    "level": 99,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 99"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Relentless_Arduran",
+    "wikiPageId": 76233,
+    "element": "None",
+    "collectType": "Ardun"
+  },
+  {
+    "id": "xc2-unique_monster-remorseful-vaclav",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Remorseful Vaclav",
+    "region": "Gormott Province (Solitary Block",
+    "level": 14,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 14"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Remorseful_Vaclav",
+    "wikiPageId": 75786,
+    "element": "None",
+    "collectType": "Ardainian Soldier"
+  },
+  {
+    "id": "xc2-unique_monster-runaway-train-bool",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Runaway Train Bool",
+    "region": "Temperantia (Central Plain)",
+    "level": 55,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 55"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Runaway_Train_Bool",
+    "wikiPageId": 74498,
+    "collectType": "Garlus, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-sad-bernard",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Sad Bernard",
+    "region": "Gormott Province (Garanti Plain)",
+    "level": 12,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 12"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sad_Bernard",
+    "wikiPageId": 73586,
+    "element": "None",
+    "collectType": "Feris"
+  },
+  {
+    "id": "xc2-unique_monster-skyfist-remington",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Skyfist Remington",
+    "region": "Leftherian Archipelago (Ysheva Harbor)",
+    "level": 39100,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 39100"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Skyfist_Remington",
+    "wikiPageId": 74904,
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-slasher-buffon",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Slasher Buffon",
+    "region": "Empire of Mor Ardain (Mine No. 2 Entrance)",
+    "level": 40,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 40"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Slasher_Buffon",
+    "wikiPageId": 75939,
+    "collectType": "Anlood"
+  },
+  {
+    "id": "xc2-unique_monster-sniping-brent",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Sniping Brent",
+    "region": "Gormott Province (Melnath's Shoulder)",
+    "level": 18,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 18"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sniping_Brent",
+    "wikiPageId": 74127,
+    "element": "None",
+    "collectType": "Rhogul"
+  },
+  {
+    "id": "xc2-unique_monster-soothsayer-gerald",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Soothsayer Gerald",
+    "region": "Kingdom of Uraya (Loska's Gap)",
+    "level": 78,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 78"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Soothsayer_Gerald",
+    "wikiPageId": 75945,
+    "element": "Ice",
+    "collectType": "Ellook"
+  },
+  {
+    "id": "xc2-unique_monster-soul-eater-stanley",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Soul-Eater Stanley",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Soul-Eater_Stanley",
+    "wikiPageId": 75549
+  },
+  {
+    "id": "xc2-unique_monster-spellbinder-billy",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Spellbinder Billy",
+    "region": "Kingdom of Tantal (Genbu Drifts)",
+    "level": 46,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 46"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spellbinder_Billy",
+    "wikiPageId": 75941,
+    "element": "None",
+    "collectType": "Peng"
+  },
+  {
+    "id": "xc2-unique_monster-spring-shower-elliott",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Spring-Shower Elliott",
+    "region": "Kingdom of Tantal (Lumos Pillar)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spring-Shower_Elliott",
+    "wikiPageId": 74950,
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-superboss",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Superboss",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Superboss",
+    "wikiPageId": 3079
+  },
+  {
+    "id": "xc2-unique_monster-supercharged-alfonso",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Supercharged Alfonso",
+    "region": "Gormott Province (Masrah Spring)",
+    "level": 20,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 20"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Supercharged_Alfonso",
+    "wikiPageId": 75378,
+    "element": "None",
+    "collectType": "Garaffa"
+  },
+  {
+    "id": "xc2-unique_monster-tattooed-hugo",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Tattooed Hugo",
+    "region": "Empire of Mor Ardain (Mine Elevator)",
+    "level": 31,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 31"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tattooed_Hugo",
+    "wikiPageId": 74304,
+    "collectType": "Rhogul"
+  },
+  {
+    "id": "xc2-unique_monster-territorial-rotbart",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Territorial Rotbart",
+    "region": "Gormott Province (Plains of Evening Calm)",
+    "level": 81,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 81"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Territorial_Rotbart_(XC2)",
+    "wikiPageId": 73551,
+    "element": "None",
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc2-unique_monster-tyrannotitan-kurodil",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Tyrannotitan Kurodil",
+    "region": "Temperantia (Profaned Place)",
+    "level": 130,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 130"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tyrannotitan_Kurodil",
+    "wikiPageId": 75567,
+    "element": "None",
+    "collectType": "Titan"
+  },
+  {
+    "id": "xc2-unique_monster-unflinching-saxton",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Unflinching Saxton",
+    "region": "Empire of Mor Ardain (Work Observation Tower)",
+    "level": 99,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 99"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Unflinching_Saxton",
+    "wikiPageId": 75949,
+    "element": "Dark",
+    "collectType": "Driver"
+  },
+  {
+    "id": "xc2-unique_monster-vagrant-baldr",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Vagrant Baldr",
+    "region": "Empire of Mor Ardain (Brionac Occupied Zone)",
+    "level": 62,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 62"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vagrant_Baldr",
+    "wikiPageId": 75548,
+    "collectType": "Brionac, Titan"
+  },
+  {
+    "id": "xc2-unique_monster-vampire-bride-marion",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Vampire Bride Marion",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vampire_Bride_Marion",
+    "wikiPageId": 74311
+  },
+  {
+    "id": "xc2-unique_monster-venal-montgomery",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Venal Montgomery",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Venal_Montgomery",
+    "wikiPageId": 75842
+  },
+  {
+    "id": "xc2-unique_monster-vile-howard",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Vile Howard",
+    "region": "Spirit Crucible Elpys (Wonder Spring Plaza Ruins)",
+    "level": 47,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 47"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vile_Howard",
+    "wikiPageId": 75081,
+    "collectType": "Blant"
+  },
+  {
+    "id": "xc2-unique_monster-walker-trap",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "Walker Trap",
+    "region": "Kingdom of Uraya (Farlaine Central Pools)",
+    "level": 26,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 26"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Walker_Trap",
+    "wikiPageId": 75938,
+    "element": "Water",
+    "collectType": "Blant, Driver"
+  },
+  {
+    "id": "xc2-unique_monster-file-beast-hunter-william-portrait-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Beast-Hunter William Portrait.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeast-Hunter_William_Portrait.png",
+    "wikiPageId": 92111
+  },
+  {
+    "id": "xc2-unique_monster-file-chickenheartdagmara-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:ChickenheartDagmara.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChickenheartDagmara.jpg",
+    "wikiPageId": 102070
+  },
+  {
+    "id": "xc2-unique_monster-file-cunning-saggie-portrait-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Cunning-Saggie-portrait.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACunning-Saggie-portrait.jpg",
+    "wikiPageId": 84084
+  },
+  {
+    "id": "xc2-unique_monster-file-demon-king-gilbert-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Demon King Gilbert.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADemon_King_Gilbert.png",
+    "wikiPageId": 79934
+  },
+  {
+    "id": "xc2-unique_monster-file-evileyemambor-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:EvileyeMambor.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEvileyeMambor.jpg",
+    "wikiPageId": 74318
+  },
+  {
+    "id": "xc2-unique_monster-file-gladiator-orion-portrait-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Gladiator Orion Portrait.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGladiator_Orion_Portrait.png",
+    "wikiPageId": 92114
+  },
+  {
+    "id": "xc2-unique_monster-file-haywire-radcliffe-2-jpeg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Haywire Radcliffe 2.jpeg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHaywire_Radcliffe_2.jpeg",
+    "wikiPageId": 94987
+  },
+  {
+    "id": "xc2-unique_monster-file-haywire-radclyffe-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Haywire Radclyffe.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHaywire_Radclyffe.jpg",
+    "wikiPageId": 93648
+  },
+  {
+    "id": "xc2-unique_monster-file-implacable-dylan-crop-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Implacable-Dylan-crop.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AImplacable-Dylan-crop.jpg",
+    "wikiPageId": 84095
+  },
+  {
+    "id": "xc2-unique_monster-file-margot-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Margot.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMargot.jpg",
+    "wikiPageId": 94918
+  },
+  {
+    "id": "xc2-unique_monster-file-martial-kamron-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Martial-Kamron.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMartial-Kamron.jpg",
+    "wikiPageId": 84090
+  },
+  {
+    "id": "xc2-unique_monster-file-moonlightingelwyn-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:MoonlightingElwyn.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMoonlightingElwyn.jpg",
+    "wikiPageId": 84195
+  },
+  {
+    "id": "xc2-unique_monster-file-ophion-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Ophion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOphion.png",
+    "wikiPageId": 80881
+  },
+  {
+    "id": "xc2-unique_monster-file-ophion1-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Ophion1.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOphion1.png",
+    "wikiPageId": 94808
+  },
+  {
+    "id": "xc2-unique_monster-file-sadbern1-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Sadbern1.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASadbern1.jpg",
+    "wikiPageId": 94406
+  },
+  {
+    "id": "xc2-unique_monster-file-sadbern2-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Sadbern2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASadbern2.jpg",
+    "wikiPageId": 94407
+  },
+  {
+    "id": "xc2-unique_monster-file-sniping-brent-crop-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Sniping-Brent-crop.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASniping-Brent-crop.jpg",
+    "wikiPageId": 84098
+  },
+  {
+    "id": "xc2-unique_monster-file-vampire-bride-marion-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:Vampire Bride Marion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVampire_Bride_Marion.png",
+    "wikiPageId": 80880
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-acute-melvyn-crop-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Acute Melvyn Crop.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Acute_Melvyn_Crop.jpg",
+    "wikiPageId": 84087
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-antecedent-xiaxia-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Antecedent Xiaxia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Antecedent_Xiaxia.jpg",
+    "wikiPageId": 79445
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-chickenheart-dagmara-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Chickenheart Dagmara.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Chickenheart_Dagmara.jpg",
+    "wikiPageId": 79441
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-climactic-honnold-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Climactic Honnold.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Climactic_Honnold.jpg",
+    "wikiPageId": 79370
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-demon-shell-jacob-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Demon-Shell Jacob.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Demon-Shell_Jacob.jpg",
+    "wikiPageId": 79476
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-epicurean-ligia-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Epicurean Ligia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Epicurean_Ligia.jpg",
+    "wikiPageId": 79365
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-haywire-phoebus-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Haywire Phoebus.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Haywire_Phoebus.jpg",
+    "wikiPageId": 79362
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-holy-lancer-efrain-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Holy Lancer Efrain.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Holy_Lancer_Efrain.jpg",
+    "wikiPageId": 78960
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-jadeite-polly-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Jadeite Polly.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Jadeite_Polly.jpg",
+    "wikiPageId": 79478
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-machine-gun-julio-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Machine-Gun Julio.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Machine-Gun_Julio.jpg",
+    "wikiPageId": 79475
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-monster-collectibles-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Monster Collectibles.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Monster_Collectibles.png",
+    "wikiPageId": 81367
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-myrmidon-eugene-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Myrmidon Eugene.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Myrmidon_Eugene.jpg",
+    "wikiPageId": 79477
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-nitpicking-beru-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Nitpicking Beru.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Nitpicking_Beru.jpg",
+    "wikiPageId": 79364
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-parasite-aplacus-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Parasite Aplacus.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Parasite_Aplacus.jpg",
+    "wikiPageId": 79368
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-peerless-beaufort-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Peerless Beaufort.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Peerless_Beaufort.jpg",
+    "wikiPageId": 78999
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-perplexed-stoyan-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Perplexed Stoyan.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Perplexed_Stoyan.jpg",
+    "wikiPageId": 79367
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-praetorian-argus-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Praetorian Argus.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Praetorian_Argus.jpg",
+    "wikiPageId": 79372
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-praetorian-medea-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Praetorian Medea.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Praetorian_Medea.jpg",
+    "wikiPageId": 79373
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-ravenwing-skull-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Ravenwing Skull.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Ravenwing_Skull.jpg",
+    "wikiPageId": 79366
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-soul-eater-stanley-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Soul-Eater Stanley.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Soul-Eater_Stanley.jpg",
+    "wikiPageId": 79451
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-territorial-rotbart-jpeg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Territorial Rotbart.jpeg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Territorial_Rotbart.jpeg",
+    "wikiPageId": 85261
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-unique-monster-icon-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Unique Monster Icon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Unique_Monster_Icon.png",
+    "wikiPageId": 131391
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-unique-monster-tag-png",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Unique Monster tag.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Unique_Monster_tag.png",
+    "wikiPageId": 81365
+  },
+  {
+    "id": "xc2-unique_monster-file-xc2-venal-montgomery-jpg",
+    "gameId": "xc2",
+    "category": "unique_monster",
+    "name": "File:XC2 Venal Montgomery.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Venal_Montgomery.jpg",
+    "wikiPageId": 79005
+  }
+]

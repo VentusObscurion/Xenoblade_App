@@ -1,4 +1,11 @@
-export type GameId = 'xc1' | 'xc1-fc' | 'xc2' | 'xc3' | 'xcx'
+export type GameId =
+  | 'xc1'
+  | 'xc1-fc'
+  | 'xc2'
+  | 'xc2-torna'
+  | 'xc3'
+  | 'xc3-fr'
+  | 'xcx'
 
 export type Category =
   | 'quest'
@@ -10,6 +17,10 @@ export type Category =
   | 'collectopaedia'
   | 'landmark'
   | 'colony_reconstruction'
+  | 'colony_immigrant'
+  | 'blade'
+  | 'hero'
+  | 'merc_mission'
 
 export type PrerequisiteType =
   | 'level'
@@ -81,10 +92,16 @@ export interface TrackableItem {
   colonyLevel?: number
   colonyGold?: string
   obtainedFrom?: string
+  // Blade / Hero extras
+  element?: string
+  weaponClass?: string
+  role?: string
 }
 
 export interface ProgressEntry {
   itemId: string
+  /** Quest accepted / immigrant invited / etc. */
+  accepted?: boolean
   completed: boolean
   completedAt?: string
   notes?: string
@@ -124,7 +141,9 @@ export const GAMES: GameInfo[] = [
   { id: 'xc1', name: 'Xenoblade Chronicles', available: true },
   { id: 'xc1-fc', name: 'Future Connected', available: true },
   { id: 'xc2', name: 'Xenoblade Chronicles 2', available: true },
-  { id: 'xc3', name: 'Xenoblade Chronicles 3', available: false },
+  { id: 'xc2-torna', name: 'Torna ~ The Golden Country', available: true },
+  { id: 'xc3', name: 'Xenoblade Chronicles 3', available: true },
+  { id: 'xc3-fr', name: 'Future Redeemed', available: true },
   { id: 'xcx', name: 'Xenoblade Chronicles X', available: false },
 ]
 
@@ -138,6 +157,10 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   collectopaedia: 'Collectopaedia',
   landmark: 'Landmarks',
   colony_reconstruction: 'Colony 6 Reconstruction',
+  colony_immigrant: 'Colony 6 Immigrants',
+  blade: 'Blades',
+  hero: 'Heroes',
+  merc_mission: 'Merc Missions',
 }
 
 export const GAME_CATEGORIES: Record<GameId, Category[]> = {
@@ -149,7 +172,15 @@ export const GAME_CATEGORIES: Record<GameId, Category[]> = {
     'colony_reconstruction',
   ],
   'xc1-fc': ['quest', 'unique_monster', 'quiet_moment'],
-  xc2: ['collectopaedia'],
-  xc3: ['collectopaedia'],
+  xc2: [
+    'quest',
+    'unique_monster',
+    'heart_to_heart',
+    'blade',
+    'collectopaedia',
+  ],
+  'xc2-torna': ['quest', 'unique_monster', 'collectopaedia'],
+  xc3: ['quest', 'unique_monster', 'hero', 'collectopaedia'],
+  'xc3-fr': ['quest', 'unique_monster', 'collectopaedia'],
   xcx: [],
 }

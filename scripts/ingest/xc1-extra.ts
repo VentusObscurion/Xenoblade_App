@@ -348,6 +348,77 @@ export async function fetchColony6Reconstruction(gameId: GameId): Promise<Tracka
   return items
 }
 
+export async function fetchColony6Immigrants(gameId: GameId): Promise<TrackableItem[]> {
+  console.log('  Fetching Colony 6 Immigrants')
+  const pages = await getPageWikitext(['Colony 6 Immigrants'])
+  const wikitext = pages[0]?.wikitext
+  if (!wikitext) return []
+
+  const items: TrackableItem[] = []
+  const seen = new Set<string>()
+  // Section headers like == [[Colony 9 (XC1)|Colony 9]] ==
+  const sections = [
+    ...wikitext.matchAll(
+      /==\s*\[\[([^\]]+)\]\]\s*==([\s\S]*?)(?=\n==\s|\n\[\[Category:|$)/g,
+    ),
+  ]
+
+  for (const match of sections) {
+    const header = stripWikiMarkup(match[1]).replace(/\s*\(XC1\)$/i, '').trim()
+    const body = match[2]
+    const rows = [...body.matchAll(/\|-?\s*\n\|\[\[([^\]]+)\]\]\s*\n\|([^\n|]+)/g)]
+    for (const row of rows) {
+      const name = stripWikiMarkup(row[1]).replace(/\s*\(XC1\)$/i, '').trim()
+      const conditions = stripWikiMarkup(row[2]).trim()
+      if (!name || /^NPC$/i.test(name)) continue
+      const id = makeId(gameId, 'colony_immigrant', name)
+      if (seen.has(id)) continue
+      seen.add(id)
+      items.push({
+        id,
+        gameId,
+        category: 'colony_immigrant',
+        name,
+        region: header,
+        description: conditions,
+        obtainedFrom: conditions,
+        prerequisites: [],
+        wikiUrl: wikiPageUrl(name),
+        wikiPageId: pages[0]?.pageid,
+        collectType: 'Immigrant',
+      })
+    }
+  }
+
+  // Fallback: simpler row parse if section regex missed
+  if (items.length === 0) {
+    const simpleRows = [...wikitext.matchAll(/\|\[\[([^\|\]]+)(?:\|[^\]]+)?\]\]\s*\n\|([^\n]+)/g)]
+    for (const row of simpleRows) {
+      const name = stripWikiMarkup(row[1]).replace(/\s*\(XC1\)$/i, '').trim()
+      const conditions = stripWikiMarkup(row[2]).trim()
+      if (!name || /^(NPC|Conditions)$/i.test(name)) continue
+      const id = makeId(gameId, 'colony_immigrant', name)
+      if (seen.has(id)) continue
+      seen.add(id)
+      items.push({
+        id,
+        gameId,
+        category: 'colony_immigrant',
+        name,
+        description: conditions,
+        obtainedFrom: conditions,
+        prerequisites: [],
+        wikiUrl: wikiPageUrl(name),
+        wikiPageId: pages[0]?.pageid,
+        collectType: 'Immigrant',
+      })
+    }
+  }
+
+  console.log(`  Colony 6 Immigrants: ${items.length}`)
+  return items
+}
+
 export function parseMonsterExtras(wikitext: string): {
   spawnTime?: string
   respawn?: string

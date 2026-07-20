@@ -1,0 +1,732 @@
+[
+  {
+    "id": "xc2-heart_to_heart-good-habits",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Good Habits",
+    "region": "Argentum Trade Guild",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Good_Habits",
+    "wikiPageId": 83584
+  },
+  {
+    "id": "xc2-heart_to_heart-m-rag-the-chef",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Mòrag the Chef",
+    "region": "Argentum Trade Guild",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/M%C3%B2rag_the_Chef",
+    "wikiPageId": 85905
+  },
+  {
+    "id": "xc2-heart_to_heart-shebas-dream",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Sheba's Dream",
+    "region": "Argentum Trade Guild",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sheba's_Dream",
+    "wikiPageId": 78453
+  },
+  {
+    "id": "xc2-heart_to_heart-walking-encyclopedia",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Walking Encyclopedia",
+    "region": "Argentum Trade Guild",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Walking_Encyclopedia",
+    "wikiPageId": 78068
+  },
+  {
+    "id": "xc2-heart_to_heart-ardainian-technology",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Ardainian Technology",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ardainian_Technology",
+    "wikiPageId": 78122
+  },
+  {
+    "id": "xc2-heart_to_heart-birds-eye-view",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Bird's-Eye View",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bird's-Eye_View",
+    "wikiPageId": 86661
+  },
+  {
+    "id": "xc2-heart_to_heart-boreas-the-gourmand",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Boreas the Gourmand",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Boreas_the_Gourmand",
+    "wikiPageId": 86654
+  },
+  {
+    "id": "xc2-heart_to_heart-burgeoning-curiosity",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Burgeoning Curiosity",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Burgeoning_Curiosity",
+    "wikiPageId": 78221
+  },
+  {
+    "id": "xc2-heart_to_heart-hard-life",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Hard Life",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hard_Life",
+    "wikiPageId": 85959
+  },
+  {
+    "id": "xc2-heart_to_heart-lone-wolf",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Lone Wolf",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lone_Wolf",
+    "wikiPageId": 85364
+  },
+  {
+    "id": "xc2-heart_to_heart-muscle-power",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Muscle Power",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Muscle_Power",
+    "wikiPageId": 85862
+  },
+  {
+    "id": "xc2-heart_to_heart-poppis-remodel",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Poppi's Remodel?",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poppi's_Remodel%3F",
+    "wikiPageId": 76186
+  },
+  {
+    "id": "xc2-heart_to_heart-reunion",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Reunion",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reunion",
+    "wikiPageId": 78690
+  },
+  {
+    "id": "xc2-heart_to_heart-sisterly-love",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Sisterly Love",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sisterly_Love",
+    "wikiPageId": 87302
+  },
+  {
+    "id": "xc2-heart_to_heart-the-purest-beauty",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "The Purest Beauty?",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Purest_Beauty%3F",
+    "wikiPageId": 86657
+  },
+  {
+    "id": "xc2-heart_to_heart-the-real-gramps",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "The Real Gramps",
+    "region": "Gormott Province",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Real_Gramps",
+    "wikiPageId": 78178
+  },
+  {
+    "id": "xc2-heart_to_heart-a-tora-and-poppi-production",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "A Tora and Poppi Production",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Tora_and_Poppi_Production",
+    "wikiPageId": 78331
+  },
+  {
+    "id": "xc2-heart_to_heart-blushy-crushy",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Blushy-Crushy",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blushy-Crushy",
+    "wikiPageId": 78237
+  },
+  {
+    "id": "xc2-heart_to_heart-class-of-his-own",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Class of His Own",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Class_of_His_Own",
+    "wikiPageId": 85368
+  },
+  {
+    "id": "xc2-heart_to_heart-girl-power",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Girl Power",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Girl_Power",
+    "wikiPageId": 86058
+  },
+  {
+    "id": "xc2-heart_to_heart-life-goes-on",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Life Goes On",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Life_Goes_On",
+    "wikiPageId": 83460
+  },
+  {
+    "id": "xc2-heart_to_heart-not-quite-comfortable-yet",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Not Quite Comfortable Yet",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Not_Quite_Comfortable_Yet",
+    "wikiPageId": 76195
+  },
+  {
+    "id": "xc2-heart_to_heart-pandorias-troubles",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Pandoria's Troubles",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pandoria's_Troubles",
+    "wikiPageId": 85960
+  },
+  {
+    "id": "xc2-heart_to_heart-the-literary-life",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "The Literary Life",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Literary_Life",
+    "wikiPageId": 85180
+  },
+  {
+    "id": "xc2-heart_to_heart-toras-angst",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Tora's Angst",
+    "region": "Kingdom of Uraya",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tora's_Angst",
+    "wikiPageId": 85885
+  },
+  {
+    "id": "xc2-heart_to_heart-a-thespians-life",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "A Thespian's Life",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Thespian's_Life",
+    "wikiPageId": 86054
+  },
+  {
+    "id": "xc2-heart_to_heart-at-the-seat-of-power",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "At the Seat of Power",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/At_the_Seat_of_Power",
+    "wikiPageId": 84338
+  },
+  {
+    "id": "xc2-heart_to_heart-bold-adventures",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Bold Adventures",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bold_Adventures",
+    "wikiPageId": 85893
+  },
+  {
+    "id": "xc2-heart_to_heart-dromarchs-wisdom",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Dromarch's Wisdom",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dromarch's_Wisdom",
+    "wikiPageId": 82778
+  },
+  {
+    "id": "xc2-heart_to_heart-mad-about-titan-weapons",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Mad About Titan Weapons",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mad_About_Titan_Weapons",
+    "wikiPageId": 84696
+  },
+  {
+    "id": "xc2-heart_to_heart-rub-a-dub-dub",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Rub-a-Dub-Dub",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rub-a-Dub-Dub",
+    "wikiPageId": 75839
+  },
+  {
+    "id": "xc2-heart_to_heart-the-ground-beneath-our-feet",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "The Ground Beneath our Feet",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ground_Beneath_our_Feet",
+    "wikiPageId": 84340
+  },
+  {
+    "id": "xc2-heart_to_heart-toras-tribe",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Tora's Tribe",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tora's_Tribe",
+    "wikiPageId": 89380
+  },
+  {
+    "id": "xc2-heart_to_heart-unforgiving-terrain",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Unforgiving Terrain",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Unforgiving_Terrain",
+    "wikiPageId": 82638
+  },
+  {
+    "id": "xc2-heart_to_heart-vales-weakness",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Vale's Weakness",
+    "region": "Empire of Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vale's_Weakness",
+    "wikiPageId": 86679
+  },
+  {
+    "id": "xc2-heart_to_heart-nim-speak",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Nim-Speak",
+    "region": "Temperantia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nim-Speak",
+    "wikiPageId": 84695
+  },
+  {
+    "id": "xc2-heart_to_heart-reconciliation",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Reconciliation",
+    "region": "Temperantia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reconciliation",
+    "wikiPageId": 83583
+  },
+  {
+    "id": "xc2-heart_to_heart-a-love-too-deep",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "A Love Too Deep",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Love_Too_Deep",
+    "wikiPageId": 84700
+  },
+  {
+    "id": "xc2-heart_to_heart-addams-appetite",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Addam's Appetite",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Addam's_Appetite",
+    "wikiPageId": 76423
+  },
+  {
+    "id": "xc2-heart_to_heart-atonement",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Atonement",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Atonement",
+    "wikiPageId": 76448
+  },
+  {
+    "id": "xc2-heart_to_heart-curse-of-the-zekenator",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Curse of the Zekenator",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Curse_of_the_Zekenator",
+    "wikiPageId": 85962
+  },
+  {
+    "id": "xc2-heart_to_heart-open-your-eyes",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Open Your Eyes",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Open_Your_Eyes",
+    "wikiPageId": 83278
+  },
+  {
+    "id": "xc2-heart_to_heart-poetic-license",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Poetic License",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poetic_License",
+    "wikiPageId": 86659
+  },
+  {
+    "id": "xc2-heart_to_heart-servant-of-justice",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Servant of Justice",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Servant_of_Justice",
+    "wikiPageId": 86667
+  },
+  {
+    "id": "xc2-heart_to_heart-sweet-strategy",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Sweet Strategy",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweet_Strategy",
+    "wikiPageId": 86664
+  },
+  {
+    "id": "xc2-heart_to_heart-tending-to-turters",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Tending to Turters",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tending_to_Turters",
+    "wikiPageId": 84951
+  },
+  {
+    "id": "xc2-heart_to_heart-whats-in-a-name",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "What's in a Name?",
+    "region": "Kingdom of Tantal",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/What's_in_a_Name%3F",
+    "wikiPageId": 85963
+  },
+  {
+    "id": "xc2-heart_to_heart-a-moments-peace",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "A Moment's Peace",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Moment's_Peace",
+    "wikiPageId": 85961
+  },
+  {
+    "id": "xc2-heart_to_heart-blue-blood",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Blue Blood",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue_Blood_(XC2)",
+    "wikiPageId": 84702
+  },
+  {
+    "id": "xc2-heart_to_heart-by-the-graveside",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "By the Graveside",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/By_the_Graveside",
+    "wikiPageId": 83303
+  },
+  {
+    "id": "xc2-heart_to_heart-free-as-a-bird",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Free as a Bird",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Free_as_a_Bird",
+    "wikiPageId": 85366
+  },
+  {
+    "id": "xc2-heart_to_heart-growing-up",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Growing Up",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Growing_Up",
+    "wikiPageId": 76124
+  },
+  {
+    "id": "xc2-heart_to_heart-little-rex",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Little Rex",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Little_Rex",
+    "wikiPageId": 83302
+  },
+  {
+    "id": "xc2-heart_to_heart-patrokas-predilections",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Patroka's Predilections",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Patroka's_Predilections",
+    "wikiPageId": 85268
+  },
+  {
+    "id": "xc2-heart_to_heart-rough-diamond",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Rough Diamond",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rough_Diamond",
+    "wikiPageId": 82306
+  },
+  {
+    "id": "xc2-heart_to_heart-the-kindness-of-blades",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "The Kindness of Blades",
+    "region": "Leftherian Archipelago",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Kindness_of_Blades",
+    "wikiPageId": 86655
+  },
+  {
+    "id": "xc2-heart_to_heart-eternal-rest",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Eternal Rest",
+    "region": "Spirit Crucible Elpys",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Eternal_Rest",
+    "wikiPageId": 83398
+  },
+  {
+    "id": "xc2-heart_to_heart-five-centuries-of-memory",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Five Centuries of Memory",
+    "region": "Spirit Crucible Elpys",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Five_Centuries_of_Memory",
+    "wikiPageId": 86706
+  },
+  {
+    "id": "xc2-heart_to_heart-indomitable-will",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Indomitable Will",
+    "region": "Spirit Crucible Elpys",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Indomitable_Will",
+    "wikiPageId": 86676
+  },
+  {
+    "id": "xc2-heart_to_heart-constants",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Constants",
+    "region": "Cliffs of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Constants",
+    "wikiPageId": 86695
+  },
+  {
+    "id": "xc2-heart_to_heart-family-ties",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Family Ties",
+    "region": "Cliffs of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Family_Ties",
+    "wikiPageId": 86766
+  },
+  {
+    "id": "xc2-heart_to_heart-forward-looking-woman",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Forward-Looking Woman",
+    "region": "Cliffs of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Forward-Looking_Woman",
+    "wikiPageId": 81064
+  },
+  {
+    "id": "xc2-heart_to_heart-morytha-the-unknown",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Morytha the Unknown",
+    "region": "Land of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Morytha_the_Unknown",
+    "wikiPageId": 87106
+  },
+  {
+    "id": "xc2-heart_to_heart-mythra-vs-brighid",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Mythra Vs. Brighid",
+    "region": "Land of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mythra_Vs._Brighid",
+    "wikiPageId": 86744
+  },
+  {
+    "id": "xc2-heart_to_heart-self-confidence",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Self-Confidence",
+    "region": "Land of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Self-Confidence",
+    "wikiPageId": 76330
+  },
+  {
+    "id": "xc2-heart_to_heart-stronger-than-light",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Stronger than Light",
+    "region": "Land of Morytha",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stronger_than_Light",
+    "wikiPageId": 86683
+  },
+  {
+    "id": "xc2-heart_to_heart-impassioned-thoughts",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Impassioned Thoughts",
+    "region": "World Tree",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Impassioned_Thoughts",
+    "wikiPageId": 84697
+  },
+  {
+    "id": "xc2-heart_to_heart-legendary-land",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Legendary Land",
+    "region": "World Tree",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Legendary_Land",
+    "wikiPageId": 87126
+  },
+  {
+    "id": "xc2-heart_to_heart-quantum-technochampion",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Quantum Technochampion π",
+    "region": "World Tree",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Quantum_Technochampion_%CF%80",
+    "wikiPageId": 84701
+  },
+  {
+    "id": "xc2-heart_to_heart-before-the-storm",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Before the Storm",
+    "region": "First Low Orbit Station",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Before_the_Storm",
+    "wikiPageId": 89242
+  },
+  {
+    "id": "xc2-heart_to_heart-daybreak",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Daybreak",
+    "region": "First Low Orbit Station",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Daybreak",
+    "wikiPageId": 84699
+  },
+  {
+    "id": "xc2-heart_to_heart-desolate-land",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Desolate Land",
+    "region": "First Low Orbit Station",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Desolate_Land",
+    "wikiPageId": 84698
+  },
+  {
+    "id": "xc2-heart_to_heart-top-of-the-world",
+    "gameId": "xc2",
+    "category": "heart_to_heart",
+    "name": "Top of the World",
+    "region": "First Low Orbit Station",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Top_of_the_World",
+    "wikiPageId": 89240
+  }
+]

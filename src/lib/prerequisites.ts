@@ -12,6 +12,7 @@ import {
 } from './h2h-availability.ts'
 import {
   extractQuestNameFromLabel,
+  getQuestProgressMode,
   isAreaAffinityMet,
   isColony6InviteRequirement,
   isIgnorablePrerequisite,
@@ -149,17 +150,49 @@ export function resolveQuestReferences(items: TrackableItem[]): TrackableItem[] 
   }))
 }
 
+function isQuestProgressSatisfied(
+  mode: 'accepted' | 'completed' | 'not_completed',
+  entry: ProgressEntry | undefined,
+): boolean {
+  if (mode === 'not_completed') return !(entry?.completed === true)
+  if (mode === 'accepted') {
+    return entry?.accepted === true || entry?.completed === true
+  }
+  return entry?.completed === true
+}
+
 function isQuestPrerequisiteMet(
   prereq: Prerequisite,
   progress: Record<string, ProgressEntry>,
   items: TrackableItem[],
 ): boolean {
-  if (prereq.refId) {
-    return progress[prereq.refId]?.completed === true
-  }
-  const refId = findQuestRefId(prereq.label, items)
-  if (refId) return progress[refId]?.completed === true
-  return false
+  const mode = getQuestProgressMode(prereq.label)
+  const refId = prereq.refId ?? findQuestRefId(prereq.label, items)
+  if (!refId) return false
+  return isQuestProgressSatisfied(mode, progress[refId])
+}
+
+function findImmigrantByName(
+  name: string,
+  items: TrackableItem[],
+): TrackableItem | undefined {
+  const normalized = normalizeName(name)
+  return items.find(
+    (item) =>
+      item.category === 'colony_immigrant' &&
+      normalizeName(item.name) === normalized,
+  )
+}
+
+function isImmigrantResident(
+  name: string,
+  progress: Record<string, ProgressEntry>,
+  items: TrackableItem[],
+): boolean {
+  const immigrant = findImmigrantByName(name, items)
+  if (!immigrant) return false
+  const entry = progress[immigrant.id]
+  return entry?.completed === true || entry?.accepted === true
 }
 
 function parseRequiredLevel(item: TrackableItem): number | undefined {
@@ -222,7 +255,68 @@ function evaluateOtherPrerequisite(
   }
 
   if (isColony6InviteRequirement(prereq.label)) {
-    // Tracked only loosely via reconstruction started for now
+    // Handled with immigrant progress in evaluateOtherPrerequisiteWithProgress
+    return { met: true, tracked: false }
+  }
+
+  return { met: true, tracked: false }
+}
+
+function evaluateOtherPrerequisiteWithProgress(
+  prereq: Prerequisite,
+  gameState: GameState,
+  progress: Record<string, ProgressEntry>,
+  allItems: TrackableItem[],
+): { met: boolean; tracked: boolean; label?: string } {
+  const inviteMatch = prereq.label.match(
+    /([A-Za-z][A-Za-z'’\-]+)\s+invited to Colony\s*6/i,
+  )
+  if (inviteMatch) {
+    const name = inviteMatch[1]
+    return {
+      met: isImmigrantResident(name, progress, allItems),
+      tracked: true,
+      label: `${name} invited to Colony 6`,
+    }
+  }
+
+  const residentMatch = prereq.label.match(
+    /([A-Za-z][A-Za-z'’\-]+)\s+is (?:not )?resident/i,
+  )
+  if (residentMatch && isColony6InviteRequirement(prereq.label) === false) {
+    // only if phrasing is about residency
+  }
+  if (/\bis resident\b/i.test(prereq.label) && !/\bis not resident\b/i.test(prereq.label)) {
+    const name = prereq.label.replace(/\s+is resident.*$/i, '').trim()
+    if (name) {
+      return {
+        met: isImmigrantResident(name, progress, allItems),
+        tracked: true,
+        label: `${name} is resident`,
+      }
+    }
+  }
+  if (/\bis not resident\b/i.test(prereq.label)) {
+    const name = prereq.label.replace(/\s+is not resident.*$/i, '').trim()
+    if (name) {
+      return {
+        met: !isImmigrantResident(name, progress, allItems),
+        tracked: true,
+        label: `${name} is not resident`,
+      }
+    }
+  }
+
+  if (isColony6InviteRequirement(prereq.label)) {
+    const nameMatch = prereq.label.match(/^(.+?)\s+invited/i)
+    const name = nameMatch?.[1]?.trim()
+    if (name) {
+      return {
+        met: isImmigrantResident(name, progress, allItems),
+        tracked: true,
+        label: prereq.label,
+      }
+    }
     return {
       met:
         gameState.storyFlags.colony6_reconstruction_started === true ||
@@ -232,7 +326,7 @@ function evaluateOtherPrerequisite(
     }
   }
 
-  return { met: true, tracked: false }
+  return evaluateOtherPrerequisite(prereq, gameState)
 }
 
 export function isQuestChainVisible(
@@ -240,9 +334,16 @@ export function isQuestChainVisible(
   progress: Record<string, ProgressEntry>,
   allItems: TrackableItem[],
 ): boolean {
-  const questDeps = getQuestDependencyIds(item, allItems)
-  if (questDeps.length === 0) return true
-  return questDeps.every((id) => progress[id]?.completed === true)
+  for (const prereq of item.prerequisites) {
+    if (isIgnorablePrerequisite(prereq.label)) continue
+    const isQuestLike =
+      prereq.type === 'quest' ||
+      prereq.refId ||
+      isQuestProgressLabel(prereq.label)
+    if (!isQuestLike) continue
+    if (!isQuestPrerequisiteMet(prereq, progress, allItems)) return false
+  }
+  return true
 }
 
 export function isItemAvailable(
@@ -274,12 +375,24 @@ export function isItemAvailable(
       continue
     }
 
+    if (prereq.type === 'time') {
+      if (findQuestRefId(prereq.label, allItems)) {
+        if (!isQuestPrerequisiteMet(prereq, progress, allItems)) return false
+      }
+      continue
+    }
+
     if (prereq.type === 'other' || prereq.type === 'story_flag') {
       if (isQuestProgressLabel(prereq.label)) {
         if (!isQuestPrerequisiteMet(prereq, progress, allItems)) return false
         continue
       }
-      const result = evaluateOtherPrerequisite(prereq, gameState)
+      const result = evaluateOtherPrerequisiteWithProgress(
+        prereq,
+        gameState,
+        progress,
+        allItems,
+      )
       if (result.tracked && !result.met) return false
     }
   }
@@ -362,7 +475,12 @@ export function evaluatePrerequisites(
 
         if (prereq.type === 'other' || prereq.type === 'story_flag') {
           if (isLikelyQuestPrerequisite(prereq)) continue
-          const result = evaluateOtherPrerequisite(prereq, gameState)
+          const result = evaluateOtherPrerequisiteWithProgress(
+            prereq,
+            gameState,
+            progress,
+            allItems,
+          )
           if (result.tracked && !result.met) {
             unmet.push({
               type: prereq.type,

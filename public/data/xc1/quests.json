@@ -83,7 +83,7 @@
         "label": "An Errand for the Heropon"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''A Big Brother's Fight'' accepted"
       },
       {
@@ -280,7 +280,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''A Young Captain's Challenge'' (A route) completed"
       },
       {
@@ -396,7 +396,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''A Young Captain's Challenge'' (B route) completed"
       },
       {
@@ -464,7 +464,7 @@
         "label": "Satorl Marsh reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Désirée's Future'' (A route) completed"
       },
       {
@@ -561,7 +561,7 @@
     "wikiPageId": 2359
   },
   {
-    "id": "xc1-quest-challenge-1",
+    "id": "xc1-quest-challenge-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge 1",
@@ -586,7 +586,7 @@
     "wikiPageId": 4437
   },
   {
-    "id": "xc1-quest-challenge-2",
+    "id": "xc1-quest-challenge-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge 2",
@@ -611,7 +611,7 @@
     "wikiPageId": 4410
   },
   {
-    "id": "xc1-quest-challenge-3",
+    "id": "xc1-quest-challenge-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge 3",
@@ -636,7 +636,7 @@
     "wikiPageId": 4428
   },
   {
-    "id": "xc1-quest-challenge-4",
+    "id": "xc1-quest-challenge-4-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge 4",
@@ -661,7 +661,7 @@
     "wikiPageId": 4438
   },
   {
-    "id": "xc1-quest-collection-quest-1",
+    "id": "xc1-quest-collection-quest-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Collection Quest 1",
@@ -686,7 +686,7 @@
     "wikiPageId": 4412
   },
   {
-    "id": "xc1-quest-collection-quest-2",
+    "id": "xc1-quest-collection-quest-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Collection Quest 2",
@@ -711,7 +711,7 @@
     "wikiPageId": 4440
   },
   {
-    "id": "xc1-quest-collection-quest-3",
+    "id": "xc1-quest-collection-quest-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Collection Quest 3",
@@ -736,7 +736,7 @@
     "wikiPageId": 4435
   },
   {
-    "id": "xc1-quest-collection-quest-4",
+    "id": "xc1-quest-collection-quest-4-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Collection Quest 4",
@@ -827,7 +827,7 @@
         "label": "Satorl Marsh reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Désirée's Future'' (B route) completed"
       },
       {
@@ -969,7 +969,7 @@
         "label": "Access to Tephra Cave"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "An Impoverished Critic accepted"
       }
     ],
@@ -1068,7 +1068,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''The Elite Captain's Anguish'' accepted"
       }
     ],
@@ -1100,7 +1100,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''The Elite Captain's Anguish'' accepted"
       }
     ],
@@ -1128,7 +1128,7 @@
     "region": "Colony 9 (Residential District)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Jackson's Awakening'' (B route) completed"
       },
       {
@@ -1164,7 +1164,7 @@
     "region": "Colony 9 (Residential District)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Jackson's Awakening'' (A route) completed"
       },
       {
@@ -1289,7 +1289,7 @@
     "wikiPageId": 4318
   },
   {
-    "id": "xc1-quest-material-quest-1",
+    "id": "xc1-quest-material-quest-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Material Quest 1",
@@ -1314,7 +1314,7 @@
     "wikiPageId": 4406
   },
   {
-    "id": "xc1-quest-material-quest-2",
+    "id": "xc1-quest-material-quest-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Material Quest 2",
@@ -1339,7 +1339,7 @@
     "wikiPageId": 4411
   },
   {
-    "id": "xc1-quest-material-quest-3",
+    "id": "xc1-quest-material-quest-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Material Quest 3",
@@ -1364,7 +1364,7 @@
     "wikiPageId": 4427
   },
   {
-    "id": "xc1-quest-material-quest-4",
+    "id": "xc1-quest-material-quest-4-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Material Quest 4",
@@ -1417,7 +1417,7 @@
     "wikiPageId": 2357
   },
   {
-    "id": "xc1-quest-monster-quest-1-part-1",
+    "id": "xc1-quest-monster-quest-1-part-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 1 - Part 1",
@@ -1442,7 +1442,7 @@
     "wikiPageId": 4429
   },
   {
-    "id": "xc1-quest-monster-quest-1-part-2",
+    "id": "xc1-quest-monster-quest-1-part-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 1 - Part 2",
@@ -1467,7 +1467,7 @@
     "wikiPageId": 4430
   },
   {
-    "id": "xc1-quest-monster-quest-1-part-3",
+    "id": "xc1-quest-monster-quest-1-part-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 1 - Part 3",
@@ -1492,7 +1492,7 @@
     "wikiPageId": 4431
   },
   {
-    "id": "xc1-quest-monster-quest-2-part-1",
+    "id": "xc1-quest-monster-quest-2-part-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 2 - Part 1",
@@ -1517,7 +1517,7 @@
     "wikiPageId": 4433
   },
   {
-    "id": "xc1-quest-monster-quest-2-part-2",
+    "id": "xc1-quest-monster-quest-2-part-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 2 - Part 2",
@@ -1542,7 +1542,7 @@
     "wikiPageId": 4432
   },
   {
-    "id": "xc1-quest-monster-quest-2-part-3",
+    "id": "xc1-quest-monster-quest-2-part-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 2 - Part 3",
@@ -1567,7 +1567,7 @@
     "wikiPageId": 4434
   },
   {
-    "id": "xc1-quest-monster-quest-3-part-1",
+    "id": "xc1-quest-monster-quest-3-part-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 3 - Part 1",
@@ -1592,7 +1592,7 @@
     "wikiPageId": 4417
   },
   {
-    "id": "xc1-quest-monster-quest-3-part-2",
+    "id": "xc1-quest-monster-quest-3-part-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 3 - Part 2",
@@ -1617,7 +1617,7 @@
     "wikiPageId": 4418
   },
   {
-    "id": "xc1-quest-monster-quest-3-part-3",
+    "id": "xc1-quest-monster-quest-3-part-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 3 - Part 3",
@@ -1642,7 +1642,7 @@
     "wikiPageId": 4419
   },
   {
-    "id": "xc1-quest-monster-quest-3-part-4",
+    "id": "xc1-quest-monster-quest-3-part-4-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 3 - Part 4",
@@ -1667,7 +1667,7 @@
     "wikiPageId": 4416
   },
   {
-    "id": "xc1-quest-monster-quest-4-part-1",
+    "id": "xc1-quest-monster-quest-4-part-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 4 - Part 1",
@@ -1692,7 +1692,7 @@
     "wikiPageId": 4472
   },
   {
-    "id": "xc1-quest-monster-quest-4-part-2",
+    "id": "xc1-quest-monster-quest-4-part-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 4 - Part 2",
@@ -1717,7 +1717,7 @@
     "wikiPageId": 4471
   },
   {
-    "id": "xc1-quest-monster-quest-4-part-3",
+    "id": "xc1-quest-monster-quest-4-part-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 4 - Part 3",
@@ -1794,7 +1794,7 @@
         "label": "Sharla joined the party"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Overworked and Underpaid route B completed"
       },
       {
@@ -1830,7 +1830,7 @@
         "label": "Access to Tephra Cave"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "A Curry Conundrum completed"
       },
       {
@@ -1905,7 +1905,7 @@
         "label": "Sharla joined the party"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Overworked and Underpaid route A completed"
       },
       {
@@ -2010,7 +2010,7 @@
         "label": "Access to Tephra Cave"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Romantic Notions of a Girl accepted"
       },
       {
@@ -2071,7 +2071,7 @@
     "wikiPageId": 11314
   },
   {
-    "id": "xc1-quest-search-quest-1",
+    "id": "xc1-quest-search-quest-1-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Search Quest 1",
@@ -2098,7 +2098,7 @@
     "wikiPageId": 4323
   },
   {
-    "id": "xc1-quest-search-quest-2",
+    "id": "xc1-quest-search-quest-2-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Search Quest 2",
@@ -2124,7 +2124,7 @@
     "wikiPageId": 4414
   },
   {
-    "id": "xc1-quest-search-quest-3",
+    "id": "xc1-quest-search-quest-3-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Search Quest 3",
@@ -2150,7 +2150,7 @@
     "wikiPageId": 4413
   },
   {
-    "id": "xc1-quest-search-quest-4",
+    "id": "xc1-quest-search-quest-4-colony-9",
     "gameId": "xc1",
     "category": "quest",
     "name": "Search Quest 4",
@@ -2412,7 +2412,7 @@
         "label": "Access to Tephra Cave"
       },
       {
-        "type": "time",
+        "type": "quest",
         "label": "The Plan - The Night Before completed"
       },
       {
@@ -2587,6 +2587,106 @@
     "results": "\"The area near Vilia Lake is now free of monsters and will allow safe passage!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Clearing_Obstructions",
     "wikiPageId": 4479
+  },
+  {
+    "id": "xc1-quest-collection-quest-1-tephra-cave",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 1",
+    "region": "Tephra Cave (Escape Pod Bay)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "After the Mechon attack in Colony 9"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,000 G"
+    ],
+    "description": "\"A Defence Force soldier isn't making much progress collecting items required to help restore Colony 9. Lend your services and help collect what's needed.\"",
+    "walkthrough": "\"Collect 2 Kneecap Rocks in Tephra Cave.\"\nHint: Trade with Werner (☆2) at Colony 9\nSoutheast area of Spring of Grief during night time",
+    "giver": "A Defence Force Soldier",
+    "subLocation": "Tephra Cave (Escape Pod Bay)",
+    "timeWindow": "Anytime",
+    "results": "\"Items collected! These should enable the ruined buildings to be restored.\"\nCategory:Tephra Cave Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Tephra_Cave)",
+    "wikiPageId": 4483
+  },
+  {
+    "id": "xc1-quest-collection-quest-2-tephra-cave",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 2",
+    "region": "Tephra Cave (Escape Pod Bay)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "After the Mechon attack in Colony 9"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,000 G"
+    ],
+    "description": "\"A Defence Force soldier isn't making much progress collecting items required to help restore Colony 9. Lend your services and help collect what's needed.\"",
+    "walkthrough": "\"Collect 2 Bright Figs in Tephra Cave.\"\nHint: Trade with Liliana (☆2) at Colony 9\nSoutheast area of Spring of Grief during night time",
+    "giver": "A Defence Force Soldier",
+    "subLocation": "Tephra Cave (Escape Pod Bay)",
+    "timeWindow": "Anytime",
+    "results": "\"Items collected! These should help cheer up the disheartened children.\"\nCategory:Tephra Cave Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Tephra_Cave)",
+    "wikiPageId": 4482
+  },
+  {
+    "id": "xc1-quest-material-quest-1-tephra-cave",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 1",
+    "region": "Tephra Cave (Escape Pod Bay)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "After the Mechon attack in Colony 9"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,200 G"
+    ],
+    "description": "\"A Defence Force soldier isn't making much progress collecting items required to help restore Colony 9. Lend your services and help collect what's needed.\"",
+    "walkthrough": "\"Collect 3 Broken Pincers from Krabbles in Tephra Cave.\"\nHint: Trade with Narine (☆1) at Colony 9",
+    "giver": "A Defence Force Soldier",
+    "subLocation": "Tephra Cave (Escape Pod Bay)",
+    "timeWindow": "Anytime",
+    "results": "\"Items collected! These should enable the Anti-Air Batteries to be restored.\"\nCategory:Tephra Cave Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_1_(Tephra_Cave)",
+    "wikiPageId": 4481
+  },
+  {
+    "id": "xc1-quest-material-quest-2-tephra-cave",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 2",
+    "region": "Tephra Cave (Escape Pod Bay)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "After the Mechon attack in Colony 9"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,500 G"
+    ],
+    "description": "\"A Defence Force soldier isn't making much progress collecting items required to help restore Colony 9. Lend your services and help collect what's needed.\"",
+    "walkthrough": "\"Collect 1 lot of Brog Smelling Salts from a Noble Brog or a Lurker Brog in Tephra Cave.\"\nHint: Trade with Giorgio (☆1) at Colony 9.",
+    "giver": "A Defence Force Soldier",
+    "subLocation": "Tephra Cave (Escape Pod Bay)",
+    "timeWindow": "Anytime",
+    "results": "\"Item collected! This should help treat the injured residents.\"\nCategory:Tephra Cave Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_2_(Tephra_Cave)",
+    "wikiPageId": 4480
   },
   {
     "id": "xc1-quest-missing-in-action",
@@ -3081,14 +3181,14 @@
     "wikiPageId": 7196
   },
   {
-    "id": "xc1-quest-betrothal-test",
+    "id": "xc1-quest-betrothal-test-en-argentis",
     "gameId": "xc1",
     "category": "quest",
     "name": "Betrothal Test",
     "region": "Colony 6 (Reconstruction HQ)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "Family Secrets involving En Argentis completed"
       },
       {
@@ -3112,6 +3212,39 @@
     "results": "''\"Don Argentis' stubbornness hasn't subsided and he still opposes the pair being together.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Betrothal_Test_(En_Argentis)",
     "wikiPageId": 15837
+  },
+  {
+    "id": "xc1-quest-betrothal-test-zel-argentis",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Betrothal Test",
+    "region": "Colony 6 (Reconstruction HQ)",
+    "prerequisites": [
+      {
+        "type": "quest",
+        "label": "Family Secrets involving Zel Argentis completed"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆4"
+      }
+    ],
+    "rewards": [
+      "+100 reputation",
+      "23,500 G",
+      "26,000 EXP",
+      "Rafaga Gauntlets (0 slots)",
+      "Rafaga Boots (0 slots)"
+    ],
+    "description": "\"Zel Argentis' father has found out about her and Oleksiy and isn't pleased. The only way to make him see reason is to meet his unreasonable demands.\"",
+    "walkthrough": "\"Collect 5 Scratched Jewels from Perna Eluca at Eryth Sea.\"\n\"Collect 2 Lucky Chilkin Rings from Chilkins on Valak Mountain.\"\n\"Hand the items to Oleksiy.\"",
+    "giver": "Oleksiy",
+    "subLocation": "Colony 6 (Reconstruction HQ)",
+    "timeWindow": "15:00 - 03:00",
+    "uniqueComments": ": 'Sharla': ''\"Are you sure you've thought this through, Oleksiy? I mean, he did ask you to get those things for him... Maybe you should think this over some more.\"''\n: 'Oleksiy': ''\"No. I've thought long and hard and I did consider finding them myself. But I know I can't do it. I'm asking you out of desperation. This is the only way I know that won't end in us breaking up.\"''\n: 'Sharla': ''\"Well, if you're sure...\"''\nCategory:Colony 6 Quests\nCategory:XC Mutually Exclusive Quests",
+    "results": "''\"Don Argentis' stubbornness hasn't subsided and he still opposes the pair being together.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Betrothal_Test_(Zel_Argentis)",
+    "wikiPageId": 16476
   },
   {
     "id": "xc1-quest-chemists-reopening",
@@ -3550,7 +3683,7 @@
     "wikiPageId": 15861
   },
   {
-    "id": "xc1-quest-family-secrets",
+    "id": "xc1-quest-family-secrets-en-argentis",
     "gameId": "xc1",
     "category": "quest",
     "name": "Family Secrets",
@@ -3585,6 +3718,43 @@
     "results": "\"En is pleased you were able to distract her father long enough that she could see her boyfriend.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Family_Secrets_(En_Argentis)",
     "wikiPageId": 15836
+  },
+  {
+    "id": "xc1-quest-family-secrets-zel-argentis",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Family Secrets",
+    "region": "Colony 6 (Reconstruction HQ)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Zel Argentis invited to Colony 6"
+      },
+      {
+        "type": "other",
+        "label": "Oleksiy invited to Colony 6"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆3½"
+      }
+    ],
+    "rewards": [
+      "+100 reputation",
+      "20,000 G",
+      "23,000 EXP",
+      "Rondine Cap (1 slot)",
+      "Rondine Gloves (1 slot)"
+    ],
+    "description": "\"While Zel Argentis meets with a friend, she wants you to keep her father company.\"",
+    "walkthrough": "\"Have a chat with Don Argentis.\"\n\"Have another chat with Don Argentis.\"\n\"Have a chat with Don Argentis once again.\"\n\"Have yet another chat with Don Argentis.\"\n\"Return to Zel Argentis.\"",
+    "giver": "Zel Argentis",
+    "subLocation": "Colony 6 (Reconstruction HQ)",
+    "timeWindow": "15:00 - 03:00",
+    "uniqueComments": ": 'Sharla': \"What kind of daughter would make her father worry at night?\"\n: 'Zel Argentis': \"Surely you must have had a similar experience? This is the most important period in my life.\"\n: 'Sharla': \"I guess girls will be girls...\"\nCategory:Colony 6 Quests\nCategory:XC Mutually Exclusive Quests",
+    "results": "\"It turns out it was all a diversion so that Zel Argentis could see her boyfriend.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Family_Secrets_(Zel_Argentis)",
+    "wikiPageId": 11261
   },
   {
     "id": "xc1-quest-finding-the-unfindable",
@@ -3795,7 +3965,7 @@
         "label": "Colony 6 Reconstruction started"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "For the Restoration accepted"
       }
     ],
@@ -3878,7 +4048,7 @@
     "wikiPageId": 13214
   },
   {
-    "id": "xc1-quest-miss-sweetness-showdown",
+    "id": "xc1-quest-miss-sweetness-showdown-berryjammy",
     "gameId": "xc1",
     "category": "quest",
     "name": "Miss Sweetness Showdown",
@@ -3893,7 +4063,7 @@
         "label": "Affinity between Ma'crish and Berryjammy says \"Competing\" ()"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Unstoppable Berryjammy completed"
       },
       {
@@ -3922,7 +4092,51 @@
     "wikiPageId": 15065
   },
   {
-    "id": "xc1-quest-miss-sweetness-gratitude",
+    "id": "xc1-quest-miss-sweetness-showdown-macrish",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Miss Sweetness Showdown",
+    "region": "Colony 6 (Reconstruction HQ)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Access to Valak Mountain"
+      },
+      {
+        "type": "affinity",
+        "label": "Affinity between Ma'crish and Berryjammy says \"Competing\" ()"
+      },
+      {
+        "type": "quest",
+        "label": "Unstoppable Berryjammy completed"
+      },
+      {
+        "type": "other",
+        "label": "Cook-Off Showdown!"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆3½"
+      }
+    ],
+    "rewards": [
+      "+150 reputation",
+      "11,000 G",
+      "5,000 EXP",
+      "Amethyst Armour (0 slots)"
+    ],
+    "description": "\"Who will become the undisputed Miss Sweetness of Colony 6? Deliver the requested item to Ma'crish.\"",
+    "walkthrough": "''\"Collect the world's most transparent thing.\"''\n''\"Return to Ma'crish.\"''",
+    "giver": "Ma'crish",
+    "subLocation": "Colony 6 (Reconstruction HQ)",
+    "timeWindow": "06:00 - 18:00",
+    "uniqueComments": ": 'Melia': \"I think it is a great idea. We should definitely join in.\"\n: Ma'crish': \"I can see that you of all must understand my situation well. Would you be so kind as to help me win the competition?\"''\n: 'Melia': \"I would love to help out, but I must consult with my friends first.\"\nCategory:Colony 6 Quests\nCategory:XC Mutually Exclusive Quests\nCategory:XC Timed Quests",
+    "results": "''\"The undisputed Miss Sweetness of Colony 6 has been decided. Ma'crish has beaten Berryjammy.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Miss_Sweetness_Showdown_(Ma'crish)",
+    "wikiPageId": 7928
+  },
+  {
+    "id": "xc1-quest-miss-sweetness-gratitude-berryjammy",
     "gameId": "xc1",
     "category": "quest",
     "name": "Miss Sweetness' Gratitude",
@@ -3957,6 +4171,43 @@
     "results": "\"To show her gratitude, the lakeside area will be populated with relaxing and tranquil lights.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Miss_Sweetness'_Gratitude_(Berryjammy)",
     "wikiPageId": 15961
+  },
+  {
+    "id": "xc1-quest-miss-sweetness-gratitude-macrish",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Miss Sweetness' Gratitude",
+    "region": "Colony 6 (Reconstruction HQ)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Access to Valak Mountain"
+      },
+      {
+        "type": "other",
+        "label": "Miss Sweetness Showdown"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆4"
+      }
+    ],
+    "rewards": [
+      "+500 reputation",
+      "14,000 G",
+      "6,900 EXP",
+      "Tinted Glasses (1 slot)",
+      "Electric Plus V"
+    ],
+    "description": "\"Help Ma'crish, the undisputed Miss Sweetness of Colony 6, to thank the colony residents.\"",
+    "walkthrough": "\"Listen to her demands.\"\n''\"Return to Ma'crish.\"''",
+    "giver": "Ma'crish",
+    "subLocation": "Colony 6 (Reconstruction HQ)",
+    "timeWindow": "06:00 - 18:00",
+    "uniqueComments": ": 'Riki': \"What bird girl want? Is it food? Is it yum yum food?\"\n: Ma'crish': \"You can eat it... But I'm going to keep it a secret! If you want to know what it is for, then you'll just have to wait!\"''\n: 'Riki': \"Riki want to get thing for bird girl!\"\nCategory:Colony 6 Quests\nCategory:XC Mutually Exclusive Quests",
+    "results": "\"To show her gratitude, fireflies now appear above the lake at night.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Miss_Sweetness'_Gratitude_(Ma'crish)",
+    "wikiPageId": 15960
   },
   {
     "id": "xc1-quest-missing-lodger",
@@ -4260,7 +4511,7 @@
         "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Replica Monado 1 accepted"
       }
     ],
@@ -4289,7 +4540,7 @@
         "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Replica Monado 1 accepted"
       }
     ],
@@ -4318,7 +4569,7 @@
         "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Replica Monado 1 accepted"
       }
     ],
@@ -4347,7 +4598,7 @@
         "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Replica Monado 1 accepted"
       }
     ],
@@ -4522,14 +4773,14 @@
     "wikiPageId": 6853
   },
   {
-    "id": "xc1-quest-stopping-the-elopement",
+    "id": "xc1-quest-stopping-the-elopement-en-argentis",
     "gameId": "xc1",
     "category": "quest",
     "name": "Stopping the Elopement",
     "region": "Colony 6 (Reconstruction HQ)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "Betrothal Test involving En Argentis completed"
       },
       {
@@ -4553,6 +4804,39 @@
     "results": "\"Don Argentis has overcome his stubbornness and given En and Peppino his blessing.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Stopping_the_Elopement_(En_Argentis)",
     "wikiPageId": 9522
+  },
+  {
+    "id": "xc1-quest-stopping-the-elopement-zel-argentis",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Stopping the Elopement",
+    "region": "Colony 6 (Reconstruction HQ)",
+    "prerequisites": [
+      {
+        "type": "quest",
+        "label": "Betrothal Test involving Zel Argentis completed"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆4½"
+      }
+    ],
+    "rewards": [
+      "+500 reputation",
+      "28,000 G",
+      "30,000 EXP",
+      "Satellite Shot (3 slots)",
+      "Hierax Top (1 slot)",
+      "Affection (Sharla's fifth skill tree)"
+    ],
+    "description": "\"Don Argentis was so opposed to Zel Argentis and Oleksiy's relationship that they decided to run away. Find the missing couple.\"",
+    "walkthrough": "\"Search the Satorl Marsh area for the couple.\"\nThey can be found in the Nopon Refuge.\nSharla must be the party leader when speaking to Zel Argentis.\n\"Persuade Oleksiy.\"\nSharla must be the party leader when speaking to Oleksiy.\n\"Return to Don Argentis.\"\nSharla must be the party leader when speaking to Don Argentis.",
+    "giver": "Don Argentis",
+    "subLocation": "Colony 6 (Reconstruction HQ)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Don Argentis has overcome his stubbornness and given Zel and Oleksiy his blessing.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stopping_the_Elopement_(Zel_Argentis)",
+    "wikiPageId": 15486
   },
   {
     "id": "xc1-quest-the-melody-of-happiness",
@@ -4654,7 +4938,7 @@
         "label": "After Otharon has left for Alcamoth"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "The Road Home not completed"
       }
     ],
@@ -4798,7 +5082,7 @@
         "label": "Colony 6 Reconstruction started"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Imaginations Tempered not completed"
       },
       {
@@ -4834,7 +5118,7 @@
         "label": "Satorl Marsh area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "A Mysterious Delicacy completed"
       }
     ],
@@ -4898,7 +5182,7 @@
         "label": "Satorl Marsh area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''It's All in the Mind'' completed"
       }
     ],
@@ -4962,7 +5246,7 @@
         "label": "Sororal Statues reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "The Ancient Ceremony accepted"
       }
     ],
@@ -4979,7 +5263,7 @@
     "wikiPageId": 7666
   },
   {
-    "id": "xc1-quest-challenge",
+    "id": "xc1-quest-challenge-satorl-marsh",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge",
@@ -5045,7 +5329,7 @@
         "label": "Alcamoth reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Adviser Hunt accepted"
       }
     ],
@@ -5073,7 +5357,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "The Imperial Ceremony accepted"
       }
     ],
@@ -5101,7 +5385,7 @@
         "label": "Satorl Marsh area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Zazadan Still in Danger completed"
       }
     ],
@@ -5186,7 +5470,7 @@
     "wikiPageId": 4539
   },
   {
-    "id": "xc1-quest-monster-quest-1",
+    "id": "xc1-quest-monster-quest-1-satorl-marsh",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 1",
@@ -5211,7 +5495,7 @@
     "wikiPageId": 4531
   },
   {
-    "id": "xc1-quest-monster-quest-2",
+    "id": "xc1-quest-monster-quest-2-satorl-marsh",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 2",
@@ -5236,7 +5520,7 @@
     "wikiPageId": 4532
   },
   {
-    "id": "xc1-quest-monster-quest-3",
+    "id": "xc1-quest-monster-quest-3-satorl-marsh",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 3",
@@ -5261,7 +5545,7 @@
     "wikiPageId": 4533
   },
   {
-    "id": "xc1-quest-monster-quest-4",
+    "id": "xc1-quest-monster-quest-4-satorl-marsh",
     "gameId": "xc1",
     "category": "quest",
     "name": "Monster Quest 4",
@@ -5351,7 +5635,7 @@
         "label": "Satorl Marsh area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Kacha's Kidnapping'' completed"
       }
     ],
@@ -5379,7 +5663,7 @@
     "region": "Satorl Marsh (Nopon Merchant Camp)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "''The Giants' Key'' completed"
       }
     ],
@@ -5438,7 +5722,7 @@
         "label": "Satorl Marsh area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Preventing Starvation completed"
       }
     ],
@@ -5471,7 +5755,7 @@
         "label": "Satorl Marsh area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Zazadan in Danger completed"
       }
     ],
@@ -5521,6 +5805,31 @@
     "wikiPageId": 4598
   },
   {
+    "id": "xc1-quest-challenge-makna-forest",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge",
+    "region": "Makna Forest (Agni Tablet)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Frontier Village reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "25,000 G"
+    ],
+    "description": "\"There are lots of terrifying monsters in Makna Forest. Clear some of them so the road is safe.\"",
+    "walkthrough": "\"Defeat Shimmering Forte near the Eks Watering Hole in Makna Forest. (On a hot day.)\"\nHint: Southeast of Eks Watering Hole. Forte is level 33 and has a counter damage spike.",
+    "giver": "A Nopon Merchant",
+    "subLocation": "Makna Forest (Agni Tablet)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The Nopon can wash safely now.\"''\nCategory:Makna Forest Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_(Makna_Forest)",
+    "wikiPageId": 4549
+  },
+  {
     "id": "xc1-quest-challenge-of-the-sage",
     "gameId": "xc1",
     "category": "quest",
@@ -5565,7 +5874,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Challenge of the Sage completed"
       },
       {
@@ -5627,6 +5936,106 @@
     "wikiPageId": 4595
   },
   {
+    "id": "xc1-quest-monster-quest-1-makna-forest",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1",
+    "region": "Makna Forest (Agni Tablet)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Makna Forest area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "15,000 G"
+    ],
+    "description": "\"There are lots of terrifying monsters in Makna Forest. Clear some of them so the road is safe.\"",
+    "walkthrough": "\"Defeat 5 Jungle Quadwings in Makna Forest.\"\nHint: ~LV29. Locations: Area below Agni Tablet, south of Waypoint Beacon, east of Nopon Arch",
+    "giver": "A Nopon Merchant",
+    "subLocation": "Makna Forest (Agni Tablet)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The road to Frontier Village is a little safer.\"''\nCategory:Makna Forest Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Makna_Forest)",
+    "wikiPageId": 4545
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-makna-forest",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2",
+    "region": "Makna Forest (Agni Tablet)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Makna Forest area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "9,600 G"
+    ],
+    "description": "\"There are lots of terrifying monsters in Makna Forest. Defeat some to stop them eating the local Nopon.\"",
+    "walkthrough": "\"Defeat 2 Makna Feris in Makna Forest.\"\nHint: Level 31. Locations: Near Waypoint Beacon, Sparkling Pool, etc.",
+    "giver": "A Nopon Merchant",
+    "subLocation": "Makna Forest (Agni Tablet)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The road to Frontier Village is a little safer.\"''\nCategory:Makna Forest Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Makna_Forest)",
+    "wikiPageId": 4546
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-makna-forest",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3",
+    "region": "Makna Forest (Agni Tablet)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Makna Forest area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "8,500 G"
+    ],
+    "description": "\"There are lots of terrifying monsters in Makna Forest. Clear some that attack the Nopon from the air.\"",
+    "walkthrough": "\"Defeat 2 Makna Ansels in Makna Forest.\"\nHint: Level 33. Locations: Eks Watering Hole, etc.",
+    "giver": "Nopon Merchant",
+    "subLocation": "Makna Forest (Agni Tablet)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The road to Frontier Village is a little safer.\"''\nCategory:Makna Forest Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_(Makna_Forest)",
+    "wikiPageId": 4547
+  },
+  {
+    "id": "xc1-quest-monster-quest-4-makna-forest",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 4",
+    "region": "Makna Forest (Agni Tablet)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Makna Forest area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "12,000 G"
+    ],
+    "description": "\"There are lots of terrifying monsters in Makna Forest. Clear some of them so the road is safe.\"",
+    "walkthrough": "\"Defeat 3 Makna Eks in Makna Forest.\"\nHint: Level 33. Locations: Eks Watering Hole, etc.",
+    "giver": "Nopon Merchant",
+    "subLocation": "Makna Forest (Agni Tablet)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The road to Frontier Village is a little safer.\"''\nCategory:Makna Forest Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_(Makna_Forest)",
+    "wikiPageId": 4548
+  },
+  {
     "id": "xc1-quest-mystery-girl-rescue",
     "gameId": "xc1",
     "category": "quest",
@@ -5658,7 +6067,7 @@
     "region": "Frontier Village (Prophecy Hut)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "Bored Pelupelu completed"
       },
       {
@@ -5728,7 +6137,7 @@
         "label": "Eryth Sea reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "A Worried Bug-Lover completed"
       },
       {
@@ -5764,7 +6173,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Hunt for Bug-Loving Friend completed"
       },
       {
@@ -5865,11 +6274,11 @@
         "label": "Eryth Sea reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Disinsectization completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Secret Innovation completed"
       },
       {
@@ -5909,7 +6318,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Destroying the City Trade completed"
       },
       {
@@ -5946,7 +6355,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Heropon's Spirit'' completed"
       },
       {
@@ -6048,7 +6457,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Broken Ether Furnace completed"
       }
     ],
@@ -6069,6 +6478,182 @@
     "results": "''\"You fixed the Ether Furnace Controls. The Imperial City's restoration is in sight!\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Broken_Ether_Furnace_2",
     "wikiPageId": 7944
+  },
+  {
+    "id": "xc1-quest-challenge-1-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 1",
+    "region": "Frontier Village (Reservoir)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "23,000 G"
+    ],
+    "description": "\"Me thought Albatro was food! Me tell everyone to not go eat it. But want friends to bash it just to make sure!\"",
+    "walkthrough": "\"Bash Agile Albatro near Bridge Three in Makna Forest.\"\nIt flies around the shore of Bridge Three during clear weather or heatwave. The shore is reachable by jumping down from the bridge.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Reservoir)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Now Albatro gone. Shame. Me just wanted to have nibble on it a bit... Only joking!\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_(Frontier_Village)",
+    "wikiPageId": 4556
+  },
+  {
+    "id": "xc1-quest-challenge-2-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 2",
+    "region": "Frontier Village (Kyn Shopping Street)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "26,000 G"
+    ],
+    "description": "\"There is monster called Breezy Zolos near Windmill Pavilion. It blowing all pollen away! Go teach it lesson!\"",
+    "walkthrough": "\"Bash Breezy Zolos near Windmill Pavilion in Makna Forest.\"\nIt can be found by walking north from the Windmill Pavilion. A level 98 Deinos Sauros patrols the area.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Kyn Shopping Street)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Now it is just gentle breeze. Perfect for carrying pollen back to village!\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_(Frontier_Village)",
+    "wikiPageId": 4557
+  },
+  {
+    "id": "xc1-quest-challenge-3-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 3",
+    "region": "Frontier Village (Archaeology Centre)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "29,000 G"
+    ],
+    "description": "\"Yellow Flower Grove in trouble again! But monster so gross, no one want to try get rid of it! Please help us!\"",
+    "walkthrough": "\"Bash Lazy Bluco at Yellow Flower Grove in Makna Forest. (Only at night.)\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Archaeology Centre)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"You got rid of gross monster! Flowers safe now. Taught him good lesson! Thank you!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_3_(Frontier_Village)",
+    "wikiPageId": 4558
+  },
+  {
+    "id": "xc1-quest-collection-quest-1-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 1",
+    "region": "Frontier Village (Kyn Shopping Street)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "5,000 G"
+    ],
+    "description": "\"Me afraid of burning hands trying to eat roast potato. Me like try Cool Potato that Hom Hom eat instead! You can eat those cold.\"",
+    "walkthrough": "\"Grab 2 Cool Potatoes in Colony 9.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Kyn Shopping Street)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"These not warm... But... Mmm... Gobble! Delicious!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Frontier_Village)",
+    "wikiPageId": 4564
+  },
+  {
+    "id": "xc1-quest-collection-quest-2-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 2",
+    "region": "Frontier Village (Nopon Tower)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "10,500 G"
+    ],
+    "description": "\"After training, important to eat something sour, right? A Heropon should eat Pure Cherries! Need them! NOW!\"",
+    "walkthrough": "\"Collect 2 Pure Cherries in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Nopon Tower)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Mmmm scrummy! Tiredness all gone now!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Frontier_Village)",
+    "wikiPageId": 4565
+  },
+  {
+    "id": "xc1-quest-collection-quest-3-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 3",
+    "region": "Frontier Village (Chief's Residence)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "7,500 G"
+    ],
+    "description": "\"Gets so lonely at night. Me want to look after foxes. They going to keep me company!\"",
+    "walkthrough": "\"Grab 4 Ash Foxes in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Chief's Residence)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"These foxes wild now but me show them lots of love, hug them lots and then they be tame soon.\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_3_(Frontier_Village)",
+    "wikiPageId": 4566
+  },
+  {
+    "id": "xc1-quest-collection-quest-4-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 4",
+    "region": "Frontier Village (Apex Lake)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "9,000 G"
+    ],
+    "description": "\"Me used to have pet lizards, but Mamapon think it food and ate it! This time me want poisonous lizards so that she not eat any more of my pets ever again!\"",
+    "walkthrough": "\"Grab 5 Venemous Lizards (sic) in Makna Forest.\"\nThey can also be found by trading with Minana (☆2) at the Kyn Shopping Street in Frontier Village.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Apex Lake)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Good poisonous colour! Mamapon not make same mistake again.\"",
+    "trivia": "In the Wii version, the quest objective misspells the requested collectable as \"Ven'e'mous Lizards\", whereas it is spelled \"Ven'o'mous\" in the Collectopaedia and Inventory.\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_4_(Frontier_Village)",
+    "wikiPageId": 4567
   },
   {
     "id": "xc1-quest-dadapon-in-trouble",
@@ -6259,7 +6844,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''The Master's Successor completed with B route"
       },
       {
@@ -6432,7 +7017,7 @@
         "label": "Access to Valak Mountain"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mislabelling Problem completed"
       },
       {
@@ -6548,7 +7133,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Hunt for a Patron completed"
       },
       {
@@ -6585,7 +7170,7 @@
         "label": "Eryth Sea reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Strange Noises from Below completed"
       }
     ],
@@ -6617,7 +7202,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Leku's Food Crisis'' completed"
       },
       {
@@ -6685,11 +7270,11 @@
         "label": "Riki joined the party"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Sweet Seduction accepted"
       },
       {
-        "type": "time",
+        "type": "other",
         "label": "Fixing Time Mushrooms"
       },
       {
@@ -6805,7 +7390,7 @@
         "label": "or ''Let's Make Fillings!"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Healing the Healer'' accepted"
       },
       {
@@ -6873,11 +7458,11 @@
         "label": "Medi registered on the Affinity Chart"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mushy Mushrooms completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Medical Advancements not completed"
       },
       {
@@ -6975,6 +7560,106 @@
     "wikiPageId": 4635
   },
   {
+    "id": "xc1-quest-material-quest-1-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 1",
+    "region": "Frontier Village (Nopon Tower)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "8,000 G"
+    ],
+    "description": "\"Heeheehee! Need Magic Stones! Me pretend to be evil wizard! It all a game! Please get Magic Stones!\"",
+    "walkthrough": "\"Grab 2 Magic Stones from Deinoses in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Nopon Tower)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Wahoo! Magic stones! Now me like evil wizard!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_1_(Frontier_Village)",
+    "wikiPageId": 4559
+  },
+  {
+    "id": "xc1-quest-material-quest-2-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 2",
+    "region": "Frontier Village (Sacred Altar)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "12,000 G"
+    ],
+    "description": "\"Me got pollen on my face when cleaning Pollen Orb lamps! It irritate skin and me need face masks fast! Please go get some. Can't go out like this.\"",
+    "walkthrough": "\"Grab 5 Fancy Orluga Masks from Orlugas in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Sacred Altar)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"This good feeling! Me think skin get better now.\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_2_(Frontier_Village)",
+    "wikiPageId": 4560
+  },
+  {
+    "id": "xc1-quest-material-quest-3-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 3",
+    "region": "Frontier Village (Archaeology Centre)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Access to Valak Mountain"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "10,000 G"
+    ],
+    "description": "\"Me want to make pretty clothes for Grannypon's birthday. Want something lucky to make sure she live even longer!\"",
+    "walkthrough": "\"Grab 5 Apis Gold Nuggets from Apis on Valak Mountain.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Archaeology Centre)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Very lucky! Grannypon do big jump and turn in air. She look younger already!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_3_(Frontier_Village)",
+    "wikiPageId": 4561
+  },
+  {
+    "id": "xc1-quest-material-quest-4-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 4",
+    "region": "Frontier Village (Prophecy Hut)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "6,500 G"
+    ],
+    "description": "\"Me never knew it bad to read in dark places. Me need something to brighten place up. Me know! Upa Embers! They perfect size.\"",
+    "walkthrough": "\"Grab 3 Upa Embers from Upa in Makna Forest.\"\nItmos Upa can be found near the lake just north west of the Twisted Tree Gate.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Prophecy Hut)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Nice and bright! Now me can read before bed.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_4_(Frontier_Village)",
+    "wikiPageId": 4562
+  },
+  {
     "id": "xc1-quest-materials-for-a-mixer",
     "gameId": "xc1",
     "category": "quest",
@@ -6986,7 +7671,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Making a Mixer accepted"
       }
     ],
@@ -7018,11 +7703,11 @@
         "label": "Yusa registered on the Affinity Chart"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mushy Mushrooms completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Let's Make Fillings!'' not completed"
       },
       {
@@ -7090,7 +7775,7 @@
         "label": "Access to Valak Mountain"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Healing the Healer completed"
       },
       {
@@ -7112,6 +7797,157 @@
     "results": "\"New medicine! What a relief! Now I can continue my practice.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mislabelling_Problem",
     "wikiPageId": 38487
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-1-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 1",
+    "region": "Frontier Village (Nopon Tower)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "12,500 G"
+    ],
+    "description": "\"Saw dream! Saw dream! Itmos Upas in dream! Don't want to wet bed gain. Go bash monsters!\"",
+    "walkthrough": "\"Bash 3 Itmos Upas from near the Eks Watering Hole in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Nopon Tower)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Can sleep in nice, clean bed tonight but what about tomorrow night? Very worrying.\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Frontier_Village)",
+    "wikiPageId": 4550
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-2-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 2",
+    "region": "Frontier Village (Nopon Tower)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "11,000 G"
+    ],
+    "description": "\"Saw dream! Saw dream! Wahpol Sardi in dream! Don't want to wet bed gain. Go bash monsters!\"",
+    "walkthrough": "\"Bash 2 Wahpol Sardi near the Eks Watering Hole in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Nopon Tower)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Can sleep in nice, clean bed tonight but what about tomorrow night? Very worrying.\"",
+    "trivia": "Although the in-game text for this quest refers to \"Wahpol Sardi\", when the creatures appear in Makna Forest, their name is spelled as \"Whapol Sardi\".\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Frontier_Village)",
+    "wikiPageId": 4551
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-3-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 3",
+    "region": "Frontier Village (Nopon Tower)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "7,500 G"
+    ],
+    "description": "\"Saw dream! Saw dream! Venaes Nebula in dream! Don't want to wet bed gain. Go bash monsters!\"",
+    "walkthrough": "\"Bash 1 Venaes Nebula near the Eks Watering Hole in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Nopon Tower)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Bye-bye to bad dreams. Bye-bye to wetting bed!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Frontier_Village)",
+    "wikiPageId": 4552
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-part-1-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2 - Part 1",
+    "region": "Frontier Village (Central Plaza)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "10,000 G"
+    ],
+    "description": "\"Got stepped on by Terra Orluga. Would have forgiven but it just pretended nothing happened. How dare it! No one should make Nopon mad!\"",
+    "walkthrough": "\"Bash 3 Terra Orlugas near the entrance to Frontier Village in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Central Plaza)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Got letter saying it was sorry. Things better now.\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_1_(Frontier_Village)",
+    "wikiPageId": 4553
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-part-2-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2 - Part 2",
+    "region": "Frontier Village (Central Plaza)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "13,000 G"
+    ],
+    "description": "\"Do you know those Ammos Orlugas that can carry stuff on their backs? Me tried to ride one but me get thrown off! Me much cuter than Hode thingys!\"",
+    "walkthrough": "\"Bash 2 Ammos Orlugas near Precipice Bridge in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Central Plaza)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"Me got letter saying next time me can get a ride. Can't wait!\"''\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_2_(Frontier_Village)",
+    "wikiPageId": 4554
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-part-3-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2 - Part 3",
+    "region": "Frontier Village (Central Plaza)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "9,000 G"
+    ],
+    "description": "\"Me tried drawing nice things on Arena Orlugas' skin but they got angry! They not appreciate excellent art!\"",
+    "walkthrough": "\"Bash 3 Arena Orlugas near Precipice Bridge in Makna Forest.\"",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Central Plaza)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Me got letter saying it OK to draw on Orluga armpits. They might smell bad but will look great!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_3_(Frontier_Village)",
+    "wikiPageId": 4555
   },
   {
     "id": "xc1-quest-mushy-mushrooms",
@@ -7230,7 +8066,7 @@
         "label": "Access to Pod Landing Site"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "'Mystery of Makna Ruins 1 completed"
       },
       {
@@ -7267,7 +8103,7 @@
         "label": "Access to Pod Landing Site"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mystery of Makna Ruins 2 completed"
       },
       {
@@ -7305,7 +8141,7 @@
         "label": "Access to Pod Landing Site"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mystery of Makna Ruins 3 completed"
       },
       {
@@ -7374,7 +8210,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Beat Kilaki to it! completed"
       },
       {
@@ -7410,7 +8246,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Safer Energy or Distilling Active Ingredients completed"
       },
       {
@@ -7475,7 +8311,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Restoring the Capital completed"
       }
     ],
@@ -7508,7 +8344,7 @@
         "label": "Access to Valak Mountain"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Let's Make Fillings!'' completed"
       },
       {
@@ -7544,7 +8380,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''The Master's Successor completed with A route"
       },
       {
@@ -7573,6 +8409,84 @@
     "wikiPageId": 11546
   },
   {
+    "id": "xc1-quest-search-quest-1-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 1",
+    "region": "Frontier Village, (Middle Housing Level)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "5,000 G",
+      "3,000 EXP"
+    ],
+    "description": "\"Flower Bracelet me was going to give girlfriend was eaten by Pterix. Maybe it around here now. You think it wil smell? It will! Of lovely flowers! ...Me hopes...\"",
+    "walkthrough": "\"Find the Flower Bracelet in Frontier Village.\"\nThe Flower Bracelet is under the Entry Bridge.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village, (Middle Housing Level)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Yay! Yay! Yay! Yay! Yay! This still good! Me can give it to girlfriend. Only smell a little bad.\"\nclr",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_1_(Frontier_Village)",
+    "wikiPageId": 4569
+  },
+  {
+    "id": "xc1-quest-search-quest-2-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 2",
+    "region": "Frontier Village (Archaeology Level)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "4,000 G",
+      "1,600 EXP"
+    ],
+    "description": "\"Me make hook to catch Deinos. Me try it out on Laeklit but it kick it away! Could friends find it for me?\"",
+    "walkthrough": "\"Find the Deinos Hook in Frontier Village.\"\nThe Deinos Hook is on the southeast shore of Apex Lake.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Archaeology Level)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Me tried hook on Deinos but me too light and Deinos ended up dragging me all over Makna!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_2_(Frontier_Village)",
+    "wikiPageId": 4570
+  },
+  {
+    "id": "xc1-quest-search-quest-3-frontier-village",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 3",
+    "region": "Frontier Village (Underground Store)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Frontier Village area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "3,800 G",
+      "1,800 EXP"
+    ],
+    "description": "\"Shiny Ball got lost! Almost as important as my life! Need it to play. It should be in village somewhere. Find it!\"",
+    "walkthrough": "\"Find the Shiny Ball in Frontier Village.\"\nThe Shiny Ball is found in the west portion of the Top Housing Level.",
+    "giver": "Nopon Villager",
+    "subLocation": "Frontier Village (Underground Store)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Yay! Thank you for finding it! Lots of fun now. Rolly rolly rolly!\"\nCategory:Frontier Village Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_3_(Frontier_Village)",
+    "wikiPageId": 4571
+  },
+  {
     "id": "xc1-quest-secret-elixir-ingredients",
     "gameId": "xc1",
     "category": "quest",
@@ -7584,7 +8498,7 @@
         "label": "Frontier Village area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Kind Lupa's Grampypon'' accepted"
       },
       {
@@ -7696,7 +8610,7 @@
         "label": "Riki joined the party"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "An Errand for the Heropon completed"
       }
     ],
@@ -7732,7 +8646,7 @@
         "label": "Kofuko registered on the Affinity Chart"
       },
       {
-        "type": "time",
+        "type": "other",
         "label": "Fixing Time Mushrooms"
       },
       {
@@ -7812,7 +8726,7 @@
         "label": "Strange Noises from Below"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Musical Genius accepted"
       },
       {
@@ -7848,7 +8762,7 @@
         "label": "Strange Noises from Below"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Musical Genius accepted"
       },
       {
@@ -7880,7 +8794,7 @@
         "label": "Access to Valak Mountain"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Getting Bigger! accepted"
       },
       {
@@ -7912,7 +8826,7 @@
         "label": "Access to Valak Mountain"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Medical Advancements completed"
       },
       {
@@ -7979,7 +8893,32 @@
     "wikiPageId": 7261
   },
   {
-    "id": "xc1-quest-collect-quest-1",
+    "id": "xc1-quest-challenge-eryth-sea",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge",
+    "region": "Eryth Sea (Syrath Lighthouse)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Eryth Sea area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "32,000 G"
+    ],
+    "description": "\"Eryth Sea is very dangerous. There is a particularly terrifying monster that should be exterminated.\"",
+    "walkthrough": "\"Defeat Flabbergasted Jerome in the area of Hovering Reef 5 in the Eryth Sea.\"\nThe Flabbergasted Jerome can be found by jumping through the middle of the hovering reef to get to the island below. It only appears on a sunny day.",
+    "giver": "Lighthouse Keeper",
+    "subLocation": "Eryth Sea (Syrath Lighthouse)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the lighthouse keeper's request. Eryth Sea should be a little safer now.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_(Eryth_Sea)",
+    "wikiPageId": 5333
+  },
+  {
+    "id": "xc1-quest-collect-quest-1-eryth-sea",
     "gameId": "xc1",
     "category": "quest",
     "name": "Collect Quest 1",
@@ -8004,7 +8943,7 @@
     "wikiPageId": 9922
   },
   {
-    "id": "xc1-quest-collect-quest-2",
+    "id": "xc1-quest-collect-quest-2-eryth-sea",
     "gameId": "xc1",
     "category": "quest",
     "name": "Collect Quest 2",
@@ -8040,7 +8979,7 @@
         "label": "Eryth Sea area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Trouble at the Plant completed"
       }
     ],
@@ -8076,7 +9015,7 @@
         "label": "Vidian Rescue Mission completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Believing Again completed"
       },
       {
@@ -8113,11 +9052,11 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''Talia's Research not completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "The Missing Boy'' accepted"
       }
     ],
@@ -8149,7 +9088,7 @@
         "label": "Eryth Sea area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Trouble at the Plant accepted"
       }
     ],
@@ -8164,6 +9103,56 @@
     "results": "\"The wind turbine has been fixed with the materials you collected and is working fine now.\"\nCategory:Eryth Sea Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mend_the_Plant",
     "wikiPageId": 7101
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-eryth-sea",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1",
+    "region": "Eryth Sea (Syrath Lighthouse)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Eryth Sea area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "13,000 G"
+    ],
+    "description": "\"There are lots of monsters at Eryth sea. Clear some so it's safer.\"",
+    "walkthrough": "\"Defeat 5 Palti Kromars at Eryth Sea.\"",
+    "giver": "Lighthouse Keeper",
+    "subLocation": "Eryth Sea (Syrath Lighthouse)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the lighthouse keeper's request. Eryth Sea should be a little safer now.\"''\nCategory:Eryth Sea Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Eryth_Sea)",
+    "wikiPageId": 7668
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-eryth-sea",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2",
+    "region": "Eryth Sea (Syrath Lighthouse)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Eryth Sea area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "15,000 G"
+    ],
+    "description": "\"There are lots of monsters at Eryth Sea. Clear some so it's safer.\"",
+    "walkthrough": "\"Defeat 5 Maleza Kromars at Eryth Sea.\"",
+    "giver": "Lighthouse Keeper",
+    "subLocation": "Eryth Sea (Syrath Lighthouse)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the lighthouse keeper's request. Eryth Sea should be a little safer now.\"''\nCategory:Eryth Sea Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Eryth_Sea)",
+    "wikiPageId": 7669
   },
   {
     "id": "xc1-quest-path-to-prison-island",
@@ -8201,7 +9190,7 @@
         "label": "Eryth Sea area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Trouble at the Plant accepted"
       }
     ],
@@ -8285,7 +9274,7 @@
         "label": "In the course to Prison Island"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Path to Prison Island accepted"
       }
     ],
@@ -8345,7 +9334,7 @@
         "label": "Vidian Rescue Mission completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Believing Again not completed"
       },
       {
@@ -8532,6 +9521,106 @@
     "wikiPageId": 5138
   },
   {
+    "id": "xc1-quest-monster-quest-1-valak-mountain",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1",
+    "region": "Valak Mountain (Zokhed Pass)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Valak Mountain area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "23,000 G"
+    ],
+    "description": "\"Clear the monsters so there is a safe route to the Research Team on Valak Mountain.\"",
+    "walkthrough": "\"Defeat 2 Monta Moramoras on Valak Mountain.\"",
+    "giver": "A Nopon Merchant",
+    "subLocation": "Valak Mountain (Zokhed Pass)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The route to the Research Team is safer now.\"''\nCategory:Valak Mountain Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_(Valak_Mountain)",
+    "wikiPageId": 10736
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-valak-mountain",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2",
+    "region": "Valak Mountain (Zokhed Pass)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Valak Mountain area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "25,500 G"
+    ],
+    "description": "\"Clear the monsters so there is a safe route to the Research Team on Valak Mountain.\"",
+    "walkthrough": "\"Defeat 5 Sparas Paguls on Valak Mountain.\"",
+    "giver": "Nopon Merchant",
+    "subLocation": "Valak Mountain (Zokhed Pass)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The route to the Research Team is safer now.\"''\nCategory:Valak Mountain Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Valak_Mountain)",
+    "wikiPageId": 10737
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-valak-mountain",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3",
+    "region": "Valak Mountain (Zokhed Pass)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Valak Mountain area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "28,000 G"
+    ],
+    "description": "\"Clear the monsters so there is a safe route to the Research Team on Valak Mountain.\"",
+    "walkthrough": "\"Defeat 3 Bow Chilkins.\"",
+    "giver": "Nopon Merchant",
+    "subLocation": "Valak Mountain (Zokhed Pass)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The route to the Research Team is safer now.\"''\nCategory:Valak Mountain Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_(Valak_Mountain)",
+    "wikiPageId": 10743
+  },
+  {
+    "id": "xc1-quest-monster-quest-4-valak-mountain",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 4",
+    "region": "Valak Mountain (Zokhed Pass)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Valak Mountain area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "30,000 G"
+    ],
+    "description": "\"Clear the monsters so there is a safe route to the Research Team on Valak Mountain.\"",
+    "walkthrough": "\"Defeat 1 Sesna Lexos on Valak Mountain.\"",
+    "giver": "Nopon Merchant",
+    "subLocation": "Valak Mountain (Zokhed Pass)",
+    "timeWindow": "Anytime",
+    "results": "''\"You completed the Nopon Merchant's request. The route to the Research Team is safer now.\"''\nCategory:Valak Mountain Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_(Valak_Mountain)",
+    "wikiPageId": 10740
+  },
+  {
     "id": "xc1-quest-the-balance-of-power",
     "gameId": "xc1",
     "category": "quest",
@@ -8642,7 +9731,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "''The Final Giants' Ruins'' accepted"
       }
     ],
@@ -8694,7 +9783,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Adventurers in Peril not completed"
       }
     ],
@@ -8932,7 +10021,7 @@
     "region": "Galahad Fortress (Main Control Room)",
     "prerequisites": [
       {
-        "type": "other",
+        "type": "quest",
         "label": "Supply Station Battle accepted"
       }
     ],
@@ -9144,7 +10233,7 @@
         "label": "Hidden Machina Village reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Food Delivery accepted and Theo spoken to"
       }
     ],
@@ -9367,7 +10456,7 @@
         "label": "Access to Mechonis Field"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mending Memories accepted"
       },
       {
@@ -9401,7 +10490,7 @@
         "label": "Access to Mechonis Field"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Mending Memories accepted"
       },
       {
@@ -9604,7 +10693,7 @@
         "label": "Hidden Village ☆4"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Stunted Growth accepted"
       }
     ],
@@ -9702,7 +10791,7 @@
         "label": "Hidden Village ☆4"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Stunted Growth accepted"
       }
     ],
@@ -9847,7 +10936,7 @@
         "label": "Hidden Machina Village reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "For My Loved One... completed"
       }
     ],
@@ -9887,7 +10976,7 @@
         "label": "Hidden Village ☆4"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Stunted Growth accepted"
       }
     ],
@@ -9985,7 +11074,7 @@
     "wikiPageId": 8661
   },
   {
-    "id": "xc1-quest-challenge-quest-1",
+    "id": "xc1-quest-challenge-quest-1-mechonis-field",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge Quest 1",
@@ -10010,7 +11099,7 @@
     "wikiPageId": 9917
   },
   {
-    "id": "xc1-quest-challenge-quest-2",
+    "id": "xc1-quest-challenge-quest-2-mechonis-field",
     "gameId": "xc1",
     "category": "quest",
     "name": "Challenge Quest 2",
@@ -10103,7 +11192,7 @@
         "label": "Opening the Bulkhead"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "The High-Velocity Lift accepted"
       }
     ],
@@ -10359,11 +11448,11 @@
         "label": "Alcamoth area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "A Friend in Need completed"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Teaching Materials completed"
       },
       {
@@ -10452,6 +11541,206 @@
     "wikiPageId": 8389
   },
   {
+    "id": "xc1-quest-challenge-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 1",
+    "region": "Alcamoth (Fountain of Hope)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "45,000 G"
+    ],
+    "description": "\"Complete the mission of a resident's boyfriend for him.\"",
+    "walkthrough": "\"Defeat Proper Bandaz in the area of Secluded Island at Eryth Sea. (Only during shooting stars.)\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Hope)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth resident's request and completed the quest for her boyfriend.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_(Alcamoth)",
+    "wikiPageId": 9501
+  },
+  {
+    "id": "xc1-quest-challenge-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 2",
+    "region": "Alcamoth (Fountain of Eternity)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "38,000 G"
+    ],
+    "description": "\"A group of workers has been attacked by an unknown monster. It would be dangerous to let it go. Find it and defeat it.\"",
+    "walkthrough": "\"Defeat Tempestuous Edegia on Hovering Reef 10 at Eryth Sea. (Only at night.)\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Eternity)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth resident's request. The dangerous monster is dead.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_(Alcamoth)",
+    "wikiPageId": 9237
+  },
+  {
+    "id": "xc1-quest-challenge-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 3",
+    "region": "Alcamoth (Ascension Hall)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "35,000 G"
+    ],
+    "description": "\"A guard has been forced to take on a quest he will never be able to complete. Help him out by completing it for him.\"",
+    "walkthrough": "\"Defeat Peeling Kircheis on Hovering Reef 7 at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Ascension Hall)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth guard's request and completed the quest for him.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_3_(Alcamoth)",
+    "wikiPageId": 9502
+  },
+  {
+    "id": "xc1-quest-challenge-4-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 4",
+    "region": "Alcamoth (Fountain of Eternity)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "50,000 G"
+    ],
+    "description": "\"When a resident was taking a walk, she saw a terrifying monster. It should be killed before it harms anyone.\"",
+    "walkthrough": "\"Defeat Lightspeed Sonid in the area of Anu Shore at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Eternity)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request and eliminated the danger.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_4_(Alcamoth)",
+    "wikiPageId": 9503
+  },
+  {
+    "id": "xc1-quest-collection-quest-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 1",
+    "region": "Alcamoth (Melfica Road)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "15,000 G"
+    ],
+    "description": "\"The girl's stomach pains wouldn't be so bad if she had some nutritious food. Collect some collection items for her.\"",
+    "walkthrough": "\"Collect 3 lots of Gold Burdock at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Melfica Road)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request. She's all better now.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Alcamoth)",
+    "wikiPageId": 2474
+  },
+  {
+    "id": "xc1-quest-collection-quest-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 2",
+    "region": "Alcamoth (Main Entrance)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "22,000 G"
+    ],
+    "description": "\"A resident's beloved pillow is worn out. Collect some collectables for him.\"",
+    "walkthrough": "\"Collect 2 White Tails at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Main Entrance)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request and collected all the items he asked for.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Alcamoth)",
+    "wikiPageId": 9511
+  },
+  {
+    "id": "xc1-quest-collection-quest-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 3",
+    "region": "Alcamoth (Fountain of Hope)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "22,500 G"
+    ],
+    "description": "\"A friend's mother is feeling down and a resident is very worried. Collect some collectables for her.\"",
+    "walkthrough": "\"Collect 5 Stardrops in Alcamoth.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Hope)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request. Her friend's mother feels a little better now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_3_(Alcamoth)",
+    "wikiPageId": 9512
+  },
+  {
+    "id": "xc1-quest-collection-quest-4-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 4",
+    "region": "Alcamoth (Melfica Road)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "21,000 G"
+    ],
+    "description": "\"A resident has run out of materials necessary to repair a flying machine and will be unable to complete his job at this rate. Collect some collectables for him.\"",
+    "walkthrough": "\"Collect 2 Spiral Lamps in the High Entia Tomb.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Melfica Road)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth resident's request. The flying machine has been repaired.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_4_(Alcamoth)",
+    "wikiPageId": 9513
+  },
+  {
     "id": "xc1-quest-drydry-entia",
     "gameId": "xc1",
     "category": "quest",
@@ -10482,7 +11771,7 @@
         "label": "Alcamoth area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Destroying the City Trade accepted"
       }
     ],
@@ -10599,7 +11888,7 @@
         "label": "Alcamoth area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "How Do I Feel? A route completed"
       }
     ],
@@ -10736,6 +12025,406 @@
     "wikiPageId": 9651
   },
   {
+    "id": "xc1-quest-material-quest-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 1",
+    "region": "Alcamoth (Main Entrance)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "20,000 G"
+    ],
+    "description": "\"A resident wants to make a present to thank his co-workers for covering for him, but he doesn't have enough materials. Collect what he needs.\"",
+    "walkthrough": "\"Collect 2 Glossy Grady Fans from Lunar Gradys at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Main Entrance)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request. He can make the present now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_1_(Alcamoth)",
+    "wikiPageId": 5814
+  },
+  {
+    "id": "xc1-quest-material-quest-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 2",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "23,500 G"
+    ],
+    "description": "\"A resident wants to make a costume. Help her by collecting something exciting to start it off.\"",
+    "walkthrough": "\"Collect 5 Orluga Grass Skirts from Orluga in Makna Forest.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request. She will be able to make a great costume now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_2_(Alcamoth)",
+    "wikiPageId": 5816
+  },
+  {
+    "id": "xc1-quest-material-quest-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 3",
+    "region": "Alcamoth (Main Entrance)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "27,000 G"
+    ],
+    "description": "\"A guard wants to make a doll for his child who he doesn't see much. Unfortunately, he doesn't have enough clothes material. Collect some for the guard.\"",
+    "walkthrough": "\"Collect 3 Orluga Slacks from Orlugas at Eryth Sea.\"\n: Tocos Orlugas or Pulse Orlugas drop them.",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Main Entrance)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth guard's request. He can make the doll's uniform now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_3_(Alcamoth)",
+    "wikiPageId": 5817
+  },
+  {
+    "id": "xc1-quest-material-quest-4-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 4",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "22,000 G"
+    ],
+    "description": "\"A resident doesn't have enough materials to make his favourite musical instrument. Collect the materials for him.\"",
+    "walkthrough": "\"Collect 2 Lexos Beards from Racti Lexos at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request. He can make his instrument now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_4_(Alcamoth)",
+    "wikiPageId": 9507
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 1",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "16,000 G"
+    ],
+    "description": "\"A resident wants help with her monster ecology research.\"",
+    "walkthrough": "\"Defeat 5 Cruz Paguls at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You have completed the resident's request. She will be able to continue her research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Alcamoth)",
+    "wikiPageId": 7905
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 2",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "14,500 G"
+    ],
+    "description": "\"A resident wants help with her monster ecology research.\"",
+    "walkthrough": "\"Defeat 3 Eryth Ansels at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You have completed the resident's request. She will be able to continue her research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Alcamoth)",
+    "wikiPageId": 7912
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 3",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "17,000 G"
+    ],
+    "description": "\"A resident wants help with her monster ecology research.\"",
+    "walkthrough": "\"Defeat 2 Ciconia Ekidnos at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You have completed the resident's request. She will be able to continue her research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Alcamoth)",
+    "wikiPageId": 7915
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-part-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2 - Part 1",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "14,000 G"
+    ],
+    "description": "\"There are lots of monsters outside according to the guard's family. It will take time for the guards to come. Help out by clearing some.\"",
+    "walkthrough": "\"Defeat 3 Chloro Laias at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You have completed the Alcamoth Guard's request. You defeated the monsters that his family saw.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_1_(Alcamoth)",
+    "wikiPageId": 7986
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-part-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2 - Part 2",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "22,500 G"
+    ],
+    "description": "\"The monsters are coming from a different source. It will take time for the guards to come. Help out by clearing some.\"",
+    "walkthrough": "\"Defeat 5 Stella Eks at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth Guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_2_(Alcamoth)",
+    "wikiPageId": 7987
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-part-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2 - Part 3",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "27,000 G"
+    ],
+    "description": "\"There is a monster that breeds very quickly. It will take time for the guards to come. Help out by clearing some.\"",
+    "walkthrough": "\"Defeat 1 Racti Lexos at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_3_(Alcamoth)",
+    "wikiPageId": 7988
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-part-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3 - Part 1",
+    "region": "Alcamoth (Melfica Road)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "18,000 G"
+    ],
+    "description": "\"You have been asked to defeat some monsters to improve the security of Alcamoth.\"",
+    "walkthrough": "\"Defeat 5 Unine Hodes at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Melfica Road)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You have completed the resident's request. That is one less threat for Alcamoth now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Alcamoth)",
+    "wikiPageId": 9514
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-part-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3 - Part 2",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "25,000 G"
+    ],
+    "description": "\"You have been asked to defeat some monsters to improve the security of Alcamoth.\"",
+    "walkthrough": "\"Defeat 2 Tocos Orluga at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You have completed the resident's request. That is one less threat for Alcamoth now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Alcamoth)",
+    "wikiPageId": 9515
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-part-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3 - Part 3",
+    "region": "Alcamoth (Imperial Palace)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "28,000 G"
+    ],
+    "description": "\"You have been asked to defeat some monsters to improve the security of Alcamoth.\"",
+    "walkthrough": "\"Defeat 1 Pelargos Ekidno at Eryth Sea.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Imperial Palace)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You have completed the resident's request. That is one less threat for Alcamoth now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_3_(Alcamoth)",
+    "wikiPageId": 9516
+  },
+  {
+    "id": "xc1-quest-monster-quest-4-part-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 4 - Part 1",
+    "region": "Alcamoth (Ascension Hall)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "18,000 G"
+    ],
+    "description": "\"There has been a request from the minister that monsters on Soltnar Seal Island are defeated.\"",
+    "walkthrough": "\"Defeat 3 Somati Kromars at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Ascension Hall)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_1_(Alcamoth)",
+    "wikiPageId": 7989
+  },
+  {
+    "id": "xc1-quest-monster-quest-4-part-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 4 - Part 2",
+    "region": "Alcamoth (Ascension Hall)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "16,000 G"
+    ],
+    "description": "\"There has been a request from a guard that monsters on Soltnar Seal Island are defeated.\"",
+    "walkthrough": "\"Defeat 4 Tussock Kromars at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Ascension Hall)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_2_(Alcamoth)",
+    "wikiPageId": 7990
+  },
+  {
+    "id": "xc1-quest-monster-quest-4-part-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 4 - Part 3",
+    "region": "Alcamoth (Ascension Hall)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "15,000 G"
+    ],
+    "description": "\"There has been a request from a guard that monsters on Soltnar Seal Island are defeated.\"",
+    "walkthrough": "\"Defeat 5 Otol Kromars at Eryth Sea.\"",
+    "giver": "Alcamoth Imperial Guard",
+    "subLocation": "Alcamoth (Ascension Hall)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_3_(Alcamoth)",
+    "wikiPageId": 7991
+  },
+  {
     "id": "xc1-quest-preparing-for-adventure",
     "gameId": "xc1",
     "category": "quest",
@@ -10856,7 +12545,7 @@
         "label": "Alcamoth area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Brave Actions accepted"
       }
     ],
@@ -10875,6 +12564,110 @@
     "results": "\"Because of your help, none of the Imperial Guards were seriously injured.\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Protect_the_Capital!",
     "wikiPageId": 8382
+  },
+  {
+    "id": "xc1-quest-search-quest-1-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 1",
+    "region": "Alcamoth (Fountain of Hope)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "12,000 G",
+      "2,000 EXP"
+    ],
+    "description": "\"While out walking, a resident dropped a keepsake that his mother gave him. He's not sure where he dropped it, but it was very important. Find it for him.\"",
+    "walkthrough": "''\"Find the Mother's Necklace on the second level of Alcamoth.\"''",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Hope)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth resident's request. He's very happy to be reunited with the necklace.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_1_(Alcamoth)",
+    "wikiPageId": 9520
+  },
+  {
+    "id": "xc1-quest-search-quest-2-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 2",
+    "region": "Alcamoth (Fountain of Hope)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "9,000 G",
+      "3,000 EXP"
+    ],
+    "description": "\"A resident has lost the ring he planned to give to his girlfriend. Find the very precious item for him.\"",
+    "walkthrough": "\"Find a Silver Ring somewhere in Alcamoth.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Hope)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth resident's request. He is very happy to get the ring back.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_2_(Alcamoth)",
+    "wikiPageId": 5187
+  },
+  {
+    "id": "xc1-quest-search-quest-3-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 3",
+    "region": "Alcamoth (Fountain of Eternity)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "11,000 G",
+      "2,500 EXP"
+    ],
+    "description": "\"A resident has dropped a gift that a merchant friend gave him. Find the precious item and return it to him.\"",
+    "walkthrough": "''\"Find the Merchant's Gift somewhere on the lower level of Alcamoth.\"''",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Eternity)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"You completed the Alcamoth resident's request. He is very happy to get his gift back.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_3_(Alcamoth)",
+    "wikiPageId": 9521
+  },
+  {
+    "id": "xc1-quest-search-quest-4-alcamoth",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 4",
+    "region": "Alcamoth (Fountain of Hope)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Alcamoth area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "10,000 G",
+      "2,800 EXP"
+    ],
+    "description": "\"When the Nopon was moving house, he lost a very special charm that could never be replaced. Find it for the poor child.\"",
+    "walkthrough": "\"Find the Health Amulet on the lower level of Alcamoth.\"",
+    "giver": "Alcamoth Citizen",
+    "subLocation": "Alcamoth (Fountain of Hope)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"You completed the Alcamoth resident's request. The boy is very happy to have his charm back.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_4_(Alcamoth)",
+    "wikiPageId": 8544
   },
   {
     "id": "xc1-quest-starlight-gazer",
@@ -11000,7 +12793,7 @@
         "label": "Alcamoth area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Bring Back My Son! completed"
       }
     ],
@@ -11060,7 +12853,7 @@
         "label": "Alcamoth area reached"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "How Do I Feel? B route completed"
       }
     ],
@@ -11092,7 +12885,7 @@
         "label": "Mechonis Core cleared"
       },
       {
-        "type": "other",
+        "type": "quest",
         "label": "Restoring the Capital objective completed"
       }
     ],

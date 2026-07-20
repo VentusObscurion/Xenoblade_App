@@ -1,4 +1,3 @@
-import { ingestXC1 } from './ingest/xc1.ts'
 import {
   ingestFutureRedeemed,
   ingestTorna,
@@ -7,7 +6,6 @@ import {
 } from './ingest-multi.ts'
 
 async function main() {
-  await ingestXC1()
   await ingestXC2()
   await ingestTorna()
   await ingestXC3()
@@ -15,6 +13,6 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error('Data ingestion failed:', err)
+  console.error(err)
   process.exit(1)
 })

@@ -1,5 +1,5 @@
 import {
-  DEFAULT_GAME_STATE,
+  createDefaultGameState,
   normalizeGameState,
   type GameState,
 } from '../types/game-state.ts'
@@ -36,7 +36,7 @@ export function importGameStates(states: StoredGameStates | undefined): number {
     [GameId, GameState | undefined]
   >) {
     if (!state) continue
-    next[gameId] = normalizeGameState(state)
+    next[gameId] = normalizeGameState(state, gameId)
     count++
   }
   localStorage.setItem(GAME_STATE_STORAGE_KEY, JSON.stringify(next))
@@ -49,5 +49,5 @@ export function clearAllGameStates(): void {
 
 export function getGameState(gameId: GameId): GameState {
   const all = loadAllGameStates()
-  return normalizeGameState(all[gameId] ?? DEFAULT_GAME_STATE)
+  return normalizeGameState(all[gameId] ?? createDefaultGameState(gameId), gameId)
 }

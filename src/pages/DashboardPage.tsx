@@ -177,14 +177,14 @@ export function DashboardPage({ gameId, onNavigate }: DashboardPageProps) {
         ))}
       </div>
 
-      {gameId === 'xc1' && (
+      {gameId !== 'xcx' && (
         <section className="dashboard-hints">
           <h3>Quick tips</h3>
           <ul>
             <li>
-              Set story flags, Affinity Charts and party under{' '}
-              <strong>Playthrough</strong>. Quests, Heart-to-Hearts and Colony 6
-              materials then show only what you can do right now.
+              Set story flags, affinity charts and party under{' '}
+              <strong>Playthrough</strong>. Availability filters then show what
+              you can do right now.
             </li>
             <li>
               Use <strong>Browse all</strong> if you want to see every entry

@@ -6,6 +6,7 @@ import {
   setProgress,
   toggleProgress,
 } from '../lib/progress-db.ts'
+import { setAccepted, setCompleted } from '../lib/progress-quest.ts'
 import type { ProgressEntry } from '../types/tracker.ts'
 
 export function useProgress() {
@@ -22,18 +23,30 @@ export function useProgress() {
     refresh()
   }, [refresh])
 
-  const toggle = useCallback(
-    async (itemId: string) => {
-      const entry = await toggleProgress(itemId)
-      setProgressState((prev) => ({ ...prev, [itemId]: entry }))
-    },
-    [],
-  )
+  const toggle = useCallback(async (itemId: string) => {
+    const entry = await toggleProgress(itemId)
+    setProgressState((prev) => ({ ...prev, [itemId]: entry }))
+  }, [])
+
+  const toggleAccepted = useCallback(async (itemId: string) => {
+    const existing = progress[itemId]
+    const currently =
+      existing?.accepted === true || existing?.completed === true
+    const entry = await setAccepted(itemId, !currently)
+    setProgressState((prev) => ({ ...prev, [itemId]: entry }))
+  }, [progress])
+
+  const toggleCompleted = useCallback(async (itemId: string) => {
+    const existing = progress[itemId]
+    const entry = await setCompleted(itemId, !(existing?.completed === true))
+    setProgressState((prev) => ({ ...prev, [itemId]: entry }))
+  }, [progress])
 
   const updateNotes = useCallback(async (itemId: string, notes: string) => {
     const existing = progress[itemId]
     const entry: ProgressEntry = {
       itemId,
+      accepted: existing?.accepted,
       completed: existing?.completed ?? false,
       completedAt: existing?.completedAt,
       notes,
@@ -56,6 +69,8 @@ export function useProgress() {
     progress,
     loading,
     toggle,
+    toggleAccepted,
+    toggleCompleted,
     updateNotes,
     exportData,
     importData,

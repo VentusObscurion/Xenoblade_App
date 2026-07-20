@@ -1,0 +1,4901 @@
+[
+  {
+    "id": "xc3-unique_monster-abysmal-rakshmi",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Abysmal Rakshmi",
+    "region": "Erythia Sea (Lavi Sandbar)",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Abysmal_Rakshmi",
+    "wikiPageId": 119482,
+    "collectType": "Arachno"
+  },
+  {
+    "id": "xc3-unique_monster-altruistic-maribel",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Altruistic Maribel",
+    "region": "Millick Meadows (Murmur Rise)",
+    "level": 29,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 29"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Altruistic_Maribel",
+    "wikiPageId": 118674,
+    "collectType": "Skeeter"
+  },
+  {
+    "id": "xc3-unique_monster-ambusher-tirion",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Ambusher Tirion",
+    "region": "Syra Hovering Reefs (Ether Mine)",
+    "level": 39,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 39"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ambusher_Tirion",
+    "wikiPageId": 119457,
+    "collectType": "Levnis (Speculatos)"
+  },
+  {
+    "id": "xc3-unique_monster-artificial-optho",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Artificial Optho",
+    "region": "Origin Interior (Hangar, Upper Level)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Artificial_Optho",
+    "wikiPageId": 119510,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-barbed-merod",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Barbed Merod",
+    "region": "Erythia Sea (Anu Shoals)",
+    "level": 51,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 51"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Barbed_Merod",
+    "wikiPageId": 119477,
+    "collectType": "Urchon"
+  },
+  {
+    "id": "xc3-unique_monster-besieger-sheritt",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Besieger Sheritt",
+    "region": "Urayan Trail (Mountain Front: Keves)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Besieger_Sheritt",
+    "wikiPageId": 119446,
+    "collectType": "Levnis (Centuris)"
+  },
+  {
+    "id": "xc3-unique_monster-blazing-karlos",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Blazing Karlos",
+    "region": "Syra Hovering Reefs (Hovering Reef 4)",
+    "level": 40,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 40"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Blazing_Karlos",
+    "wikiPageId": 119449,
+    "collectType": "Ekidno"
+  },
+  {
+    "id": "xc3-unique_monster-bloodsucking-elvis",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Bloodsucking Elvis",
+    "region": "Urayan Trail (Loska's Cavern)",
+    "level": 53,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 53"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bloodsucking_Elvis",
+    "wikiPageId": 119448,
+    "collectType": "Vang"
+  },
+  {
+    "id": "xc3-unique_monster-budding-francis",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Budding Francis",
+    "region": "Great Cotte Falls (Titan Rock)",
+    "level": 32,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 32"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Budding_Francis",
+    "wikiPageId": 118620,
+    "collectType": "Amoney"
+  },
+  {
+    "id": "xc3-unique_monster-bushwhacker-farritt",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Bushwhacker Farritt",
+    "region": "Urayan Trail (Mountain Front: Agnus)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Bushwhacker_Farritt",
+    "wikiPageId": 119447,
+    "collectType": "Levnis (Ulula)"
+  },
+  {
+    "id": "xc3-unique_monster-clinging-azreel",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Clinging Azreel",
+    "region": "Origin Interior (Central Defense)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Clinging_Azreel",
+    "wikiPageId": 119516,
+    "collectType": "Flak"
+  },
+  {
+    "id": "xc3-unique_monster-conqueror-deepwan",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Conqueror Deepwan",
+    "region": "Erythia Sea (Demihuman Gutter)",
+    "level": 102,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 102"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Conqueror_Deepwan",
+    "wikiPageId": 119489,
+    "collectType": "Igna"
+  },
+  {
+    "id": "xc3-unique_monster-covetous-gerondon",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Covetous Gerondon",
+    "region": "Erythia Sea (Cape Arcaphor)",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Covetous_Gerondon",
+    "wikiPageId": 119465,
+    "collectType": "Rhana"
+  },
+  {
+    "id": "xc3-unique_monster-crafty-anskey",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Crafty Anskey",
+    "region": "Elaice Highway (Yunnae's Rise)",
+    "level": 54,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 54"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crafty_Anskey",
+    "wikiPageId": 119431,
+    "collectType": "Wisp"
+  },
+  {
+    "id": "xc3-unique_monster-craven-piggard",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Craven Piggard",
+    "region": "Syra Hovering Reefs (Hovering Reef 3)",
+    "level": 38,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 38"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Craven_Piggard",
+    "wikiPageId": 118675,
+    "collectType": "Kapiba"
+  },
+  {
+    "id": "xc3-unique_monster-creeping-hameel",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Creeping Hameel",
+    "region": "Origin Interior (Amplifier No. 2)",
+    "level": 67,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 67"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Creeping_Hameel",
+    "wikiPageId": 119507,
+    "collectType": "Flak"
+  },
+  {
+    "id": "xc3-unique_monster-cruelfist-rojou",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Cruelfist Rojou",
+    "region": "Origin Interior (Amplifier Section)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cruelfist_Rojou",
+    "wikiPageId": 119504,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-crystalline-dugarre",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Crystalline DuGarre",
+    "region": "Dannagh Desert (Alefa Skysphere)",
+    "level": 27,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 27"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crystalline_DuGarre",
+    "wikiPageId": 119412,
+    "collectType": "Ropl"
+  },
+  {
+    "id": "xc3-unique_monster-dapper-sepiar",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Dapper Sepiar",
+    "region": "Rae-Bel Tableland (The Lace Subterranean)",
+    "level": 22,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 22"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dapper_Sepiar",
+    "wikiPageId": 118676,
+    "collectType": "Urchon"
+  },
+  {
+    "id": "xc3-unique_monster-darkening-asha",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Darkening Asha",
+    "region": "Erythia Sea (Colony 15)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Darkening_Asha",
+    "wikiPageId": 119494,
+    "collectType": "Agnus Forces"
+  },
+  {
+    "id": "xc3-unique_monster-defiled-ishtar",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Defiled Ishtar",
+    "region": "Origin Interior (Ferronis Arsenal",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Defiled_Ishtar",
+    "wikiPageId": 119509,
+    "collectType": "Myoot"
+  },
+  {
+    "id": "xc3-unique_monster-demonic-krenolur",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Demonic Krenolur",
+    "region": "Erythia Sea (Daedal Isle)",
+    "level": 75,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 75"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Demonic_Krenolur",
+    "wikiPageId": 117392,
+    "collectType": "Plambus"
+  },
+  {
+    "id": "xc3-unique_monster-desired-oruria",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Desired Oruria",
+    "region": "Origin Interior (Hangar, Lower: Main Gate)",
+    "level": 86,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 86"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Desired_Oruria",
+    "wikiPageId": 119515,
+    "collectType": "Vokooku"
+  },
+  {
+    "id": "xc3-unique_monster-determined-vatslav",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Determined Vatslav",
+    "region": "Keves Castle (Troop Reserve Section)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Determined_Vatslav",
+    "wikiPageId": 119455,
+    "collectType": "Levnis (Speculatos)"
+  },
+  {
+    "id": "xc3-unique_monster-diabolical-rindolph",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Diabolical Rindolph",
+    "region": "Syra Hovering Reefs (Hovering Reef 7)",
+    "level": 49,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 49"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Diabolical_Rindolph",
+    "wikiPageId": 118677,
+    "collectType": "Moramora"
+  },
+  {
+    "id": "xc3-unique_monster-dimwitted-tirkin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Dimwitted Tirkin",
+    "region": "High Maktha Wildwood (The Tirkinhold)",
+    "level": 45,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 45"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dimwitted_Tirkin",
+    "wikiPageId": 119443,
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc3-unique_monster-dishonest-karom",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Dishonest Karom",
+    "region": "Origin Interior (Hangar, Upper Level)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dishonest_Karom",
+    "wikiPageId": 119512,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-doomfang-caum",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Doomfang Caum",
+    "region": "Rae-Bel Tableland (Pinasa Highland)",
+    "level": 50,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 50"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Doomfang_Caum",
+    "wikiPageId": 119423,
+    "collectType": "Feris"
+  },
+  {
+    "id": "xc3-unique_monster-dreadwyrm-nizoont",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Dreadwyrm Nizoont",
+    "region": "Low Maktha Wildwood (Forgotten Trick Gate)",
+    "level": 105,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 105"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dreadwyrm_Nizoont",
+    "wikiPageId": 119439,
+    "collectType": "Drague"
+  },
+  {
+    "id": "xc3-unique_monster-dunesea-marcellus",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Dunesea Marcellus",
+    "region": "Dannagh Desert (Devil's Skillet)",
+    "level": 87,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 87"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dunesea_Marcellus",
+    "wikiPageId": 119414,
+    "collectType": "Marrin"
+  },
+  {
+    "id": "xc3-unique_monster-fairscale-marina",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Fairscale Marina",
+    "region": "Erythia Sea (Oshia's Reef Ravine)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fairscale_Marina",
+    "wikiPageId": 119471,
+    "collectType": "Merigna"
+  },
+  {
+    "id": "xc3-unique_monster-fang-king-clavein",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Fang-King Clavein",
+    "region": "Millick Meadows (Elgares Depths)",
+    "level": 80,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 80"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fang-King_Clavein",
+    "wikiPageId": 119410,
+    "collectType": "Darbus"
+  },
+  {
+    "id": "xc3-unique_monster-farseer-pirtett",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Farseer Pirtett",
+    "region": "Eagus Wilderness (Zem's Crossway)",
+    "level": 40,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 40"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Farseer_Pirtett",
+    "wikiPageId": 119417,
+    "collectType": "Hox"
+  },
+  {
+    "id": "xc3-unique_monster-fineblade-faltaar",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Fineblade Faltaar",
+    "region": "Great Sword's Hilt",
+    "level": 47,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 47"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fineblade_Faltaar",
+    "wikiPageId": 119498,
+    "collectType": "Taos"
+  },
+  {
+    "id": "xc3-unique_monster-fleeting-shikino",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Fleeting Shikino",
+    "region": "Erythia Sea (Colony 15)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fleeting_Shikino",
+    "wikiPageId": 119495,
+    "collectType": "Agnus Forces"
+  },
+  {
+    "id": "xc3-unique_monster-flyswatter-kamado",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Flyswatter Kamado",
+    "region": "Erythia Sea (Daedal Isle)",
+    "level": 77,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 77"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Flyswatter_Kamado",
+    "wikiPageId": 119492,
+    "collectType": "Antol"
+  },
+  {
+    "id": "xc3-unique_monster-foolhardy-saide",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Foolhardy Saide",
+    "region": "Great Sword's Base (Cradle Convoy Shelter)",
+    "level": 58,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 58"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Foolhardy_Saide",
+    "wikiPageId": 119462,
+    "collectType": "Rhinon"
+  },
+  {
+    "id": "xc3-unique_monster-forsaken-arbiter",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Forsaken Arbiter",
+    "region": "Keves Castle (Hangar, Lower Level)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Forsaken_Arbiter",
+    "wikiPageId": 119452,
+    "collectType": "Levnis (Velites)"
+  },
+  {
+    "id": "xc3-unique_monster-frolicking-parker",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Frolicking Parker",
+    "region": "Great Cotte Falls (Cotte Trick Ruins)",
+    "level": 31,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 31"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Frolicking_Parker",
+    "wikiPageId": 118678,
+    "collectType": "Ottil"
+  },
+  {
+    "id": "xc3-unique_monster-gallivanter-buckley",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Gallivanter Buckley",
+    "region": "Great Cotte Falls (Titan Rock)",
+    "level": 30,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 30"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gallivanter_Buckley",
+    "wikiPageId": 118679,
+    "collectType": "Hox"
+  },
+  {
+    "id": "xc3-unique_monster-galloping-ghuldan",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Galloping Ghuldan",
+    "region": "Erythia Sea (Farlaine Underpass)",
+    "level": 56,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 56"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Galloping_Ghuldan",
+    "wikiPageId": 119493,
+    "collectType": "Ellook"
+  },
+  {
+    "id": "xc3-unique_monster-ghostfist-r-is-n",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Ghostfist Róisín",
+    "region": "Origin Interior (Amplifier Section)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ghostfist_R%C3%B3is%C3%ADn",
+    "wikiPageId": 119506,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-ghosting-lulika",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Ghosting Lulika",
+    "region": "Erythia Sea (Colony 15)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ghosting_Lulika",
+    "wikiPageId": 119497,
+    "collectType": "Agnus Forces"
+  },
+  {
+    "id": "xc3-unique_monster-godlike-krastor",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Godlike Krastor",
+    "region": "Urayan Tunnels (Ruins of Seebu)",
+    "level": 82,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 82"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Godlike_Krastor",
+    "wikiPageId": 118680,
+    "collectType": "Agnus Forces"
+  },
+  {
+    "id": "xc3-unique_monster-gorgeous-mandora",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Gorgeous Mandora",
+    "region": "Low Maktha Wildwood (Cavern of Oblivion)",
+    "level": 96,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 96"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gorgeous_Mandora",
+    "wikiPageId": 119438,
+    "collectType": "Blant"
+  },
+  {
+    "id": "xc3-unique_monster-gracious-titania",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Gracious Titania",
+    "region": "Urayan Tunnels",
+    "level": 50,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 50"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gracious_Titania",
+    "wikiPageId": 119435,
+    "collectType": "Arachno"
+  },
+  {
+    "id": "xc3-unique_monster-gushing-masquin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Gushing Masquin",
+    "region": "Yzana Plains (Colony 9)",
+    "level": 24,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 24"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gushing_Masquin",
+    "wikiPageId": 119405,
+    "collectType": "Piranhax"
+  },
+  {
+    "id": "xc3-unique_monster-hardscale-gouran",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Hardscale Gouran",
+    "region": "Erythia Sea (Oshia's Reef Ravine)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hardscale_Gouran",
+    "wikiPageId": 119470,
+    "collectType": "Merigna"
+  },
+  {
+    "id": "xc3-unique_monster-hardshelled-admory",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Hardshelled Admory",
+    "region": "Erythia Sea (Krezen Cliffs)",
+    "level": 57,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 57"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hardshelled_Admory",
+    "wikiPageId": 119483,
+    "collectType": "Krammit"
+  },
+  {
+    "id": "xc3-unique_monster-hazardous-jarrahed",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Hazardous Jarrahed",
+    "region": "Eagus Wilderness (Racine's Platter)",
+    "level": 16,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 16"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hazardous_Jarrahed",
+    "wikiPageId": 118681,
+    "collectType": "Aspar"
+  },
+  {
+    "id": "xc3-unique_monster-heavenrazor-egreet",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Heavenrazor Egreet",
+    "region": "The Cavity",
+    "level": 90,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 90"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heavenrazor_Egreet",
+    "wikiPageId": 119502,
+    "collectType": "Rhogul"
+  },
+  {
+    "id": "xc3-unique_monster-hedonist-tirkin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Hedonist Tirkin",
+    "region": "Ribbi Flats (Tirkin Headquarters)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hedonist_Tirkin",
+    "wikiPageId": 118682,
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc3-unique_monster-heretical-saurow",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Heretical Saurow",
+    "region": "Rae-Bel Tableland (Old Kana Battlefield)",
+    "level": 25,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 25"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heretical_Saurow",
+    "wikiPageId": 119424,
+    "collectType": "Upa"
+  },
+  {
+    "id": "xc3-unique_monster-heroic-gulkin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Heroic Gulkin",
+    "region": "Erythia Sea (Place of Heroes Past)",
+    "level": 76,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 76"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Heroic_Gulkin",
+    "wikiPageId": 119518,
+    "collectType": "Gulkin"
+  },
+  {
+    "id": "xc3-unique_monster-hornbow-dante",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Hornbow Dante",
+    "region": "Syra Hovering Reefs (Ekdaso Verge)",
+    "level": 55,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 55"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hornbow_Dante",
+    "wikiPageId": 119458,
+    "collectType": "Balgas"
+  },
+  {
+    "id": "xc3-unique_monster-househunter-carly",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Househunter Carly",
+    "region": "Alfeto Valley",
+    "level": 21,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 21"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Househunter_Carly",
+    "wikiPageId": 118683,
+    "collectType": "Krabble"
+  },
+  {
+    "id": "xc3-unique_monster-immovable-gonzalez",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Immovable Gonzalez",
+    "region": "High Maktha Wildwood (Gogols' Tree)",
+    "level": 88,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 88"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Immovable_Gonzalez_(XC3)",
+    "wikiPageId": 117391,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc3-unique_monster-impish-langobard",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Impish Langobard",
+    "region": "Elaice Highway (Great Liente Shelf)",
+    "level": 74,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 74"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Impish_Langobard",
+    "wikiPageId": 119428,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc3-unique_monster-impregnable-sandhu",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Impregnable Sandhu",
+    "region": "Urayan Tunnels (Ruins of Seebu)",
+    "level": 82,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 82"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Impregnable_Sandhu",
+    "wikiPageId": 118684,
+    "collectType": "Agnus Forces"
+  },
+  {
+    "id": "xc3-unique_monster-indiscreet-gombaba",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Indiscreet Gombaba",
+    "region": "Millick Meadows (Millick Ravine Way)",
+    "level": 12,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 12"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Indiscreet_Gombaba",
+    "wikiPageId": 117907,
+    "collectType": "Brog"
+  },
+  {
+    "id": "xc3-unique_monster-infiltrator-garnach",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Infiltrator Garnach",
+    "region": "Syra Hovering Reefs (Fourth Ixia Bridge)",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Infiltrator_Garnach",
+    "wikiPageId": 119459,
+    "collectType": "Levnis (Gastrates)"
+  },
+  {
+    "id": "xc3-unique_monster-intrusive-neville",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Intrusive Neville",
+    "region": "Erythia Sea (Migrow's Rosary)",
+    "level": 49,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 49"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Intrusive_Neville",
+    "wikiPageId": 119485,
+    "collectType": "Gyaark"
+  },
+  {
+    "id": "xc3-unique_monster-jealous-mizraile",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Jealous Mizraile",
+    "region": "Erythia Sea (Lavi Sandbar)",
+    "level": 72,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 72"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jealous_Mizraile",
+    "wikiPageId": 119481,
+    "collectType": "Aspar"
+  },
+  {
+    "id": "xc3-unique_monster-jingoistic-gigantus",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Jingoistic Gigantus",
+    "region": "Millick Meadows (Viliera Hill)",
+    "level": 80,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 80"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jingoistic_Gigantus",
+    "wikiPageId": 117335,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc3-unique_monster-joyful-nimroog",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Joyful Nimroog",
+    "region": "Rae-Bel Tableland (Valley of Anguish)",
+    "level": 68,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 68"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Joyful_Nimroog",
+    "wikiPageId": 119425,
+    "collectType": "Anlood"
+  },
+  {
+    "id": "xc3-unique_monster-keen-chicky-chicky",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Keen Chicky-Chicky",
+    "region": "Captocorn Peak (Nocclia Mire)",
+    "level": 59,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 59"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Keen_Chicky-Chicky",
+    "wikiPageId": 119501,
+    "collectType": "Grebel"
+  },
+  {
+    "id": "xc3-unique_monster-killhappy-brijaidor",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Killhappy Brijaidor",
+    "region": "Erythia Sea (Vinisog Holm)",
+    "level": 79,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 79"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Killhappy_Brijaidor",
+    "wikiPageId": 119467,
+    "collectType": "Merfrey"
+  },
+  {
+    "id": "xc3-unique_monster-kilocorn-grandeps",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Kilocorn Grandeps",
+    "region": "Rae-Bel Tableland (Dumas' Jaw)",
+    "level": 95,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 95"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kilocorn_Grandeps",
+    "wikiPageId": 118143,
+    "collectType": "Ardun"
+  },
+  {
+    "id": "xc3-unique_monster-king-krawkin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "King Krawkin",
+    "region": "Erythia Sea (Demihuman Gutter)",
+    "level": 102,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 102"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/King_Krawkin",
+    "wikiPageId": 119490,
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc3-unique_monster-lapdog-veece",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Lapdog Veece",
+    "region": "Alfeto Valley (Volff Lair)",
+    "level": 9,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 9"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lapdog_Veece",
+    "wikiPageId": 118685,
+    "collectType": "Volff"
+  },
+  {
+    "id": "xc3-unique_monster-levialord-empireo",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Levialord Empireo",
+    "region": "Erythia Sea (The Aegis Sea)",
+    "level": 110,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 110"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Levialord_Empireo",
+    "wikiPageId": 119242,
+    "collectType": "Ravoon"
+  },
+  {
+    "id": "xc3-unique_monster-littlefort-morley",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Littlefort Morley",
+    "region": "Erythia Sea (Needle Reef Beach)",
+    "level": 46,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 46"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Littlefort_Morley",
+    "wikiPageId": 119463,
+    "collectType": "Pagul"
+  },
+  {
+    "id": "xc3-unique_monster-massive-georges",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Massive Georges",
+    "region": "Great Cotte Falls (Hidden Freshwater Inlet)",
+    "level": 37,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 37"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Massive_Georges",
+    "wikiPageId": 119433,
+    "collectType": "Aligo"
+  },
+  {
+    "id": "xc3-unique_monster-migratory-circe",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Migratory Circe",
+    "region": "Millick Meadows",
+    "level": 14,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 14"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Migratory_Circe",
+    "wikiPageId": 117895,
+    "collectType": "Flamii"
+  },
+  {
+    "id": "xc3-unique_monster-miraging-yuri",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Miraging Yuri",
+    "region": "Erythia Sea (Colony 15)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Miraging_Yuri",
+    "wikiPageId": 119496,
+    "collectType": "Agnus Forces"
+  },
+  {
+    "id": "xc3-unique_monster-mobile-vespa",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Mobile Vespa",
+    "region": "Keves Castle (Hangar, Lower Level)",
+    "level": 41,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 41"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mobile_Vespa",
+    "wikiPageId": 118637,
+    "collectType": "Levnis (Equites)"
+  },
+  {
+    "id": "xc3-unique_monster-naval-gyrus",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Naval Gyrus",
+    "region": "Erythia Sea (Irma's Secret Base)",
+    "level": 75,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 75"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Naval_Gyrus",
+    "wikiPageId": 119484,
+    "collectType": "Krodlax"
+  },
+  {
+    "id": "xc3-unique_monster-navigator-helios",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Navigator Helios",
+    "region": "Erythia Sea (Erythia Relay Base)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Navigator_Helios",
+    "wikiPageId": 119480,
+    "collectType": "Levnis (Testudo)"
+  },
+  {
+    "id": "xc3-unique_monster-night-stalker-volodya",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Night-Stalker Volodya",
+    "region": "Elaice Highway (Torus Hollow)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Night-Stalker_Volodya",
+    "wikiPageId": 119432,
+    "collectType": "Vang"
+  },
+  {
+    "id": "xc3-unique_monster-obliterator-centaurio",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Obliterator Centaurio",
+    "region": "Agnus Castle Barbican (Levnis Workyard)",
+    "level": 91,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 91"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Obliterator_Centaurio",
+    "wikiPageId": 117441,
+    "collectType": "Levnis (Gyrinus)"
+  },
+  {
+    "id": "xc3-unique_monster-oceanic-lucera",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Oceanic Lucera",
+    "region": "Erythia Sea (Anu Shoals)",
+    "level": 73,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 73"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Oceanic_Lucera",
+    "wikiPageId": 119476,
+    "collectType": "Moramora"
+  },
+  {
+    "id": "xc3-unique_monster-otherworldly-rodsin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Otherworldly Rodsin",
+    "region": "Erythia Sea (Welkin Falls)",
+    "level": 60,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 60"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Otherworldly_Rodsin",
+    "wikiPageId": 119464,
+    "collectType": "Serprond"
+  },
+  {
+    "id": "xc3-unique_monster-perilwing-ryuho",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Perilwing Ryuho",
+    "region": "Melnath's Shoulder (Coolley Lake)",
+    "level": 100,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 100"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perilwing_Ryuho",
+    "wikiPageId": 117433,
+    "collectType": "Vollgull"
+  },
+  {
+    "id": "xc3-unique_monster-perspicacious-oldar",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Perspicacious Oldar",
+    "region": "Ribbi Flats (Sparres Barr)",
+    "level": 20,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 20"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perspicacious_Oldar",
+    "wikiPageId": 117519,
+    "collectType": "Ardun"
+  },
+  {
+    "id": "xc3-unique_monster-perturbed-bilkin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Perturbed Bilkin",
+    "region": "Millick Meadows (Viliera Hill)",
+    "level": 13,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 13"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perturbed_Bilkin",
+    "wikiPageId": 117906,
+    "collectType": "Flier"
+  },
+  {
+    "id": "xc3-unique_monster-petrivore-judomar",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Petrivore Judomar",
+    "region": "Melnath's Shoulder (Melnath's Pass, Upper)",
+    "level": 31,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 31"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Petrivore_Judomar",
+    "wikiPageId": 118686,
+    "collectType": "Ropl"
+  },
+  {
+    "id": "xc3-unique_monster-phantasmagorical-rist",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Phantasmagorical Rist",
+    "region": "Great Cotte Falls (Cotte Trick Ruins)",
+    "level": 35,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 35"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Phantasmagorical_Rist",
+    "wikiPageId": 118687,
+    "collectType": "Medooz"
+  },
+  {
+    "id": "xc3-unique_monster-phantom-streya",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Phantom Streya",
+    "region": "Millick Meadows (Elgares Depths Entrance)",
+    "level": 51,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 51"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Phantom_Streya",
+    "wikiPageId": 118688,
+    "collectType": "Amoney"
+  },
+  {
+    "id": "xc3-unique_monster-phony-temnos",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Phony Temnos",
+    "region": "Origin Interior (Hangar, Upper Level)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Phony_Temnos",
+    "wikiPageId": 119513,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-pressing-rafeel",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Pressing Rafeel",
+    "region": "Origin Interior (Hangar, Lower Level)",
+    "level": 69,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 69"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pressing_Rafeel",
+    "wikiPageId": 119514,
+    "collectType": "Enpedia"
+  },
+  {
+    "id": "xc3-unique_monster-profound-hodzuki",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Profound Hodzuki",
+    "region": "Elaice Highway (Visura Parkland)",
+    "level": 44,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 44"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Profound_Hodzuki",
+    "wikiPageId": 119427,
+    "collectType": "Quadwing"
+  },
+  {
+    "id": "xc3-unique_monster-protector-revelta",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Protector Revelta",
+    "region": "Syra Hovering Reefs (Hovering Reef 1)",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Protector_Revelta",
+    "wikiPageId": 119450,
+    "collectType": "Levnis (Sagittarius)"
+  },
+  {
+    "id": "xc3-unique_monster-puzzled-raquinu",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Puzzled Raquinu",
+    "region": "Rae-Bel Tableland (Elsayer Cape)",
+    "level": 45,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 45"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Puzzled_Raquinu",
+    "wikiPageId": 119426,
+    "collectType": "Bunnit"
+  },
+  {
+    "id": "xc3-unique_monster-ragemaw-tempeldo",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Ragemaw Tempeldo",
+    "region": "Erythia Sea (Daedal Isle)",
+    "level": 78,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 78"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ragemaw_Tempeldo",
+    "wikiPageId": 119472,
+    "collectType": "Taos"
+  },
+  {
+    "id": "xc3-unique_monster-rambler-curalie",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Rambler Curalie",
+    "region": "Eagus Wilderness (Bennel Cave)",
+    "level": 17,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 17"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rambler_Curalie",
+    "wikiPageId": 118689,
+    "collectType": "Caterpile"
+  },
+  {
+    "id": "xc3-unique_monster-raucous-ron",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Raucous Ron",
+    "region": "Urayan Tunnels (Roaring Spring)",
+    "level": 27,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 27"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Raucous_Ron",
+    "wikiPageId": 118690,
+    "collectType": "Flier"
+  },
+  {
+    "id": "xc3-unique_monster-ravenous-babayaga",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Ravenous Babayaga",
+    "region": "Erythia Sea (Patulia Bay)",
+    "level": 84,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 84"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravenous_Babayaga",
+    "wikiPageId": 119486,
+    "collectType": "Moglum"
+  },
+  {
+    "id": "xc3-unique_monster-reaping-anteel",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Reaping Anteel",
+    "region": "Origin Interior (Ferronis Arsenal",
+    "level": 72,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 72"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Reaping_Anteel",
+    "wikiPageId": 119508,
+    "collectType": "Horrish"
+  },
+  {
+    "id": "xc3-unique_monster-repulsive-deepus",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Repulsive Deepus",
+    "region": "Yzana Plains (Sonata Saddleback)",
+    "level": 24,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 24"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Repulsive_Deepus",
+    "wikiPageId": 119407,
+    "collectType": "Piranhax"
+  },
+  {
+    "id": "xc3-unique_monster-ruthless-grokken",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Ruthless Grokken",
+    "region": "Ribbi Flats (Tonic Waters)",
+    "level": 81,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 81"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ruthless_Grokken",
+    "wikiPageId": 119418,
+    "collectType": "Brog"
+  },
+  {
+    "id": "xc3-unique_monster-saberly-doramp",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Saberly Dorampé",
+    "region": "Great Cotte Falls (Cotte Fountainhead)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Saberly_Doramp%C3%A9",
+    "wikiPageId": 118692,
+    "collectType": "Quardun"
+  },
+  {
+    "id": "xc3-unique_monster-scornful-daria",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Scornful Daria",
+    "region": "Dannagh Desert (Great Idalla Ravine)",
+    "level": 22,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 22"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Scornful_Daria",
+    "wikiPageId": 119415,
+    "collectType": "Skwaror"
+  },
+  {
+    "id": "xc3-unique_monster-seadragoon-melchior",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Seadragoon Melchior",
+    "region": "Erythia Sea (Twinpalm Isle)",
+    "level": 85,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 85"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Seadragoon_Melchior",
+    "wikiPageId": 119487,
+    "collectType": "Merigna, Merfrey"
+  },
+  {
+    "id": "xc3-unique_monster-seatiger-tridence",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Seatiger Tridence",
+    "region": "Erythia Sea (Patulia Bay)",
+    "level": 77,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 77"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Seatiger_Tridence",
+    "wikiPageId": 119491,
+    "collectType": "Shoox"
+  },
+  {
+    "id": "xc3-unique_monster-sensitive-catullus",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Sensitive Catullus",
+    "region": "Alfeto Valley (Sepulchral Cliffpath)",
+    "level": 26,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 26"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sensitive_Catullus",
+    "wikiPageId": 117469,
+    "collectType": "Levnis (Avis)"
+  },
+  {
+    "id": "xc3-unique_monster-seraphic-ceratinia",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Seraphic Ceratinia",
+    "region": "The Cavity",
+    "level": 120,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 120"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Seraphic_Ceratinia",
+    "wikiPageId": 119503,
+    "collectType": "Unknown"
+  },
+  {
+    "id": "xc3-unique_monster-sharkblade-nedd",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Sharkblade Nedd",
+    "region": "Erythia Sea (Daedal Isle)",
+    "level": 67,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 67"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sharkblade_Nedd",
+    "wikiPageId": 119488,
+    "collectType": "Gyaark"
+  },
+  {
+    "id": "xc3-unique_monster-sharpscale-ragoon",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Sharpscale Ragoon",
+    "region": "Erythia Sea (Oshia's Reef Ravine)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sharpscale_Ragoon",
+    "wikiPageId": 119469,
+    "collectType": "Merigna"
+  },
+  {
+    "id": "xc3-unique_monster-sharpwitted-tracy",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Sharpwitted Tracy",
+    "region": "Eagus Wilderness (Reith Valley)",
+    "level": 15,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 15"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sharpwitted_Tracy",
+    "wikiPageId": 118076,
+    "collectType": "Camill"
+  },
+  {
+    "id": "xc3-unique_monster-shimmering-marcko",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Shimmering Marcko",
+    "region": "Urayan Tunnels (Kachurichu Cavern)",
+    "level": 28,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 28"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shimmering_Marcko",
+    "wikiPageId": 118587,
+    "collectType": "Pippito"
+  },
+  {
+    "id": "xc3-unique_monster-slack-jawed-zephal",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Slack-Jawed Zephal",
+    "region": "Erythia Sea (Daedal Isle)",
+    "level": 80,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 80"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Slack-Jawed_Zephal",
+    "wikiPageId": 119473,
+    "collectType": "Darbus"
+  },
+  {
+    "id": "xc3-unique_monster-soaring-virion",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Soaring Virion",
+    "region": "Great Cotte Falls (Amoney's Hallows)",
+    "level": 36,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 36"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Soaring_Virion",
+    "wikiPageId": 119434,
+    "collectType": "Rhogul"
+  },
+  {
+    "id": "xc3-unique_monster-spartan-fennick",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Spartan Fennick",
+    "region": "Low Maktha Wildwood (Gingin's Treehouse)",
+    "level": 78,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 78"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spartan_Fennick",
+    "wikiPageId": 119437,
+    "collectType": "Ageshu"
+  },
+  {
+    "id": "xc3-unique_monster-spectral-r-my",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Spectral Rémy",
+    "region": "Great Sword's Base",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spectral_R%C3%A9my",
+    "wikiPageId": 119460,
+    "collectType": "Medooz"
+  },
+  {
+    "id": "xc3-unique_monster-spiky-aurelia",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Spiky Aurelia",
+    "region": "Erythia Sea (Antol Pit)",
+    "level": 63,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 63"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spiky_Aurelia",
+    "wikiPageId": 119475,
+    "collectType": "Antol"
+  },
+  {
+    "id": "xc3-unique_monster-spiralhorn-baccro",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Spiralhorn Baccro",
+    "region": "Captocorn Peak (Tsang Road)",
+    "level": 56,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 56"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spiralhorn_Baccro",
+    "wikiPageId": 119499,
+    "collectType": "Ories"
+  },
+  {
+    "id": "xc3-unique_monster-stately-doramma",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Stately Doramma",
+    "region": "Great Cotte Falls (Cotte Fountainhead)",
+    "level": 64,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 64"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stately_Doramma",
+    "wikiPageId": 118693,
+    "collectType": "Quarmu"
+  },
+  {
+    "id": "xc3-unique_monster-stoneclipper-gorse",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Stoneclipper Gorse",
+    "region": "Dannagh Desert (Bulik Brae)",
+    "level": 25,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 25"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stoneclipper_Gorse",
+    "wikiPageId": 119413,
+    "collectType": "Scorpox"
+  },
+  {
+    "id": "xc3-unique_monster-stonehoof-torphan",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Stonehoof Torphan",
+    "region": "Captocorn Peak (Piula Path)",
+    "level": 57,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 57"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Stonehoof_Torphan",
+    "wikiPageId": 119500,
+    "collectType": "Aries"
+  },
+  {
+    "id": "xc3-unique_monster-sundappled-floria",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Sundappled Floria",
+    "region": "Great Sword's Base (N'ohm Wetlands)",
+    "level": 71,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 71"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sundappled_Floria",
+    "wikiPageId": 118868,
+    "collectType": "Garaffa"
+  },
+  {
+    "id": "xc3-unique_monster-superboss",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Superboss",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Superboss",
+    "wikiPageId": 3079
+  },
+  {
+    "id": "xc3-unique_monster-sycophantic-lilith",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Sycophantic Lilith",
+    "region": "Yzana Plains (Colony 9 Front Gate)",
+    "level": 5,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 5"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sycophantic_Lilith",
+    "wikiPageId": 119406,
+    "collectType": "Bunnit"
+  },
+  {
+    "id": "xc3-unique_monster-talkative-dirakha",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Talkative Dirakha",
+    "region": "Erythia Sea (Welkin Falls)",
+    "level": 63,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 63"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Talkative_Dirakha",
+    "wikiPageId": 119466,
+    "collectType": "Moglum"
+  },
+  {
+    "id": "xc3-unique_monster-taskmaster-imperion",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Taskmaster Imperion",
+    "region": "Erythia Sea (Erythia Relay Base)",
+    "level": 49,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 49"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Taskmaster_Imperion",
+    "wikiPageId": 119479,
+    "collectType": "Levnis (Ulula)"
+  },
+  {
+    "id": "xc3-unique_monster-tenderling-rumi",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Tenderling Rumi",
+    "region": "Ribbi Flats (Lisza Garden)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tenderling_Rumi",
+    "wikiPageId": 119420,
+    "collectType": "Armu"
+  },
+  {
+    "id": "xc3-unique_monster-terrorbird-zieger",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Terrorbird Zieger",
+    "region": "Dannagh Desert (Glam Rock)",
+    "level": 37,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 37"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Terrorbird_Zieger",
+    "wikiPageId": 119416,
+    "collectType": "Ansel"
+  },
+  {
+    "id": "xc3-unique_monster-thaumawolf-bajeek",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Thaumawolf Bajeek",
+    "region": "Origin Interior (Central Defense)",
+    "level": 71,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 71"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thaumawolf_Bajeek",
+    "wikiPageId": 119517,
+    "collectType": "Kananus"
+  },
+  {
+    "id": "xc3-unique_monster-thunderclap-dalton",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Thunderclap Dalton",
+    "region": "Keves Castle (Troop Reserve Section)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thunderclap_Dalton",
+    "wikiPageId": 119453,
+    "collectType": "Levnis (Speculatos)"
+  },
+  {
+    "id": "xc3-unique_monster-timbercorn-cthinos",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Timbercorn Cthinos",
+    "region": "Captocorn Peak (Ladras Way)",
+    "level": 61,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 61"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Timbercorn_Cthinos",
+    "wikiPageId": 117464,
+    "collectType": "Ellook"
+  },
+  {
+    "id": "xc3-unique_monster-trickfist-tuano",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Trickfist Tuano",
+    "region": "Origin Interior (Amplifier Section)",
+    "level": 66,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 66"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Trickfist_Tuano",
+    "wikiPageId": 119505,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-turbulent-martinez",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Turbulent Martinez",
+    "region": "Keves Castle (Troop Reserve Section)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Turbulent_Martinez",
+    "wikiPageId": 119454,
+    "collectType": "Levnis (Speculatos)"
+  },
+  {
+    "id": "xc3-unique_monster-unobtrusive-liggy",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Unobtrusive Liggy",
+    "region": "Elaice Highway (Three Heroes Peak)",
+    "level": 43,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 43"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Unobtrusive_Liggy",
+    "wikiPageId": 118694,
+    "collectType": "Arachno"
+  },
+  {
+    "id": "xc3-unique_monster-unruffled-narrah",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Unruffled Narrah",
+    "region": "Ribbi Flats (Laprel Knoll)",
+    "level": 19,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 19"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Unruffled_Narrah",
+    "wikiPageId": 119419,
+    "collectType": "Armu"
+  },
+  {
+    "id": "xc3-unique_monster-vapid-roger",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Vapid Roger",
+    "region": "Origin Interior (Hangar Zone)",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vapid_Roger",
+    "wikiPageId": 119511,
+    "collectType": "Droid"
+  },
+  {
+    "id": "xc3-unique_monster-vengeful-dominator",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Vengeful Dominator",
+    "region": "Keves Castle (Hangar, Lower Level)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vengeful_Dominator",
+    "wikiPageId": 119451,
+    "collectType": "Levnis (Velites)"
+  },
+  {
+    "id": "xc3-unique_monster-villainous-igna",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Villainous Igna",
+    "region": "Elaice Highway (Igna Conglomerate)",
+    "level": 46,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 46"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Villainous_Igna",
+    "wikiPageId": 119429,
+    "collectType": "Igna"
+  },
+  {
+    "id": "xc3-unique_monster-virtuous-gulkin",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Virtuous Gulkin",
+    "region": "Erythia Sea (Tengate Ruins)",
+    "level": 52,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 52"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Virtuous_Gulkin",
+    "wikiPageId": 119474,
+    "collectType": "Gulkin"
+  },
+  {
+    "id": "xc3-unique_monster-well-plated-zelinka",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Well-Plated Zelinka",
+    "region": "Yzana Plains (Svinne Cavity)",
+    "level": 53,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 53"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Well-Plated_Zelinka",
+    "wikiPageId": 119408,
+    "collectType": "Crustip"
+  },
+  {
+    "id": "xc3-unique_monster-wicked-wolf-aranqui",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Wicked Wolf Aranqui",
+    "region": "Millick Meadows (Fuschian Fields)",
+    "level": 70,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 70"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wicked_Wolf_Aranqui",
+    "wikiPageId": 117521,
+    "collectType": "Vvarga"
+  },
+  {
+    "id": "xc3-unique_monster-widdershins-radler",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Widdershins Radler",
+    "region": "Erythia Sea (Anu Shoals)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Widdershins_Radler",
+    "wikiPageId": 119478,
+    "collectType": "Eluca"
+  },
+  {
+    "id": "xc3-unique_monster-witchwind-kujjat",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Witchwind Kujjat",
+    "region": "Everblight Plain (Rottswoe Battlescar)",
+    "level": 59,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 59"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Witchwind_Kujjat",
+    "wikiPageId": 119409,
+    "collectType": "Ansel"
+  },
+  {
+    "id": "xc3-unique_monster-wraithfin-segna",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "Wraithfin Segna",
+    "region": "Rae-Bel Tableland (Riez Tarn)",
+    "level": 24,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 24"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wraithfin_Segna",
+    "wikiPageId": 119422,
+    "collectType": "Piranhax"
+  },
+  {
+    "id": "xc3-unique_monster-file-4-blades-in-the-dark-asha-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:4 blades in the dark asha.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3A4_blades_in_the_dark_asha.png",
+    "wikiPageId": 120556
+  },
+  {
+    "id": "xc3-unique_monster-file-4-blades-in-the-dark-lulika-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:4 blades in the dark lulika.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3A4_blades_in_the_dark_lulika.png",
+    "wikiPageId": 120558
+  },
+  {
+    "id": "xc3-unique_monster-file-4-blades-in-the-dark-shikino-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:4 blades in the dark shikino.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3A4_blades_in_the_dark_shikino.png",
+    "wikiPageId": 120559
+  },
+  {
+    "id": "xc3-unique_monster-file-4-blades-in-the-dark-yuri-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:4 blades in the dark yuri.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3A4_blades_in_the_dark_yuri.png",
+    "wikiPageId": 120560
+  },
+  {
+    "id": "xc3-unique_monster-file-abysmal-rakshmi-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Abysmal rakshmi.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAbysmal_rakshmi.png",
+    "wikiPageId": 120562
+  },
+  {
+    "id": "xc3-unique_monster-file-agnian-assassins-krastor-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Agnian assassins krastor.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAgnian_assassins_krastor.png",
+    "wikiPageId": 120691
+  },
+  {
+    "id": "xc3-unique_monster-file-agnian-assassins-sandhu-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Agnian assassins sandhu.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAgnian_assassins_sandhu.png",
+    "wikiPageId": 120693
+  },
+  {
+    "id": "xc3-unique_monster-file-altruistic-maribel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Altruistic Maribel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAltruistic_Maribel.png",
+    "wikiPageId": 119717
+  },
+  {
+    "id": "xc3-unique_monster-file-ambusher-tirion-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Ambusher tirion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAmbusher_tirion.png",
+    "wikiPageId": 120464
+  },
+  {
+    "id": "xc3-unique_monster-file-aquatic-beasts-doramma-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Aquatic beasts doramma.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAquatic_beasts_doramma.png",
+    "wikiPageId": 120694
+  },
+  {
+    "id": "xc3-unique_monster-file-aquatic-beasts-dorampe-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Aquatic beasts dorampe.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAquatic_beasts_dorampe.png",
+    "wikiPageId": 120695
+  },
+  {
+    "id": "xc3-unique_monster-file-armbenders-roisin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Armbenders roisin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AArmbenders_roisin.png",
+    "wikiPageId": 120441
+  },
+  {
+    "id": "xc3-unique_monster-file-armbenders-rojou-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Armbenders rojou.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AArmbenders_rojou.png",
+    "wikiPageId": 120442
+  },
+  {
+    "id": "xc3-unique_monster-file-armbenders-tuano-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Armbenders tuano.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AArmbenders_tuano.png",
+    "wikiPageId": 120443
+  },
+  {
+    "id": "xc3-unique_monster-file-barbed-merod-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Barbed merod.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABarbed_merod.png",
+    "wikiPageId": 120564
+  },
+  {
+    "id": "xc3-unique_monster-file-beseiger-sheritt-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Beseiger sheritt.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeseiger_sheritt.png",
+    "wikiPageId": 120698
+  },
+  {
+    "id": "xc3-unique_monster-file-blazing-karlos-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Blazing karlos.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABlazing_karlos.png",
+    "wikiPageId": 120466
+  },
+  {
+    "id": "xc3-unique_monster-file-bloodsucking-elvis-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Bloodsucking elvis.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABloodsucking_elvis.png",
+    "wikiPageId": 120700
+  },
+  {
+    "id": "xc3-unique_monster-file-budding-francis-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Budding francis.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABudding_francis.png",
+    "wikiPageId": 120702
+  },
+  {
+    "id": "xc3-unique_monster-file-bushwacker-farritt-location-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Bushwacker farritt location.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABushwacker_farritt_location.png",
+    "wikiPageId": 120703
+  },
+  {
+    "id": "xc3-unique_monster-file-bushwacker-farritt-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Bushwacker farritt.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABushwacker_farritt.png",
+    "wikiPageId": 120704
+  },
+  {
+    "id": "xc3-unique_monster-file-cavern-of-oblivion-end-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Cavern of Oblivion End.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACavern_of_Oblivion_End.jpg",
+    "wikiPageId": 122477
+  },
+  {
+    "id": "xc3-unique_monster-file-clinging-azreel-location-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Clinging azreel location.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AClinging_azreel_location.png",
+    "wikiPageId": 120444
+  },
+  {
+    "id": "xc3-unique_monster-file-clinging-azreel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Clinging azreel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AClinging_azreel.png",
+    "wikiPageId": 120445
+  },
+  {
+    "id": "xc3-unique_monster-file-covetous-gerondon-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Covetous gerondon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACovetous_gerondon.png",
+    "wikiPageId": 120566
+  },
+  {
+    "id": "xc3-unique_monster-file-crafty-anskey-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Crafty anskey.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACrafty_anskey.png",
+    "wikiPageId": 120633
+  },
+  {
+    "id": "xc3-unique_monster-file-craven-piggard-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Craven piggard.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACraven_piggard.png",
+    "wikiPageId": 120468
+  },
+  {
+    "id": "xc3-unique_monster-file-creeping-hameel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Creeping hameel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACreeping_hameel.png",
+    "wikiPageId": 120447
+  },
+  {
+    "id": "xc3-unique_monster-file-crystalline-dugarre-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Crystalline dugarre.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACrystalline_dugarre.png",
+    "wikiPageId": 120635
+  },
+  {
+    "id": "xc3-unique_monster-file-dapper-sepiar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Dapper sepiar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADapper_sepiar.png",
+    "wikiPageId": 120637
+  },
+  {
+    "id": "xc3-unique_monster-file-defiled-ishtar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Defiled ishtar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADefiled_ishtar.png",
+    "wikiPageId": 120449
+  },
+  {
+    "id": "xc3-unique_monster-file-demonic-krenolur-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Demonic krenolur.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADemonic_krenolur.png",
+    "wikiPageId": 120568
+  },
+  {
+    "id": "xc3-unique_monster-file-desired-oruria-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Desired oruria.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADesired_oruria.png",
+    "wikiPageId": 120451
+  },
+  {
+    "id": "xc3-unique_monster-file-diabolical-rindolph-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Diabolical rindolph.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADiabolical_rindolph.png",
+    "wikiPageId": 120470
+  },
+  {
+    "id": "xc3-unique_monster-file-dimwitted-tirkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Dimwitted tirkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADimwitted_tirkin.png",
+    "wikiPageId": 120706
+  },
+  {
+    "id": "xc3-unique_monster-file-doomfang-caum-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Doomfang Caum.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADoomfang_Caum.png",
+    "wikiPageId": 119716
+  },
+  {
+    "id": "xc3-unique_monster-file-dreadwyrm-nizoont-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Dreadwyrm Nizoont.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADreadwyrm_Nizoont.jpg",
+    "wikiPageId": 119603
+  },
+  {
+    "id": "xc3-unique_monster-file-dreadwyrm-nizoont-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Dreadwyrm nizoont.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADreadwyrm_nizoont.png",
+    "wikiPageId": 120708
+  },
+  {
+    "id": "xc3-unique_monster-file-dunesea-marcellus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Dunesea Marcellus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADunesea_Marcellus.png",
+    "wikiPageId": 119709
+  },
+  {
+    "id": "xc3-unique_monster-file-fang-king-clavein-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Fang-king clavein.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFang-king_clavein.png",
+    "wikiPageId": 120514
+  },
+  {
+    "id": "xc3-unique_monster-file-farseer-pirtett-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Farseer Pirtett.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFarseer_Pirtett.png",
+    "wikiPageId": 119707
+  },
+  {
+    "id": "xc3-unique_monster-file-fineblade-faltaar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Fineblade faltaar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFineblade_faltaar.png",
+    "wikiPageId": 120435
+  },
+  {
+    "id": "xc3-unique_monster-file-flyswatter-kamado-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Flyswatter kamado.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyswatter_kamado.png",
+    "wikiPageId": 120570
+  },
+  {
+    "id": "xc3-unique_monster-file-foolhardy-saide-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Foolhardy saide.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFoolhardy_saide.png",
+    "wikiPageId": 120572
+  },
+  {
+    "id": "xc3-unique_monster-file-four-devas-ceratinia-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Four Devas Ceratinia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFour_Devas_Ceratinia.jpg",
+    "wikiPageId": 129741
+  },
+  {
+    "id": "xc3-unique_monster-file-four-devas-grandeps-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Four Devas Grandeps.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFour_Devas_Grandeps.jpg",
+    "wikiPageId": 129740
+  },
+  {
+    "id": "xc3-unique_monster-file-four-devas-nizoont-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Four Devas Nizoont.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFour_Devas_Nizoont.jpg",
+    "wikiPageId": 129738
+  },
+  {
+    "id": "xc3-unique_monster-file-four-devas-ryuho-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Four Devas Ryuho.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFour_Devas_Ryuho.jpg",
+    "wikiPageId": 129739
+  },
+  {
+    "id": "xc3-unique_monster-file-frolicking-parker-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Frolicking parker.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFrolicking_parker.png",
+    "wikiPageId": 120710
+  },
+  {
+    "id": "xc3-unique_monster-file-gallivanter-buckley-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Gallivanter buckley.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGallivanter_buckley.png",
+    "wikiPageId": 120712
+  },
+  {
+    "id": "xc3-unique_monster-file-galloping-ghuldan-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Galloping ghuldan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalloping_ghuldan.png",
+    "wikiPageId": 120574
+  },
+  {
+    "id": "xc3-unique_monster-file-gorgeous-mandora-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Gorgeous mandora.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGorgeous_mandora.png",
+    "wikiPageId": 120714
+  },
+  {
+    "id": "xc3-unique_monster-file-gracious-titania-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Gracious titania.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGracious_titania.png",
+    "wikiPageId": 120716
+  },
+  {
+    "id": "xc3-unique_monster-file-gushing-masquin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Gushing masquin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGushing_masquin.png",
+    "wikiPageId": 120516
+  },
+  {
+    "id": "xc3-unique_monster-file-hardshelled-admory-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hardshelled admory.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHardshelled_admory.png",
+    "wikiPageId": 120576
+  },
+  {
+    "id": "xc3-unique_monster-file-hazardous-jarrahed-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hazardous Jarrahed.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHazardous_Jarrahed.png",
+    "wikiPageId": 119702
+  },
+  {
+    "id": "xc3-unique_monster-file-heavenrazor-egreet-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Heavenrazor egreet.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHeavenrazor_egreet.png",
+    "wikiPageId": 120437
+  },
+  {
+    "id": "xc3-unique_monster-file-hedonistic-tirkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hedonistic tirkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHedonistic_tirkin.png",
+    "wikiPageId": 120647
+  },
+  {
+    "id": "xc3-unique_monster-file-heretical-saurow-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Heretical Saurow.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHeretical_Saurow.png",
+    "wikiPageId": 119715
+  },
+  {
+    "id": "xc3-unique_monster-file-heroic-gulkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Heroic gulkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHeroic_gulkin.png",
+    "wikiPageId": 120578
+  },
+  {
+    "id": "xc3-unique_monster-file-hollow-ones-karom-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hollow ones karom.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHollow_ones_karom.png",
+    "wikiPageId": 120452
+  },
+  {
+    "id": "xc3-unique_monster-file-hollow-ones-optho-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hollow ones optho.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHollow_ones_optho.png",
+    "wikiPageId": 120454
+  },
+  {
+    "id": "xc3-unique_monster-file-hollow-ones-roger-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hollow ones roger.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHollow_ones_roger.png",
+    "wikiPageId": 120455
+  },
+  {
+    "id": "xc3-unique_monster-file-hollow-ones-temnos-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hollow ones temnos.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHollow_ones_temnos.png",
+    "wikiPageId": 120456
+  },
+  {
+    "id": "xc3-unique_monster-file-hornbow-dante-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Hornbow dante.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHornbow_dante.png",
+    "wikiPageId": 120472
+  },
+  {
+    "id": "xc3-unique_monster-file-househunter-carly-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Househunter carly.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHousehunter_carly.png",
+    "wikiPageId": 120518
+  },
+  {
+    "id": "xc3-unique_monster-file-impish-langobard-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Impish langobard.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AImpish_langobard.png",
+    "wikiPageId": 120651
+  },
+  {
+    "id": "xc3-unique_monster-file-indiscreet-gombaba-tombstone-jpeg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Indiscreet Gombaba Tombstone.jpeg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIndiscreet_Gombaba_Tombstone.jpeg",
+    "wikiPageId": 118310
+  },
+  {
+    "id": "xc3-unique_monster-file-indiscreet-gombaba-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Indiscreet gombaba.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIndiscreet_gombaba.png",
+    "wikiPageId": 120520
+  },
+  {
+    "id": "xc3-unique_monster-file-infiltrator-garnach-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Infiltrator garnach.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInfiltrator_garnach.png",
+    "wikiPageId": 120474
+  },
+  {
+    "id": "xc3-unique_monster-file-intrusive-neville-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Intrusive neville.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIntrusive_neville.png",
+    "wikiPageId": 120580
+  },
+  {
+    "id": "xc3-unique_monster-file-jealous-mizraile-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Jealous mizraile.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJealous_mizraile.png",
+    "wikiPageId": 120582
+  },
+  {
+    "id": "xc3-unique_monster-file-jingoistic-gigantus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Jingoistic gigantus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJingoistic_gigantus.png",
+    "wikiPageId": 120522
+  },
+  {
+    "id": "xc3-unique_monster-file-joyful-nimroog-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Joyful nimroog.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJoyful_nimroog.png",
+    "wikiPageId": 120653
+  },
+  {
+    "id": "xc3-unique_monster-file-keen-chicky-chicky-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Keen chicky-chicky.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKeen_chicky-chicky.png",
+    "wikiPageId": 120524
+  },
+  {
+    "id": "xc3-unique_monster-file-killhappy-brijaidor-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Killhappy brijaidor.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKillhappy_brijaidor.png",
+    "wikiPageId": 120584
+  },
+  {
+    "id": "xc3-unique_monster-file-kilocorn-grandeps-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Kilocorn grandeps.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKilocorn_grandeps.png",
+    "wikiPageId": 120655
+  },
+  {
+    "id": "xc3-unique_monster-file-lapdog-veece-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Lapdog veece.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALapdog_veece.png",
+    "wikiPageId": 120526
+  },
+  {
+    "id": "xc3-unique_monster-file-levialord-empireo-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Levialord empireo.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALevialord_empireo.png",
+    "wikiPageId": 120586
+  },
+  {
+    "id": "xc3-unique_monster-file-littlefort-morley-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Littlefort morley.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALittlefort_morley.png",
+    "wikiPageId": 120588
+  },
+  {
+    "id": "xc3-unique_monster-file-massive-georges-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Massive georges.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMassive_georges.png",
+    "wikiPageId": 120718
+  },
+  {
+    "id": "xc3-unique_monster-file-migratory-circe-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Migratory circe.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMigratory_circe.png",
+    "wikiPageId": 120528
+  },
+  {
+    "id": "xc3-unique_monster-file-mobile-vespa-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Mobile vespa.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMobile_vespa.png",
+    "wikiPageId": 120476
+  },
+  {
+    "id": "xc3-unique_monster-file-naval-gyrus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Naval gyrus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANaval_gyrus.png",
+    "wikiPageId": 120590
+  },
+  {
+    "id": "xc3-unique_monster-file-navigator-helios-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Navigator helios.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANavigator_helios.png",
+    "wikiPageId": 120592
+  },
+  {
+    "id": "xc3-unique_monster-file-night-stalker-volodya-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Night-stalker volodya.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANight-stalker_volodya.png",
+    "wikiPageId": 120657
+  },
+  {
+    "id": "xc3-unique_monster-file-obliterator-centaurio-night-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Obliterator Centaurio night.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObliterator_Centaurio_night.png",
+    "wikiPageId": 120994
+  },
+  {
+    "id": "xc3-unique_monster-file-obliterator-centaurio-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Obliterator Centaurio.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObliterator_Centaurio.jpg",
+    "wikiPageId": 118357
+  },
+  {
+    "id": "xc3-unique_monster-file-obliterator-centaurio-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Obliterator centaurio.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObliterator_centaurio.png",
+    "wikiPageId": 120594
+  },
+  {
+    "id": "xc3-unique_monster-file-oceanic-lucera-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Oceanic lucera.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOceanic_lucera.png",
+    "wikiPageId": 120596
+  },
+  {
+    "id": "xc3-unique_monster-file-otherworldly-rodsin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Otherworldly rodsin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOtherworldly_rodsin.png",
+    "wikiPageId": 120598
+  },
+  {
+    "id": "xc3-unique_monster-file-perilwing-ryuho-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Perilwing ryuho.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerilwing_ryuho.png",
+    "wikiPageId": 120530
+  },
+  {
+    "id": "xc3-unique_monster-file-perspicacious-oldar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Perspicacious Oldar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerspicacious_Oldar.png",
+    "wikiPageId": 119705
+  },
+  {
+    "id": "xc3-unique_monster-file-perturbed-bilkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Perturbed Bilkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerturbed_Bilkin.png",
+    "wikiPageId": 119710
+  },
+  {
+    "id": "xc3-unique_monster-file-petrivore-judomar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Petrivore Judomar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APetrivore_Judomar.png",
+    "wikiPageId": 119701
+  },
+  {
+    "id": "xc3-unique_monster-file-phantasmagorical-rist-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Phantasmagorical rist.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APhantasmagorical_rist.png",
+    "wikiPageId": 120720
+  },
+  {
+    "id": "xc3-unique_monster-file-phantom-streya-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Phantom streya.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APhantom_streya.png",
+    "wikiPageId": 120536
+  },
+  {
+    "id": "xc3-unique_monster-file-pressing-rafeel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Pressing rafeel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APressing_rafeel.png",
+    "wikiPageId": 120458
+  },
+  {
+    "id": "xc3-unique_monster-file-primate-triumvirate-gigantus-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Primate Triumvirate Gigantus.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APrimate_Triumvirate_Gigantus.jpg",
+    "wikiPageId": 130170
+  },
+  {
+    "id": "xc3-unique_monster-file-primate-triumvirate-gonzales-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Primate Triumvirate Gonzales.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APrimate_Triumvirate_Gonzales.jpg",
+    "wikiPageId": 130171
+  },
+  {
+    "id": "xc3-unique_monster-file-primate-triumvirate-langobard-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Primate Triumvirate Langobard.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APrimate_Triumvirate_Langobard.jpg",
+    "wikiPageId": 130172
+  },
+  {
+    "id": "xc3-unique_monster-file-profound-hodzuki-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Profound Hodzuki.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AProfound_Hodzuki.png",
+    "wikiPageId": 119703
+  },
+  {
+    "id": "xc3-unique_monster-file-protector-revelta-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Protector revelta.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AProtector_revelta.png",
+    "wikiPageId": 120478
+  },
+  {
+    "id": "xc3-unique_monster-file-puzzled-raquinu-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Puzzled raquinu.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APuzzled_raquinu.png",
+    "wikiPageId": 120663
+  },
+  {
+    "id": "xc3-unique_monster-file-ragemaw-tempeldo-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Ragemaw tempeldo.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARagemaw_tempeldo.png",
+    "wikiPageId": 120600
+  },
+  {
+    "id": "xc3-unique_monster-file-rambler-curalie-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Rambler Curalie.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARambler_Curalie.png",
+    "wikiPageId": 119704
+  },
+  {
+    "id": "xc3-unique_monster-file-raucous-ron-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Raucous ron.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARaucous_ron.png",
+    "wikiPageId": 120722
+  },
+  {
+    "id": "xc3-unique_monster-file-ravenous-babayaga-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Ravenous babayaga.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARavenous_babayaga.png",
+    "wikiPageId": 120602
+  },
+  {
+    "id": "xc3-unique_monster-file-reaping-anteel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Reaping anteel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AReaping_anteel.png",
+    "wikiPageId": 120460
+  },
+  {
+    "id": "xc3-unique_monster-file-repulsive-deepus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Repulsive deepus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARepulsive_deepus.png",
+    "wikiPageId": 120538
+  },
+  {
+    "id": "xc3-unique_monster-file-ruthless-grokken-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Ruthless grokken.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARuthless_grokken.png",
+    "wikiPageId": 120667
+  },
+  {
+    "id": "xc3-unique_monster-file-scornful-daria-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Scornful Daria.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AScornful_Daria.png",
+    "wikiPageId": 119708
+  },
+  {
+    "id": "xc3-unique_monster-file-seadragoon-melchior-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Seadragoon melchior.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeadragoon_melchior.png",
+    "wikiPageId": 120604
+  },
+  {
+    "id": "xc3-unique_monster-file-seatiger-tridence-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Seatiger tridence.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeatiger_tridence.png",
+    "wikiPageId": 120993
+  },
+  {
+    "id": "xc3-unique_monster-file-sensitive-catullus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Sensitive catullus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASensitive_catullus.png",
+    "wikiPageId": 120540
+  },
+  {
+    "id": "xc3-unique_monster-file-seraphic-ceratinia-concept-art-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Seraphic Ceratinia Concept Art.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeraphic_Ceratinia_Concept_Art.jpg",
+    "wikiPageId": 130221
+  },
+  {
+    "id": "xc3-unique_monster-file-seraphic-ceratinia-location-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Seraphic ceratinia location.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeraphic_ceratinia_location.png",
+    "wikiPageId": 120438
+  },
+  {
+    "id": "xc3-unique_monster-file-seraphic-ceratinia-wings-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Seraphic Ceratinia wings.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeraphic_Ceratinia_wings.png",
+    "wikiPageId": 124095
+  },
+  {
+    "id": "xc3-unique_monster-file-seraphic-ceratinia-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Seraphic ceratinia.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeraphic_ceratinia.png",
+    "wikiPageId": 120439
+  },
+  {
+    "id": "xc3-unique_monster-file-sharkblade-nedd-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Sharkblade Nedd.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASharkblade_Nedd.jpg",
+    "wikiPageId": 119640
+  },
+  {
+    "id": "xc3-unique_monster-file-sharkblade-nedd-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Sharkblade nedd.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASharkblade_nedd.png",
+    "wikiPageId": 120606
+  },
+  {
+    "id": "xc3-unique_monster-file-sharpwitted-tracy-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Sharpwitted Tracy.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASharpwitted_Tracy.png",
+    "wikiPageId": 119700
+  },
+  {
+    "id": "xc3-unique_monster-file-shimmering-marcko-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Shimmering marcko.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AShimmering_marcko.png",
+    "wikiPageId": 120724
+  },
+  {
+    "id": "xc3-unique_monster-file-slack-jawed-zephal-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Slack-jawed zephal.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASlack-jawed_zephal.png",
+    "wikiPageId": 120608
+  },
+  {
+    "id": "xc3-unique_monster-file-soaring-virion-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Soaring virion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASoaring_virion.png",
+    "wikiPageId": 120726
+  },
+  {
+    "id": "xc3-unique_monster-file-spartan-fennick-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Spartan fennick.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASpartan_fennick.png",
+    "wikiPageId": 120728
+  },
+  {
+    "id": "xc3-unique_monster-file-spectral-remy-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Spectral remy.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASpectral_remy.png",
+    "wikiPageId": 120611
+  },
+  {
+    "id": "xc3-unique_monster-file-spiky-aurelia-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Spiky aurelia.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASpiky_aurelia.png",
+    "wikiPageId": 120614
+  },
+  {
+    "id": "xc3-unique_monster-file-spiralhorn-baccro-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Spiralhorn baccro.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASpiralhorn_baccro.png",
+    "wikiPageId": 120542
+  },
+  {
+    "id": "xc3-unique_monster-file-stoneclipper-gorse-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Stoneclipper gorse.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStoneclipper_gorse.png",
+    "wikiPageId": 120673
+  },
+  {
+    "id": "xc3-unique_monster-file-stonehoof-torphan-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Stonehoof torphan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStonehoof_torphan.png",
+    "wikiPageId": 120544
+  },
+  {
+    "id": "xc3-unique_monster-file-sundappled-floria-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Sundappled floria.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASundappled_floria.png",
+    "wikiPageId": 120616
+  },
+  {
+    "id": "xc3-unique_monster-file-superboss-grave-xc3-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Superboss grave XC3.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASuperboss_grave_XC3.png",
+    "wikiPageId": 124437
+  },
+  {
+    "id": "xc3-unique_monster-file-sycophantic-lilith-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Sycophantic lilith.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASycophantic_lilith.png",
+    "wikiPageId": 120546
+  },
+  {
+    "id": "xc3-unique_monster-file-talkative-dirakha-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Talkative dirakha.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATalkative_dirakha.png",
+    "wikiPageId": 120618
+  },
+  {
+    "id": "xc3-unique_monster-file-taskmaster-imperion-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Taskmaster imperion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATaskmaster_imperion.png",
+    "wikiPageId": 120620
+  },
+  {
+    "id": "xc3-unique_monster-file-tenderling-rumi-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Tenderling rumi.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATenderling_rumi.png",
+    "wikiPageId": 120677
+  },
+  {
+    "id": "xc3-unique_monster-file-terrorbird-zieger-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Terrorbird zieger.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATerrorbird_zieger.png",
+    "wikiPageId": 120680
+  },
+  {
+    "id": "xc3-unique_monster-file-thaumawolf-bajeek-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Thaumawolf bajeek.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThaumawolf_bajeek.png",
+    "wikiPageId": 120462
+  },
+  {
+    "id": "xc3-unique_monster-file-the-black-triad-dalton-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The black triad dalton.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_black_triad_dalton.png",
+    "wikiPageId": 120479
+  },
+  {
+    "id": "xc3-unique_monster-file-the-black-triad-martinez-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The black triad martinez.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_black_triad_martinez.png",
+    "wikiPageId": 120481
+  },
+  {
+    "id": "xc3-unique_monster-file-the-black-triad-vatslav-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The black triad vatslav.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_black_triad_vatslav.png",
+    "wikiPageId": 120482
+  },
+  {
+    "id": "xc3-unique_monster-file-the-excecutioners-arbiter-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The excecutioners arbiter.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_excecutioners_arbiter.png",
+    "wikiPageId": 120483
+  },
+  {
+    "id": "xc3-unique_monster-file-the-excecutioners-dominator-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The excecutioners dominator.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_excecutioners_dominator.png",
+    "wikiPageId": 120484
+  },
+  {
+    "id": "xc3-unique_monster-file-the-king-kings-deepwan-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The king-kings deepwan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_king-kings_deepwan.png",
+    "wikiPageId": 120621
+  },
+  {
+    "id": "xc3-unique_monster-file-the-king-kings-krawkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:The king-kings krawkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_king-kings_krawkin.png",
+    "wikiPageId": 120622
+  },
+  {
+    "id": "xc3-unique_monster-file-timbercorn-cthinos-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Timbercorn cthinos.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATimbercorn_cthinos.png",
+    "wikiPageId": 120548
+  },
+  {
+    "id": "xc3-unique_monster-file-unobtrusive-liggy-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Unobtrusive liggy.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUnobtrusive_liggy.png",
+    "wikiPageId": 120683
+  },
+  {
+    "id": "xc3-unique_monster-file-unruffled-narrah-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Unruffled Narrah.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUnruffled_Narrah.png",
+    "wikiPageId": 119706
+  },
+  {
+    "id": "xc3-unique_monster-file-villainous-igna-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Villainous igna.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVillainous_igna.png",
+    "wikiPageId": 120687
+  },
+  {
+    "id": "xc3-unique_monster-file-virtuous-gulkin-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Virtuous Gulkin.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVirtuous_Gulkin.jpg",
+    "wikiPageId": 119190
+  },
+  {
+    "id": "xc3-unique_monster-file-virtuous-gulkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Virtuous gulkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVirtuous_gulkin.png",
+    "wikiPageId": 120625
+  },
+  {
+    "id": "xc3-unique_monster-file-well-plated-zelinka-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Well-plated zelinka.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWell-plated_zelinka.png",
+    "wikiPageId": 120550
+  },
+  {
+    "id": "xc3-unique_monster-file-whirlpool-triumvirate-gouran-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Whirlpool triumvirate gouran.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWhirlpool_triumvirate_gouran.png",
+    "wikiPageId": 120626
+  },
+  {
+    "id": "xc3-unique_monster-file-whirlpool-triumvirate-marina-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Whirlpool triumvirate marina.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWhirlpool_triumvirate_marina.png",
+    "wikiPageId": 120628
+  },
+  {
+    "id": "xc3-unique_monster-file-whirlpool-triumvirate-ragoon-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Whirlpool triumvirate ragoon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWhirlpool_triumvirate_ragoon.png",
+    "wikiPageId": 120629
+  },
+  {
+    "id": "xc3-unique_monster-file-wicked-wolf-aranqui-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Wicked wolf aranqui.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWicked_wolf_aranqui.png",
+    "wikiPageId": 120552
+  },
+  {
+    "id": "xc3-unique_monster-file-widdershins-radler-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Widdershins radler.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWiddershins_radler.png",
+    "wikiPageId": 120631
+  },
+  {
+    "id": "xc3-unique_monster-file-witchwind-kujjat-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Witchwind kujjat.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWitchwind_kujjat.png",
+    "wikiPageId": 120555
+  },
+  {
+    "id": "xc3-unique_monster-file-wrathfin-segna-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Wrathfin segna.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWrathfin_segna.png",
+    "wikiPageId": 120690
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-4-blades-in-the-dark-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 4 Blades in the Dark.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_4_Blades_in_the_Dark.png",
+    "wikiPageId": 124425
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-abysmal-rakshmi-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Abysmal Rakshmi.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Abysmal_Rakshmi.png",
+    "wikiPageId": 124417
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-agnian-assassins-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Agnian Assassins.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Agnian_Assassins.png",
+    "wikiPageId": 122317
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-ambusher-tirion-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Ambusher Tirion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Ambusher_Tirion.png",
+    "wikiPageId": 120989
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-aquatic-beasts-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Aquatic Beasts.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Aquatic_Beasts.png",
+    "wikiPageId": 124330
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-armbenders-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Armbenders.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Armbenders.png",
+    "wikiPageId": 124427
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-barbed-merod-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Barbed Merod.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Barbed_Merod.png",
+    "wikiPageId": 124409
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-besieger-sheritt-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Besieger Sheritt.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Besieger_Sheritt.png",
+    "wikiPageId": 120746
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-black-triad-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Black Triad.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Black_Triad.png",
+    "wikiPageId": 124292
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-blazing-karlos-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Blazing Karlos.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Blazing_Karlos.png",
+    "wikiPageId": 120988
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-bloodsucking-elvis-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Bloodsucking Elvis.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Bloodsucking_Elvis.png",
+    "wikiPageId": 124331
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-budding-francis-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Budding Francis.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Budding_Francis.png",
+    "wikiPageId": 120171
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-bushwhacker-farritt-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Bushwhacker Farritt.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Bushwhacker_Farritt.png",
+    "wikiPageId": 120747
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-clinging-azreel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Clinging Azreel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Clinging_Azreel.png",
+    "wikiPageId": 123061
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-conqueror-deepwan-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Conqueror Deepwan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Conqueror_Deepwan.png",
+    "wikiPageId": 123879
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-covetous-gerondon-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Covetous Gerondon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Covetous_Gerondon.png",
+    "wikiPageId": 124411
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-crafty-anskey-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Crafty Anskey.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Crafty_Anskey.png",
+    "wikiPageId": 124326
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-craven-piggard-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Craven Piggard.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Craven_Piggard.png",
+    "wikiPageId": 120987
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-creeping-hameel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Creeping Hameel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Creeping_Hameel.png",
+    "wikiPageId": 123846
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-crystalline-dugarre-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Crystalline DuGarre.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Crystalline_DuGarre.png",
+    "wikiPageId": 119749
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-dapper-sepiar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Dapper Sepiar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Dapper_Sepiar.png",
+    "wikiPageId": 119741
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-defiled-ishtar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Defiled Ishtar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Defiled_Ishtar.png",
+    "wikiPageId": 123063
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-desired-oruria-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Desired Oruria.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Desired_Oruria.png",
+    "wikiPageId": 123053
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-diabolical-rindolph-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Diabolical Rindolph.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Diabolical_Rindolph.png",
+    "wikiPageId": 120745
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-dimwitted-tirkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Dimwitted Tirkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Dimwitted_Tirkin.png",
+    "wikiPageId": 120186
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-fairscale-marina-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Fairscale Marina.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Fairscale_Marina.png",
+    "wikiPageId": 124422
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-fang-king-clavein-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Fang-King Clavein.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Fang-King_Clavein.png",
+    "wikiPageId": 122271
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-fineblade-faltaar-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Fineblade Faltaar.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Fineblade_Faltaar.png",
+    "wikiPageId": 124324
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-flyswatter-kamado-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Flyswatter Kamado.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Flyswatter_Kamado.png",
+    "wikiPageId": 124418
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-foolhardy-saide-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Foolhardy Saide.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Foolhardy_Saide.png",
+    "wikiPageId": 124406
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-forsaken-arbiter-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Forsaken Arbiter.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Forsaken_Arbiter.png",
+    "wikiPageId": 124290
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-frolicking-parker-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Frolicking Parker.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Frolicking_Parker.png",
+    "wikiPageId": 120187
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-gallivanter-buckley-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Gallivanter Buckley.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Gallivanter_Buckley.png",
+    "wikiPageId": 120188
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-galloping-ghuldan-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Galloping Ghuldan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Galloping_Ghuldan.png",
+    "wikiPageId": 124332
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-gorgeous-mandora-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Gorgeous Mandora.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Gorgeous_Mandora.png",
+    "wikiPageId": 122318
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-gracious-titania-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Gracious Titania.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Gracious_Titania.png",
+    "wikiPageId": 124328
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-gushing-masquin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Gushing Masquin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Gushing_Masquin.png",
+    "wikiPageId": 119726
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-hardscale-gouran-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Hardscale Gouran.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Hardscale_Gouran.png",
+    "wikiPageId": 124424
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-hardshelled-admory-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Hardshelled Admory.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Hardshelled_Admory.png",
+    "wikiPageId": 124407
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-heavenrazor-egreet-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Heavenrazor Egreet.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Heavenrazor_Egreet.png",
+    "wikiPageId": 124410
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-hedonist-tirkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Hedonist Tirkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Hedonist_Tirkin.png",
+    "wikiPageId": 119740
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-heroic-gulkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Heroic Gulkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Heroic_Gulkin.png",
+    "wikiPageId": 122272
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-hollow-ones-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Hollow Ones.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Hollow_Ones.png",
+    "wikiPageId": 124426
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-hornbow-dante-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Hornbow Dante.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Hornbow_Dante.png",
+    "wikiPageId": 124286
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-househunter-carly-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Househunter Carly.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Househunter_Carly.png",
+    "wikiPageId": 119725
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-immovable-gonzalez-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:Xc3 immovable gonzalez.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXc3_immovable_gonzalez.png",
+    "wikiPageId": 120730
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-impish-langobard-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Impish Langobard.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Impish_Langobard.png",
+    "wikiPageId": 124327
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-indiscreet-gombaba-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Indiscreet Gombaba.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Indiscreet_Gombaba.jpg",
+    "wikiPageId": 118315
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-infiltrator-garnach-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Infiltrator Garnach.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Infiltrator_Garnach.png",
+    "wikiPageId": 124287
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-intrusive-neville-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Intrusive Neville.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Intrusive_Neville.png",
+    "wikiPageId": 124420
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-jealous-mizraile-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Jealous Mizraile.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Jealous_Mizraile.png",
+    "wikiPageId": 124421
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-joyful-nimroog-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Joyful Nimroog.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Joyful_Nimroog.png",
+    "wikiPageId": 120183
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-keen-chicky-chicky-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Keen Chicky-Chicky.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Keen_Chicky-Chicky.png",
+    "wikiPageId": 122519
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-killhappy-brijaidor-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Killhappy Brijaidor.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Killhappy_Brijaidor.png",
+    "wikiPageId": 122267
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-kilocorn-grandeps-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Kilocorn Grandeps.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Kilocorn_Grandeps.png",
+    "wikiPageId": 122268
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-king-krawkin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 King Krawkin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_King_Krawkin.png",
+    "wikiPageId": 123878
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-lapdog-veece-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Lapdog Veece.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Lapdog_Veece.png",
+    "wikiPageId": 119729
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-levialord-empireo-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Levialord Empireo.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Levialord_Empireo.png",
+    "wikiPageId": 122270
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-littlefort-morley-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Littlefort Morley.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Littlefort_Morley.png",
+    "wikiPageId": 124408
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-massive-georges-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Massive Georges.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Massive_Georges.png",
+    "wikiPageId": 119724
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-migratory-circe-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Migratory Circe.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Migratory_Circe.png",
+    "wikiPageId": 118118
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-millenary-horned-grandeps-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Millenary Horned Grandeps.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Millenary_Horned_Grandeps.jpg",
+    "wikiPageId": 118142
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-mobile-vespa-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Mobile Vespa.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Mobile_Vespa.png",
+    "wikiPageId": 124289
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-naval-gyrus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Naval Gyrus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Naval_Gyrus.png",
+    "wikiPageId": 124419
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-navigator-helios-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Navigator Helios.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Navigator_Helios.png",
+    "wikiPageId": 123076
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-night-stalker-volodya-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Night-Stalker Volodya.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Night-Stalker_Volodya.png",
+    "wikiPageId": 124405
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-oceanic-lucera-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Oceanic Lucera.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Oceanic_Lucera.png",
+    "wikiPageId": 122262
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-otherworldy-rodsin-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Otherworldy Rodsin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Otherworldy_Rodsin.png",
+    "wikiPageId": 124369
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-perilwing-ryuho-cropped-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Perilwing Ryuho (cropped).png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Perilwing_Ryuho_(cropped).png",
+    "wikiPageId": 122269
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-perilwing-ryuho-2-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Perilwing Ryuho 2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Perilwing_Ryuho_2.jpg",
+    "wikiPageId": 129652
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-perilwing-ryuho-jpeg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Perilwing Ryuho.jpeg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Perilwing_Ryuho.jpeg",
+    "wikiPageId": 118157
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-phantasmagorical-rist-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Phantasmagorical Rist.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Phantasmagorical_Rist.png",
+    "wikiPageId": 120185
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-phantom-streya-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Phantom Streya.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Phantom_Streya.png",
+    "wikiPageId": 124323
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-pressing-rafeel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Pressing Rafeel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Pressing_Rafeel.png",
+    "wikiPageId": 123055
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-protector-revelta-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Protector Revelta.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Protector_Revelta.png",
+    "wikiPageId": 124288
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-puzzled-raquinu-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Puzzled Raquinu.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Puzzled_Raquinu.png",
+    "wikiPageId": 120189
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-ragemaw-tempeldo-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Ragemaw Tempeldo.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Ragemaw_Tempeldo.png",
+    "wikiPageId": 123066
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-raucous-ron-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Raucous Ron.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Raucous_Ron.png",
+    "wikiPageId": 119723
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-ravenous-babayaga-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Ravenous Babayaga.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Ravenous_Babayaga.png",
+    "wikiPageId": 123065
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-reaping-anteel-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Reaping Anteel.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Reaping_Anteel.png",
+    "wikiPageId": 123062
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-repulsive-deepus-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Repulsive Deepus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Repulsive_Deepus.png",
+    "wikiPageId": 120732
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-ruthless-grokken-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Ruthless Grokken.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Ruthless_Grokken.png",
+    "wikiPageId": 122266
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-seadragoon-melchior-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Seadragoon Melchior.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Seadragoon_Melchior.png",
+    "wikiPageId": 123051
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-seatiger-tridence-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Seatiger Tridence.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Seatiger_Tridence.png",
+    "wikiPageId": 124416
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-sensitive-catullus-jpeg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Sensitive Catullus.jpeg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Sensitive_Catullus.jpeg",
+    "wikiPageId": 118290
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-seraphic-ceratinia-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Seraphic Ceratinia.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Seraphic_Ceratinia.png",
+    "wikiPageId": 123877
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-sharpscale-ragoon-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Sharpscale Ragoon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Sharpscale_Ragoon.png",
+    "wikiPageId": 124423
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-shimmering-marcko-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Shimmering Marcko.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Shimmering_Marcko.png",
+    "wikiPageId": 124329
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-slack-jawed-zephal-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Slack-Jawed Zephal.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Slack-Jawed_Zephal.png",
+    "wikiPageId": 122263
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-soaring-virion-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Soaring Virion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Soaring_Virion.png",
+    "wikiPageId": 120172
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-spartan-fennick-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Spartan Fennick.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Spartan_Fennick.png",
+    "wikiPageId": 122265
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-spectral-r-my-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Spectral Rémy.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Spectral_R%C3%A9my.png",
+    "wikiPageId": 124415
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-spiky-aurelia-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Spiky Aurelia.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Spiky_Aurelia.png",
+    "wikiPageId": 122520
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-spiralhorn-baccro-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Spiralhorn Baccro.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Spiralhorn_Baccro.png",
+    "wikiPageId": 122518
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-stoneclipper-gorse-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Stoneclipper Gorse.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Stoneclipper_Gorse.png",
+    "wikiPageId": 119747
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-stonehoof-torphan-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Stonehoof Torphan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Stonehoof_Torphan.png",
+    "wikiPageId": 122517
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-sundappled-floria-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Sundappled Floria.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Sundappled_Floria.png",
+    "wikiPageId": 124414
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-syncophantic-lilith-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Syncophantic Lilith.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Syncophantic_Lilith.png",
+    "wikiPageId": 119730
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-talkative-dirakha-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Talkative Dirakha.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Talkative_Dirakha.png",
+    "wikiPageId": 124412
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-taskmaster-imperion-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Taskmaster Imperion.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Taskmaster_Imperion.png",
+    "wikiPageId": 123074
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-tenderling-rumi-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Tenderling Rumi.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Tenderling_Rumi.png",
+    "wikiPageId": 119742
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-territorial-rotbart-01-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Territorial Rotbart 01.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Territorial_Rotbart_01.jpg",
+    "wikiPageId": 117339
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-territorial-rotbart-02-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Territorial Rotbart 02.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Territorial_Rotbart_02.jpg",
+    "wikiPageId": 117338
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-territorial-rotbart-jpg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Territorial Rotbart.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Territorial_Rotbart.jpg",
+    "wikiPageId": 117347
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-terrorbird-zieger-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Terrorbird Zieger.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Terrorbird_Zieger.png",
+    "wikiPageId": 120170
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-thaumawolf-bajeek-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Thaumawolf Bajeek.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Thaumawolf_Bajeek.png",
+    "wikiPageId": 123058
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-timbercorn-cthinos-jpeg",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Timbercorn Cthinos.jpeg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Timbercorn_Cthinos.jpeg",
+    "wikiPageId": 118175
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-unique-monster-icon-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Unique Monster Icon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Unique_Monster_Icon.png",
+    "wikiPageId": 131376
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-unobtrusive-liggy-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Unobtrusive Liggy.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Unobtrusive_Liggy.png",
+    "wikiPageId": 120744
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-vengeful-dominator-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Vengeful Dominator.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Vengeful_Dominator.png",
+    "wikiPageId": 124291
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-villainous-igna-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Villainous Igna.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Villainous_Igna.png",
+    "wikiPageId": 124325
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-well-plated-zelinka-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Well-Plated Zelinka.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Well-Plated_Zelinka.png",
+    "wikiPageId": 124322
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-wicked-wolf-aranqui-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Wicked Wolf Aranqui.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Wicked_Wolf_Aranqui.png",
+    "wikiPageId": 122319
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-widdershins-radler-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Widdershins Radler.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Widdershins_Radler.png",
+    "wikiPageId": 124413
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-witchwind-kujjat-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Witchwind Kujjat.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Witchwind_Kujjat.png",
+    "wikiPageId": 124403
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-wraithfin-segna-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3 Wraithfin Segna.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Wraithfin_Segna.png",
+    "wikiPageId": 119743
+  },
+  {
+    "id": "xc3-unique_monster-file-xc3-gonzales-png",
+    "gameId": "xc3",
+    "category": "unique_monster",
+    "name": "File:XC3-Gonzales.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3-Gonzales.png",
+    "wikiPageId": 117439
+  }
+]

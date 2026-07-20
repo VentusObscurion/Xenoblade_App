@@ -13,8 +13,11 @@ interface ChecklistProps {
   selectedId: string | null
   onSelect: (id: string) => void
   onToggle: (id: string) => void
+  onToggleAccepted?: (id: string) => void
+  onToggleCompleted?: (id: string) => void
   newIds?: Set<string>
   notesById?: Record<string, string | undefined>
+  acceptedById?: Record<string, boolean>
 }
 
 function getQuestSubregion(item: ItemWithStatus): string | undefined {
@@ -30,21 +33,27 @@ function ChecklistItem({
   selectedId,
   onSelect,
   onToggle,
+  onToggleAccepted,
+  onToggleCompleted,
   isNew,
   hasNotes,
+  isAccepted,
 }: {
   item: ItemWithStatus
   selectedId: string | null
   onSelect: (id: string) => void
   onToggle: (id: string) => void
+  onToggleAccepted?: (id: string) => void
+  onToggleCompleted?: (id: string) => void
   isNew: boolean
   hasNotes: boolean
+  isAccepted: boolean
 }) {
-  const questSubregion = item.category === 'quest' ? getQuestSubregion(item) : undefined
-  const questSubtitle =
-    item.category === 'quest'
-      ? [item.giver, questSubregion].filter(Boolean).join(' · ')
-      : undefined
+  const isQuest = item.category === 'quest'
+  const questSubregion = isQuest ? getQuestSubregion(item) : undefined
+  const questSubtitle = isQuest
+    ? [item.giver, questSubregion].filter(Boolean).join(' · ')
+    : undefined
 
   const h2hPair =
     item.category === 'heart_to_heart' && item.characters && item.characters.length >= 2
@@ -57,16 +66,39 @@ function ChecklistItem({
 
   return (
     <li
-      className={`checklist-item ${item.completed ? 'completed' : ''} ${selectedId === item.id ? 'selected' : ''} ${isNew ? 'is-new' : ''}`}
+      className={`checklist-item ${item.completed ? 'completed' : ''} ${isAccepted && !item.completed ? 'accepted' : ''} ${selectedId === item.id ? 'selected' : ''} ${isNew ? 'is-new' : ''}`}
     >
-      <input
-        type="checkbox"
-        className="checklist-checkbox"
-        checked={item.completed}
-        onChange={() => onToggle(item.id)}
-        onClick={(e) => e.stopPropagation()}
-        aria-label={`Mark ${item.name} as complete`}
-      />
+      {isQuest && onToggleAccepted && onToggleCompleted ? (
+        <div className="quest-checks" onClick={(e) => e.stopPropagation()}>
+          <label className="quest-check" title="Accepted">
+            <input
+              type="checkbox"
+              checked={isAccepted || item.completed}
+              onChange={() => onToggleAccepted(item.id)}
+              aria-label={`Mark ${item.name} as accepted`}
+            />
+            <span>A</span>
+          </label>
+          <label className="quest-check" title="Completed">
+            <input
+              type="checkbox"
+              checked={item.completed}
+              onChange={() => onToggleCompleted(item.id)}
+              aria-label={`Mark ${item.name} as complete`}
+            />
+            <span>✓</span>
+          </label>
+        </div>
+      ) : (
+        <input
+          type="checkbox"
+          className="checklist-checkbox"
+          checked={item.completed}
+          onChange={() => onToggle(item.id)}
+          onClick={(e) => e.stopPropagation()}
+          aria-label={`Mark ${item.name} as complete`}
+        />
+      )}
       <button
         type="button"
         className="checklist-body"
@@ -93,11 +125,6 @@ function ChecklistItem({
                   {formatH2HAffinityShort(h2hAffinity)}
                 </span>
               )}
-            </span>
-          )}
-          {item.category === 'collectopaedia' && (item.collectType || item.description) && (
-            <span className="checklist-subtitle">
-              {[item.collectType, item.description].filter(Boolean).join(' · ')}
             </span>
           )}
         </div>
@@ -127,8 +154,11 @@ export function Checklist({
   selectedId,
   onSelect,
   onToggle,
+  onToggleAccepted,
+  onToggleCompleted,
   newIds,
   notesById,
+  acceptedById,
 }: ChecklistProps) {
   if (items.length === 0) {
     return <p className="empty-state">No entries found.</p>
@@ -141,8 +171,11 @@ export function Checklist({
       selectedId={selectedId}
       onSelect={onSelect}
       onToggle={onToggle}
+      onToggleAccepted={onToggleAccepted}
+      onToggleCompleted={onToggleCompleted}
       isNew={newIds?.has(item.id) ?? false}
       hasNotes={Boolean(notesById?.[item.id]?.trim())}
+      isAccepted={acceptedById?.[item.id] ?? false}
     />
   )
 

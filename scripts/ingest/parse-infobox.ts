@@ -274,9 +274,14 @@ function classifyPrerequisite(text: string): PrerequisiteType {
     return 'affinity'
   }
   if (/\bheart-to-heart\b|\bh2h\b/i.test(lower)) return 'affinity'
+  // Quest progress labels before generic "time" (e.g. "Fixing Time Mushrooms")
+  if (/\b(accepted|completed|not completed)\b/i.test(lower)) return 'quest'
   if (/\bquest\b|\bmission\b|\brequires\b.*\bcomplete\b/i.test(lower)) return 'quest'
+  if (/\binvited to colony\s*6\b|\bis resident\b/i.test(lower)) return 'other'
   if (/\bchapter\b|\bstory\b|\bmain story\b|\bevent\b/i.test(lower)) return 'story_flag'
-  if (/\btime\b|\bday\b|\bnight\b|\b\d{2}:\d{2}/i.test(lower)) return 'time'
+  if (/\b(time of day|daytime|nighttime|only at night|only during day)\b|\b\d{2}:\d{2}/i.test(lower)) {
+    return 'time'
+  }
   if (/\barea\b|\blocation\b|\bzone\b|\bregion\b/i.test(lower)) return 'area'
   return 'other'
 }

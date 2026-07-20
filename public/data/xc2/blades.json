@@ -1,0 +1,2387 @@
+[
+  {
+    "id": "xc2-blade-adenine",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Adenine",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Adenine",
+    "wikiPageId": 72205,
+    "element": "Wind",
+    "weaponClass": "Knuckle Claws",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-aegaeon",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Aegaeon",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Aegaeon",
+    "wikiPageId": 73021
+  },
+  {
+    "id": "xc2-blade-agate",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Agate",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Agate",
+    "wikiPageId": 73022,
+    "element": "Earth",
+    "weaponClass": "Greataxe",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-akatsuki",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Akatsuki",
+    "region": "Mor Ardain",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Akatsuki",
+    "wikiPageId": 74132
+  },
+  {
+    "id": "xc2-blade-akhos",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Akhos",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Akhos",
+    "wikiPageId": 72543
+  },
+  {
+    "id": "xc2-blade-azami",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Azami",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Azami",
+    "wikiPageId": 71979,
+    "element": "Dark",
+    "weaponClass": "Ether Cannon",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-boreas",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Boreas",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Boreas",
+    "wikiPageId": 72499,
+    "element": "Wind",
+    "weaponClass": "Bitball",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-brighid",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Brighid",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Brighid",
+    "wikiPageId": 72536
+  },
+  {
+    "id": "xc2-blade-corvin",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Corvin",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Corvin",
+    "wikiPageId": 91914,
+    "element": "Light",
+    "weaponClass": "Uchigatana",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-cressidus",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Cressidus",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Cressidus",
+    "wikiPageId": 73490,
+    "element": "Earth",
+    "weaponClass": "Rockrending Gauntlets",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-crossette",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Crossette",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Crossette",
+    "wikiPageId": 90968,
+    "element": "Fire",
+    "weaponClass": "Bitball",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-dagas",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Dagas",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dagas",
+    "wikiPageId": 71978,
+    "element": "Fire",
+    "weaponClass": "Greataxe",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-dahlia",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Dahlia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dahlia",
+    "wikiPageId": 73193,
+    "element": "Ice",
+    "weaponClass": "Bitball",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-dolmes",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Dolmes",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dolmes",
+    "wikiPageId": 82908
+  },
+  {
+    "id": "xc2-blade-dromarch",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Dromarch",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Dromarch",
+    "wikiPageId": 70766
+  },
+  {
+    "id": "xc2-blade-electra",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Electra",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Electra",
+    "wikiPageId": 72083,
+    "element": "Electric",
+    "weaponClass": "Shield Hammer",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-finch",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Finch",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Finch",
+    "wikiPageId": 71716,
+    "element": "Wind",
+    "weaponClass": "Shield Hammer",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-flesh-eater",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Flesh Eater",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Flesh_Eater",
+    "wikiPageId": 74065
+  },
+  {
+    "id": "xc2-blade-floren",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Floren",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Floren",
+    "wikiPageId": 71896,
+    "element": "Earth",
+    "weaponClass": "Bitball",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-giga-rosa",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Giga Rosa",
+    "region": "Indoline Praetorium (Titan Battleship)",
+    "level": 42,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 42"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Giga_Rosa",
+    "wikiPageId": 75806,
+    "element": "Earth",
+    "collectType": "Artificial Blade"
+  },
+  {
+    "id": "xc2-blade-godfrey",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Godfrey",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Godfrey",
+    "wikiPageId": 72545,
+    "element": "Ice",
+    "weaponClass": "Shield Hammer",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-gorg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Gorg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gorg",
+    "wikiPageId": 72330,
+    "element": "Water",
+    "weaponClass": "Greataxe",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-fan-la-norne",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Fan la Norne",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Haze",
+    "wikiPageId": 73493
+  },
+  {
+    "id": "xc2-blade-herald",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Herald",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Herald",
+    "wikiPageId": 72552,
+    "element": "Electric",
+    "weaponClass": "Ether Cannon",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-jin",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Jin",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Jin",
+    "wikiPageId": 72109
+  },
+  {
+    "id": "xc2-blade-kaeda",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Kaeda",
+    "region": "Gormott",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kaeda",
+    "wikiPageId": 101309
+  },
+  {
+    "id": "xc2-blade-kasandra",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Kasandra",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kasandra",
+    "wikiPageId": 73089,
+    "element": "Dark",
+    "weaponClass": "Shield Hammer",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-kora",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Kora",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Kora",
+    "wikiPageId": 72386,
+    "element": "Electric",
+    "weaponClass": "Knuckle Claws",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-kos-mos",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "KOS-MOS",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/KOS-MOS",
+    "wikiPageId": 73265,
+    "element": "Light",
+    "weaponClass": "Ether Cannon",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-krogane",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Krogane",
+    "region": "Gormott (Lascham Cove)",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Krogane",
+    "wikiPageId": 92977
+  },
+  {
+    "id": "xc2-blade-lila",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Lila",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lila",
+    "wikiPageId": 73930
+  },
+  {
+    "id": "xc2-blade-llonya",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Llonya",
+    "region": "Gormott Province (Clear Sky Beak)",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Llonya",
+    "wikiPageId": 79283
+  },
+  {
+    "id": "xc2-blade-mikhail",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Mikhail",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mikhail",
+    "wikiPageId": 73191
+  },
+  {
+    "id": "xc2-blade-cole",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Cole",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Minoth",
+    "wikiPageId": 73496
+  },
+  {
+    "id": "xc2-blade-mythra",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Mythra",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mythra",
+    "wikiPageId": 68460
+  },
+  {
+    "id": "xc2-blade-newt",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Newt",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Newt",
+    "wikiPageId": 72242,
+    "element": "Fire",
+    "weaponClass": "Chroma Katana",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-nia",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Nia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nia",
+    "wikiPageId": 68505
+  },
+  {
+    "id": "xc2-blade-nim",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Nim",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nim",
+    "wikiPageId": 72024,
+    "element": "Earth",
+    "weaponClass": "Knuckle Claws",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-obrona",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Obrona",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Obrona",
+    "wikiPageId": 72726
+  },
+  {
+    "id": "xc2-blade-olua",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Olua",
+    "region": "Leftherian Archipelago (Baldotas Isle)",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Olua",
+    "wikiPageId": 85627
+  },
+  {
+    "id": "xc2-blade-pandoria",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Pandoria",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pandoria",
+    "wikiPageId": 72534
+  },
+  {
+    "id": "xc2-blade-patroka",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Patroka",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Patroka",
+    "wikiPageId": 73187
+  },
+  {
+    "id": "xc2-blade-perceval",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Perceval",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perceval",
+    "wikiPageId": 71807,
+    "element": "Dark",
+    "weaponClass": "Chroma Katana",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-perdido",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Perdido",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perdido",
+    "wikiPageId": 73491,
+    "element": "Fire",
+    "weaponClass": "Decimation Cannon",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-perun",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Perun",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Perun",
+    "wikiPageId": 72143,
+    "element": "Ice",
+    "weaponClass": "Megalance",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-pneuma",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Pneuma",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pneuma",
+    "wikiPageId": 77506
+  },
+  {
+    "id": "xc2-blade-poppi-qt",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Poppi QT",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poppi_QT",
+    "wikiPageId": 72743
+  },
+  {
+    "id": "xc2-blade-poppi",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Poppi α",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poppi_%CE%B1",
+    "wikiPageId": 71347
+  },
+  {
+    "id": "xc2-blade-poppibuster",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Poppibuster",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Poppibuster",
+    "wikiPageId": 86633,
+    "element": "Light",
+    "weaponClass": "Shield Hammer",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-praxis",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Praxis",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Praxis",
+    "wikiPageId": 72789,
+    "element": "Water",
+    "weaponClass": "Megalance",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-pyra",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Pyra",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Pyra",
+    "wikiPageId": 68458
+  },
+  {
+    "id": "xc2-blade-roc",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Roc",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Roc",
+    "wikiPageId": 71348
+  },
+  {
+    "id": "xc2-blade-rosa",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Rosa",
+    "region": "Empire of Mor Ardain (Artificial Blade Adjustment)",
+    "level": 32,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 32"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rosa",
+    "wikiPageId": 73999,
+    "element": "Earth",
+    "collectType": "Artificial Blade (Machine)"
+  },
+  {
+    "id": "xc2-blade-sever",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Sever",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sever",
+    "wikiPageId": 73201
+  },
+  {
+    "id": "xc2-blade-sheba",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Sheba",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sheba",
+    "wikiPageId": 72947,
+    "element": "Water",
+    "weaponClass": "Ether Cannon",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-t-elos",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "T-elos",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/T-elos",
+    "wikiPageId": 86634,
+    "element": "Dark",
+    "weaponClass": "Greataxe",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-theory",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Theory",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Theory",
+    "wikiPageId": 72793,
+    "element": "Ice",
+    "weaponClass": "Chroma Katana",
+    "role": "Tank",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-uboon",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Uboon",
+    "region": "Kingdom of Uraya (Garfont Village)",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Uboon",
+    "wikiPageId": 80133
+  },
+  {
+    "id": "xc2-blade-ursula",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Ursula",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ursula",
+    "wikiPageId": 73195,
+    "element": "Ice",
+    "weaponClass": "Knuckle Claws",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-vale",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Vale",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vale",
+    "wikiPageId": 72518,
+    "element": "Dark",
+    "weaponClass": "Megalance",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-vess",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Vess",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Vess",
+    "wikiPageId": 72463,
+    "element": "Electric",
+    "weaponClass": "Bitball",
+    "role": "Healer",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-wulfric",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Wulfric",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wulfric",
+    "wikiPageId": 72550,
+    "element": "Earth",
+    "weaponClass": "Megalance",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-yachik",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Yachik",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Yachik",
+    "wikiPageId": 74056
+  },
+  {
+    "id": "xc2-blade-zenobia",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "Zenobia",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Zenobia",
+    "wikiPageId": 72556,
+    "element": "Wind",
+    "weaponClass": "Greataxe",
+    "role": "Attacker",
+    "rarity": "2",
+    "collectType": "Humanoid"
+  },
+  {
+    "id": "xc2-blade-file-adenine-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Adenine aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdenine_aw.png",
+    "wikiPageId": 101146
+  },
+  {
+    "id": "xc2-blade-file-adenine-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Adenine bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdenine_bq.png",
+    "wikiPageId": 101147
+  },
+  {
+    "id": "xc2-blade-file-adenine-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Adenine bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdenine_bq2.png",
+    "wikiPageId": 101148
+  },
+  {
+    "id": "xc2-blade-file-adenine-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Adenine s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdenine_s.jpg",
+    "wikiPageId": 101149
+  },
+  {
+    "id": "xc2-blade-file-adenine-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Adenine s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdenine_s2.jpg",
+    "wikiPageId": 101150
+  },
+  {
+    "id": "xc2-blade-file-aegaeon-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Aegaeon s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAegaeon_s.jpg",
+    "wikiPageId": 101561
+  },
+  {
+    "id": "xc2-blade-file-aegaeon-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Aegaeon s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAegaeon_s2.jpg",
+    "wikiPageId": 101562
+  },
+  {
+    "id": "xc2-blade-file-aegaeon-s3-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Aegaeon s3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAegaeon_s3.jpg",
+    "wikiPageId": 101563
+  },
+  {
+    "id": "xc2-blade-file-aegaeonniall-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:AegaeonNiall.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAegaeonNiall.png",
+    "wikiPageId": 95840
+  },
+  {
+    "id": "xc2-blade-file-agate-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Agate aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAgate_aw.png",
+    "wikiPageId": 103360
+  },
+  {
+    "id": "xc2-blade-file-akatsuki-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Akatsuki.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAkatsuki.png",
+    "wikiPageId": 103887
+  },
+  {
+    "id": "xc2-blade-file-akhos-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Akhos s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAkhos_s.jpg",
+    "wikiPageId": 101167
+  },
+  {
+    "id": "xc2-blade-file-alulublade-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:AluluBlade.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAluluBlade.png",
+    "wikiPageId": 103907
+  },
+  {
+    "id": "xc2-blade-file-azami-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Azami aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAzami_aw.png",
+    "wikiPageId": 101556
+  },
+  {
+    "id": "xc2-blade-file-azami-aw2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Azami aw2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAzami_aw2.png",
+    "wikiPageId": 101557
+  },
+  {
+    "id": "xc2-blade-file-azami-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Azami bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAzami_bq.png",
+    "wikiPageId": 101558
+  },
+  {
+    "id": "xc2-blade-file-azami-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Azami bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAzami_bq2.png",
+    "wikiPageId": 101559
+  },
+  {
+    "id": "xc2-blade-file-azami-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Azami s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAzami_s.jpg",
+    "wikiPageId": 101560
+  },
+  {
+    "id": "xc2-blade-file-beary-ursula-4-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Beary Ursula 4.PNG",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeary_Ursula_4.PNG",
+    "wikiPageId": 79173
+  },
+  {
+    "id": "xc2-blade-file-brighid-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Brighid s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABrighid_s2.jpg",
+    "wikiPageId": 101737
+  },
+  {
+    "id": "xc2-blade-file-brighid-s3-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Brighid s3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABrighid_s3.jpg",
+    "wikiPageId": 101738
+  },
+  {
+    "id": "xc2-blade-file-brighid-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Brighid.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABrighid.jpg",
+    "wikiPageId": 101876
+  },
+  {
+    "id": "xc2-blade-file-brighidbackhand-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:BrighidBackhand.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABrighidBackhand.png",
+    "wikiPageId": 96496
+  },
+  {
+    "id": "xc2-blade-file-brighidmythra-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:BrighidMythra.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABrighidMythra.png",
+    "wikiPageId": 96497
+  },
+  {
+    "id": "xc2-blade-file-brighidpyra-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:BrighidPyra.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABrighidPyra.png",
+    "wikiPageId": 96498
+  },
+  {
+    "id": "xc2-blade-file-community-spirit-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Community spirit.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACommunity_spirit.png",
+    "wikiPageId": 100098
+  },
+  {
+    "id": "xc2-blade-file-corvin-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Corvin bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACorvin_bq.png",
+    "wikiPageId": 101693
+  },
+  {
+    "id": "xc2-blade-file-corvin-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Corvin bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACorvin_bq2.png",
+    "wikiPageId": 101694
+  },
+  {
+    "id": "xc2-blade-file-corvin-bq3-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Corvin bq3.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACorvin_bq3.png",
+    "wikiPageId": 101695
+  },
+  {
+    "id": "xc2-blade-file-dagas-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dagas aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas_aw.png",
+    "wikiPageId": 101809
+  },
+  {
+    "id": "xc2-blade-file-dagas-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dagas bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas_bq.png",
+    "wikiPageId": 101810
+  },
+  {
+    "id": "xc2-blade-file-dagas-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dagas bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas_bq2.png",
+    "wikiPageId": 101811
+  },
+  {
+    "id": "xc2-blade-file-dagas-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dagas s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas_s.jpg",
+    "wikiPageId": 101812
+  },
+  {
+    "id": "xc2-blade-file-dahlia-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dahlia aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADahlia_aw.png",
+    "wikiPageId": 101152
+  },
+  {
+    "id": "xc2-blade-file-dahlia-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dahlia bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADahlia_bq2.png",
+    "wikiPageId": 101153
+  },
+  {
+    "id": "xc2-blade-file-dahlia-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dahlia s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADahlia_s.jpg",
+    "wikiPageId": 101154
+  },
+  {
+    "id": "xc2-blade-file-dahlia-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dahlia s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADahlia_s2.jpg",
+    "wikiPageId": 101155
+  },
+  {
+    "id": "xc2-blade-file-dahlia-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dahlia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADahlia.jpg",
+    "wikiPageId": 101156
+  },
+  {
+    "id": "xc2-blade-file-dlc-blades-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:DLC Blades.PNG",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADLC_Blades.PNG",
+    "wikiPageId": 86640
+  },
+  {
+    "id": "xc2-blade-file-dughall-battle-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Dughall Battle.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADughall_Battle.png",
+    "wikiPageId": 86021
+  },
+  {
+    "id": "xc2-blade-file-elma-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Elma s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AElma_s.jpg",
+    "wikiPageId": 101703
+  },
+  {
+    "id": "xc2-blade-file-fan-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Fan.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFan.png",
+    "wikiPageId": 95844
+  },
+  {
+    "id": "xc2-blade-file-floren-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Floren aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFloren_aw.png",
+    "wikiPageId": 101822
+  },
+  {
+    "id": "xc2-blade-file-floren-aw2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Floren aw2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFloren_aw2.png",
+    "wikiPageId": 101821
+  },
+  {
+    "id": "xc2-blade-file-floren-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Floren bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFloren_bq.png",
+    "wikiPageId": 101823
+  },
+  {
+    "id": "xc2-blade-file-floren-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Floren s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFloren_s.jpg",
+    "wikiPageId": 101826
+  },
+  {
+    "id": "xc2-blade-file-floren-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Floren s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFloren_s2.jpg",
+    "wikiPageId": 101827
+  },
+  {
+    "id": "xc2-blade-file-fudor-pic-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Fudor pic.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFudor_pic.png",
+    "wikiPageId": 70999
+  },
+  {
+    "id": "xc2-blade-file-gargoyle-artificial-blade-concept-art-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Gargoyle-Artificial Blade concept art.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGargoyle-Artificial_Blade_concept_art.jpg",
+    "wikiPageId": 124836
+  },
+  {
+    "id": "xc2-blade-file-gorg-salt-bae-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Gorg Salt Bae.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGorg_Salt_Bae.jpg",
+    "wikiPageId": 90061
+  },
+  {
+    "id": "xc2-blade-file-haze-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Haze s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHaze_s.jpg",
+    "wikiPageId": 101289
+  },
+  {
+    "id": "xc2-blade-file-haze-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Haze s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHaze_s2.jpg",
+    "wikiPageId": 101290
+  },
+  {
+    "id": "xc2-blade-file-hazelora-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:HazeLora.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHazeLora.png",
+    "wikiPageId": 95845
+  },
+  {
+    "id": "xc2-blade-file-herald-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Herald aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHerald_aw.png",
+    "wikiPageId": 101846
+  },
+  {
+    "id": "xc2-blade-file-herald-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Herald bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHerald_bq.png",
+    "wikiPageId": 101847
+  },
+  {
+    "id": "xc2-blade-file-herald-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Herald bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHerald_bq2.png",
+    "wikiPageId": 101848
+  },
+  {
+    "id": "xc2-blade-file-herald-concept-art-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Herald Concept Art.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHerald_Concept_Art.jpg",
+    "wikiPageId": 124833
+  },
+  {
+    "id": "xc2-blade-file-herald-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Herald s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHerald_s.jpg",
+    "wikiPageId": 101849
+  },
+  {
+    "id": "xc2-blade-file-herald-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Herald s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHerald_s2.jpg",
+    "wikiPageId": 101850
+  },
+  {
+    "id": "xc2-blade-file-hugoblades-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:HugoBlades.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHugoBlades.png",
+    "wikiPageId": 95833
+  },
+  {
+    "id": "xc2-blade-file-jinamalthus-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:JinAmalthus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJinAmalthus.png",
+    "wikiPageId": 96516
+  },
+  {
+    "id": "xc2-blade-file-jinmalos-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:JinMalos.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJinMalos.png",
+    "wikiPageId": 96479
+  },
+  {
+    "id": "xc2-blade-file-kaeda-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kaeda.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKaeda.png",
+    "wikiPageId": 103541
+  },
+  {
+    "id": "xc2-blade-file-kasandra-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kasandra bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKasandra_bq.png",
+    "wikiPageId": 101838
+  },
+  {
+    "id": "xc2-blade-file-kasandra-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kasandra s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKasandra_s.jpg",
+    "wikiPageId": 101839
+  },
+  {
+    "id": "xc2-blade-file-kasandra-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kasandra s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKasandra_s2.jpg",
+    "wikiPageId": 101840
+  },
+  {
+    "id": "xc2-blade-file-kirim-pic-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kirim pic.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKirim_pic.png",
+    "wikiPageId": 70997
+  },
+  {
+    "id": "xc2-blade-file-kora-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kora aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKora_aw.png",
+    "wikiPageId": 101710
+  },
+  {
+    "id": "xc2-blade-file-kora-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kora bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKora_bq.png",
+    "wikiPageId": 101711
+  },
+  {
+    "id": "xc2-blade-file-kora-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kora bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKora_bq2.png",
+    "wikiPageId": 101712
+  },
+  {
+    "id": "xc2-blade-file-kora-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Kora s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKora_s.jpg",
+    "wikiPageId": 101713
+  },
+  {
+    "id": "xc2-blade-file-kosmostelosworld-tree-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:KosMosTelosWorld-tree.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKosMosTelosWorld-tree.png",
+    "wikiPageId": 93968
+  },
+  {
+    "id": "xc2-blade-file-krogane-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Krogane.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKrogane.png",
+    "wikiPageId": 103546
+  },
+  {
+    "id": "xc2-blade-file-lila-art-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Lila art.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALila_art.png",
+    "wikiPageId": 109891
+  },
+  {
+    "id": "xc2-blade-file-lila-concept-art-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Lila Concept Art.PNG",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALila_Concept_Art.PNG",
+    "wikiPageId": 85241
+  },
+  {
+    "id": "xc2-blade-file-lila-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Lila.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALila.png",
+    "wikiPageId": 96495
+  },
+  {
+    "id": "xc2-blade-file-malos-c1-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Malos C1.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalos_C1.jpg",
+    "wikiPageId": 102075
+  },
+  {
+    "id": "xc2-blade-file-malos-c2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Malos C2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalos_C2.jpg",
+    "wikiPageId": 102076
+  },
+  {
+    "id": "xc2-blade-file-malos-eater-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Malos Eater.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalos_Eater.jpg",
+    "wikiPageId": 115762
+  },
+  {
+    "id": "xc2-blade-file-malosburn-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MalosBurn.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalosBurn.png",
+    "wikiPageId": 96481
+  },
+  {
+    "id": "xc2-blade-file-malosdie-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MalosDie.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalosDie.png",
+    "wikiPageId": 96486
+  },
+  {
+    "id": "xc2-blade-file-maloseater-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MalosEater.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalosEater.png",
+    "wikiPageId": 96485
+  },
+  {
+    "id": "xc2-blade-file-malosjin-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MalosJin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalosJin.png",
+    "wikiPageId": 96480
+  },
+  {
+    "id": "xc2-blade-file-malospyra-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MalosPyra.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalosPyra.png",
+    "wikiPageId": 96484
+  },
+  {
+    "id": "xc2-blade-file-malosvandham-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MalosVandham.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMalosVandham.png",
+    "wikiPageId": 96483
+  },
+  {
+    "id": "xc2-blade-file-mikhail-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Mikhail s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMikhail_s.jpg",
+    "wikiPageId": 101168
+  },
+  {
+    "id": "xc2-blade-file-mikhailcressidus-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MikhailCressidus.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMikhailCressidus.png",
+    "wikiPageId": 96529
+  },
+  {
+    "id": "xc2-blade-file-moragbrighid-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MoragBrighid.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMoragBrighid.png",
+    "wikiPageId": 96499
+  },
+  {
+    "id": "xc2-blade-file-mythra-2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Mythra 2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMythra_2.jpg",
+    "wikiPageId": 101880
+  },
+  {
+    "id": "xc2-blade-file-mythra-aegis-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Mythra aegis.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMythra_aegis.jpg",
+    "wikiPageId": 104370
+  },
+  {
+    "id": "xc2-blade-file-mythra-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Mythra.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMythra.jpg",
+    "wikiPageId": 101879
+  },
+  {
+    "id": "xc2-blade-file-mythratruesword-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:MythraTrueSword.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMythraTrueSword.png",
+    "wikiPageId": 96492
+  },
+  {
+    "id": "xc2-blade-file-newt-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Newt aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANewt_aw.png",
+    "wikiPageId": 101832
+  },
+  {
+    "id": "xc2-blade-file-newt-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Newt bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANewt_bq.png",
+    "wikiPageId": 101833
+  },
+  {
+    "id": "xc2-blade-file-newt-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Newt bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANewt_bq2.png",
+    "wikiPageId": 101834
+  },
+  {
+    "id": "xc2-blade-file-newt-bq3-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Newt bq3.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANewt_bq3.png",
+    "wikiPageId": 101835
+  },
+  {
+    "id": "xc2-blade-file-niablade-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:NiaBlade.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANiaBlade.png",
+    "wikiPageId": 96537
+  },
+  {
+    "id": "xc2-blade-file-niarex-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:NiaRex.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANiaRex.png",
+    "wikiPageId": 96541
+  },
+  {
+    "id": "xc2-blade-file-obrona-akhos-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona Akhos.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona_Akhos.png",
+    "wikiPageId": 101186
+  },
+  {
+    "id": "xc2-blade-file-obrona-akhos2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona Akhos2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona_Akhos2.png",
+    "wikiPageId": 101187
+  },
+  {
+    "id": "xc2-blade-file-obrona-concept-art-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona Concept Art.PNG",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona_Concept_Art.PNG",
+    "wikiPageId": 85407
+  },
+  {
+    "id": "xc2-blade-file-obrona-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona_s.jpg",
+    "wikiPageId": 101169
+  },
+  {
+    "id": "xc2-blade-file-obrona-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona_s2.jpg",
+    "wikiPageId": 101171
+  },
+  {
+    "id": "xc2-blade-file-obrona-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona.jpg",
+    "wikiPageId": 101172
+  },
+  {
+    "id": "xc2-blade-file-obrona1-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona1.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona1.png",
+    "wikiPageId": 101183
+  },
+  {
+    "id": "xc2-blade-file-obrona3-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona3.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona3.png",
+    "wikiPageId": 101184
+  },
+  {
+    "id": "xc2-blade-file-obrona4-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Obrona4.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AObrona4.png",
+    "wikiPageId": 101185
+  },
+  {
+    "id": "xc2-blade-file-pandoria-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Pandoria s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APandoria_s.jpg",
+    "wikiPageId": 101736
+  },
+  {
+    "id": "xc2-blade-file-pandoria-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Pandoria s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APandoria_s2.jpg",
+    "wikiPageId": 101735
+  },
+  {
+    "id": "xc2-blade-file-pandoriagenbu-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PandoriaGenbu.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APandoriaGenbu.png",
+    "wikiPageId": 96421
+  },
+  {
+    "id": "xc2-blade-file-patroka-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Patroka s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APatroka_s.jpg",
+    "wikiPageId": 101175
+  },
+  {
+    "id": "xc2-blade-file-patroka-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Patroka s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APatroka_s2.jpg",
+    "wikiPageId": 101174
+  },
+  {
+    "id": "xc2-blade-file-patroka-s3-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Patroka s3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APatroka_s3.jpg",
+    "wikiPageId": 101173
+  },
+  {
+    "id": "xc2-blade-file-patrokaperdido-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PatrokaPerdido.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APatrokaPerdido.png",
+    "wikiPageId": 96494
+  },
+  {
+    "id": "xc2-blade-file-perdido-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Perdido s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerdido_s.jpg",
+    "wikiPageId": 101177
+  },
+  {
+    "id": "xc2-blade-file-perdido-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Perdido s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerdido_s2.jpg",
+    "wikiPageId": 101178
+  },
+  {
+    "id": "xc2-blade-file-perdido-awakening-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Perdido-awakening.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerdido-awakening.png",
+    "wikiPageId": 85649
+  },
+  {
+    "id": "xc2-blade-file-perdido-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Perdido.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerdido.jpg",
+    "wikiPageId": 101179
+  },
+  {
+    "id": "xc2-blade-file-perdido-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Perdido.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APerdido.png",
+    "wikiPageId": 108965
+  },
+  {
+    "id": "xc2-blade-file-pneuma-fullbody-upscaled-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Pneuma Fullbody Upscaled.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APneuma_Fullbody_Upscaled.png",
+    "wikiPageId": 114019
+  },
+  {
+    "id": "xc2-blade-file-pneumaawaken-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PneumaAwaken.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APneumaAwaken.png",
+    "wikiPageId": 95106
+  },
+  {
+    "id": "xc2-blade-file-pneumaconcept-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PneumaConcept.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APneumaConcept.jpg",
+    "wikiPageId": 95110
+  },
+  {
+    "id": "xc2-blade-file-pneumaface-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PneumaFace.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APneumaFace.png",
+    "wikiPageId": 95109
+  },
+  {
+    "id": "xc2-blade-file-pneumarex-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PneumaRex.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APneumaRex.png",
+    "wikiPageId": 95107
+  },
+  {
+    "id": "xc2-blade-file-pneumarex2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:PneumaRex2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APneumaRex2.png",
+    "wikiPageId": 95108
+  },
+  {
+    "id": "xc2-blade-file-poppi-qt-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi qt.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_qt.png",
+    "wikiPageId": 101720
+  },
+  {
+    "id": "xc2-blade-file-poppi-qt2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi qt2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_qt2.png",
+    "wikiPageId": 101721
+  },
+  {
+    "id": "xc2-blade-file-poppi-qtpi-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi qtpi s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_qtpi_s.jpg",
+    "wikiPageId": 101726
+  },
+  {
+    "id": "xc2-blade-file-poppi-qtpi-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi qtpi s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_qtpi_s2.jpg",
+    "wikiPageId": 101727
+  },
+  {
+    "id": "xc2-blade-file-poppi-qtpi-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi qtpi.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_qtpi.png",
+    "wikiPageId": 101728
+  },
+  {
+    "id": "xc2-blade-file-poppi-qts2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi qts2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_qts2.jpg",
+    "wikiPageId": 101722
+  },
+  {
+    "id": "xc2-blade-file-poppi-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_s.jpg",
+    "wikiPageId": 101723
+  },
+  {
+    "id": "xc2-blade-file-poppi-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_s2.jpg",
+    "wikiPageId": 101724
+  },
+  {
+    "id": "xc2-blade-file-poppi-s3-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi s3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi_s3.jpg",
+    "wikiPageId": 101725
+  },
+  {
+    "id": "xc2-blade-file-poppi-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Poppi.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APoppi.png",
+    "wikiPageId": 71353
+  },
+  {
+    "id": "xc2-blade-file-praxis-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Praxis aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APraxis_aw.png",
+    "wikiPageId": 101783
+  },
+  {
+    "id": "xc2-blade-file-praxis-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Praxis bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APraxis_bq.png",
+    "wikiPageId": 101784
+  },
+  {
+    "id": "xc2-blade-file-praxis-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Praxis s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APraxis_s.jpg",
+    "wikiPageId": 101785
+  },
+  {
+    "id": "xc2-blade-file-pyra-pic-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Pyra pic.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APyra_pic.png",
+    "wikiPageId": 70996
+  },
+  {
+    "id": "xc2-blade-file-rexjin-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:RexJin.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARexJin.png",
+    "wikiPageId": 96395
+  },
+  {
+    "id": "xc2-blade-file-roc-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Roc aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARoc_aw.png",
+    "wikiPageId": 101741
+  },
+  {
+    "id": "xc2-blade-file-roc-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Roc s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARoc_s.jpg",
+    "wikiPageId": 101743
+  },
+  {
+    "id": "xc2-blade-file-roc-s2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Roc s2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARoc_s2.jpg",
+    "wikiPageId": 101742
+  },
+  {
+    "id": "xc2-blade-file-rocfly-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:RocFly.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARocFly.png",
+    "wikiPageId": 96556
+  },
+  {
+    "id": "xc2-blade-file-sever2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Sever2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASever2.png",
+    "wikiPageId": 101181
+  },
+  {
+    "id": "xc2-blade-file-sever3-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Sever3.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASever3.png",
+    "wikiPageId": 101182
+  },
+  {
+    "id": "xc2-blade-file-t-elos-2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:T-elos 2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AT-elos_2.jpg",
+    "wikiPageId": 101124
+  },
+  {
+    "id": "xc2-blade-file-t-elos-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:T-elos bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AT-elos_bq.png",
+    "wikiPageId": 101123
+  },
+  {
+    "id": "xc2-blade-file-t-elos-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:T-elos bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AT-elos_bq2.png",
+    "wikiPageId": 101125
+  },
+  {
+    "id": "xc2-blade-file-t-elos-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:T-elos s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AT-elos_s.jpg",
+    "wikiPageId": 101126
+  },
+  {
+    "id": "xc2-blade-file-theory-and-praxis-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Theory and Praxis.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATheory_and_Praxis.png",
+    "wikiPageId": 81277
+  },
+  {
+    "id": "xc2-blade-file-theory-praxis-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Theory Praxis bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATheory_Praxis_bq.png",
+    "wikiPageId": 101805
+  },
+  {
+    "id": "xc2-blade-file-thirdsword-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Thirdsword.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThirdsword.png",
+    "wikiPageId": 104601
+  },
+  {
+    "id": "xc2-blade-file-thirdsword2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Thirdsword2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThirdsword2.png",
+    "wikiPageId": 104602
+  },
+  {
+    "id": "xc2-blade-file-tornaphoto-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:TornaPhoto.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATornaPhoto.png",
+    "wikiPageId": 96478
+  },
+  {
+    "id": "xc2-blade-file-u79z7ol-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:U79z7ol.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AU79z7ol.png",
+    "wikiPageId": 79247
+  },
+  {
+    "id": "xc2-blade-file-uboon-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Uboon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUboon.png",
+    "wikiPageId": 112453
+  },
+  {
+    "id": "xc2-blade-file-ursula-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Ursula aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUrsula_aw.png",
+    "wikiPageId": 101140
+  },
+  {
+    "id": "xc2-blade-file-ursula-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Ursula bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUrsula_bq.png",
+    "wikiPageId": 101141
+  },
+  {
+    "id": "xc2-blade-file-ursula-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Ursula s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUrsula_s.jpg",
+    "wikiPageId": 101142
+  },
+  {
+    "id": "xc2-blade-file-vale-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Vale aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVale_aw.png",
+    "wikiPageId": 101136
+  },
+  {
+    "id": "xc2-blade-file-vale-bq-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Vale bq.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVale_bq.png",
+    "wikiPageId": 101137
+  },
+  {
+    "id": "xc2-blade-file-vale-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Vale bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVale_bq2.png",
+    "wikiPageId": 101138
+  },
+  {
+    "id": "xc2-blade-file-vale-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Vale s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVale_s.jpg",
+    "wikiPageId": 101139
+  },
+  {
+    "id": "xc2-blade-file-vantya-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Vantya.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVantya.jpg",
+    "wikiPageId": 103948
+  },
+  {
+    "id": "xc2-blade-file-wulfric-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Wulfric aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWulfric_aw.png",
+    "wikiPageId": 101118
+  },
+  {
+    "id": "xc2-blade-file-wulfric-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Wulfric s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWulfric_s.jpg",
+    "wikiPageId": 101119
+  },
+  {
+    "id": "xc2-blade-file-xc2-adenine-artwork-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2 Adenine Artwork.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Adenine_Artwork.png",
+    "wikiPageId": 95700
+  },
+  {
+    "id": "xc2-blade-file-xc2-common-blade-1-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2-Common-Blade-1.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2-Common-Blade-1.jpg",
+    "wikiPageId": 71793
+  },
+  {
+    "id": "xc2-blade-file-xc2-common-blade-2-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2-Common-Blade-2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2-Common-Blade-2.jpg",
+    "wikiPageId": 71794
+  },
+  {
+    "id": "xc2-blade-file-xc2-common-blade-3-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2-Common-Blade-3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2-Common-Blade-3.jpg",
+    "wikiPageId": 71795
+  },
+  {
+    "id": "xc2-blade-file-xc2-dolmes-icon-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2-Dolmes Icon.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2-Dolmes_Icon.png",
+    "wikiPageId": 83743
+  },
+  {
+    "id": "xc2-blade-file-xc2-finch-in-action-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2-Finch-in-action.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2-Finch-in-action.jpg",
+    "wikiPageId": 71780
+  },
+  {
+    "id": "xc2-blade-file-xc2-haze-artwork-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:XC2-Haze artwork.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2-Haze_artwork.png",
+    "wikiPageId": 91220
+  },
+  {
+    "id": "xc2-blade-file-yewzuo-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:YewZuo.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AYewZuo.jpg",
+    "wikiPageId": 103943
+  },
+  {
+    "id": "xc2-blade-file-zenobia-aw-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Zenobia aw.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AZenobia_aw.png",
+    "wikiPageId": 101112
+  },
+  {
+    "id": "xc2-blade-file-zenobia-bq2-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Zenobia bq2.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AZenobia_bq2.png",
+    "wikiPageId": 101114
+  },
+  {
+    "id": "xc2-blade-file-zenobia-bq3-png",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Zenobia bq3.png",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AZenobia_bq3.png",
+    "wikiPageId": 101115
+  },
+  {
+    "id": "xc2-blade-file-zenobia-s-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Zenobia s.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AZenobia_s.jpg",
+    "wikiPageId": 101116
+  },
+  {
+    "id": "xc2-blade-file-zenobia-jpg",
+    "gameId": "xc2",
+    "category": "blade",
+    "name": "File:Zenobia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AZenobia.jpg",
+    "wikiPageId": 101117
+  }
+]

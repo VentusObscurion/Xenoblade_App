@@ -1,4 +1,10 @@
 import { isColony6MaterialAvailable } from './colony6-availability.ts'
+import {
+  estimateColony6Percent,
+  estimateColony6Population,
+  getAllColony6Levels,
+  isImmigrantAvailable,
+} from './colony6-levels.ts'
 import { isH2HAvailable } from './h2h-availability.ts'
 import { filterAvailableQuests } from './quest-ordering.ts'
 import { isItemAvailable } from './prerequisites.ts'
@@ -12,16 +18,28 @@ export function collectAvailableItemIds(
   progress: Record<string, ProgressEntry>,
   gameState: GameState,
 ): string[] {
-  const allQuests = items.filter((i) => i.category === 'quest')
+  const materials = items.filter((i) => i.category === 'colony_reconstruction')
+  const immigrants = items.filter((i) => i.category === 'colony_immigrant')
+  const levels = getAllColony6Levels(materials, progress)
+  const percent = Math.max(
+    gameState.colony6Reconstruction,
+    estimateColony6Percent(levels),
+  )
+  const population = estimateColony6Population(immigrants, progress)
   const ids: string[] = []
 
   for (const item of items) {
     if (progress[item.id]?.completed) continue
 
     if (item.category === 'quest') {
+      // Accepted-but-open quests stay actionable without NEW spam after first unlock
+      if (progress[item.id]?.accepted) {
+        ids.push(item.id)
+        continue
+      }
       const available = filterAvailableQuests(
         [item],
-        allQuests,
+        items,
         progress,
         gameState,
       )
@@ -49,6 +67,22 @@ export function collectAvailableItemIds(
         ids.push(item.id)
       }
       continue
+    }
+
+    if (item.category === 'colony_immigrant') {
+      if (
+        isImmigrantAvailable(
+          item,
+          levels,
+          percent,
+          population,
+          gameState,
+          immigrants,
+          progress,
+        )
+      ) {
+        ids.push(item.id)
+      }
     }
   }
 

@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from 'node:fs'
+import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import type { Category, DataManifest, GameId, TrackableItem } from '../../src/types/tracker.ts'
@@ -13,6 +13,7 @@ import {
 } from './parse-infobox.ts'
 import { findHeaderIndex, parseAllWikitableWithHeaders, parseWikitableWithHeaders } from './parse-wikitable.ts'
 import {
+  fetchColony6Immigrants,
   fetchColony6Reconstruction,
   fetchLandmarks,
   fetchXC1Collectopaedia,
@@ -31,7 +32,7 @@ import {
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUTPUT_DIR = join(__dirname, '../../public/data')
 
-const XC1_QUEST_CATEGORIES: Array<{ category: string; region: string }> = [
+export const XC1_QUEST_CATEGORIES: Array<{ category: string; region: string }> = [
   { category: 'Colony_9_Quests', region: 'Colony 9' },
   { category: 'Tephra_Cave_Quests', region: 'Tephra Cave' },
   { category: 'Bionis_Leg_Quests', region: "Bionis' Leg" },
@@ -131,7 +132,9 @@ function parseQuestPage(
 
   const fields = parseInfobox(page.wikitext, ['quest', 'Quest'])
   const extras = parseQuestExtras(page.wikitext, fields)
-  const name = fields.name || page.title
+  const displayName = fields.name || page.title
+  // Use wiki page title for IDs so "Challenge 1 (Colony 9)" ≠ "Challenge 1 (Tephra Cave)"
+  const idSource = page.title.replace(/\s*\(XC1\)\s*$/i, '')
   const prerequisites = extractPrerequisites(fields, [
     'prereqs',
     'prerequisites',
@@ -145,10 +148,10 @@ function parseQuestPage(
   const rewards = rawFields.rewards ? parseListField(rawFields.rewards) : undefined
 
   return {
-    id: makeId(gameId, 'quest', name),
+    id: makeId(gameId, 'quest', idSource),
     gameId,
     category: 'quest',
-    name,
+    name: displayName,
     region: fields.location || region,
     level: parseLevel(fields.level),
     prerequisites,
@@ -167,7 +170,7 @@ function parseQuestPage(
   }
 }
 
-async function fetchQuests(
+export async function fetchQuests(
   categories: Array<{ category: string; region: string }>,
   gameId: GameId,
 ): Promise<TrackableItem[]> {
@@ -547,6 +550,7 @@ export async function ingestXC1(): Promise<void> {
   const xc1Collectopaedia = await fetchXC1Collectopaedia('xc1')
   const xc1Landmarks = await fetchLandmarks('xc1')
   const xc1Colony6 = await fetchColony6Reconstruction('xc1')
+  const xc1Immigrants = await fetchColony6Immigrants('xc1')
 
   const fcQuests = await fetchFCQuests('xc1-fc')
   let fcMonsters: TrackableItem[] = []
@@ -568,10 +572,21 @@ export async function ingestXC1(): Promise<void> {
   writeJson(join(xc1Dir, 'collectopaedia.json'), xc1Collectopaedia)
   writeJson(join(xc1Dir, 'landmarks.json'), xc1Landmarks)
   writeJson(join(xc1Dir, 'colony-reconstruction.json'), xc1Colony6)
+  writeJson(join(xc1Dir, 'colony-immigrants.json'), xc1Immigrants)
 
   writeJson(join(fcDir, 'quests.json'), fcQuests)
   writeJson(join(fcDir, 'unique-monsters.json'), fcMonsters)
   writeJson(join(fcDir, 'quiet-moments.json'), fcQuietMoments)
+
+  let existingGames: DataManifest['games'] = {}
+  try {
+    const prev = JSON.parse(
+      readFileSync(join(OUTPUT_DIR, 'manifest.json'), 'utf-8'),
+    ) as DataManifest
+    existingGames = prev.games ?? {}
+  } catch {
+    /* fresh manifest */
+  }
 
   const manifest: DataManifest = {
     version: '1.0.0',
@@ -579,6 +594,7 @@ export async function ingestXC1(): Promise<void> {
     attribution: 'Data from Xenoblade Wiki (CC BY-SA 3.0)',
     wikiBaseUrl: 'https://xenoblade.fandom.com',
     games: {
+      ...existingGames,
       xc1: {
         name: 'Xenoblade Chronicles',
         categories: {
@@ -590,6 +606,7 @@ export async function ingestXC1(): Promise<void> {
           collectopaedia: xc1Collectopaedia.length,
           landmark: xc1Landmarks.length,
           colony_reconstruction: xc1Colony6.length,
+          colony_immigrant: xc1Immigrants.length,
         },
       },
       'xc1-fc': {
@@ -614,6 +631,7 @@ export async function ingestXC1(): Promise<void> {
   console.log(`  XC1 Collectopaedia sets: ${xc1Collectopaedia.length}`)
   console.log(`  XC1 Landmarks: ${xc1Landmarks.length}`)
   console.log(`  XC1 Colony 6 Reconstruction: ${xc1Colony6.length}`)
+  console.log(`  XC1 Colony 6 Immigrants: ${xc1Immigrants.length}`)
   console.log(`  FC Quests: ${fcQuests.length}`)
   console.log(`  FC Unique Monsters: ${fcMonsters.length}`)
   console.log(`  FC Quiet Moments: ${fcQuietMoments.length}`)

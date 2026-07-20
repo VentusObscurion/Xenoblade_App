@@ -1,5 +1,6 @@
 import type { Category, GameId } from '../types/tracker.ts'
 import { GAME_CATEGORIES, GAMES } from '../types/tracker.ts'
+import { gameSupportsPlaythrough } from '../types/playthrough-config.ts'
 
 export type AppView = 'dashboard' | 'tracker' | 'playthrough' | 'settings'
 
@@ -33,7 +34,7 @@ function parseHash(hash: string): AppRoute | null {
   if (!VALID_VIEWS.has(viewPart as AppView)) return null
   const view = viewPart as AppView
 
-  if (view === 'playthrough' && gameId !== 'xc1') {
+  if (view === 'playthrough' && !gameSupportsPlaythrough(gameId)) {
     return { gameId, view: 'dashboard' }
   }
 

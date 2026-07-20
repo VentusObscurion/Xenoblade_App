@@ -1,0 +1,638 @@
+[
+  {
+    "id": "xc2-torna-unique_monster-beatific-ophelia",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Beatific Ophelia",
+    "region": "Kingdom of Torna (Loftin Nature Preserve)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Beatific_Ophelia",
+    "wikiPageId": 95323,
+    "element": "Ice",
+    "collectType": "Ellook"
+  },
+  {
+    "id": "xc2-torna-unique_monster-erratic-goliante",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Erratic Goliante",
+    "region": "Gormott (Saints' Practice Grounds)",
+    "level": 45,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 45"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Erratic_Goliante_(TTGC)",
+    "wikiPageId": 92858,
+    "collectType": "Gogol"
+  },
+  {
+    "id": "xc2-torna-unique_monster-everdark-erg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Everdark Erg",
+    "region": "Kingdom of Torna (Lasaria Woodland)",
+    "level": 36,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 36"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Everdark_Erg",
+    "wikiPageId": 95314,
+    "collectType": "Quadwing"
+  },
+  {
+    "id": "xc2-torna-unique_monster-flying-fortress-desmor",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Flying Fortress Desmor",
+    "region": "Kingdom of Torna (Aletta Region, Dannagh Region)",
+    "level": 55,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 55"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Flying_Fortress_Desmor",
+    "wikiPageId": 93986,
+    "element": "Ice",
+    "collectType": "Moramora"
+  },
+  {
+    "id": "xc2-torna-unique_monster-gourmand-galgan",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Gourmand Galgan",
+    "region": "Kingdom of Torna (Ancient Lakebed)",
+    "level": 3841,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 3841"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Gourmand_Galgan",
+    "wikiPageId": 95049,
+    "element": "Lightning",
+    "collectType": "Aspar"
+  },
+  {
+    "id": "xc2-torna-unique_monster-handwringing-bigelow",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Handwringing Bigelow",
+    "region": "Gormott (Serene Springside)",
+    "level": 25,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 25"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Handwringing_Bigelow",
+    "wikiPageId": 95320,
+    "collectType": "Brog"
+  },
+  {
+    "id": "xc2-torna-unique_monster-harbringer-cavill",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Harbringer Cavill",
+    "region": "Kingdom of Torna (Haradd Hills)",
+    "level": 23,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 23"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Harbinger_Cavill",
+    "wikiPageId": 95004,
+    "collectType": "Scorpox"
+  },
+  {
+    "id": "xc2-torna-unique_monster-herculean-gibson",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Herculean Gibson",
+    "region": "Kingdom of Torna (Wrackham Moor)",
+    "level": 75,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 75"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Herculean_Gibson",
+    "wikiPageId": 93990,
+    "element": "None",
+    "collectType": "Ardun"
+  },
+  {
+    "id": "xc2-torna-unique_monster-hurricane-anise",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Hurricane Anise",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hurricane_Anise",
+    "wikiPageId": 93140
+  },
+  {
+    "id": "xc2-torna-unique_monster-interceptor-grace",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Interceptor Grace",
+    "region": "Dannagh Region (The Great Breaksand)",
+    "level": 40,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 40"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Interceptor_Grace",
+    "wikiPageId": 95326,
+    "collectType": "Antol"
+  },
+  {
+    "id": "xc2-torna-unique_monster-ionospheric-mitchell",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Ionospheric Mitchell",
+    "region": "Kingdom of Torna (Uccar's Trail)",
+    "level": 50,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 50"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ionospheric_Mitchell",
+    "wikiPageId": 95003,
+    "collectType": "Marrin"
+  },
+  {
+    "id": "xc2-torna-unique_monster-lunar-amaruq",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Lunar Amaruq",
+    "region": "Kingdom of Torna (Hyber Village)",
+    "level": 34,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 34"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lunar_Amaruq",
+    "wikiPageId": 95315,
+    "collectType": "Volff"
+  },
+  {
+    "id": "xc2-torna-unique_monster-mesmer-tlaloc",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Mesmer Tlaloc",
+    "region": "Dannagh Region (Streamsand Corridor)",
+    "level": 85,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 85"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Mesmer_Tlaloc",
+    "wikiPageId": 94006,
+    "element": "Water",
+    "collectType": "Blant"
+  },
+  {
+    "id": "xc2-torna-unique_monster-nomadic-rusholme",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Nomadic Rusholme",
+    "region": "Kingdom of Torna (Behemoth's Roost)",
+    "level": 44,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 44"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nomadic_Rusholme",
+    "wikiPageId": 95324,
+    "collectType": "Griffox"
+  },
+  {
+    "id": "xc2-torna-unique_monster-overaffectionate-murph",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Overaffectionate Murph",
+    "region": "Gormott (Lascham Cove)",
+    "level": 18,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 18"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Overaffectionate_Murph",
+    "wikiPageId": 92791,
+    "element": "Wind",
+    "collectType": "Taos"
+  },
+  {
+    "id": "xc2-torna-unique_monster-ravine-bunnit",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Ravine Bunnit",
+    "region": "Gormott (near Hoary Weald Camp)",
+    "level": 50,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 50"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravine_Bunnit",
+    "wikiPageId": 95321,
+    "collectType": "Bunnit"
+  },
+  {
+    "id": "xc2-torna-unique_monster-scowling-quincy",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Scowling Quincy",
+    "region": "Kingdom of Torna (Tirkin Cliff Colony)",
+    "level": 25,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 25"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Scowling_Quincy",
+    "wikiPageId": 95319,
+    "collectType": "Tirkin"
+  },
+  {
+    "id": "xc2-torna-unique_monster-sentinel-carpathia",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Sentinel Carpathia",
+    "region": "Lasaria Region (Great Crater)",
+    "level": 65,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 65"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sentinel_Carpathia",
+    "wikiPageId": 93249,
+    "element": "Light",
+    "collectType": "Urchon"
+  },
+  {
+    "id": "xc2-torna-unique_monster-sequestered-ludd",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Sequestered Ludd",
+    "region": "Tornan Titan Interior (Pulsating Passage)",
+    "level": 48,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 48"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sequestered_Ludd",
+    "wikiPageId": 95139,
+    "collectType": "Parisax"
+  },
+  {
+    "id": "xc2-torna-unique_monster-sleepwalker-mork",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Sleepwalker Mork",
+    "region": "Kingdom of Torna (Peln, Pilgrim's Springland)",
+    "level": 33,
+    "prerequisites": [
+      {
+        "type": "level",
+        "label": "Level 33"
+      }
+    ],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sleepwalker_Mork",
+    "wikiPageId": 95317,
+    "collectType": "Caterpile"
+  },
+  {
+    "id": "xc2-torna-unique_monster-superboss",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "Superboss",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Superboss",
+    "wikiPageId": 3079
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-anise-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Anise.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise.jpg",
+    "wikiPageId": 93456
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-anise2-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Anise2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise2.jpg",
+    "wikiPageId": 101937
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-anise4-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Anise4.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise4.jpg",
+    "wikiPageId": 101938
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-anise5-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Anise5.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise5.jpg",
+    "wikiPageId": 101939
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-beatificopheliaday-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:BeatificOpheliaDay.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeatificOpheliaDay.jpg",
+    "wikiPageId": 95303
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-beatificophelianight-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:BeatificOpheliaNight.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeatificOpheliaNight.jpg",
+    "wikiPageId": 95304
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-carpathia-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Carpathia.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACarpathia.jpg",
+    "wikiPageId": 95010
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-carpathiacrater-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:CarpathiaCrater.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACarpathiaCrater.jpg",
+    "wikiPageId": 95009
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-erraticgoliantettgc-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:ErraticGolianteTTGC.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AErraticGolianteTTGC.jpg",
+    "wikiPageId": 95313
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-everdarkerg-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:EverdarkErg.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEverdarkErg.jpg",
+    "wikiPageId": 95305
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-flyingfortress1-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Flyingfortress1.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress1.jpg",
+    "wikiPageId": 94869
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-flyingfortress2-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Flyingfortress2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress2.jpg",
+    "wikiPageId": 94870
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-flyingfortress3-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Flyingfortress3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress3.jpg",
+    "wikiPageId": 94871
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-flyingfortress4-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Flyingfortress4.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress4.jpg",
+    "wikiPageId": 94872
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-galgan-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Galgan.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalgan.jpg",
+    "wikiPageId": 95046
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-galgan2-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Galgan2.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalgan2.jpg",
+    "wikiPageId": 95047
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-galgan3-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Galgan3.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalgan3.jpg",
+    "wikiPageId": 95048
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-gibson-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Gibson.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGibson.jpg",
+    "wikiPageId": 95006
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-handwringingbigelow-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:HandwringingBigelow.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHandwringingBigelow.jpg",
+    "wikiPageId": 95306
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-harbringercavill-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:HarbringerCavill.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHarbringerCavill.jpg",
+    "wikiPageId": 94997
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-interceptorgrace-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:InterceptorGrace.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInterceptorGrace.jpg",
+    "wikiPageId": 95311
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-ionospheric-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Ionospheric.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIonospheric.jpg",
+    "wikiPageId": 95001
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-lunaramaruq-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:LunarAmaruq.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALunarAmaruq.jpg",
+    "wikiPageId": 95308
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-murph-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Murph.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMurph.jpg",
+    "wikiPageId": 95050
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-nomadicrusholme-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:NomadicRusholme.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANomadicRusholme.jpg",
+    "wikiPageId": 95309
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-pedestalstargazing-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:PedestalStargazing.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APedestalStargazing.jpg",
+    "wikiPageId": 95093
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-ravinebunnit-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:RavineBunnit.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARavineBunnit.jpg",
+    "wikiPageId": 95312
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-scowlingquincey-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:ScowlingQuincey.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AScowlingQuincey.jpg",
+    "wikiPageId": 95310
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-sequesteredludd-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:SequesteredLudd.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASequesteredLudd.jpg",
+    "wikiPageId": 95137
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-sleepwalkermork-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:SleepwalkerMork.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASleepwalkerMork.jpg",
+    "wikiPageId": 95307
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-tlaloc-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:Tlaloc.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATlaloc.jpg",
+    "wikiPageId": 95007
+  },
+  {
+    "id": "xc2-torna-unique_monster-file-tlalochidden-jpg",
+    "gameId": "xc2-torna",
+    "category": "unique_monster",
+    "name": "File:TlalocHidden.jpg",
+    "prerequisites": [],
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATlalocHidden.jpg",
+    "wikiPageId": 95008
+  }
+]

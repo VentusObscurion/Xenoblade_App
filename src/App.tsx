@@ -11,6 +11,9 @@ import { DashboardPage } from './pages/DashboardPage.tsx'
 import { PlaythroughPage } from './pages/PlaythroughPage.tsx'
 import { SettingsPage } from './pages/SettingsPage.tsx'
 import { useGameState } from './hooks/useGameState.ts'
+import {
+  gameSupportsPlaythrough,
+} from './types/playthrough-config.ts'
 import type { Category, GameId } from './types/tracker.ts'
 import './App.css'
 
@@ -49,7 +52,9 @@ function App() {
   const setGameId = (gameId: GameId) => {
     setRoute((prev) => {
       const nextView =
-        prev.view === 'playthrough' && gameId !== 'xc1' ? 'dashboard' : prev.view
+        prev.view === 'playthrough' && !gameSupportsPlaythrough(gameId)
+          ? 'dashboard'
+          : prev.view
       return { gameId, view: nextView, category: undefined }
     })
   }
@@ -92,7 +97,7 @@ function App() {
             >
               Tracker
             </button>
-            {gameId === 'xc1' && (
+            {gameSupportsPlaythrough(gameId) && (
               <button
                 className={view === 'playthrough' ? 'active' : ''}
                 onClick={() => setView('playthrough')}
@@ -118,6 +123,7 @@ function App() {
           <DashboardPage gameId={gameId} onNavigate={handleNavigateToCategory} />
         ) : view === 'playthrough' ? (
           <PlaythroughPage
+            gameId={gameId}
             gameState={gameState}
             onLevelChange={setPlayerLevel}
             onAffinityChange={setAreaAffinity}
