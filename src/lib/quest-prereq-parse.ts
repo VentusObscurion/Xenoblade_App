@@ -94,9 +94,9 @@ export function resolveAccessRegion(label: string): string | undefined {
 
   if (/hidden\s+machina\s+village|hidden\s+village/i.test(lower)) return 'Hidden Village'
   if (/pod\s+landing\s+site/i.test(lower)) return 'Makna Forest'
-  if (/interior\s+landing\s+site|bionis['’]?\s*interior/i.test(lower)) {
-    return "Bionis' Interior"
-  }
+  // Interior Landing Site is post-Mechonis-Core — gated via story flag, not area alone
+  if (/interior\s+landing\s+site/i.test(lower)) return undefined
+  if (/bionis['’]?\s*interior/i.test(lower)) return "Bionis' Interior"
   if (/high\s+entia\s+tomb/i.test(lower)) return 'Eryth Sea'
   if (/central\s+factory|agniratha/i.test(lower)) return 'Mechonis Field'
   if (/vilia\s+lake|tephra\s+cave/i.test(lower)) return 'Tephra Cave'
@@ -123,7 +123,12 @@ export function matchStoryFlag(label: string): string | undefined {
   const patterns: Array<{ id: string; tests: RegExp[] }> = [
     {
       id: 'mechonis_core_cleared',
-      tests: [/mechonis core cleared/, /mechonis core/],
+      tests: [
+        /mechonis core cleared/,
+        /after mechonis core/,
+        // Junks lands at Interior Landing Site only after Mechonis Core
+        /interior landing site/,
+      ],
     },
     {
       id: 'mechon_attack_colony9',

@@ -35,10 +35,11 @@ const OUTPUT_DIR = join(__dirname, '../../public/data')
 export const XC1_QUEST_CATEGORIES: Array<{ category: string; region: string }> = [
   { category: 'Colony_9_Quests', region: 'Colony 9' },
   { category: 'Tephra_Cave_Quests', region: 'Tephra Cave' },
-  { category: 'Bionis_Leg_Quests', region: "Bionis' Leg" },
+  // Wiki category uses an apostrophe: Category:Bionis'_Leg_Quests
+  { category: "Bionis'_Leg_Quests", region: "Bionis' Leg" },
   { category: 'Colony_6_Quests', region: 'Colony 6' },
   { category: 'Satorl_Marsh_Quests', region: 'Satorl Marsh' },
-  { category: 'Bionis_Interior_Quests', region: "Bionis' Interior" },
+  // No dedicated Interior quests category on the wiki (quests live under other areas)
   { category: 'Makna_Forest_Quests', region: 'Makna Forest' },
   { category: 'Frontier_Village_Quests', region: 'Frontier Village' },
   { category: 'Eryth_Sea_Quests', region: 'Eryth Sea' },

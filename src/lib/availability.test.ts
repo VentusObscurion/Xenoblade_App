@@ -13,6 +13,7 @@ import { isItemAvailable } from './prerequisites.ts'
 import {
   extractQuestNameFromLabel,
   getQuestProgressMode,
+  matchStoryFlag,
   parseRequiredAffinityStars,
   resolveAffinityRegion,
   resolveAccessRegion,
@@ -43,6 +44,15 @@ describe('quest-prereq-parse', () => {
 
   it('maps access labels to regions', () => {
     expect(resolveAccessRegion('Access to Tephra Cave')).toBe('Tephra Cave')
+  })
+
+  it('gates Interior Landing Site on Mechonis Core story flag', () => {
+    expect(
+      matchStoryFlag('Arrived at the Interior Landing Site (Bionis\' Interior)'),
+    ).toBe('mechonis_core_cleared')
+    expect(resolveAccessRegion('Arrived at the Interior Landing Site (Bionis\' Interior)')).toBe(
+      undefined,
+    )
   })
 })
 
@@ -254,6 +264,42 @@ describe('quest accepted prerequisites', () => {
         state,
       ),
     ).toBe(true)
+  })
+
+  it('blocks Replica Monado until Mechonis Core is cleared', () => {
+    const quest: TrackableItem = {
+      id: 'xc1-quest-replica-monado-1',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'Replica Monado 1',
+      region: 'Colony 6 (Junks)',
+      prerequisites: [
+        {
+          type: 'other',
+          label: "Arrived at the Interior Landing Site (Bionis' Interior)",
+        },
+      ],
+      wikiUrl: '',
+    }
+    const before: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Colony 6': true,
+        "Bionis' Interior": true,
+      },
+      playerLevel: 99,
+    }
+    const after: GameState = {
+      ...before,
+      storyFlags: {
+        ...before.storyFlags,
+        mechonis_core_cleared: true,
+      },
+    }
+
+    expect(isItemAvailable(quest, {}, [quest], before)).toBe(false)
+    expect(isItemAvailable(quest, {}, [quest], after)).toBe(true)
   })
 })
 

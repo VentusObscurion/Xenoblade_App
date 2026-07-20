@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-20T16:36:14.475Z",
+  "generatedAt": "2026-07-20T19:53:36.895Z",
   "attribution": "Data from Xenoblade Wiki (CC BY-SA 3.0)",
   "wikiBaseUrl": "https://xenoblade.fandom.com",
   "games": {
     "xc1": {
       "name": "Xenoblade Chronicles",
       "categories": {
-        "quest": 415,
+        "quest": 454,
         "unique_monster": 156,
         "achievement": 200,
         "heart_to_heart": 77,

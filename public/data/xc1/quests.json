@@ -2861,6 +2861,1139 @@
     "wikiPageId": 5445
   },
   {
+    "id": "xc1-quest-a-dash-of-colour",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "A Dash of Colour",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "A Thoughtful Idea"
+      }
+    ],
+    "rewards": [
+      "+100 reputation",
+      "750 G",
+      "200 EXP",
+      "Lime Bangle (Unique)"
+    ],
+    "description": "\"Matryona is the inspiration that set Ewan on his path to writing the story. Collect the Sour Gooseberries he needs to make paints for Matryona's pictures.\"",
+    "walkthrough": "''\"Collect 4 Sour Gooseberries in Bionis' Leg.\"''\nHint: Trade with Kiroki (☆1)\n\"Report back to Ewan.\"\n\"Give the paints to Matryona.\"\n\"Return to Ewan.\"",
+    "giver": "Ewan",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 18:00",
+    "uniqueComments": ": 'Sharla': \"You need to stop being so hard on yourself, Ewan. Not a single person here hates you for the decision you took.\"\n: 'Ewan': ''\"Hearing that from you makes all the difference, Sharla. Maybe it is time to move on... But I'm feeling more positive now. I once again feel the desire to put quill to paper! I've written a few lines since Matryona gave me an idea. Things are a little...awkward between us, but it's getting better. Which brings me to the favour I need to ask you.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "results": "''\"Thanks to Ewan's newly-found drive, he and Matryona's relationship is much improved.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Dash_of_Colour",
+    "wikiPageId": 4491
+  },
+  {
+    "id": "xc1-quest-a-flower-for-a-rose",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "A Flower for a Rose",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Mechonis Core cleared"
+      },
+      {
+        "type": "other",
+        "label": "Securing Provisions"
+      }
+    ],
+    "rewards": [
+      "+200 reputation",
+      "38,000 G",
+      "92,500 EXP",
+      "Cosmo Drones (0 slots)",
+      "Initial Tension VI"
+    ],
+    "description": "\"Collect a single blossoming flower for Dulland from the Tephra Cave ruins.\"",
+    "walkthrough": "\"Collect 1 Ancient Lily near Bafalgar Tomb in Tephra Cave.\"\nHint: By entering the room behind the altar at Bafalgar Tomb and proceeding to the end of the passage, the flower will be found.\n\"Return to Dulland.\"",
+    "giver": "Dulland",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Fiora': \"Are you going to give it as a gift to someone special?\"\n: 'Dulland': \"I should be so lucky. Not at my age...\"\n: 'Fiora': \"So why would you want it?\"\nCategory:Bionis' Leg Quests",
+    "results": "\"The Ancient Lily has been delivered to Dulland, but who will be the final recipient?\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Flower_for_a_Rose",
+    "wikiPageId": 7184
+  },
+  {
+    "id": "xc1-quest-a-thoughtful-idea",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "A Thoughtful Idea",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,200 G",
+      "280 EXP",
+      "Quark Armour (0 slots)"
+    ],
+    "description": "\"Pama is feeling the pain of losing his parents. To bring a smile back to his face, pay Ewan the author a visit and speak to him about making a picture book.\"",
+    "walkthrough": "\"Speak to Ewan.\"\n''\"Collect 3 pieces of Ponio Neck Meat from Field Ponios in Bionis' Leg.''\nHint: level 12 Niece Ponios and level 15 Field Ponios drop Ponio Neck Meat.\n\"Speak to Ewan.\"\n\"Return to Matryona.\"",
+    "giver": "Matryona",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "09:00 - 18:00",
+    "uniqueComments": ": 'Reyn': ''\"I won't lie by saying I understand what the kid's going through. But it just ain't right when a little kid is as sad as he is.\"''\n: 'Matryona': \"I agree. Pama and everyone else.\"\n: 'Reyn': ''\"Then you're looking at the best people for the job! We of all people know what its like to have a home demolished.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "results": "\"With a distinct air of positivity, Ewan has begun work putting the picture book together.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Thoughtful_Idea",
+    "wikiPageId": 4489
+  },
+  {
+    "id": "xc1-quest-battling-brutes",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Battling Brutes",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Mechonis Core cleared"
+      },
+      {
+        "type": "other",
+        "label": "A Flower for a Rose"
+      },
+      {
+        "type": "other",
+        "label": "Fiora in the lead"
+      }
+    ],
+    "rewards": [
+      "+200 reputation",
+      "63,500 G",
+      "158,000 EXP",
+      "Eternity Knives (2 slots)",
+      "Speed V Frame (Unique)",
+      "Speed V Booster (Unique)",
+      "Innocence (Fiora's fifth skill tree)"
+    ],
+    "description": "\"Dulland can't make his Ancient Lily delivery as planned. Head to Tephra Cave and defeat the two large monsters fighting each other.\"",
+    "walkthrough": "''\"Defeat LV98 Reckless Zanden at the Arachno Queen's Nest in Tephra Cave.\"''\nZanden emits an important range spike.\n''\"Defeat LV98 Firework Geldesia at the Arachno Queen's Nest in Tephra Cave.\"''\nGeldesia has an important counter Daze spike.\n\"Return to Dulland.\"",
+    "giver": "Dulland",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "results": "\"The monsters in Tephra Cave have been eliminated to ensure safe passage to Colony 9.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Battling_Brutes",
+    "wikiPageId": 7185
+  },
+  {
+    "id": "xc1-quest-being-a-good-grandfather",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Being a Good Grandfather",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "affinity",
+        "label": "Nikita registered on the Colony 6 area Affinity Chart"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,000 G",
+      "220 EXP",
+      "Initial Tension III"
+    ],
+    "description": "\"Satata's grandson has broken a toy belonging to his friend. To fix it, Satata needs some Sticky Web Fibres. Collect some to help Satata fix the toy.\"",
+    "walkthrough": "''\"Collect 3 Sticky Web Fibre from Arachno on the Bionis' Leg.\"''\nHint: Overtraded by Anna (550+ G) at Refugee Camp or trade with Emmy Leater (☆2) at Colony 9\n\"Return to Satata.\"\n\"Give the toy to Kiroki.\"\n\"Return to Satata.\"",
+    "giver": "Satata",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 15:00",
+    "uniqueComments": ": 'Sharla': ''\"Sticky fibres make good glue... That's a brilliant idea, Satata! Leave it with me and I'll make sure you get the fibres you need. It's my job to look after everybody, after all.\"''\n: 'Satata': \"So friends will help me? Thank you, Sharla.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "results": "\"Now that the toy has been repaired, the two friends have made up.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Being_a_Good_Grandfather",
+    "wikiPageId": 4486
+  },
+  {
+    "id": "xc1-quest-challenge-1-part-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 1 - Part 1",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "5,500 G"
+    ],
+    "description": "\"A request has been made to help keep the camp's inhabitants out of harm's way. Defeat the monster that is putting the people in peril.\"",
+    "walkthrough": "''\"Defeat LV17 White Eduardo at Raguel Lake on the Bionis' Leg.\"''\nHint: Thunderstorm weather only. The central island at Raguel Lake.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "results": "\"Quest completed. You have taken care of the monster. The inhabitants of the camp are safe.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_-_Part_1_(Bionis'_Leg)",
+    "wikiPageId": 4505
+  },
+  {
+    "id": "xc1-quest-challenge-1-part-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 1 - Part 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "3,800 G"
+    ],
+    "description": "\"There is a monster rampaging between Viliera Hill and Sky Stage. It will need to be defeated before the errand can be taken care of.\"",
+    "walkthrough": "''\"Defeat LV16 Violent Andante from Sky Stage on the Bionis' Leg.\"''\nHint: Spawns on the path leading to Raguel Lake, then runs to the Sky Stage.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "results": "\"Quest completed. The rampaging monster is no longer a threat.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_-_Part_2_(Bionis'_Leg)",
+    "wikiPageId": 4504
+  },
+  {
+    "id": "xc1-quest-challenge-2-part-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 2 - Part 1",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "4,200 G"
+    ],
+    "description": "\"A monster has overrun an area where people forage for much-needed provisions. Defeat the monster and reclaim this cherished area.\"",
+    "walkthrough": "''\"Defeat LV15 Trainer Harmelon near the north part of Spiral Valley on the Bionis' Leg upper level.\"''\nHint: High hills east of Zax Guidepost. It commands two Berserk Arduns",
+    "giver": "A Nopon Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Quest completed. The area has been freed from this monster and is safe to visit again.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_-_Part_1_(Bionis'_Leg)",
+    "wikiPageId": 4500
+  },
+  {
+    "id": "xc1-quest-challenge-2-part-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Challenge 2 - Part 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "4,800 G"
+    ],
+    "description": "\"A noticeably larger-than-usual Tirkin has been spotted. He'll need to be taken care of before he sets his sights on the camp. Defeat him.\"",
+    "walkthrough": "''\"Defeat Vagrant Alfead in the Tirkin Headquarters on the Bionis' Leg.\"''\nHint: North of Rho Oasis. Alfead is protected by several smaller Tirkins.",
+    "giver": "A Nopon Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Quest completed. The threat posed by the large Tirkin is no more.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_-_Part_2_(Bionis'_Leg)",
+    "wikiPageId": 4501
+  },
+  {
+    "id": "xc1-quest-collection-quest-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 1",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,000 G"
+    ],
+    "description": "\"Food at the camp leaves a lot to be desired. If more flavour can be added to the food, things will get a lot better. Find the collectables required to do this.\"",
+    "walkthrough": "\"Collect 2 Clear Almonds from Tephra Cave.\nHint: Trade with Ewan (☆1)",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Quest completed. Food should be a lot more flavoursome from now on.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Bionis'_Leg)",
+    "wikiPageId": 4511
+  },
+  {
+    "id": "xc1-quest-collection-quest-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Collection Quest 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,500 G"
+    ],
+    "description": "\"A little girl wants nothing more than some pet insects to call her own. Make her day by finding some collectables.\"",
+    "walkthrough": "''\"Collect 3 Moth Crawlers on the Bionis' Leg.''\nHint: Trade with Satata (☆1)",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Quest completed. She should be a little happier now she has some new friends to play with.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Bionis'_Leg)",
+    "wikiPageId": 4502
+  },
+  {
+    "id": "xc1-quest-earnests-fibs",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Earnest's Fibs",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "750 G",
+      "300 EXP",
+      "Lime Bangle (Unique)"
+    ],
+    "description": "\"Apparently there is an everlasting ether deposit very close by. Leave the camp, head right and into a small cave where it is supposedly concealed.\"",
+    "walkthrough": "\"Search the area around the ether deposit.\"\nIt is inside Kisk Cave, farthest south of Viliera Hill. Five Fierce Vangs spawn only during this quest but it is not required to defeat them.\n\"Return to Earnest.\"",
+    "giver": "Earnest",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Reyn': ''\"You sure you're not having a laugh with us? 'Cos I ain't buyin' it. Sounds too good to be true.\"''\n: 'Earnest': ''\"You don't have to believe me. Ain't no skin off my back. It's you who'll be losing out.\"''\n: 'Reyn': ''\"Suppose it can't hurt to go take a look. But I smell a rat.\"''\nCategory:Bionis' Leg Quests",
+    "results": "\"You found nothing but normal crystals. Looks like Earnest pulled a fast one!\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Earnest's_Fibs",
+    "wikiPageId": 4514
+  },
+  {
+    "id": "xc1-quest-earnests-mischief",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Earnest's Mischief",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "''Earnest's Fibs''"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆1¼"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,000 G",
+      "500 EXP",
+      "Earth Cloak II"
+    ],
+    "description": "\"There is supposedly an endless supply of crystals in a cave on the edge of Raguel Lake, south east of the bridge. Go there and find out if this is really the case.\"",
+    "walkthrough": "\"Search the area around the ether deposit.\"\nIt is inside Tranquil Grotto, farthest southeast of Raguel Lake. Assault Flamiis spawn only during this quest but it is not required to defeat them.\n\"Return to Earnest.\"",
+    "giver": "Earnest",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Shulk': ''\"But we all know what happened last time. We just can't trust you. You're really not lying this time?\"''\n: 'Earnest': ''\"I weren't even lyin' before. I just got it wrong before, didn't I? You can trust me.\"''\n: 'Shulk': ''\"I'd like to say 'I can' but...\"''\n: 'Earnest': ''\"Well, whateva. I ain't gonna force ya. Do whateva ya like.\"''\nCategory:Bionis' Leg Quests",
+    "results": "\"After giving him the benefit of the doubt, it looks like Earnest tricked you... again!\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Earnest's_Mischief",
+    "wikiPageId": 7664
+  },
+  {
+    "id": "xc1-quest-earnests-solitude",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Earnest's Solitude",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "''Earnest's Mischief''"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆1½"
+      }
+    ],
+    "rewards": [
+      "+150 reputation",
+      "1,200 G",
+      "750 EXP",
+      "Grand Boots (0 slots)"
+    ],
+    "description": "\"There seems to be a reason behind Earnest's lies. Place flowers on the grave of his friend at the edge of the cliff north of Kasharpa Waterfall.\"",
+    "walkthrough": "\"Place the flowers on the grave.\"\nIt is inside northeast corner of upper Bionis' Leg. The level 19 Arrogant Tirkin will immediately appear once the flowers are placed on the grave.\n''\"Defeat the Arrogant Tirkin to the north of Kasharpa Waterfall on the Bionis' Leg.\"''\n\"Return to Earnest.\"",
+    "giver": "Earnest",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Sharla': ''\"I do. I can see it in your eyes. I can't be a hundred percent sure. But it feels like you're telling the truth this time.\"''\n: 'Earnest': ''\"Really? Ya believe me? Hmm... What's this? I'm feeling a bit guilty.\"''\n: 'Sharla': ''\"Don't be like that. I'm sure you had reasons for lying when you did. But I believe what you're saying now.\"''",
+    "results": "\"The darkness in Earnest is gone. No more dishonest antics from him!\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Earnest's_Solitude",
+    "wikiPageId": 7106
+  },
+  {
+    "id": "xc1-quest-emergency-treatment",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Emergency Treatment",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "affinity",
+        "label": "Gorman registered on the Colony 6 area Affinity Chart"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "750 G",
+      "300 EXP",
+      "Quark Gear (0 slots)"
+    ],
+    "description": "\"Gorman took only a limited supply of his medicine in the escape from Colony 6. If it runs out, he'll be in trouble. Collect ingredients for Olga to make more.\"",
+    "walkthrough": "''\"Collect 5 lots of Glowing Wisp Fluid from Wisps on the Bionis' Leg.\"''\nHint: Trade with Ewan (☆1)\n\"Return to Olga.\"",
+    "giver": "Olga",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 15:00",
+    "uniqueComments": ": 'Shulk': ''\"We can help you. Just leave it to us. We're always happy to help someone who's in trouble.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "results": "Gorman can sleep now that Olga has the ingredients to make his anti-insomnia medicine.",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Emergency_Treatment",
+    "wikiPageId": 4517
+  },
+  {
+    "id": "xc1-quest-imaginations-tempered",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Imaginations Tempered",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "A Dash of Colour"
+      }
+    ],
+    "rewards": [
+      "+150 reputation",
+      "1,500 G",
+      "250 EXP",
+      "Damage Heal II"
+    ],
+    "description": "\"A glimpse of the future shows Pama drowning! If nothing is done to stop him, he'll surely die. Change the future and don't let Pama drown!\"",
+    "walkthrough": "''\"Collect 1 Lake Drop from near Raguel Lake on the Bionis' Leg.\"''\nHint: Far southeast of Raguel Lake. The item is near the lower area of the shoreline.\n\"Return to Matryona.\"\nSpirits Raised will disappear after Matryona is given the Lake Drop.\n\"Give the picture book to Pama.\"",
+    "giver": "Matryona",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "09:00 - 18:00",
+    "results": "\"The picture book has changed and the tragedy of Pama drowning has been averted.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Imaginations_Tempered",
+    "wikiPageId": 4522
+  },
+  {
+    "id": "xc1-quest-legend-of-mythical-empress",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Legend of Mythical Empress",
+    "region": "Bionis' Leg (Traveller's Rest)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "With Even More Gratitude"
+      },
+      {
+        "type": "other",
+        "label": "It Definitely Exist!"
+      },
+      {
+        "type": "affinity",
+        "label": "Pachipa and Pipiki affinity link:"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆3½"
+      }
+    ],
+    "rewards": [
+      "+200 reputation",
+      "6,500 G",
+      "3,000 EXP",
+      "Haste II"
+    ],
+    "description": "\"The Mythical Empress is on a rampage fuelled by the death of her young and is destroying the area around the nest. Head there and put her out of her misery.\"",
+    "walkthrough": "''\"Defeat the Mythical Empress near Zax Guidepost on the Bionis' Leg.\"''\nBy dropping in the hole south of the Zax Guidepost, the level 35 Mythical Empress will be found.\n\"Return to Gerugu.\"",
+    "giver": "Gerugu",
+    "subLocation": "Bionis' Leg (Traveller's Rest)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Riki': \"We not have to do that! She not bad monster! You make mistake!\"\n: 'Gerugu': \"Some evil person kill her child. You went to nest before. But you not hurt her, did you? Gerugu understand she angry cos horrible person take child. You understand too, right?\"\n: 'Riki': \"Riki understand.\"\nCategory:Bionis' Leg Quests",
+    "results": "\"The Mythical Empress has fallen and the legend has come to an end.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Legend_of_Mythical_Empress",
+    "wikiPageId": 11072
+  },
+  {
+    "id": "xc1-quest-material-quest-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 1",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,000 G"
+    ],
+    "description": "\"Occasionally, it would be nice to feed the camp's inhabitants some food that galvanises their spirits. Collect some ingredients that would do the trick.\"",
+    "walkthrough": "''\"Collect 2 lots of Brog Leg Meat from Brogs on the Bionis' Leg.\"''\nHint: Day only. ~LV18 Big Brogs. They can be found in upper Bionis' Leg. One is in the pond west of Spiral Valley. The other can be found in the small island west of Kasharpa Falls\nTrade with Zukazu (☆2) at Refugee Camp (must clear ''A Big Brother's Fight'')\n''\"Collect 2 Fertile Flamii Eggs from Flamii on the Bionis' Leg.\"''\nHint: Day only. ~LV12 Black Flamiis; the lakes around Jabos Rock Rest Area.\nTrade with Zukazu (☆1) at Refugee Camp (must clear ''A Big Brother's Fight'')",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"Quest completed. This should help raise the spirits of the camp's inhabitants a little.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_1_(Bionis'_Leg)",
+    "wikiPageId": 4508
+  },
+  {
+    "id": "xc1-quest-material-quest-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,500 G"
+    ],
+    "description": "\"The refugees fled with nothing more than the clothes on their backs. Collect the materials needed to make additional clothing.\"",
+    "walkthrough": "''\"Collect 2 Tirkin Crests from spear-carrying Tirkins on the Bionis' Leg.\"''\nHint: Trade with Anna (☆1) at the Refugee Camp\n''\"Collect 2 Tirkin Tail Feathers from bow-carrying Tirkins on the Bionis' Leg.\"''\nHint: Trade with Gorman (☆1) at the Refugee Camp",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Quest completed. Now the much-needed clothes can be made.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_2_(Bionis'_Leg)",
+    "wikiPageId": 4513
+  },
+  {
+    "id": "xc1-quest-material-quest-3-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 3",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,200 G"
+    ],
+    "description": "\"In order to bring a little happiness to the inhabitants of the camp, go and retrieve a Bunnit Sapling.\"",
+    "walkthrough": "''\"Collect 1 Bunnit Sapling from a Slugger Bunnit on the Bionis' Leg.\"''\nHint: The areas north or west of Jabos Rock Rest Area\nTrade with Monica (☆2) at Colony 9",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Quest completed. Hopefully this sapling will help cheer people up.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_3_(Bionis'_Leg)",
+    "wikiPageId": 4509
+  },
+  {
+    "id": "xc1-quest-material-quest-4-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Material Quest 4",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,200 G"
+    ],
+    "description": "\"The unfortunate people who've fallen foul of bad circumstances would like some amulets. Collect the Materials that the Nopon suggested.\"",
+    "walkthrough": "''\"Collect 3 Vang Third Molars from Vangs on the Bionis' Leg.\"''\nHint: LV15 Gust Vang at Kisk Cave (south of Viliera Hill)\nTrade with Suzanna (☆2) at Colony 9.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "''\"Quest completed. This should be enough teeth to make amulets and put peoples' minds at ease.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_4_(Bionis'_Leg)",
+    "wikiPageId": 4512
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 1",
+    "region": "Bionis' Leg (Ragrinar Canyon Path)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,500 G"
+    ],
+    "description": "\"Monsters are drawing closer and attacking people. It's time to defeat the monsters once and for all.\"",
+    "walkthrough": "''\"Defeat 2 Leg Ardun on the Bionis' Leg.\"''\nHint: Near Jabos Rock Rest Area",
+    "giver": "A Homs Traveller",
+    "subLocation": "Bionis' Leg (Ragrinar Canyon Path)",
+    "timeWindow": "Anytime",
+    "results": "''\"The Homs Traveller is out of harm's way at last. Maybe it was just him being a little too friendly...\"''\nCategory:Bionis' Leg Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Bionis'_Leg)",
+    "wikiPageId": 4495
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 2",
+    "region": "Bionis' Leg (Ragrinar Canyon Path)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,200 G"
+    ],
+    "description": "\"Monsters are wreaking havoc among the wildlife on the great Gour Plain. Head there and defeat them.\"",
+    "walkthrough": "''\"Defeat 3 Maker Bunnits on the Bionis' Leg.\"''\nHint: The area north of Jabos Rock Rest Area.",
+    "giver": "A Homs Traveller",
+    "subLocation": "Bionis' Leg (Ragrinar Canyon Path)",
+    "timeWindow": "Anytime",
+    "results": "\"Quest completed. Hopefully there will be less unrest from now on.\"",
+    "trivia": "There is a typo in this quest; it says \"Gour Plain\" instead of \"Gaur Plain\".\nCategory:Bionis' Leg Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Bionis'_Leg)",
+    "wikiPageId": 4496
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-3-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 3",
+    "region": "Bionis' Leg (Ragrinar Canyon Path)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "2,500 G"
+    ],
+    "description": "\"Some extremely ferocious monsters have shown up on Gaur Plain. Defeat them to clear a safe passage.\"",
+    "walkthrough": "''\"Defeat 5 Field Ponios on the Bionis' Leg.\"''\nHint: Day only. Southwest of Kamos Guidepost",
+    "giver": "A Homs Traveller",
+    "subLocation": "Bionis' Leg (Ragrinar Canyon Path)",
+    "timeWindow": "Anytime",
+    "results": "\"Quest completed. Things should be safer for travellers from now on.\"\nCategory:Bionis' Leg Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Bionis'_Leg)",
+    "wikiPageId": 4497
+  },
+  {
+    "id": "xc1-quest-monster-quest-1-part-4-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 1 - Part 4",
+    "region": "Bionis' Leg (Ragrinar Canyon Path)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,800 G"
+    ],
+    "description": "\"Travellers hear howling while making camp and it is making them uneasy. Locate and eliminate the source of the howling.\"",
+    "walkthrough": "''\"Defeat 3 Leg Volff on the Bionis' Leg.\"''\nHint: Night only. The area between Jabos Rock Rest Area and Kamos Guidepost",
+    "giver": "A Homs Traveller",
+    "subLocation": "Bionis' Leg (Ragrinar Canyon Path)",
+    "timeWindow": "Anytime",
+    "results": "''\"Quest completed. It's again safe to camp without the unnerving howling ringing though the air.\"''\nCategory:Bionis' Leg Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_4_(Bionis'_Leg)",
+    "wikiPageId": 4498
+  },
+  {
+    "id": "xc1-quest-monster-quest-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "2,000 G"
+    ],
+    "description": "\"A trip to see the fireflies has been thwarted by some monsters. They'll have to be cleared before the trip. Defeat the monsters and make it safe.\"",
+    "walkthrough": "''\"Defeat 2 Basin Antols on the Bionis' Leg.\"''\nHint: The area between Kamos Guidepost and Refugee Camp.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "''\"Quest completed. Now there shouldn't be any problem going to see the fireflies.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Bionis'_Leg)",
+    "wikiPageId": 4499
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-part-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3 - Part 1",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "2,500 G"
+    ],
+    "description": "\"Mechon are preventing the search for survivors. If there's to be any chance of finding anyone alive, Mechon need to be cleared. Defeat the Mechon.\"",
+    "walkthrough": "''\"Defeat 5 Mechon M64 on the Bionis' Leg.\"''\nHint: Maguel Road",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Quest completed. The search for survivors should be much easier now.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Bionis'_Leg)",
+    "wikiPageId": 4506
+  },
+  {
+    "id": "xc1-quest-monster-quest-3-part-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Monster Quest 3 - Part 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "5,000 G"
+    ],
+    "description": "\"A recent surge in the Tirkin population is posing an increased danger to survivors. To keep the people out of harm's way, bring the Tirkin population down.\"",
+    "walkthrough": "''\"Defeat 2 Brave Tirkins on the Bionis' Leg.\"''\nHint: Tirkin Headquarters, north of Rho Oasis.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Quest completed. Now the survivors can feel a little more secure.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Bionis'_Leg)",
+    "wikiPageId": 4507
+  },
+  {
+    "id": "xc1-quest-save-the-girl",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Save the Girl!",
+    "region": "Bionis' Leg (Gaur Plain)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Sharla joined the party"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,200 G",
+      "300 EXP",
+      "Diver Top (0 slots)",
+      "Diver Bottoms (1 slot)"
+    ],
+    "description": "\"Man-eating Volff are closing in on a girl while she bathes. Go and rescue her before it's too late!\"",
+    "walkthrough": "\"Defeat the 4 Ferocious Volff near the waterfall on Gaur Plain.\"\n\"Speak to the girl.\"",
+    "giver": "Surprise Quest",
+    "subLocation": "Bionis' Leg (Gaur Plain)",
+    "timeWindow": "Automatic",
+    "results": "''\"The girl who went bathing alone is safe. She won't be coming back here alone any time soon!\"''\nclr",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Save_the_Girl!",
+    "wikiPageId": 4492
+  },
+  {
+    "id": "xc1-quest-search-quest-1-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 1",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "2,500 G"
+    ],
+    "description": "\"While fleeing the bridge, she dropped a present from her boyfriend and it's too risky for her to return there alone. Locate the present on her behalf and return it.\"",
+    "walkthrough": "''\"Collect the Bird Necklace from near Raguel Bridge on the Bionis' Leg.\"''\nHint: Through Kisk Cave then outside to the area southwest of the Raguel Bridge to find the item.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 18:00",
+    "results": "\"Quest completed. The ill-fated present has been successfully recovered.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_1_(Bionis'_Leg)",
+    "wikiPageId": 4503
+  },
+  {
+    "id": "xc1-quest-search-quest-2-bionis-leg",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Search Quest 2",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "2,000 G"
+    ],
+    "description": "\"A gift from some friends has been swept away by the wind and its recipient is in no condition to go and retrieve it himself. Find the gift and return it.\"",
+    "walkthrough": "''\"Collect the Torn Paper from Gaur Plain on the Bionis' Leg.\"''\nHint: Southwest of Gaur Plain. The item is near the end of the land.",
+    "giver": "A Homs Camp Resident",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "results": "\"Quest completed. The precious gift has been successfully recovered, intact and safe.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_2_(Bionis'_Leg)",
+    "wikiPageId": 4510
+  },
+  {
+    "id": "xc1-quest-spirits-raised",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Spirits Raised",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "quest",
+        "label": "Imaginations Tempered accepted"
+      }
+    ],
+    "rewards": [
+      "+150 reputation",
+      "800 G",
+      "400 EXP",
+      "Arts Heal II"
+    ],
+    "description": "\"A glimpse of the future shows Pama drowning! It looks like it's going to happen if he goes to the river alone. Don't let Pama go there on his own!\"",
+    "walkthrough": "''\"Collect a Medicinal Herb from near Tranquil Grotto on the Bionis' Leg.\"''\nHint: Elevated cliff that is northeast of Tranquil Grotto.\n\"Speak to Arda.\"\n\"Return to Matryona.\"\n\"Give the picture book to Pama.\"",
+    "giver": "Arda",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "results": "\"Arda received the back medicine meaning Pama no longer visits the river on his own.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Spirits_Raised",
+    "wikiPageId": 4523
+  },
+  {
+    "id": "xc1-quest-supplies-for-satorl",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Supplies for Satorl",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Mechonis Core cleared"
+      },
+      {
+        "type": "other",
+        "label": "Securing Provisions"
+      }
+    ],
+    "rewards": [
+      "+100 reputation",
+      "45,000 G",
+      "58,000 EXP",
+      "Speed V Goggles (Unique)",
+      "Speed V Arms (Unique)"
+    ],
+    "description": "\"Some of the evacuated High Entia are holed-up in Satorl Marsh. They are running dangerously low on food. Find them some food to replenish their reserves.\"",
+    "walkthrough": "\"Give goods to Scarlen in Satorl Marsh.\"\nOath Sanctuary (anytime, before Imperial Ceremony Offerings completed), or Sororal Statues (18:00 - 03:00, after Imperial Ceremony Offerings completed).",
+    "giver": "Elior",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "18:00 - 06:00",
+    "uniqueComments": ": 'Melia': \"Oh my.\"\n: 'Elior': \"Did I say something wrong?\"\n: 'Melia': \"Such noble sentiments! What an admirable young man! Meeting you fills my heart with gladness, young sir.\"\n: 'Elior': \"You speak really fancy. Who are you?\"\n: 'Melia': ''\"Who am I? Well, I suppose I shouldn't expect you to know that.\"''\n: 'Elior': ''\"Hmm... Are you someone important? A famous adventurer? Or maybe an important explorer? I can tell from your face that I'm way way off here...\"''\nCategory:Bionis' Leg Quests",
+    "results": "\"The Satorl refugees have received food from the camp. Life should be a little easier for them now.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Supplies_for_Satorl",
+    "wikiPageId": 7661
+  },
+  {
+    "id": "xc1-quest-the-greedy-monster",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "The Greedy Monster",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "Being a Good Grandfather"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆1¼"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "1,100 G",
+      "400 EXP",
+      "Sleep Resist II"
+    ],
+    "description": "\"The residents are finding it difficult to catch fish. They believe a monster that has settled by Raguel Lake is to blame. Defeat the monster.\"",
+    "walkthrough": "''\"Defeat the LV16 Abnormal Brog near Raguel Lake on the Bionis' Leg.\"''\nHint: The central island on Raguel Lake.\n\"Return to Satata.\"",
+    "giver": "Satata",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "06:00 - 15:00",
+    "uniqueComments": ": 'Sharla': ''\"That's not good... I turn my back for one minute and this is what happens! I'm really sorry, Satata.\"''\n: 'Satata': ''\"It not your fault, Sharla. No one blames you for not here. You had your reasons and don't let anyone tell you different!\"''\n: 'Sharla': \"It makes me happy to hear that. Right, we really do need to do something about that monster!\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "results": "\"The fish-eating monster that settled by Raguel Lake is gone and a food crisis has been averted.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Greedy_Monster",
+    "wikiPageId": 4515
+  },
+  {
+    "id": "xc1-quest-the-lost-nopon",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "The Lost Nopon",
+    "region": "Bionis' Leg (Traveller's Rest)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "750 G",
+      "300 EXP",
+      "Point Rifle (1 slot)"
+    ],
+    "description": "\"Batubatu went off in search of ingredients for Gerugu and his dinner, but his poor sense of direction got him lost. Find out where he is.\"",
+    "walkthrough": "\"Find Batubatu.\"\nHint: Elevated cliff near an ether deposit at northwest of Raguel Lake.\n\"Return to Gerugu.\"",
+    "giver": "Gerugu",
+    "subLocation": "Bionis' Leg (Traveller's Rest)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Sharla': ''\"Do you have any idea where he could've gone?\"''\n: 'Gerugu': \"Gerugu tell him not to go too far. He always get lost. Gerugu think he go very far. He has no sense of direction.\"\n: 'Sharla': ''\"He's probably completely lost.\"''",
+    "results": "\"Batubatu has been found and won’t be heading off alone in future.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Lost_Nopon",
+    "wikiPageId": 5415
+  },
+  {
+    "id": "xc1-quest-thieving-monsters",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "Thieving Monsters",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      }
+    ],
+    "rewards": [
+      "+50 reputation",
+      "950 G",
+      "300 EXP",
+      "Grand Armour (0 slots)",
+      "Grand Leggings (0 slots)"
+    ],
+    "description": "\"Tirkins took the refugees' clothes while they were hanging out to dry. If nothing is done, there won't be enough to go around. Find and retrieve the clothes.\"",
+    "walkthrough": "''\"Collect the Clothes from the Tirkin Headquarters on the Bionis' Leg.\"''\nHint: By looking for the cave at the right side of Rho Oasis.\n\"Return to Gorman.\"",
+    "giver": "Gorman",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "21:00 - 06:00",
+    "uniqueComments": ": 'Shulk': \"You know who did it? Then why not send out a band of young people to get them?\"\n: 'Gorman': ''\"It's mostly just oldies and children here. There are some young adults here but they're all cowards and weaklings!\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
+    "results": "\"The stolen clothes have been recovered from the Tirkins.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Thieving_Monsters",
+    "wikiPageId": 4494
+  },
+  {
+    "id": "xc1-quest-with-even-more-gratitude",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "With Even More Gratitude",
+    "region": "Bionis' Leg (Traveller's Rest)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "With Much Gratitude"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆1½"
+      }
+    ],
+    "rewards": [
+      "+150 reputation",
+      "1,200 G",
+      "750 EXP",
+      "Grand Gear (0 slots)",
+      "Electric Plus III"
+    ],
+    "description": "\"This time Batubatu has gone to find a flower to give to someone without your help. Unfortunately, he's lost his way and you have to find him again!\"",
+    "walkthrough": "''\"Locate Batubatu on a high place east of Zax Guidepost on the Bionis' Leg.\"''\nHint: Upper level, northeast of upper Bionis' Leg, by finding the elevated passage that leads to a cave.\n''\"Head to the top of the large waterfall on the Bionis' Leg and collect the Ether Wisdom.\"''\nHint: Believer's Paradise. The passage that leads to the cave is guarded by level 76 Last Rhogul. The clock can be changed until the area is raining during the day or changed to night time to clear the Rhogul, allowing to enter the cave that leads to Believer's Paradise.\n\"Return to Batubatu.\"\nHead back to Traveller's Rest to find Batubatu.",
+    "giver": "Gerugu",
+    "subLocation": "Bionis' Leg (Traveller's Rest)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Reyn': ''\"Again? What's he playing at? Why did you take your eyes off him?\"''\n: 'Gerugu': \"Gerugu need to watch Batubatu every second in every day. Batubatu always get lost and never listen to what Gerugu say.\"\n: 'Reyn': ''\"You're amazing. There aren't many like you around. Maybe I had the Nopon all wrong.\"''",
+    "results": "''\"Batubatu has proven just how unreliable he is but he promises that it won't happen again.\"''",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/With_Even_More_Gratitude",
+    "wikiPageId": 7111
+  },
+  {
+    "id": "xc1-quest-with-much-gratitude",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "With Much Gratitude",
+    "region": "Bionis' Leg (Traveller's Rest)",
+    "prerequisites": [
+      {
+        "type": "area",
+        "label": "Bionis' Leg area reached"
+      },
+      {
+        "type": "other",
+        "label": "The Lost Nopon"
+      },
+      {
+        "type": "affinity",
+        "label": "Colony 6 area ☆1¼"
+      }
+    ],
+    "rewards": [
+      "+100 reputation",
+      "1,000 G",
+      "450 EXP",
+      "Spike II"
+    ],
+    "description": "\"Batubatu wants to give someone a gift of gratitude. There are two key ingredients needed to make Secret Nopon Elixir. Find them on Batubatu's behalf.\"",
+    "walkthrough": "''\"Collect a Tokilos' Egg near Zax Guidepost in Bionis' Leg.\"''\nHint: To the right side of Zax Guidepost. Climb down and then head to the end of the platform to obtain the item. Be aware that the area is guarded by level 79 Leg Tokilos. Run behind the Tokilos in order to avoid being sighted or change the clock until the area is raining to clear all the Tokilos.\n''\"Collect a Pandora Mushroom from Windy Cave on the Bionis' Leg.\"''\nHint: Walk slowly and silently to obtain the item. The level 75 Mysterious Barnaby and level 74 Pandora Pods guard the area, but can only detect intruders by sound.\n\"Return to Batubatu.\"",
+    "giver": "Batubatu",
+    "subLocation": "Bionis' Leg (Traveller's Rest)",
+    "timeWindow": "Anytime",
+    "uniqueComments": ": 'Shulk': \"This is all very sudden... What will you give your friends?\"\n: 'Batubatu': \"Batubatu make something when you bring egg and mushroom. Then I give to friends.\"\n: 'Shulk': ''\"Sounds like a good idea. I'm sure they'll be happy.\"''\nCategory:Bionis' Leg Quests",
+    "results": "\"It was you Batubatu was planning on giving a gift to! A fitting reward for your efforts.\"",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/With_Much_Gratitude",
+    "wikiPageId": 7109
+  },
+  {
+    "id": "xc1-quest-world-changing-whatchamajig",
+    "gameId": "xc1",
+    "category": "quest",
+    "name": "World-Changing Whatchamajig",
+    "region": "Bionis' Leg (Refugee Camp)",
+    "prerequisites": [
+      {
+        "type": "other",
+        "label": "Shulk"
+      },
+      {
+        "type": "other",
+        "label": "Reyn"
+      },
+      {
+        "type": "other",
+        "label": "and Sharla in the party"
+      }
+    ],
+    "rewards": [
+      "10,000 EXP"
+    ],
+    "description": "\"Find the materials needed to complete the world-changing whatchamajig. (To progress this quest, you must have Shulk, Reyn and Sharla in your party.)\"",
+    "walkthrough": "\"Search for Ether Cylinders in the Cylinder Hangar in Colony 9. (Required members: Shulk, Reyn, Sharla)\"\n\"Defeat the Ancient Machine in the Cylinder Hangar in Colony 9. (Required members: Shulk, Reyn, Sharla)\"\n\"Return to the Nopon Engineer. (Required members: Shulk, Reyn, Sharla)\"",
+    "giver": "Nopon Engineer",
+    "subLocation": "Bionis' Leg (Refugee Camp)",
+    "timeWindow": "Anytime",
+    "results": "''\"Quest completed. You're now the proud owner of the Ether Jet. Or its proud test driver, at least.\"''",
+    "trivia": "This is the only quest in XCDE (outside of XCFC) that was not in the original game.\nCategory:Bionis' Leg Quests\nCategory:Xenoblade Chronicles: Definitive Edition",
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/World-Changing_Whatchamajig",
+    "wikiPageId": 133621
+  },
+  {
     "id": "xc1-quest-a-butlers-concerns",
     "gameId": "xc1",
     "category": "quest",
