@@ -1,7 +1,5 @@
 import { isColony6NextLevelMaterial } from './colony6-availability.ts'
 import {
-  estimateColony6Percent,
-  estimateColony6Population,
   getAllColony6Levels,
   isImmigrantAvailable,
 } from './colony6-levels.ts'
@@ -21,14 +19,8 @@ export function collectAvailableItemIds(
   const materials = items.filter((i) => i.category === 'colony_reconstruction')
   const immigrants = items.filter((i) => i.category === 'colony_immigrant')
   const levels = getAllColony6Levels(materials, progress)
-  const percent = Math.max(
-    gameState.colony6Reconstruction,
-    estimateColony6Percent(levels),
-  )
-  const population = Math.max(
-    gameState.colony6Population,
-    estimateColony6Population(immigrants, progress),
-  )
+  const percent = gameState.colony6Reconstruction
+  const population = gameState.colony6Population
   const ids: string[] = []
 
   for (const item of items) {

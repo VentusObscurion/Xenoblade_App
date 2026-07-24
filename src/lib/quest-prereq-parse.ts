@@ -77,14 +77,45 @@ export function isQuestProgressLabel(label: string): boolean {
 
 export function extractQuestNameFromLabel(label: string): string {
   return cleanWikiMarkup(label)
+    .replace(/''/g, '')
     .replace(/^['"]+|['"]+$/g, '')
     .replace(/\s*\([^)]*route[^)]*\)\s*/gi, ' ')
+    // "How Do I Feel? A route completed" / "… route B completed"
+    .replace(/\s*\b[AB]\s+route\b/gi, ' ')
+    .replace(/\s*\broute\s*[AB]\b/gi, ' ')
     .replace(/\s*\b(accepted|completed|not completed)\b.*$/i, '')
     // Wiki sometimes appends "story quest" after the quest title
     .replace(/\s*\bstory\s+quest\b\s*$/i, '')
     .replace(/\s+or\s+.+$/i, '')
     .replace(/\s+/g, ' ')
+    .replace(/^['"]+|['"]+$/g, '')
     .trim()
+}
+
+/**
+ * "Hoko and Talonyth invited to Colony 6" → all required
+ * "Perrine or Mefimefi invited to Colony 6" → any required
+ */
+export function parseColony6InviteNames(
+  label: string,
+): { names: string[]; mode: 'all' | 'any' } | undefined {
+  const cleaned = cleanWikiMarkup(label)
+  const match = cleaned.match(
+    /^(.+?)\s+(?:have been\s+)?invited(?:\s+to\s+Colony\s*6)?/i,
+  )
+  if (!match) return undefined
+
+  const raw = match[1].trim()
+  if (!raw) return undefined
+
+  const mode: 'all' | 'any' = /\bor\b/i.test(raw) ? 'any' : 'all'
+  const names = raw
+    .split(/\s*(?:,|\band\b|\bor\b)\s*/i)
+    .map((part) => part.trim())
+    .filter((part) => part.length > 0 && !/^(and|or)$/i.test(part))
+
+  if (names.length === 0) return undefined
+  return { names, mode }
 }
 
 /** Resolve area-access style prereqs to a discoverable map region. */
@@ -224,7 +255,7 @@ export function parsePartyLeadRequirement(label: string): string | undefined {
 }
 
 export function isColony6InviteRequirement(label: string): boolean {
-  return /invited to colony 6/i.test(cleanWikiMarkup(label))
+  return /invited(?:\s+to\s+colony\s*6)?/i.test(cleanWikiMarkup(label))
 }
 
 /** "Paola registered in the Colony 9 area Affinity Chart" → "Paola" */
@@ -235,25 +266,61 @@ export function parseNpcRegistration(label: string): string | undefined {
   return match[1].replace(/\s+in the .*$/i, '').trim()
 }
 
-/** "Commerce Lv2" / "Nature Lv 2." → section + level */
-export function parseColony6SectionRequirement(
-  label: string,
-): { section: 'Housing' | 'Commerce' | 'Nature' | 'Special'; level: number } | undefined {
-  const match = cleanWikiMarkup(label).match(
-    /\b(Housing|Commerce|Nature|Special)\s*Lv\.?\s*(\d+)/i,
-  )
-  if (!match) return undefined
-  const raw = match[1].toLowerCase()
-  const section = (
+/** "Commerce Lv2" / "Housing and Special at level 2" → section level gates */
+export type Colony6SectionReq = {
+  section: 'Housing' | 'Commerce' | 'Nature' | 'Special'
+  level: number
+}
+
+function canonicalizeColony6Section(
+  raw: string,
+): Colony6SectionReq['section'] | undefined {
+  const key = raw.toLowerCase()
+  return (
     {
       housing: 'Housing',
       commerce: 'Commerce',
       nature: 'Nature',
       special: 'Special',
     } as const
-  )[raw]
-  if (!section) return undefined
-  return { section, level: Number(match[2]) }
+  )[key]
+}
+
+export function parseColony6SectionRequirements(
+  label: string,
+): Colony6SectionReq[] {
+  const cleaned = cleanWikiMarkup(label)
+  const results: Colony6SectionReq[] = []
+
+  // "Housing and Special at level 2" / "Commerce, Nature at Lv 3"
+  const combined = cleaned.match(
+    /\b((?:Housing|Commerce|Nature|Special)(?:\s*(?:,|&|and)\s*(?:Housing|Commerce|Nature|Special))*)\s+at\s+(?:level|lv\.?)\s*(\d+)/i,
+  )
+  if (combined) {
+    const level = Number(combined[2])
+    const names = combined[1].match(/\b(Housing|Commerce|Nature|Special)\b/gi) ?? []
+    for (const name of names) {
+      const section = canonicalizeColony6Section(name)
+      if (section) results.push({ section, level })
+    }
+    return results
+  }
+
+  // "Commerce Lv2" / "Nature Lv 2." (one or more in the same label)
+  for (const match of cleaned.matchAll(
+    /\b(Housing|Commerce|Nature|Special)\s*Lv\.?\s*(\d+)/gi,
+  )) {
+    const section = canonicalizeColony6Section(match[1])
+    if (section) results.push({ section, level: Number(match[2]) })
+  }
+  return results
+}
+
+/** @deprecated Prefer parseColony6SectionRequirements for multi-section labels */
+export function parseColony6SectionRequirement(
+  label: string,
+): Colony6SectionReq | undefined {
+  return parseColony6SectionRequirements(label)[0]
 }
 
 export function getAffinityRegionOptions(): string[] {

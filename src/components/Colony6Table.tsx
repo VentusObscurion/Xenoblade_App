@@ -1,7 +1,5 @@
 import {
   COLONY6_SECTIONS,
-  estimateColony6Percent,
-  estimateColony6Population,
   getAllColony6Levels,
   isImmigrantAvailable,
 } from '../lib/colony6-levels.ts'
@@ -96,14 +94,8 @@ export function Colony6Table({
   playthroughMode = true,
 }: Colony6TableProps) {
   const levels = getAllColony6Levels(items, progress)
-  const percent = Math.max(
-    gameState.colony6Reconstruction,
-    estimateColony6Percent(levels),
-  )
-  const population = Math.max(
-    gameState.colony6Population,
-    estimateColony6Population(immigrants, progress),
-  )
+  const percent = gameState.colony6Reconstruction
+  const population = gameState.colony6Population
 
   const bySection = new Map<string, ItemWithStatus[]>()
   for (const item of items) {
@@ -140,7 +132,7 @@ export function Colony6Table({
         <h3 className="wiki-table-region">Reconstruction levels</h3>
         <p className="playthrough-hint">
           Levels rise automatically when you complete all materials for that tier.
-          Approx. {percent}% · population ~{population}
+          Playthrough: {percent}% · population {population}
         </p>
         <div className="colony6-level-grid">
           {COLONY6_SECTIONS.map((section) => (

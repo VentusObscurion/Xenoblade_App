@@ -15,6 +15,8 @@ import {
   getQuestProgressMode,
   isStoryFlagMet,
   matchStoryFlag,
+  parseColony6InviteNames,
+  parseColony6SectionRequirements,
   parseReconstructionPercentRequirement,
   parseRequiredAffinityStars,
   resolveAffinityRegion,
@@ -36,6 +38,15 @@ describe('quest-prereq-parse', () => {
     expect(
       extractQuestNameFromLabel('An Errand for the Heropon story quest accepted'),
     ).toBe('An Errand for the Heropon')
+    expect(extractQuestNameFromLabel('How Do I Feel? A route completed')).toBe(
+      'How Do I Feel?',
+    )
+    expect(
+      extractQuestNameFromLabel("''A Young Captain's Challenge'' (A route) completed"),
+    ).toBe("A Young Captain's Challenge")
+    expect(
+      extractQuestNameFromLabel('Overworked and Underpaid route B completed'),
+    ).toBe('Overworked and Underpaid')
   })
 
   it('detects accepted progress mode', () => {
@@ -286,6 +297,114 @@ describe('quest accepted prerequisites', () => {
     ).toBe(true)
   })
 
+  it('requires all named immigrants for multi-invite quests', () => {
+    const hoko: TrackableItem = {
+      id: 'imm-hoko',
+      gameId: 'xc1',
+      category: 'colony_immigrant',
+      name: 'Hoko',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const talonyth: TrackableItem = {
+      id: 'imm-talonyth',
+      gameId: 'xc1',
+      category: 'colony_immigrant',
+      name: 'Talonyth',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const quest: TrackableItem = {
+      id: 'xc1-quest-cook-off-counter-attack',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'Cook-Off Counter Attack!',
+      region: 'Colony 6',
+      prerequisites: [
+        { type: 'other', label: 'Hoko and Talonyth invited to Colony 6' },
+      ],
+      wikiUrl: '',
+    }
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Colony 6': true,
+      },
+      playerLevel: 99,
+    }
+
+    expect(parseColony6InviteNames('Hoko and Talonyth invited to Colony 6')).toEqual({
+      names: ['Hoko', 'Talonyth'],
+      mode: 'all',
+    })
+    expect(
+      parseColony6InviteNames('Perrine or Mefimefi invited to Colony 6'),
+    ).toEqual({ names: ['Perrine', 'Mefimefi'], mode: 'any' })
+
+    expect(isItemAvailable(quest, {}, [quest, hoko, talonyth], state)).toBe(false)
+    expect(
+      isItemAvailable(
+        quest,
+        { [hoko.id]: { itemId: hoko.id, completed: true } },
+        [quest, hoko, talonyth],
+        state,
+      ),
+    ).toBe(false)
+    expect(
+      isItemAvailable(
+        quest,
+        {
+          [hoko.id]: { itemId: hoko.id, completed: true },
+          [talonyth.id]: { itemId: talonyth.id, completed: true },
+        },
+        [quest, hoko, talonyth],
+        state,
+      ),
+    ).toBe(true)
+  })
+
+  it('treats A/B route quest prereqs as the base quest', () => {
+    const prior: TrackableItem = {
+      id: 'xc1-quest-how-do-i-feel',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'How Do I Feel?',
+      region: 'Alcamoth',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const quest: TrackableItem = {
+      id: 'xc1-quest-i-love-you-no-matter-what',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'I Love You No Matter What',
+      region: 'Alcamoth',
+      prerequisites: [
+        { type: 'quest', label: 'How Do I Feel? A route completed' },
+      ],
+      wikiUrl: '',
+    }
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        Alcamoth: true,
+      },
+      playerLevel: 99,
+    }
+
+    expect(isItemAvailable(quest, {}, [prior, quest], state)).toBe(false)
+    expect(
+      isItemAvailable(
+        quest,
+        { [prior.id]: { itemId: prior.id, completed: true } },
+        [prior, quest],
+        state,
+      ),
+    ).toBe(true)
+  })
+
   it('blocks Replica Monado until Mechonis Core is cleared', () => {
     const quest: TrackableItem = {
       id: 'xc1-quest-replica-monado-1',
@@ -443,6 +562,99 @@ describe('quest accepted prerequisites', () => {
       [nature2.id]: { itemId: nature2.id, completed: true },
     }
     expect(isItemAvailable(quest, leveled, all, state)).toBe(true)
+  })
+
+  it('blocks Missing Lodger until Housing and Special are both level 2', () => {
+    const housing1: TrackableItem = {
+      id: 'h1',
+      gameId: 'xc1',
+      category: 'colony_reconstruction',
+      name: 'Mat H1',
+      collectType: 'Housing',
+      colonyLevel: 1,
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const housing2: TrackableItem = {
+      ...housing1,
+      id: 'h2',
+      name: 'Mat H2',
+      colonyLevel: 2,
+    }
+    const special1: TrackableItem = {
+      id: 's1',
+      gameId: 'xc1',
+      category: 'colony_reconstruction',
+      name: 'Mat S1',
+      collectType: 'Special',
+      colonyLevel: 1,
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const special2: TrackableItem = {
+      ...special1,
+      id: 's2',
+      name: 'Mat S2',
+      colonyLevel: 2,
+    }
+    const macresh: TrackableItem = {
+      id: 'imm-macrish',
+      gameId: 'xc1',
+      category: 'colony_immigrant',
+      name: "Ma'crish",
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const quest: TrackableItem = {
+      id: 'xc1-quest-missing-lodger',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'Missing Lodger',
+      region: 'Colony 6',
+      prerequisites: [
+        { type: 'other', label: 'Eryth Sea reached' },
+        { type: 'other', label: "Ma'crish invited to Colony 6" },
+        { type: 'level', label: 'Housing and Special at level 2' },
+      ],
+      wikiUrl: '',
+    }
+    const all = [quest, macresh, housing1, housing2, special1, special2]
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Colony 6': true,
+        'Eryth Sea': true,
+      },
+      playerLevel: 99,
+    }
+    const invited = {
+      [macresh.id]: { itemId: macresh.id, completed: true },
+    }
+
+    expect(
+      parseColony6SectionRequirements('Housing and Special at level 2'),
+    ).toEqual([
+      { section: 'Housing', level: 2 },
+      { section: 'Special', level: 2 },
+    ])
+
+    // High player level must NOT bypass Colony 6 section gates
+    expect(isItemAvailable(quest, invited, all, state)).toBe(false)
+
+    const onlyHousing = {
+      ...invited,
+      [housing1.id]: { itemId: housing1.id, completed: true },
+      [housing2.id]: { itemId: housing2.id, completed: true },
+    }
+    expect(isItemAvailable(quest, onlyHousing, all, state)).toBe(false)
+
+    const both = {
+      ...onlyHousing,
+      [special1.id]: { itemId: special1.id, completed: true },
+      [special2.id]: { itemId: special2.id, completed: true },
+    }
+    expect(isItemAvailable(quest, both, all, state)).toBe(true)
   })
 })
 

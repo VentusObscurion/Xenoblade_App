@@ -19,7 +19,8 @@ import {
   isQuestProgressLabel,
   isStoryFlagMet,
   matchStoryFlag,
-  parseColony6SectionRequirement,
+  parseColony6InviteNames,
+  parseColony6SectionRequirements,
   parseNpcRegistration,
   parsePartyLeadRequirement,
   parsePartyMemberRequirement,
@@ -202,7 +203,7 @@ function isImmigrantResident(
 function parseRequiredLevel(item: TrackableItem): number | undefined {
   if (item.level) return item.level
   for (const prereq of item.prerequisites) {
-    if (parseColony6SectionRequirement(prereq.label)) continue
+    if (parseColony6SectionRequirements(prereq.label).length > 0) continue
     const match = prereq.label.match(/(?:^|\b)(?:level|lv\.?)\s*(\d+)/i)
     if (match && !/\b(Housing|Commerce|Nature|Special)\b/i.test(prereq.label)) {
       return parseInt(match[1], 10)
@@ -306,25 +307,38 @@ function evaluateOtherPrerequisiteWithProgress(
     }
   }
 
-  const sectionReq = parseColony6SectionRequirement(prereq.label)
-  if (sectionReq) {
+  const sectionReqs = parseColony6SectionRequirements(prereq.label)
+  if (sectionReqs.length > 0) {
     const levels = getColonyLevelsFromItems(allItems, progress)
+    const unmet = sectionReqs.filter((req) => levels[req.section] < req.level)
     return {
-      met: levels[sectionReq.section] >= sectionReq.level,
+      met: unmet.length === 0,
       tracked: true,
-      label: `${sectionReq.section} Lv${sectionReq.level}`,
+      label:
+        unmet.length > 0
+          ? unmet.map((r) => `${r.section} Lv${r.level}`).join(', ')
+          : sectionReqs.map((r) => `${r.section} Lv${r.level}`).join(', '),
     }
   }
 
-  const inviteMatch = prereq.label.match(
-    /([A-Za-z][A-Za-z'’\-]+)\s+invited to Colony\s*6/i,
-  )
-  if (inviteMatch) {
-    const name = inviteMatch[1]
-    return {
+  const inviteReq = parseColony6InviteNames(prereq.label)
+  if (inviteReq) {
+    const results = inviteReq.names.map((name) => ({
+      name,
       met: isImmigrantResident(name, progress, allItems),
+    }))
+    const met =
+      inviteReq.mode === 'any'
+        ? results.some((r) => r.met)
+        : results.every((r) => r.met)
+    const unmetNames = results.filter((r) => !r.met).map((r) => r.name)
+    return {
+      met,
       tracked: true,
-      label: `${name} invited to Colony 6`,
+      label:
+        unmetNames.length > 0
+          ? `${unmetNames.join(', ')} invited to Colony 6`
+          : `${inviteReq.names.join(inviteReq.mode === 'any' ? ' or ' : ' and ')} invited to Colony 6`,
     }
   }
 
@@ -350,15 +364,6 @@ function evaluateOtherPrerequisiteWithProgress(
   }
 
   if (isColony6InviteRequirement(prereq.label)) {
-    const nameMatch = prereq.label.match(/^(.+?)\s+invited/i)
-    const name = nameMatch?.[1]?.trim()
-    if (name) {
-      return {
-        met: isImmigrantResident(name, progress, allItems),
-        tracked: true,
-        label: prereq.label,
-      }
-    }
     return {
       met:
         gameState.storyFlags.colony6_reconstruction_started === true ||
@@ -417,10 +422,10 @@ export function isItemAvailable(
     }
 
     if (prereq.type === 'level') {
-      const sectionReq = parseColony6SectionRequirement(prereq.label)
-      if (sectionReq) {
+      const sectionReqs = parseColony6SectionRequirements(prereq.label)
+      if (sectionReqs.length > 0) {
         const levels = getColonyLevelsFromItems(allItems, progress)
-        if (levels[sectionReq.section] < sectionReq.level) return false
+        if (sectionReqs.some((req) => levels[req.section] < req.level)) return false
         continue
       }
       const match = prereq.label.match(/(?:level|lv\.?)\s*(\d+)/i)
@@ -536,14 +541,16 @@ export function evaluatePrerequisites(
         }
 
         if (prereq.type === 'level') {
-          const sectionReq = parseColony6SectionRequirement(prereq.label)
-          if (sectionReq) {
+          const sectionReqs = parseColony6SectionRequirements(prereq.label)
+          if (sectionReqs.length > 0) {
             const levels = getColonyLevelsFromItems(allItems, progress)
-            if (levels[sectionReq.section] < sectionReq.level) {
-              unmet.push({
-                type: 'level',
-                label: `${sectionReq.section} Lv${sectionReq.level}`,
-              })
+            for (const req of sectionReqs) {
+              if (levels[req.section] < req.level) {
+                unmet.push({
+                  type: 'level',
+                  label: `${req.section} Lv${req.level}`,
+                })
+              }
             }
             continue
           }
