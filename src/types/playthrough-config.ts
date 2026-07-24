@@ -63,29 +63,56 @@ const XC1_CONFIG: PlaythroughConfig = {
     {
       id: 'mechon_attack_colony9',
       label: 'Mechon attack on Colony 9',
-      description: 'After the Mechon raid / attack in Colony 9',
+      description:
+        'Opening raid on Colony 9 — early Colony 9 / Tephra Cave quests unlock after this.',
     },
     {
       id: 'attack_on_colony6',
       label: 'Attack on Colony 6',
-      description: 'After the attack on Colony 6 / Refugee Camp era',
+      description:
+        'After Colony 6 falls. Mostly gates later Junks-repair quests on the Fallen Arm (Refugee Camp content uses area discovery instead).',
     },
-    { id: 'juju_escorted', label: 'Juju escorted to Refugee Camp' },
-    { id: 'melia_met', label: 'Melia met in Makna Forest' },
+    {
+      id: 'juju_escorted',
+      label: 'Juju escorted to Refugee Camp',
+      description:
+        'Juju reaches the Refugee Camp — needed for a few Colony 9 return quests (e.g. Out-of-Luck Giorgio).',
+    },
     {
       id: 'colony6_reconstruction_started',
       label: 'Colony 6 Reconstruction started',
+      description:
+        'Reconstruction HQ is open. Also auto-sets when you raise reconstruction % above 0.',
     },
-    { id: 'miqol_met', label: 'Met Miqol in Hidden Machina Village' },
     {
-      id: 'mechonis_core_cleared',
-      label: 'Mechonis Core cleared',
-      description: 'After clearing Mechonis Core (late-game Alcamoth return, etc.)',
+      id: 'melia_met',
+      label: 'Melia met in Makna Forest',
+      description:
+        'First meeting with Melia in Makna. Rarely needed (most Melia content uses party + area discovery).',
     },
-    { id: 'heading_high_entia_tomb', label: 'Heading to the High Entia Tomb' },
+    {
+      id: 'heading_high_entia_tomb',
+      label: 'Heading to the High Entia Tomb',
+      description:
+        'Story is pushing toward the Tomb under Alcamoth — important for a few timed Alcamoth quests.',
+    },
     {
       id: 'course_to_prison_island',
       label: 'In the course to Prison Island',
+      description:
+        'On the path to Prison Island (e.g. Path to Prison Island / Sister Seals).',
+    },
+    {
+      id: 'miqol_met',
+      label: 'Met Miqol in Hidden Machina Village',
+      description:
+        'Meet Miqol on the Fallen Arm — opens Machina / Hidden Village story gates (e.g. Fiora's Treatment).',
+    },
+    {
+      id: 'mechonis_core_cleared',
+      label: 'Mechonis Core cleared',
+      description:
+        'After Mechonis Core — the big late-game unlock (Alcamoth return, Interior Landing Site, many post-Core quests).',
     },
   ],
   hasCharacterAffinity: true,
