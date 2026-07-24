@@ -639,6 +639,27 @@ button {
   overflow-y: auto;
   overscroll-behavior: contain;
   align-self: start;
+  scrollbar-width: thin;
+  scrollbar-color: var(--border) var(--bg-tertiary);
+}
+
+.item-detail::-webkit-scrollbar {
+  width: 10px;
+}
+
+.item-detail::-webkit-scrollbar-track {
+  background: var(--bg-tertiary);
+  border-radius: var(--radius);
+}
+
+.item-detail::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 6px;
+  border: 2px solid var(--bg-tertiary);
+}
+
+.item-detail::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
 }
 
 .item-detail-header {

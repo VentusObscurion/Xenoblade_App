@@ -294,7 +294,10 @@ export function CategoryView({
     }
 
     let groups = undefined
-    if (category === 'quest' && (sortMode === 'region' || sortMode === 'name')) {
+    if (
+      (category === 'quest' || category === 'person') &&
+      (sortMode === 'region' || sortMode === 'name')
+    ) {
       groups = groupQuestsByRegion(result)
       if (sortMode === 'name') {
         groups = groups.map((group) => ({
@@ -302,7 +305,7 @@ export function CategoryView({
           items: [...group.items].sort((a, b) => a.name.localeCompare(b.name)),
         }))
       }
-    } else if (sortMode === 'level') {
+    } else if (sortMode === 'level' && category === 'unique_monster') {
       result = [...result].sort((a, b) => (a.level ?? 0) - (b.level ?? 0))
     } else if (!usesTableView(category, gameId)) {
       result = [...result].sort((a, b) => a.name.localeCompare(b.name))
@@ -477,9 +480,10 @@ export function CategoryView({
         onShowCompletedChange={setShowCompleted}
         showAll={showAll}
         onShowAllChange={setShowAll}
-        showQuestOptions={category === 'quest'}
         showHideCompleted={HIDE_COMPLETED_CATEGORIES.includes(category)}
         showPlaythroughOptions={PLAYTHROUGH_FILTER_CATEGORIES.includes(category)}
+        showLevelSort={category === 'unique_monster'}
+        showRegionSort={category === 'quest' || category === 'person'}
       />
 
       <div className={`content-split ${tableView ? 'content-split-table' : ''}`}>

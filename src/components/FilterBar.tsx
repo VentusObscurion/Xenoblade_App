@@ -15,9 +15,12 @@ interface FilterBarProps {
   onShowCompletedChange?: (value: boolean) => void
   showAll?: boolean
   onShowAllChange?: (value: boolean) => void
-  showQuestOptions?: boolean
   showHideCompleted?: boolean
   showPlaythroughOptions?: boolean
+  /** Show "By level" sort (unique monsters only). */
+  showLevelSort?: boolean
+  /** Show "By region" sort (quests / persons). */
+  showRegionSort?: boolean
 }
 
 export function FilterBar({
@@ -34,9 +37,10 @@ export function FilterBar({
   onShowCompletedChange,
   showAll = false,
   onShowAllChange,
-  showQuestOptions = false,
   showHideCompleted = false,
   showPlaythroughOptions = false,
+  showLevelSort = false,
+  showRegionSort = false,
 }: FilterBarProps) {
   return (
     <div className="filter-bar">
@@ -78,8 +82,8 @@ export function FilterBar({
         onChange={(e) => onSortModeChange(e.target.value as SortMode)}
       >
         <option value="name">By name</option>
-        <option value="level">By level</option>
-        {showQuestOptions && <option value="region">By region</option>}
+        {showLevelSort && <option value="level">By level</option>}
+        {showRegionSort && <option value="region">By region</option>}
       </select>
       {showHideCompleted && (
         <label className="filter-checkbox">
