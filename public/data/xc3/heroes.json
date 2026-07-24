@@ -6,7 +6,8 @@
     "name": "Alexandria",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Alexandria",
-    "wikiPageId": 117402
+    "wikiPageId": 117402,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/XC3_Alexandria_Portrait_Art.png/revision/latest?cb=20220707143443"
   },
   {
     "id": "xc3-hero-ashera",
@@ -15,7 +16,8 @@
     "name": "Ashera",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ashera",
-    "wikiPageId": 117385
+    "wikiPageId": 117385,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/XC3_Ashera_Portrait_Art.png/revision/latest?cb=20230720054546"
   },
   {
     "id": "xc3-hero-cammuravi",
@@ -24,7 +26,8 @@
     "name": "Cammuravi",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cammuravi",
-    "wikiPageId": 116809
+    "wikiPageId": 116809,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b2/Cammuravi_portrait_artwork.png/revision/latest/scale-to-width-down/400?cb=20220807150951"
   },
   {
     "id": "xc3-hero-ethel",
@@ -33,7 +36,8 @@
     "name": "Ethel",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ethel",
-    "wikiPageId": 116804
+    "wikiPageId": 116804,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0e/Ethel_portrait_artwork.png/revision/latest/scale-to-width-down/400?cb=20220807151132"
   },
   {
     "id": "xc3-hero-fiona",
@@ -42,7 +46,8 @@
     "name": "Fiona",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fiona",
-    "wikiPageId": 117398
+    "wikiPageId": 117398,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b0/XC3_Fiona_Portrait_Art.png/revision/latest?cb=20220707144520"
   },
   {
     "id": "xc3-hero-ghondor-vandham",
@@ -51,7 +56,8 @@
     "name": "Ghondor Vandham",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ghondor",
-    "wikiPageId": 118519
+    "wikiPageId": 118519,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/76/XC3_Ghondor_Portrait_Art.png/revision/latest/scale-to-width-down/400?cb=20220807151536"
   },
   {
     "id": "xc3-hero-gray",
@@ -60,7 +66,8 @@
     "name": "Gray",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Gray",
-    "wikiPageId": 117408
+    "wikiPageId": 117408,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ef/XC3_Gray_Portrait_Art.png/revision/latest?cb=20230616192647"
   },
   {
     "id": "xc3-hero-isurd",
@@ -69,7 +76,8 @@
     "name": "Isurd",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Isurd",
-    "wikiPageId": 116805
+    "wikiPageId": 116805,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b6/Isurd_portrait_artwork.png/revision/latest/scale-to-width-down/400?cb=20220813231348"
   },
   {
     "id": "xc3-hero-juniper",
@@ -78,7 +86,8 @@
     "name": "Juniper",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Juniper",
-    "wikiPageId": 117351
+    "wikiPageId": 117351,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b4/Juniper_Twitter_Art.png/revision/latest?cb=20230616192159"
   },
   {
     "id": "xc3-hero-melia-antiqua",
@@ -87,7 +96,8 @@
     "name": "Melia Antiqua",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Melia",
-    "wikiPageId": 2049
+    "wikiPageId": 2049,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/77/Melia_pic.png/revision/latest/scale-to-width-down/400?cb=20170712150056"
   },
   {
     "id": "xc3-hero-miyabi",
@@ -96,7 +106,8 @@
     "name": "Miyabi",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Miyabi",
-    "wikiPageId": 118520
+    "wikiPageId": 118520,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d2/XC3_Miyabi_portrait.png/revision/latest/scale-to-width-down/400?cb=20220807150343"
   },
   {
     "id": "xc3-hero-monica-vandham",
@@ -105,7 +116,8 @@
     "name": "Monica Vandham",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monica_Vandham",
-    "wikiPageId": 118517
+    "wikiPageId": 118517,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/57/Monica_Vandham_portrait_artwork.png/revision/latest?cb=20230720054839"
   },
   {
     "id": "xc3-hero-nia",
@@ -114,7 +126,8 @@
     "name": "Nia",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nia",
-    "wikiPageId": 68505
+    "wikiPageId": 68505,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7a/Nia-portrait.png/revision/latest/scale-to-width-down/400?cb=20171222174412"
   },
   {
     "id": "xc3-hero-riku-manana",
@@ -123,7 +136,8 @@
     "name": "Riku & Manana",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Riku_%26_Manana",
-    "wikiPageId": 117191
+    "wikiPageId": 117191,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f0/XC3_Riku_and_Manana_Artwork.png/revision/latest/scale-to-width-down/400?cb=20241106060350"
   },
   {
     "id": "xc3-hero-segiri",
@@ -132,7 +146,8 @@
     "name": "Segiri",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Segiri",
-    "wikiPageId": 118521
+    "wikiPageId": 118521,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e3/Segiri_portrait_artwork.png/revision/latest/scale-to-width-down/400?cb=20220813231222"
   },
   {
     "id": "xc3-hero-teach",
@@ -141,7 +156,8 @@
     "name": "Teach",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Teach",
-    "wikiPageId": 118514
+    "wikiPageId": 118514,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Teach_portrait_artwork.png/revision/latest/scale-to-width-down/400?cb=20220813231839"
   },
   {
     "id": "xc3-hero-triton",
@@ -150,7 +166,8 @@
     "name": "Triton",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Triton",
-    "wikiPageId": 118518
+    "wikiPageId": 118518,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/19/XC3_Triton_portrait.png/revision/latest/scale-to-width-down/400?cb=20220807151658"
   },
   {
     "id": "xc3-hero-valdi",
@@ -159,7 +176,8 @@
     "name": "Valdi",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Valdi",
-    "wikiPageId": 116768
+    "wikiPageId": 116768,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a3/XC3_Valdi_Portrait_Art.png/revision/latest?cb=20220707144022"
   },
   {
     "id": "xc3-hero-zeon",
@@ -168,7 +186,8 @@
     "name": "Zeon",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Zeon",
-    "wikiPageId": 116785
+    "wikiPageId": 116785,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/00/XC3_Zeon_portrait_art.png/revision/latest?cb=20220706182014"
   },
   {
     "id": "xc3-hero-file-alexandrias-arrival-01-jpg",
@@ -177,7 +196,8 @@
     "name": "File:Alexandria's Arrival 01.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAlexandria's_Arrival_01.jpg",
-    "wikiPageId": 125859
+    "wikiPageId": 125859,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/Alexandria%27s_Arrival_01.jpg/revision/latest/scale-to-width-down/400?cb=20230320054016"
   },
   {
     "id": "xc3-hero-file-asheras-arrival-jpg",
@@ -186,7 +206,8 @@
     "name": "File:Ashera's Arrival.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAshera's_Arrival.jpg",
-    "wikiPageId": 125840
+    "wikiPageId": 125840,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d0/Ashera%27s_Arrival.jpg/revision/latest/scale-to-width-down/400?cb=20230320025105"
   },
   {
     "id": "xc3-hero-file-dlc-hero-1-png",
@@ -195,7 +216,8 @@
     "name": "File:DLC Hero 1.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADLC_Hero_1.png",
-    "wikiPageId": 121966
+    "wikiPageId": 121966,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2e/DLC_Hero_1.png/revision/latest/scale-to-width-down/400?cb=20220820220728"
   },
   {
     "id": "xc3-hero-file-ethel-on-fire-jpg",
@@ -204,7 +226,8 @@
     "name": "File:Ethel on fire.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEthel_on_fire.jpg",
-    "wikiPageId": 125856
+    "wikiPageId": 125856,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/47/Ethel_on_fire.jpg/revision/latest/scale-to-width-down/400?cb=20230320053424"
   },
   {
     "id": "xc3-hero-file-icon-chara-10-png",
@@ -348,7 +371,8 @@
     "name": "File:Icon chara battle 0.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIcon_chara_battle_0.png",
-    "wikiPageId": 120156
+    "wikiPageId": 120156,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7d/Icon_chara_battle_0.png/revision/latest/scale-to-width-down/300?cb=20220814053505"
   },
   {
     "id": "xc3-hero-file-icon-chara-battle-10-png",
@@ -510,7 +534,8 @@
     "name": "File:Icon hero 0.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIcon_hero_0.png",
-    "wikiPageId": 120159
+    "wikiPageId": 120159,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b2/Icon_hero_0.png/revision/latest/scale-to-width-down/400?cb=20220814053952"
   },
   {
     "id": "xc3-hero-file-icon-hero-c-0-png",
@@ -519,7 +544,8 @@
     "name": "File:Icon hero c 0.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIcon_hero_c_0.png",
-    "wikiPageId": 120150
+    "wikiPageId": 120150,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/Icon_hero_c_0.png/revision/latest?cb=20220814053305"
   },
   {
     "id": "xc3-hero-file-icon-hero-de-0-png",
@@ -528,7 +554,8 @@
     "name": "File:Icon hero de 0.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIcon_hero_de_0.png",
-    "wikiPageId": 119737
+    "wikiPageId": 119737,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/Icon_hero_de_0.png/revision/latest/scale-to-width-down/46?cb=20220814024039"
   },
   {
     "id": "xc3-hero-file-ino-noponic-champion-artwork-jpg",
@@ -537,7 +564,8 @@
     "name": "File:Ino Noponic Champion Artwork.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIno_Noponic_Champion_Artwork.jpg",
-    "wikiPageId": 123897
+    "wikiPageId": 123897,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c9/Ino_Noponic_Champion_Artwork.jpg/revision/latest/scale-to-width-down/299?cb=20220913145046"
   },
   {
     "id": "xc3-hero-file-ino-official-artwork-jpg",
@@ -546,7 +574,8 @@
     "name": "File:Ino Official Artwork.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIno_Official_Artwork.jpg",
-    "wikiPageId": 124083
+    "wikiPageId": 124083,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/73/Ino_Official_Artwork.jpg/revision/latest/scale-to-width-down/337?cb=20220926124706"
   },
   {
     "id": "xc3-hero-file-juniper-twitter-art-png",
@@ -555,7 +584,8 @@
     "name": "File:Juniper Twitter Art.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJuniper_Twitter_Art.png",
-    "wikiPageId": 117352
+    "wikiPageId": 117352,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b4/Juniper_Twitter_Art.png/revision/latest?cb=20230616192159"
   },
   {
     "id": "xc3-hero-file-keves-heroes-jpg",
@@ -564,7 +594,8 @@
     "name": "File:Keves Heroes.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKeves_Heroes.jpg",
-    "wikiPageId": 125836
+    "wikiPageId": 125836,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/78/Keves_Heroes.jpg/revision/latest/scale-to-width-down/400?cb=20230320024344"
   },
   {
     "id": "xc3-hero-file-lost-heroes-jpg",
@@ -573,7 +604,8 @@
     "name": "File:Lost Heroes.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALost_Heroes.jpg",
-    "wikiPageId": 125835
+    "wikiPageId": 125835,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/49/Lost_Heroes.jpg/revision/latest/scale-to-width-down/400?cb=20230320024257"
   },
   {
     "id": "xc3-hero-file-monica-concept-art-png",
@@ -582,7 +614,8 @@
     "name": "File:Monica Concept Art.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMonica_Concept_Art.png",
-    "wikiPageId": 124535
+    "wikiPageId": 124535,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/88/Monica_Concept_Art.png/revision/latest/scale-to-width-down/400?cb=20221106012714"
   },
   {
     "id": "xc3-hero-file-teach-portrait-art-jpg",
@@ -591,7 +624,8 @@
     "name": "File:Teach portrait art.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATeach_portrait_art.jpg",
-    "wikiPageId": 118573
+    "wikiPageId": 118573,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/23/Teach_portrait_art.jpg/revision/latest?cb=20220731133143"
   },
   {
     "id": "xc3-hero-file-xc3-hero-selection-01-jpg",
@@ -600,7 +634,8 @@
     "name": "File:XC3 Hero selection 01.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Hero_selection_01.jpg",
-    "wikiPageId": 117716
+    "wikiPageId": 117716,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c4/XC3_Hero_selection_01.jpg/revision/latest/scale-to-width-down/400?cb=20220625144429"
   },
   {
     "id": "xc3-hero-file-xc3-juniper-phantom-archer-artwork-jpeg",
@@ -609,7 +644,8 @@
     "name": "File:XC3 Juniper Phantom Archer Artwork.jpeg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Juniper_Phantom_Archer_Artwork.jpeg",
-    "wikiPageId": 117375
+    "wikiPageId": 117375,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/94/XC3_Juniper_Phantom_Archer_Artwork.jpeg/revision/latest/scale-to-width-down/299?cb=20220616221022"
   },
   {
     "id": "xc3-hero-file-xc3-zeon-guardian-commander-artwork-jpg",
@@ -618,7 +654,8 @@
     "name": "File:XC3 Zeon Guardian Commander Artwork.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Zeon_Guardian_Commander_Artwork.jpg",
-    "wikiPageId": 117350
+    "wikiPageId": 117350,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c2/XC3_Zeon_Guardian_Commander_Artwork.jpg/revision/latest/scale-to-width-down/299?cb=20220613155454"
   },
   {
     "id": "xc3-hero-file",
@@ -627,6 +664,7 @@
     "name": "File:ゼオン",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3A%E3%82%BC%E3%82%AA%E3%83%B3",
-    "wikiPageId": 117371
+    "wikiPageId": 117371,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0f/%E3%82%BC%E3%82%AA%E3%83%B3/revision/latest/scale-to-width-down/400?cb=20220616095717"
   }
 ]

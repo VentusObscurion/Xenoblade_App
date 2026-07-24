@@ -14,7 +14,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Acute_Melvyn",
     "wikiPageId": 75654,
-    "collectType": "Tirkin"
+    "collectType": "Tirkin",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/XC2_Acute_Melvyn_Crop.jpg/revision/latest?cb=20180307121547"
   },
   {
     "id": "xc2-unique_monster-anguished-solomon",
@@ -32,7 +33,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Anguished_Solomon",
     "wikiPageId": 75930,
     "element": "Water",
-    "collectType": "Piranhax"
+    "collectType": "Piranhax",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/XC2_Anguished_Solomon.jpg/revision/latest/scale-to-width-down/400?cb=20171230011953"
   },
   {
     "id": "xc2-unique_monster-antecedent-xiaxia",
@@ -50,7 +52,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Antecedent_Xiaxia",
     "wikiPageId": 74447,
     "element": "Dark",
-    "collectType": "Artificial Blade (Machine)"
+    "collectType": "Artificial Blade (Machine)",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4a/XC2_Antecedent_Xiaxia.jpg/revision/latest/scale-to-width-down/400?cb=20180110071111"
   },
   {
     "id": "xc2-unique_monster-armored-brennan",
@@ -68,7 +71,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Armored_Brennan",
     "wikiPageId": 74348,
     "element": "Earth",
-    "collectType": "Ropl, Driver"
+    "collectType": "Ropl, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b9/ArmoredBrennan.jpg/revision/latest/scale-to-width-down/400?cb=20171210143102"
   },
   {
     "id": "xc2-unique_monster-artifice-ophion",
@@ -86,7 +90,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Artifice_Ophion",
     "wikiPageId": 74445,
     "element": "Dark",
-    "collectType": "Artifice"
+    "collectType": "Artifice",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/Ophion.png/revision/latest/scale-to-width-down/400?cb=20180120055102"
   },
   {
     "id": "xc2-unique_monster-atrocious-hermes",
@@ -104,7 +109,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Atrocious_Hermes",
     "wikiPageId": 74412,
     "element": "None",
-    "collectType": "Igna, Driver"
+    "collectType": "Igna, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/95/XC2_Atrocious_Hermes_2.jpg/revision/latest/scale-to-width-down/400?cb=20191213154414"
   },
   {
     "id": "xc2-unique_monster-autumn-shower-melvin",
@@ -122,7 +128,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Autumn-Shower_Melvin",
     "wikiPageId": 76224,
     "element": "None",
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/Autumn-ShowerMelvin.jpg/revision/latest/scale-to-width-down/400?cb=20190414010446"
   },
   {
     "id": "xc2-unique_monster-azure-reginald",
@@ -140,7 +147,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Azure_Reginald",
     "wikiPageId": 75547,
     "element": "Water",
-    "collectType": "Lexos"
+    "collectType": "Lexos",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/Azure_Reginald.jpg/revision/latest/scale-to-width-down/400?cb=20180116214305"
   },
   {
     "id": "xc2-unique_monster-beast-hunter-william",
@@ -158,7 +166,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Beast-Hunter_William",
     "wikiPageId": 75948,
     "element": "None",
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2e/Beast-Hunter_William_Portrait.png/revision/latest/scale-to-width-down/400?cb=20180828214956"
   },
   {
     "id": "xc2-unique_monster-blue-eyed-korbin",
@@ -176,7 +185,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Blue-Eyed_Korbin",
     "wikiPageId": 76216,
     "element": "Wind",
-    "collectType": "Volff, Driver"
+    "collectType": "Volff, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/43/XC2_Blue-Eyed_Korbin.jpg/revision/latest/scale-to-width-down/400?cb=20171230012148"
   },
   {
     "id": "xc2-unique_monster-chickenheart-dagmara",
@@ -194,7 +204,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chickenheart_Dagmara",
     "wikiPageId": 75561,
     "element": "None",
-    "collectType": "Pippito (Beast)"
+    "collectType": "Pippito (Beast)",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/34/XC2_Chickenheart_Dagmara.png/revision/latest?cb=20180113210916"
   },
   {
     "id": "xc2-unique_monster-climactic-honnold",
@@ -212,7 +223,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Climactic_Honnold",
     "wikiPageId": 74238,
     "element": "Water",
-    "collectType": "Urchon"
+    "collectType": "Urchon",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fd/Climactic_Honnold.jpg/revision/latest/scale-to-width-down/400?cb=20180705192115"
   },
   {
     "id": "xc2-unique_monster-cloud-sea-king-ken",
@@ -230,7 +242,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cloud_Sea_King_Ken",
     "wikiPageId": 75562,
     "element": "Ice",
-    "collectType": "Squood"
+    "collectType": "Squood",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/82/CloudSeaKingKen.jpg/revision/latest/scale-to-width-down/400?cb=20190415121544"
   },
   {
     "id": "xc2-unique_monster-confiscator-jimmy",
@@ -248,7 +261,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Confiscator_Jimmy",
     "wikiPageId": 74241,
     "element": "None",
-    "collectType": "Jagron Driver"
+    "collectType": "Jagron Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/ConfiscatorJimmy.jpg/revision/latest/scale-to-width-down/400?cb=20190415181442"
   },
   {
     "id": "xc2-unique_monster-crimson-derrick",
@@ -257,7 +271,8 @@
     "name": "Crimson Derrick",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Crimson_Derrick",
-    "wikiPageId": 74251
+    "wikiPageId": 74251,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/CrimsonDerrick.jpg/revision/latest/scale-to-width-down/400?cb=20190416200231"
   },
   {
     "id": "xc2-unique_monster-cunning-saggie",
@@ -266,7 +281,8 @@
     "name": "Cunning Saggie",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cunning_Saggie",
-    "wikiPageId": 75524
+    "wikiPageId": 75524,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Cunning-Saggie-portrait.jpg/revision/latest?cb=20180307114310"
   },
   {
     "id": "xc2-unique_monster-decapitator-marvin",
@@ -275,7 +291,8 @@
     "name": "Decapitator Marvin",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Decapitator_Marvin",
-    "wikiPageId": 74342
+    "wikiPageId": 74342,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ad/DecapitatorMarvin.jpg/revision/latest/scale-to-width-down/400?cb=20171210140823"
   },
   {
     "id": "xc2-unique_monster-dedicated-conroy",
@@ -293,7 +310,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dedicated_Conroy",
     "wikiPageId": 74949,
     "element": "None",
-    "collectType": "Tirkin"
+    "collectType": "Tirkin",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/34/Dedicated_Conroy.jpg/revision/latest/scale-to-width-down/400?cb=20210313203014"
   },
   {
     "id": "xc2-unique_monster-deep-green-oscar",
@@ -310,7 +328,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Deep-Green_Oscar",
     "wikiPageId": 75936,
-    "collectType": "Ellook"
+    "collectType": "Ellook",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/43/DeepGreenOscar.jpg/revision/latest/scale-to-width-down/400?cb=20191213154800"
   },
   {
     "id": "xc2-unique_monster-demon-king-gilbert",
@@ -328,7 +347,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Demon_King_Gilbert",
     "wikiPageId": 75946,
     "element": "None",
-    "collectType": "Igna"
+    "collectType": "Igna",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/56/Demon_King_Gilbert.png/revision/latest/scale-to-width-down/301?cb=20180115012122"
   },
   {
     "id": "xc2-unique_monster-demon-shell-jacob",
@@ -337,7 +357,8 @@
     "name": "Demon-Shell Jacob",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Demon-Shell_Jacob",
-    "wikiPageId": 74071
+    "wikiPageId": 74071,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cd/Demon-ShellJacob.jpg/revision/latest/scale-to-width-down/400?cb=20190419012217"
   },
   {
     "id": "xc2-unique_monster-enlightened-morris",
@@ -355,7 +376,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Enlightened_Morris",
     "wikiPageId": 74962,
     "element": "None",
-    "collectType": "Pippito"
+    "collectType": "Pippito",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/87/Enlightened_Morris.png/revision/latest/scale-to-width-down/400?cb=20180203063819"
   },
   {
     "id": "xc2-unique_monster-epicurean-ligia",
@@ -372,7 +394,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Epicurean_Ligia",
     "wikiPageId": 74423,
-    "collectType": "Lysaat Driver"
+    "collectType": "Lysaat Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/75/Epicurean-Ligia-Thumbnail.jpeg/revision/latest/scale-to-width-down/400?cb=20190112213400"
   },
   {
     "id": "xc2-unique_monster-evileye-mambor",
@@ -389,7 +412,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Evileye_Mambor",
     "wikiPageId": 74319,
-    "collectType": "Aspar, Driver"
+    "collectType": "Aspar, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/37/EvileyeMambor.jpg/revision/latest/scale-to-width-down/400?cb=20191212160750"
   },
   {
     "id": "xc2-unique_monster-excavator-darius",
@@ -398,7 +422,8 @@
     "name": "Excavator Darius",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Excavator_Darius",
-    "wikiPageId": 74415
+    "wikiPageId": 74415,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/ExcavatorDarius.jpg/revision/latest/scale-to-width-down/400?cb=20190416142312"
   },
   {
     "id": "xc2-unique_monster-gladiator-orion",
@@ -416,7 +441,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Gladiator_Orion",
     "wikiPageId": 74972,
     "element": "None",
-    "collectType": "Driver (Humanoid)"
+    "collectType": "Driver (Humanoid)",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fe/Gladiator_Orion_Portrait.png/revision/latest/scale-to-width-down/400?cb=20180828215143"
   },
   {
     "id": "xc2-unique_monster-glamorous-alfred",
@@ -434,7 +460,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Glamorous_Alfred",
     "wikiPageId": 74495,
     "element": "Ice",
-    "collectType": "Arachno"
+    "collectType": "Arachno",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e1/GlamorousAlfred.jpg/revision/latest/scale-to-width-down/400?cb=20190416142607"
   },
   {
     "id": "xc2-unique_monster-grievous-clive",
@@ -452,7 +479,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Grievous_Clive",
     "wikiPageId": 76232,
     "element": "None",
-    "collectType": "Jagron"
+    "collectType": "Jagron",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/20/GrievousClive.jpg/revision/latest/scale-to-width-down/400?cb=20190417224250"
   },
   {
     "id": "xc2-unique_monster-hard-bitten-xavier",
@@ -469,7 +497,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hard-Bitten_Xavier",
     "wikiPageId": 76225,
-    "collectType": "Urchon, Driver"
+    "collectType": "Urchon, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/Hard-BittenXavier.jpg/revision/latest/scale-to-width-down/400?cb=20190416142658"
   },
   {
     "id": "xc2-unique_monster-haywire-kustal",
@@ -487,7 +516,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Haywire_Kustal",
     "wikiPageId": 75457,
     "element": "None",
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/46/HaywireKustal.jpg/revision/latest/scale-to-width-down/400?cb=20190417003433"
   },
   {
     "id": "xc2-unique_monster-haywire-phoebus",
@@ -505,7 +535,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Haywire_Phoebus",
     "wikiPageId": 76215,
     "element": "None",
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/83/Haywire_PhoebusT.png/revision/latest/scale-to-width-down/281?cb=20180126012750"
   },
   {
     "id": "xc2-unique_monster-haywire-radclyffe",
@@ -522,7 +553,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Haywire_Radclyffe",
     "wikiPageId": 75943,
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/01/Haywire_Radcliffe_2.jpeg/revision/latest/scale-to-width-down/400?cb=20190116013508"
   },
   {
     "id": "xc2-unique_monster-heroic-edwin",
@@ -539,7 +571,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Heroic_Edwin",
     "wikiPageId": 75940,
-    "collectType": "Garlus"
+    "collectType": "Garlus",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/27/HeroicEdwin.jpg/revision/latest/scale-to-width-down/400?cb=20190414011130"
   },
   {
     "id": "xc2-unique_monster-holy-lancer-efrain",
@@ -557,7 +590,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Holy_Lancer_Efrain",
     "wikiPageId": 75495,
     "element": "Wind",
-    "collectType": "Marrin"
+    "collectType": "Marrin",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/HolyLancerEfrain.jpg/revision/latest/scale-to-width-down/400?cb=20190416142756"
   },
   {
     "id": "xc2-unique_monster-howitzer-leon",
@@ -574,7 +608,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Howitzer_Leon",
     "wikiPageId": 74966,
-    "collectType": "Gyanna"
+    "collectType": "Gyanna",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/83/HowitzerLeon.jpg/revision/latest/scale-to-width-down/400?cb=20190421162259"
   },
   {
     "id": "xc2-unique_monster-immovable-gonzalez",
@@ -591,7 +626,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Immovable_Gonzalez_(XC2)",
     "wikiPageId": 73554,
-    "collectType": "Gogol"
+    "collectType": "Gogol",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e6/ImmovableGonzalez.jpg/revision/latest/scale-to-width-down/400?cb=20190420140128"
   },
   {
     "id": "xc2-unique_monster-impassable-edgar",
@@ -609,7 +645,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Impassable_Edgar",
     "wikiPageId": 74330,
     "element": "None",
-    "collectType": "Garlus"
+    "collectType": "Garlus",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/22/ImpassableEdgar.jpg/revision/latest/scale-to-width-down/400?cb=20190414184916"
   },
   {
     "id": "xc2-unique_monster-implacable-dylan",
@@ -627,7 +664,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Implacable_Dylan",
     "wikiPageId": 74902,
     "element": "None",
-    "collectType": "Riik"
+    "collectType": "Riik",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Implacable-Dylan-crop.jpg/revision/latest/scale-to-width-down/400?cb=20180307125255"
   },
   {
     "id": "xc2-unique_monster-incandescent-marcus",
@@ -645,7 +683,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Incandescent_Marcus",
     "wikiPageId": 75942,
     "element": "Ice",
-    "collectType": "Plambus"
+    "collectType": "Plambus",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/23/XC2_Incandescent_Marcus.jpg/revision/latest/scale-to-width-down/400?cb=20171230012328"
   },
   {
     "id": "xc2-unique_monster-insectivore-malcom",
@@ -663,7 +702,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Insectivore_Malcom",
     "wikiPageId": 75921,
     "element": "Wind",
-    "collectType": "Vang"
+    "collectType": "Vang",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f7/InsectivoreMalcom.jpg/revision/latest/scale-to-width-down/400?cb=20190420140546"
   },
   {
     "id": "xc2-unique_monster-jadeite-polly",
@@ -680,7 +720,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Jadeite_Polly",
     "wikiPageId": 74491,
-    "collectType": "Grady"
+    "collectType": "Grady",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/JadeitePolly.jpg/revision/latest/scale-to-width-down/400?cb=20190415165302"
   },
   {
     "id": "xc2-unique_monster-judicial-kollin",
@@ -697,7 +738,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Judicial_Kollin",
     "wikiPageId": 74903,
-    "collectType": "Igna"
+    "collectType": "Igna",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f7/JudicialKollin.jpg/revision/latest/scale-to-width-down/400?cb=20190419012903"
   },
   {
     "id": "xc2-unique_monster-leonine-sadie",
@@ -715,7 +757,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Leonine_Sadie",
     "wikiPageId": 75563,
     "element": "Earth",
-    "collectType": "Sauros (Beast)"
+    "collectType": "Sauros (Beast)",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/LeonineSadie.jpg/revision/latest/scale-to-width-down/400?cb=20190417225005"
   },
   {
     "id": "xc2-unique_monster-machine-gun-julio",
@@ -733,7 +776,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Machine-Gun_Julio",
     "wikiPageId": 75540,
     "element": "None",
-    "collectType": "Ansel"
+    "collectType": "Ansel",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/72/XC2_Machine-Gun_Julio_Thumbnail.jpg/revision/latest/scale-to-width-down/400?cb=20181224214345"
   },
   {
     "id": "xc2-unique_monster-malicious-dimitri",
@@ -750,7 +794,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Malicious_Dimitri",
     "wikiPageId": 75483,
-    "collectType": "Guldo"
+    "collectType": "Guldo",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/79/MaliciousDmitri.jpg/revision/latest/scale-to-width-down/400?cb=20191213154759"
   },
   {
     "id": "xc2-unique_monster-man-eating-glenn",
@@ -767,7 +812,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Man-Eating_Glenn",
     "wikiPageId": 74130,
-    "collectType": "Griffox"
+    "collectType": "Griffox",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/98/Man-EatingGlenn.jpg/revision/latest/scale-to-width-down/400?cb=20190419013124"
   },
   {
     "id": "xc2-unique_monster-martial-kamron",
@@ -785,7 +831,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Martial_Kamron",
     "wikiPageId": 73644,
     "element": "None",
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/92/Martial-Kamron.jpg/revision/latest/scale-to-width-down/400?cb=20180307122918"
   },
   {
     "id": "xc2-unique_monster-mk-vi-familion",
@@ -802,7 +849,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VI_Familion",
     "wikiPageId": 75944,
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/Mk.VIFamilion.jpg/revision/latest/scale-to-width-down/400?cb=20190417003729"
   },
   {
     "id": "xc2-unique_monster-mk-vi-gerolf",
@@ -819,7 +867,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VI_Gerolf",
     "wikiPageId": 76227,
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/Mk.VIGerolf.jpg/revision/latest/scale-to-width-down/400?cb=20190417005802"
   },
   {
     "id": "xc2-unique_monster-mk-vi-margot",
@@ -837,7 +886,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VI_Margot",
     "wikiPageId": 76226,
     "element": "None",
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/Margot.jpg/revision/latest/scale-to-width-down/366?cb=20190113235758"
   },
   {
     "id": "xc2-unique_monster-mk-vii-arek",
@@ -855,7 +905,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mk._VII_Arek",
     "wikiPageId": 74895,
     "element": "None",
-    "collectType": "Sovereign"
+    "collectType": "Sovereign",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/43/Mk.VIIArek.jpg/revision/latest/scale-to-width-down/400?cb=20190417005929"
   },
   {
     "id": "xc2-unique_monster-moonlighting-elwyn",
@@ -873,7 +924,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Moonlighting_Elwyn",
     "wikiPageId": 74128,
     "element": "None",
-    "collectType": "Bunnit"
+    "collectType": "Bunnit",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/MoonlightingElwyn.jpg/revision/latest?cb=20180308072718"
   },
   {
     "id": "xc2-unique_monster-muscley-damian",
@@ -891,7 +943,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Muscley_Damian",
     "wikiPageId": 74958,
     "element": "None",
-    "collectType": "Buloofo"
+    "collectType": "Buloofo",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/Muscley_DamianXC2.png/revision/latest/scale-to-width-down/399?cb=20180118051402"
   },
   {
     "id": "xc2-unique_monster-myrmidon-eugene",
@@ -900,7 +953,8 @@
     "name": "Myrmidon Eugene",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Myrmidon_Eugene",
-    "wikiPageId": 75490
+    "wikiPageId": 75490,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9c/MyrmidonEugene.jpg/revision/latest/scale-to-width-down/400?cb=20190419013354"
   },
   {
     "id": "xc2-unique_monster-nitpicking-beru",
@@ -918,7 +972,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nitpicking_Beru",
     "wikiPageId": 75787,
     "element": "None",
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/NitpickingBeru.jpg/revision/latest/scale-to-width-down/400?cb=20190420153934"
   },
   {
     "id": "xc2-unique_monster-parasite-aplacus",
@@ -927,7 +982,8 @@
     "name": "Parasite Aplacus",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Parasite_Aplacus",
-    "wikiPageId": 75406
+    "wikiPageId": 75406,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/ParasiteAplacus.jpg/revision/latest/scale-to-width-down/400?cb=20190416235044"
   },
   {
     "id": "xc2-unique_monster-peerless-beaufort",
@@ -944,7 +1000,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Peerless_Beaufort",
     "wikiPageId": 74243,
-    "collectType": "Crustip"
+    "collectType": "Crustip",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8d/Peerless_Beaufort.png/revision/latest/scale-to-width-down/400?cb=20181009153241"
   },
   {
     "id": "xc2-unique_monster-pernicious-benf",
@@ -962,7 +1019,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Pernicious_Benf",
     "wikiPageId": 75564,
     "element": "None",
-    "collectType": "Behemoth (Beast)"
+    "collectType": "Behemoth (Beast)",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/PerniciousBenf.jpg/revision/latest/scale-to-width-down/400?cb=20190417231016"
   },
   {
     "id": "xc2-unique_monster-perplexed-stoyan",
@@ -979,7 +1037,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Perplexed_Stoyan",
     "wikiPageId": 74965,
-    "collectType": "Serprond"
+    "collectType": "Serprond",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/XC2_Perplexed_Stoyan.jpg/revision/latest/scale-to-width-down/400?cb=20180109083734"
   },
   {
     "id": "xc2-unique_monster-praetorian-argus",
@@ -997,7 +1056,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Praetorian_Argus",
     "wikiPageId": 75596,
     "element": "None",
-    "collectType": "Indoline Loyalist, Titan"
+    "collectType": "Indoline Loyalist, Titan",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c1/Praetorian_Argus.png/revision/latest/scale-to-width-down/400?cb=20180125030939"
   },
   {
     "id": "xc2-unique_monster-praetorian-medea",
@@ -1014,7 +1074,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Praetorian_Medea",
     "wikiPageId": 75597,
-    "collectType": "Indoline Loyalist, Titan"
+    "collectType": "Indoline Loyalist, Titan",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/02/Praetorian_Medea.png/revision/latest/scale-to-width-down/400?cb=20180125031247"
   },
   {
     "id": "xc2-unique_monster-rapturous-scandia",
@@ -1031,7 +1092,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Rapturous_Scandia",
     "wikiPageId": 75565,
-    "collectType": "Taos"
+    "collectType": "Taos",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d8/RapturousScandia.jpg/revision/latest/scale-to-width-down/400?cb=20191213154758"
   },
   {
     "id": "xc2-unique_monster-ravenwing-skull",
@@ -1048,7 +1110,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravenwing_Skull",
     "wikiPageId": 74425,
-    "collectType": "Ageshu"
+    "collectType": "Ageshu",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/Ravenwing_Skull.png/revision/latest/scale-to-width-down/387?cb=20180204133031"
   },
   {
     "id": "xc2-unique_monster-reeking-douglas",
@@ -1066,7 +1129,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Reeking_Douglas",
     "wikiPageId": 75566,
     "element": "None",
-    "collectType": "Rapchor (Beast)"
+    "collectType": "Rapchor (Beast)",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d0/Reeking_douglas.PNG/revision/latest?cb=20200423222115"
   },
   {
     "id": "xc2-unique_monster-relentless-arduran",
@@ -1084,7 +1148,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Relentless_Arduran",
     "wikiPageId": 76233,
     "element": "None",
-    "collectType": "Ardun"
+    "collectType": "Ardun",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a4/Relentless_Arduran.png/revision/latest?cb=20180125194720"
   },
   {
     "id": "xc2-unique_monster-remorseful-vaclav",
@@ -1102,7 +1167,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Remorseful_Vaclav",
     "wikiPageId": 75786,
     "element": "None",
-    "collectType": "Ardainian Soldier"
+    "collectType": "Ardainian Soldier",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ab/RemorsefulVaclav.jpg/revision/latest/scale-to-width-down/400?cb=20190420153824"
   },
   {
     "id": "xc2-unique_monster-runaway-train-bool",
@@ -1119,7 +1185,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Runaway_Train_Bool",
     "wikiPageId": 74498,
-    "collectType": "Garlus, Driver"
+    "collectType": "Garlus, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/RunawayTrainBool.jpg/revision/latest/scale-to-width-down/400?cb=20190417232925"
   },
   {
     "id": "xc2-unique_monster-sad-bernard",
@@ -1137,7 +1204,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sad_Bernard",
     "wikiPageId": 73586,
     "element": "None",
-    "collectType": "Feris"
+    "collectType": "Feris",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fc/Sadbern1.jpg/revision/latest/scale-to-width-down/400?cb=20181226143020"
   },
   {
     "id": "xc2-unique_monster-skyfist-remington",
@@ -1154,7 +1222,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Skyfist_Remington",
     "wikiPageId": 74904,
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a6/SkyfistRemington.jpg/revision/latest/scale-to-width-down/400?cb=20190415180318"
   },
   {
     "id": "xc2-unique_monster-slasher-buffon",
@@ -1171,7 +1240,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Slasher_Buffon",
     "wikiPageId": 75939,
-    "collectType": "Anlood"
+    "collectType": "Anlood",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a0/SlasherBuffon.jpg/revision/latest/scale-to-width-down/400?cb=20190413235615"
   },
   {
     "id": "xc2-unique_monster-sniping-brent",
@@ -1189,7 +1259,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sniping_Brent",
     "wikiPageId": 74127,
     "element": "None",
-    "collectType": "Rhogul"
+    "collectType": "Rhogul",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/42/Sniping-Brent-crop.jpg/revision/latest/scale-to-width-down/400?cb=20180307130516"
   },
   {
     "id": "xc2-unique_monster-soothsayer-gerald",
@@ -1207,7 +1278,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Soothsayer_Gerald",
     "wikiPageId": 75945,
     "element": "Ice",
-    "collectType": "Ellook"
+    "collectType": "Ellook",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/SoothsayerGerald.jpg/revision/latest/scale-to-width-down/400?cb=20190421164635"
   },
   {
     "id": "xc2-unique_monster-soul-eater-stanley",
@@ -1216,7 +1288,8 @@
     "name": "Soul-Eater Stanley",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Soul-Eater_Stanley",
-    "wikiPageId": 75549
+    "wikiPageId": 75549,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/84/Soul-EaterStanley.jpg/revision/latest/scale-to-width-down/400?cb=20190416235255"
   },
   {
     "id": "xc2-unique_monster-spellbinder-billy",
@@ -1234,7 +1307,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Spellbinder_Billy",
     "wikiPageId": 75941,
     "element": "None",
-    "collectType": "Peng"
+    "collectType": "Peng",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f5/SpellbinderBilly.jpg/revision/latest/scale-to-width-down/400?cb=20190414201112"
   },
   {
     "id": "xc2-unique_monster-spring-shower-elliott",
@@ -1251,7 +1325,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Spring-Shower_Elliott",
     "wikiPageId": 74950,
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/Spring-ShowerElliott.jpg/revision/latest/scale-to-width-down/400?cb=20190414011905"
   },
   {
     "id": "xc2-unique_monster-superboss",
@@ -1260,7 +1335,8 @@
     "name": "Superboss",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Superboss",
-    "wikiPageId": 3079
+    "wikiPageId": 3079,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Mechon_M87_Prototype.jpg/revision/latest?cb=20120915031804"
   },
   {
     "id": "xc2-unique_monster-supercharged-alfonso",
@@ -1278,7 +1354,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Supercharged_Alfonso",
     "wikiPageId": 75378,
     "element": "None",
-    "collectType": "Garaffa"
+    "collectType": "Garaffa",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/Supercharged_Alfonso.png/revision/latest/scale-to-width-down/358?cb=20180116203844"
   },
   {
     "id": "xc2-unique_monster-tattooed-hugo",
@@ -1295,7 +1372,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tattooed_Hugo",
     "wikiPageId": 74304,
-    "collectType": "Rhogul"
+    "collectType": "Rhogul",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/80/TattooedHugo.jpg/revision/latest/scale-to-width-down/400?cb=20190419020238"
   },
   {
     "id": "xc2-unique_monster-territorial-rotbart",
@@ -1313,7 +1391,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Territorial_Rotbart_(XC2)",
     "wikiPageId": 73551,
     "element": "None",
-    "collectType": "Gogol"
+    "collectType": "Gogol",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/XC2_Territorial_Rotbart.jpeg/revision/latest?cb=20180330104207"
   },
   {
     "id": "xc2-unique_monster-tyrannotitan-kurodil",
@@ -1331,7 +1410,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tyrannotitan_Kurodil",
     "wikiPageId": 75567,
     "element": "None",
-    "collectType": "Titan"
+    "collectType": "Titan",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0c/Tyrannotitan_Kurodil.png/revision/latest/scale-to-width-down/400?cb=20180107214306"
   },
   {
     "id": "xc2-unique_monster-unflinching-saxton",
@@ -1349,7 +1429,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unflinching_Saxton",
     "wikiPageId": 75949,
     "element": "Dark",
-    "collectType": "Driver"
+    "collectType": "Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/UnflinchingSaxton.jpg/revision/latest/scale-to-width-down/400?cb=20190419020148"
   },
   {
     "id": "xc2-unique_monster-vagrant-baldr",
@@ -1366,7 +1447,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Vagrant_Baldr",
     "wikiPageId": 75548,
-    "collectType": "Brionac, Titan"
+    "collectType": "Brionac, Titan",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/77/VagrantBaldr.jpg/revision/latest/scale-to-width-down/400?cb=20190419014632"
   },
   {
     "id": "xc2-unique_monster-vampire-bride-marion",
@@ -1375,7 +1457,8 @@
     "name": "Vampire Bride Marion",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Vampire_Bride_Marion",
-    "wikiPageId": 74311
+    "wikiPageId": 74311,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/Vampire_Bride_Marion.png/revision/latest/scale-to-width-down/400?cb=20180120054908"
   },
   {
     "id": "xc2-unique_monster-venal-montgomery",
@@ -1384,7 +1467,8 @@
     "name": "Venal Montgomery",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Venal_Montgomery",
-    "wikiPageId": 75842
+    "wikiPageId": 75842,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/XC2_Venal_Montgomery.jpg/revision/latest/scale-to-width-down/400?cb=20180107020330"
   },
   {
     "id": "xc2-unique_monster-vile-howard",
@@ -1401,7 +1485,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Vile_Howard",
     "wikiPageId": 75081,
-    "collectType": "Blant"
+    "collectType": "Blant",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7e/VileHoward.jpg/revision/latest/scale-to-width-down/400?cb=20190416150427"
   },
   {
     "id": "xc2-unique_monster-walker-trap",
@@ -1419,7 +1504,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Walker_Trap",
     "wikiPageId": 75938,
     "element": "Water",
-    "collectType": "Blant, Driver"
+    "collectType": "Blant, Driver",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/18/Walker_Trap.png/revision/latest?cb=20180106233612"
   },
   {
     "id": "xc2-unique_monster-file-beast-hunter-william-portrait-png",
@@ -1428,7 +1514,8 @@
     "name": "File:Beast-Hunter William Portrait.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeast-Hunter_William_Portrait.png",
-    "wikiPageId": 92111
+    "wikiPageId": 92111,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2e/Beast-Hunter_William_Portrait.png/revision/latest/scale-to-width-down/400?cb=20180828214956"
   },
   {
     "id": "xc2-unique_monster-file-chickenheartdagmara-jpg",
@@ -1437,7 +1524,8 @@
     "name": "File:ChickenheartDagmara.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChickenheartDagmara.jpg",
-    "wikiPageId": 102070
+    "wikiPageId": 102070,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/40/ChickenheartDagmara.jpg/revision/latest/scale-to-width-down/400?cb=20191214121123"
   },
   {
     "id": "xc2-unique_monster-file-cunning-saggie-portrait-jpg",
@@ -1446,7 +1534,8 @@
     "name": "File:Cunning-Saggie-portrait.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACunning-Saggie-portrait.jpg",
-    "wikiPageId": 84084
+    "wikiPageId": 84084,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Cunning-Saggie-portrait.jpg/revision/latest?cb=20180307114310"
   },
   {
     "id": "xc2-unique_monster-file-demon-king-gilbert-png",
@@ -1455,7 +1544,8 @@
     "name": "File:Demon King Gilbert.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADemon_King_Gilbert.png",
-    "wikiPageId": 79934
+    "wikiPageId": 79934,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/56/Demon_King_Gilbert.png/revision/latest/scale-to-width-down/301?cb=20180115012122"
   },
   {
     "id": "xc2-unique_monster-file-evileyemambor-jpg",
@@ -1464,7 +1554,8 @@
     "name": "File:EvileyeMambor.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEvileyeMambor.jpg",
-    "wikiPageId": 74318
+    "wikiPageId": 74318,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/37/EvileyeMambor.jpg/revision/latest/scale-to-width-down/400?cb=20191212160750"
   },
   {
     "id": "xc2-unique_monster-file-gladiator-orion-portrait-png",
@@ -1473,7 +1564,8 @@
     "name": "File:Gladiator Orion Portrait.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGladiator_Orion_Portrait.png",
-    "wikiPageId": 92114
+    "wikiPageId": 92114,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fe/Gladiator_Orion_Portrait.png/revision/latest/scale-to-width-down/400?cb=20180828215143"
   },
   {
     "id": "xc2-unique_monster-file-haywire-radcliffe-2-jpeg",
@@ -1482,7 +1574,8 @@
     "name": "File:Haywire Radcliffe 2.jpeg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHaywire_Radcliffe_2.jpeg",
-    "wikiPageId": 94987
+    "wikiPageId": 94987,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/01/Haywire_Radcliffe_2.jpeg/revision/latest/scale-to-width-down/400?cb=20190116013508"
   },
   {
     "id": "xc2-unique_monster-file-haywire-radclyffe-jpg",
@@ -1491,7 +1584,8 @@
     "name": "File:Haywire Radclyffe.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHaywire_Radclyffe.jpg",
-    "wikiPageId": 93648
+    "wikiPageId": 93648,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/93/Haywire_Radclyffe.jpg/revision/latest/scale-to-width-down/400?cb=20181014173049"
   },
   {
     "id": "xc2-unique_monster-file-implacable-dylan-crop-jpg",
@@ -1500,7 +1594,8 @@
     "name": "File:Implacable-Dylan-crop.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AImplacable-Dylan-crop.jpg",
-    "wikiPageId": 84095
+    "wikiPageId": 84095,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Implacable-Dylan-crop.jpg/revision/latest/scale-to-width-down/400?cb=20180307125255"
   },
   {
     "id": "xc2-unique_monster-file-margot-jpg",
@@ -1509,7 +1604,8 @@
     "name": "File:Margot.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMargot.jpg",
-    "wikiPageId": 94918
+    "wikiPageId": 94918,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/Margot.jpg/revision/latest/scale-to-width-down/366?cb=20190113235758"
   },
   {
     "id": "xc2-unique_monster-file-martial-kamron-jpg",
@@ -1518,7 +1614,8 @@
     "name": "File:Martial-Kamron.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMartial-Kamron.jpg",
-    "wikiPageId": 84090
+    "wikiPageId": 84090,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/92/Martial-Kamron.jpg/revision/latest/scale-to-width-down/400?cb=20180307122918"
   },
   {
     "id": "xc2-unique_monster-file-moonlightingelwyn-jpg",
@@ -1527,7 +1624,8 @@
     "name": "File:MoonlightingElwyn.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMoonlightingElwyn.jpg",
-    "wikiPageId": 84195
+    "wikiPageId": 84195,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/MoonlightingElwyn.jpg/revision/latest?cb=20180308072718"
   },
   {
     "id": "xc2-unique_monster-file-ophion-png",
@@ -1536,7 +1634,8 @@
     "name": "File:Ophion.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOphion.png",
-    "wikiPageId": 80881
+    "wikiPageId": 80881,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/Ophion.png/revision/latest/scale-to-width-down/400?cb=20180120055102"
   },
   {
     "id": "xc2-unique_monster-file-ophion1-png",
@@ -1545,7 +1644,8 @@
     "name": "File:Ophion1.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOphion1.png",
-    "wikiPageId": 94808
+    "wikiPageId": 94808,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7d/Ophion1.png/revision/latest/scale-to-width-down/400?cb=20190110001442"
   },
   {
     "id": "xc2-unique_monster-file-sadbern1-jpg",
@@ -1554,7 +1654,8 @@
     "name": "File:Sadbern1.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASadbern1.jpg",
-    "wikiPageId": 94406
+    "wikiPageId": 94406,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fc/Sadbern1.jpg/revision/latest/scale-to-width-down/400?cb=20181226143020"
   },
   {
     "id": "xc2-unique_monster-file-sadbern2-jpg",
@@ -1563,7 +1664,8 @@
     "name": "File:Sadbern2.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASadbern2.jpg",
-    "wikiPageId": 94407
+    "wikiPageId": 94407,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/Sadbern2.jpg/revision/latest/scale-to-width-down/400?cb=20181226143306"
   },
   {
     "id": "xc2-unique_monster-file-sniping-brent-crop-jpg",
@@ -1572,7 +1674,8 @@
     "name": "File:Sniping-Brent-crop.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASniping-Brent-crop.jpg",
-    "wikiPageId": 84098
+    "wikiPageId": 84098,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/42/Sniping-Brent-crop.jpg/revision/latest/scale-to-width-down/400?cb=20180307130516"
   },
   {
     "id": "xc2-unique_monster-file-vampire-bride-marion-png",
@@ -1581,7 +1684,8 @@
     "name": "File:Vampire Bride Marion.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVampire_Bride_Marion.png",
-    "wikiPageId": 80880
+    "wikiPageId": 80880,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/Vampire_Bride_Marion.png/revision/latest/scale-to-width-down/400?cb=20180120054908"
   },
   {
     "id": "xc2-unique_monster-file-xc2-acute-melvyn-crop-jpg",
@@ -1590,7 +1694,8 @@
     "name": "File:XC2 Acute Melvyn Crop.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Acute_Melvyn_Crop.jpg",
-    "wikiPageId": 84087
+    "wikiPageId": 84087,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/XC2_Acute_Melvyn_Crop.jpg/revision/latest?cb=20180307121547"
   },
   {
     "id": "xc2-unique_monster-file-xc2-antecedent-xiaxia-jpg",
@@ -1599,7 +1704,8 @@
     "name": "File:XC2 Antecedent Xiaxia.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Antecedent_Xiaxia.jpg",
-    "wikiPageId": 79445
+    "wikiPageId": 79445,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4a/XC2_Antecedent_Xiaxia.jpg/revision/latest/scale-to-width-down/400?cb=20180110071111"
   },
   {
     "id": "xc2-unique_monster-file-xc2-chickenheart-dagmara-jpg",
@@ -1608,7 +1714,8 @@
     "name": "File:XC2 Chickenheart Dagmara.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Chickenheart_Dagmara.jpg",
-    "wikiPageId": 79441
+    "wikiPageId": 79441,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/XC2_Chickenheart_Dagmara.jpg/revision/latest/scale-to-width-down/400?cb=20180110063433"
   },
   {
     "id": "xc2-unique_monster-file-xc2-climactic-honnold-jpg",
@@ -1617,7 +1724,8 @@
     "name": "File:XC2 Climactic Honnold.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Climactic_Honnold.jpg",
-    "wikiPageId": 79370
+    "wikiPageId": 79370,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/XC2_Climactic_Honnold.jpg/revision/latest/scale-to-width-down/400?cb=20180109091723"
   },
   {
     "id": "xc2-unique_monster-file-xc2-demon-shell-jacob-jpg",
@@ -1626,7 +1734,8 @@
     "name": "File:XC2 Demon-Shell Jacob.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Demon-Shell_Jacob.jpg",
-    "wikiPageId": 79476
+    "wikiPageId": 79476,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/XC2_Demon-Shell_Jacob.jpg/revision/latest/scale-to-width-down/400?cb=20180110143157"
   },
   {
     "id": "xc2-unique_monster-file-xc2-epicurean-ligia-jpg",
@@ -1635,7 +1744,8 @@
     "name": "File:XC2 Epicurean Ligia.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Epicurean_Ligia.jpg",
-    "wikiPageId": 79365
+    "wikiPageId": 79365,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a8/XC2_Epicurean_Ligia.jpg/revision/latest/scale-to-width-down/400?cb=20180109080552"
   },
   {
     "id": "xc2-unique_monster-file-xc2-haywire-phoebus-jpg",
@@ -1644,7 +1754,8 @@
     "name": "File:XC2 Haywire Phoebus.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Haywire_Phoebus.jpg",
-    "wikiPageId": 79362
+    "wikiPageId": 79362,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/XC2_Haywire_Phoebus.jpg/revision/latest/scale-to-width-down/400?cb=20180109063716"
   },
   {
     "id": "xc2-unique_monster-file-xc2-holy-lancer-efrain-jpg",
@@ -1653,7 +1764,8 @@
     "name": "File:XC2 Holy Lancer Efrain.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Holy_Lancer_Efrain.jpg",
-    "wikiPageId": 78960
+    "wikiPageId": 78960,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d7/XC2_Holy_Lancer_Efrain.jpg/revision/latest/scale-to-width-down/400?cb=20180107005758"
   },
   {
     "id": "xc2-unique_monster-file-xc2-jadeite-polly-jpg",
@@ -1662,7 +1774,8 @@
     "name": "File:XC2 Jadeite Polly.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Jadeite_Polly.jpg",
-    "wikiPageId": 79478
+    "wikiPageId": 79478,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/58/XC2_Jadeite_Polly.jpg/revision/latest/scale-to-width-down/400?cb=20180117134103"
   },
   {
     "id": "xc2-unique_monster-file-xc2-machine-gun-julio-jpg",
@@ -1671,7 +1784,8 @@
     "name": "File:XC2 Machine-Gun Julio.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Machine-Gun_Julio.jpg",
-    "wikiPageId": 79475
+    "wikiPageId": 79475,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/XC2_Machine-Gun_Julio.jpg/revision/latest/scale-to-width-down/400?cb=20180110142904"
   },
   {
     "id": "xc2-unique_monster-file-xc2-monster-collectibles-png",
@@ -1680,7 +1794,8 @@
     "name": "File:XC2 Monster Collectibles.png",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Monster_Collectibles.png",
-    "wikiPageId": 81367
+    "wikiPageId": 81367,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/40/XC2_Monster_Collectibles.png/revision/latest/scale-to-width-down/400?cb=20180125011522"
   },
   {
     "id": "xc2-unique_monster-file-xc2-myrmidon-eugene-jpg",
@@ -1689,7 +1804,8 @@
     "name": "File:XC2 Myrmidon Eugene.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Myrmidon_Eugene.jpg",
-    "wikiPageId": 79477
+    "wikiPageId": 79477,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/25/XC2_Myrmidon_Eugene.jpg/revision/latest/scale-to-width-down/400?cb=20180110143414"
   },
   {
     "id": "xc2-unique_monster-file-xc2-nitpicking-beru-jpg",
@@ -1698,7 +1814,8 @@
     "name": "File:XC2 Nitpicking Beru.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Nitpicking_Beru.jpg",
-    "wikiPageId": 79364
+    "wikiPageId": 79364,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/45/XC2_Nitpicking_Beru.jpg/revision/latest/scale-to-width-down/400?cb=20180109064238"
   },
   {
     "id": "xc2-unique_monster-file-xc2-parasite-aplacus-jpg",
@@ -1707,7 +1824,8 @@
     "name": "File:XC2 Parasite Aplacus.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Parasite_Aplacus.jpg",
-    "wikiPageId": 79368
+    "wikiPageId": 79368,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f5/XC2_Parasite_Aplacus.jpg/revision/latest/scale-to-width-down/400?cb=20180109084441"
   },
   {
     "id": "xc2-unique_monster-file-xc2-peerless-beaufort-jpg",
@@ -1716,7 +1834,8 @@
     "name": "File:XC2 Peerless Beaufort.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Peerless_Beaufort.jpg",
-    "wikiPageId": 78999
+    "wikiPageId": 78999,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/XC2_Peerless_Beaufort.jpg/revision/latest/scale-to-width-down/400?cb=20180107015843"
   },
   {
     "id": "xc2-unique_monster-file-xc2-perplexed-stoyan-jpg",
@@ -1725,7 +1844,8 @@
     "name": "File:XC2 Perplexed Stoyan.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Perplexed_Stoyan.jpg",
-    "wikiPageId": 79367
+    "wikiPageId": 79367,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/XC2_Perplexed_Stoyan.jpg/revision/latest/scale-to-width-down/400?cb=20180109083734"
   },
   {
     "id": "xc2-unique_monster-file-xc2-praetorian-argus-jpg",
@@ -1734,7 +1854,8 @@
     "name": "File:XC2 Praetorian Argus.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Praetorian_Argus.jpg",
-    "wikiPageId": 79372
+    "wikiPageId": 79372,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bc/XC2_Praetorian_Argus.jpg/revision/latest/scale-to-width-down/400?cb=20180109094245"
   },
   {
     "id": "xc2-unique_monster-file-xc2-praetorian-medea-jpg",
@@ -1743,7 +1864,8 @@
     "name": "File:XC2 Praetorian Medea.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Praetorian_Medea.jpg",
-    "wikiPageId": 79373
+    "wikiPageId": 79373,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9e/XC2_Praetorian_Medea.jpg/revision/latest/scale-to-width-down/400?cb=20180109100655"
   },
   {
     "id": "xc2-unique_monster-file-xc2-ravenwing-skull-jpg",
@@ -1752,7 +1874,8 @@
     "name": "File:XC2 Ravenwing Skull.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Ravenwing_Skull.jpg",
-    "wikiPageId": 79366
+    "wikiPageId": 79366,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a3/XC2_Ravenwing_Skull.jpg/revision/latest/scale-to-width-down/400?cb=20180109082543"
   },
   {
     "id": "xc2-unique_monster-file-xc2-soul-eater-stanley-jpg",
@@ -1761,7 +1884,8 @@
     "name": "File:XC2 Soul-Eater Stanley.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Soul-Eater_Stanley.jpg",
-    "wikiPageId": 79451
+    "wikiPageId": 79451,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/XC2_Soul-Eater_Stanley.jpg/revision/latest/scale-to-width-down/400?cb=20180110110840"
   },
   {
     "id": "xc2-unique_monster-file-xc2-territorial-rotbart-jpeg",
@@ -1770,7 +1894,8 @@
     "name": "File:XC2 Territorial Rotbart.jpeg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Territorial_Rotbart.jpeg",
-    "wikiPageId": 85261
+    "wikiPageId": 85261,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/XC2_Territorial_Rotbart.jpeg/revision/latest?cb=20180330104207"
   },
   {
     "id": "xc2-unique_monster-file-xc2-unique-monster-icon-png",
@@ -1797,6 +1922,7 @@
     "name": "File:XC2 Venal Montgomery.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC2_Venal_Montgomery.jpg",
-    "wikiPageId": 79005
+    "wikiPageId": 79005,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/XC2_Venal_Montgomery.jpg/revision/latest/scale-to-width-down/400?cb=20180107020330"
   }
 ]

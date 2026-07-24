@@ -28,6 +28,7 @@ import {
   getCategoryPagesWithWikitext,
   getPageWikitext,
   wikiPageUrl,
+  imageUrlFromInfobox,
 } from './wiki-client.ts'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -169,6 +170,7 @@ function parseQuestPage(
     trivia: extras.trivia,
     wikiUrl: wikiPageUrl(page.title),
     wikiPageId: page.pageid,
+    imageUrl: imageUrlFromInfobox(fields),
   }
 }
 
@@ -250,6 +252,7 @@ async function fetchUniqueMonsters(
       drops: monsterExtras.drops.length > 0 ? monsterExtras.drops : undefined,
       wikiUrl: wikiPageUrl(page.title),
       wikiPageId: page.pageid,
+      imageUrl: imageUrlFromInfobox(generic),
     })
   }
 
@@ -460,6 +463,7 @@ export async function fetchQuietMoments(gameId: GameId): Promise<TrackableItem[]
       prerequisites,
       wikiUrl: wikiPageUrl(page.title),
       wikiPageId: page.pageid,
+      imageUrl: imageUrlFromInfobox(fields),
     })
   }
 

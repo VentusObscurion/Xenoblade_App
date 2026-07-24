@@ -204,6 +204,93 @@ export function wikiPageUrl(title: string): string {
   return `https://xenoblade.fandom.com/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`
 }
 
+/** Build a Fandom file URL from an infobox image filename. */
+export function wikiFileUrl(filename: string, width = 360): string {
+  const clean = filename
+    .replace(/^File:/i, '')
+    .replace(/^Image:/i, '')
+    .trim()
+  return `https://xenoblade.fandom.com/wiki/Special:FilePath/${encodeURIComponent(clean)}?width=${width}`
+}
+
+/** Pull a usable image filename out of infobox fields. */
+export function extractWikiImageFilename(
+  fields: Record<string, string>,
+): string | undefined {
+  const raw =
+    fields.image ||
+    fields.image1 ||
+    fields.portrait ||
+    fields.icon ||
+    fields.img ||
+    ''
+  if (!raw) return undefined
+  const match = raw.match(
+    /(?:File:|Image:)?\s*([^|\][/\\]+\.(?:png|jpe?g|gif|webp|PNG|JPE?G|GIF|WEBP))/i,
+  )
+  if (!match) return undefined
+  return match[1].trim()
+}
+
+export function imageUrlFromInfobox(
+  fields: Record<string, string>,
+  width = 360,
+): string | undefined {
+  const filename = extractWikiImageFilename(fields)
+  if (!filename) return undefined
+  return wikiFileUrl(filename, width)
+}
+
+/**
+ * Resolve page thumbnail URLs via the MediaWiki pageimages API.
+ * Keys are page titles as requested.
+ */
+export async function getPageThumbnails(
+  titles: string[],
+  thumbSize = 360,
+): Promise<Map<string, string>> {
+  const result = new Map<string, string>()
+  if (titles.length === 0) return result
+
+  const batchSize = 50
+  for (let i = 0; i < titles.length; i += batchSize) {
+    const batch = titles.slice(i, i + batchSize)
+    const data = (await apiRequest({
+      action: 'query',
+      prop: 'pageimages',
+      piprop: 'thumbnail',
+      pithumbsize: String(thumbSize),
+      titles: batch.join('|'),
+      maxlag: '5',
+    })) as {
+      query?: {
+        pages?: Array<{
+          title: string
+          missing?: boolean
+          thumbnail?: { source?: string }
+        }>
+      }
+    }
+
+    for (const page of data.query?.pages ?? []) {
+      if (page.missing || !page.thumbnail?.source) continue
+      result.set(page.title, page.thumbnail.source)
+    }
+  }
+
+  return result
+}
+
+export function titleFromWikiUrl(wikiUrl: string): string | undefined {
+  try {
+    const match = wikiUrl.match(/\/wiki\/([^?#]+)/)
+    if (!match) return undefined
+    return decodeURIComponent(match[1].replace(/_/g, ' '))
+  } catch {
+    return undefined
+  }
+}
+
 export async function expandWikiTemplates(texts: string[]): Promise<string[]> {
   if (texts.length === 0) return []
 

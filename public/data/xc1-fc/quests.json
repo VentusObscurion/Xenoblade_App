@@ -18,7 +18,8 @@
       "Bind IV"
     ],
     "description": "Giver: Tutu",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tutu's_Lost_Property"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tutu's_Lost_Property",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/FC_Tutu.png/revision/latest?cb=20200712083954"
   },
   {
     "id": "xc1-fc-quest-favour-for-fofora",
@@ -39,7 +40,8 @@
       "Agility Down IV"
     ],
     "description": "Giver: Fofora",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Favour_for_Fofora"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Favour_for_Fofora",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ab/FC_Fofora.png/revision/latest?cb=20200712074145"
   },
   {
     "id": "xc1-fc-quest-riddle-faifa-this",
@@ -60,7 +62,8 @@
       "Debuff Resist II"
     ],
     "description": "Giver: Faifa",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Riddle_Faifa_This"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Riddle_Faifa_This",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/33/FC_Faifa.png/revision/latest?cb=20200712074035"
   },
   {
     "id": "xc1-fc-quest-hekasas-labour-at-stake",
@@ -81,7 +84,8 @@
       "Recovery Up IV"
     ],
     "description": "Giver: Hekasa",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hekasa's_Labour_at_Stake"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hekasa's_Labour_at_Stake",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/FC_Hekasa.png/revision/latest?cb=20200712074331"
   },
   {
     "id": "xc1-fc-quest-ready-setset-go",
@@ -102,7 +106,8 @@
       "Bleed Attack IV"
     ],
     "description": "Giver: Setset",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ready%2C_Setset%2C_Go!"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ready%2C_Setset%2C_Go!",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d0/FC_Setset.png/revision/latest?cb=20200712082534"
   },
   {
     "id": "xc1-fc-quest-tei-tei-lacking-charm",
@@ -123,7 +128,8 @@
       "Phys Def Down IV"
     ],
     "description": "Giver: Tei-Tei",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tei-Tei_Lacking_Charm"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Tei-Tei_Lacking_Charm",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/87/FC_Teitei.png/revision/latest?cb=20200712082743"
   },
   {
     "id": "xc1-fc-quest-nononas-calling",
@@ -144,7 +150,8 @@
       "Poison Attack IV"
     ],
     "description": "Giver: Nonona",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nonona's_Calling"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Nonona's_Calling",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/FC_Nonona.png/revision/latest?cb=20200712075513"
   },
   {
     "id": "xc1-fc-quest-incensed-dekadeka",
@@ -165,7 +172,8 @@
       "Lock-On Resist IV"
     ],
     "description": "Giver: Dekadeka",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Incensed_Dekadeka"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Incensed_Dekadeka",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/FC_Dekadeka.png/revision/latest?cb=20200712073422"
   },
   {
     "id": "xc1-fc-quest-evelen-on-the-edge",
@@ -186,7 +194,8 @@
       "Sleep Resist IV"
     ],
     "description": "Giver: Evelen",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Evelen_on_the_Edge"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Evelen_on_the_Edge",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/02/FC_Evelen.png/revision/latest?cb=20200712073906"
   },
   {
     "id": "xc1-fc-quest-ether-font",
@@ -208,7 +217,8 @@
       "Princess Dress D※"
     ],
     "description": "Giver: Tulleana",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Font"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Font",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7a/Ether_Font.jpg/revision/latest/scale-to-width-down/400?cb=20220528152639"
   },
   {
     "id": "xc1-fc-quest-ether-exploitation",
@@ -227,7 +237,8 @@
       "Ether Pick※"
     ],
     "description": "Giver: Carranelle",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Exploitation"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Exploitation",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ea/Ether_Exploitation.jpg/revision/latest/scale-to-width-down/400?cb=20220504133205"
   },
   {
     "id": "xc1-fc-quest-hunting-help",
@@ -249,7 +260,8 @@
       "Rudra Jacket※"
     ],
     "description": "Giver: Haemlin",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hunting_Help"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hunting_Help",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/58/Hunting_Help.jpg/revision/latest/scale-to-width-down/400?cb=20220527163529"
   },
   {
     "id": "xc1-fc-quest-laennars-worries",
@@ -265,7 +277,8 @@
       }
     ],
     "description": "Giver: Laennar",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Laennar's_Worries"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Laennar's_Worries",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b0/Laennar%27s_Worries.JPG/revision/latest/scale-to-width-down/400?cb=20220430161613"
   },
   {
     "id": "xc1-fc-quest-plump-pickings-req-laennars-worries",
@@ -346,7 +359,8 @@
       "Debuff Resist V"
     ],
     "description": "Giver: Pororo",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_%26_Found"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_%26_Found",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/41/Pororo.jpg/revision/latest?cb=20201217013525"
   },
   {
     "id": "xc1-fc-quest-no-armu-done",
@@ -366,7 +380,8 @@
       "000 G"
     ],
     "description": "Giver: Laffaelle",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/No_Armu_Done"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/No_Armu_Done",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/93/No_Armu_Done.jpg/revision/latest/scale-to-width-down/400?cb=20220505163527"
   },
   {
     "id": "xc1-fc-quest-brothers-keepsake-req-somnivore-lexos-defeated",
@@ -398,7 +413,8 @@
     "region": "Bionis' Shoulder",
     "prerequisites": [],
     "description": "Giver: Story Quest",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Search_for_High_Ether"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Search_for_High_Ether",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3d/The_Search_for_High_Ether.jpg/revision/latest/scale-to-width-down/400?cb=20240826155501"
   },
   {
     "id": "xc1-fc-quest-the-quest-for-high-ether-req-the-search-for-high-ether",
@@ -427,7 +443,8 @@
       "Strength Up IV"
     ],
     "description": "Giver: Wunwun",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Priority_Wunwun"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Priority_Wunwun",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d6/1_Wunwun.png/revision/latest?cb=20200712070242"
   },
   {
     "id": "xc1-fc-quest-ponspectors-till-we-cry",
@@ -448,7 +465,8 @@
       "Nerthis Crown※"
     ],
     "description": "Giver: Wunwun",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ponspectors_Till_We_Cry"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Ponspectors_Till_We_Cry",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d6/1_Wunwun.png/revision/latest?cb=20200712070242"
   },
   {
     "id": "xc1-fc-quest-inclined-to-climb",
@@ -471,7 +489,8 @@
       "Jubilant Anklet※"
     ],
     "description": "Giver: Shoo-Shoo",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Inclined_to_Climb"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Inclined_to_Climb",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a3/Inclined_to_Climb.jpg/revision/latest/scale-to-width-down/400?cb=20220602165816"
   },
   {
     "id": "xc1-fc-quest-finding-happiness",
@@ -490,7 +509,8 @@
       "Reinforced Ether Pick※"
     ],
     "description": "Giver: Lott",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Finding_Happiness"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Finding_Happiness",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a6/Finding_Happiness.jpg/revision/latest/scale-to-width-down/400?cb=20220524155829"
   },
   {
     "id": "xc1-fc-quest-shoulder-survey-snaps",
@@ -512,7 +532,8 @@
       "Replica Jacket※"
     ],
     "description": "Giver: Melekanze",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shoulder_Survey_Snaps"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Shoulder_Survey_Snaps",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8a/Shoulder_Survey_Snaps.jpg/revision/latest/scale-to-width-down/400?cb=20240830183358"
   },
   {
     "id": "xc1-fc-quest-secure-the-area",
@@ -532,7 +553,8 @@
       "000 G"
     ],
     "description": "Giver: Mithril",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_the_Area"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_the_Area",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/72/Secure_the_Area.jpg/revision/latest/scale-to-width-down/400?cb=20240827223410"
   },
   {
     "id": "xc1-fc-quest-fixing-up-the-junks",
@@ -555,7 +577,8 @@
       "Rudra Shoes※"
     ],
     "description": "Giver: Helmaline",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fixing_Up_the_Junks"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Fixing_Up_the_Junks",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ad/Fixing_Up_the_Junks.jpg/revision/latest/scale-to-width-down/400?cb=20220507144527"
   },
   {
     "id": "xc1-fc-quest-sweetest-debt",
@@ -578,7 +601,8 @@
       "Knee-High Boots D※"
     ],
     "description": "Giver: Arara",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweetest_Debt"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweetest_Debt",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f8/Sweetest_Debt.jpg/revision/latest/scale-to-width-down/400?cb=20240827155932"
   },
   {
     "id": "xc1-fc-quest-new-way-of-life",
@@ -601,7 +625,8 @@
       "Sapling Anklet※"
     ],
     "description": "Giver: Ines",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/New_Way_of_Life"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/New_Way_of_Life",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/49/New_Way_of_Life.jpg/revision/latest/scale-to-width-down/400?cb=20220529160050"
   },
   {
     "id": "xc1-fc-quest-hook-line-and-sinker",
@@ -621,7 +646,8 @@
       "000 G"
     ],
     "description": "Giver: Vredda",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hook%2C_Line_and_Sinker"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Hook%2C_Line_and_Sinker",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ef/Hook%2C_Line_and_Sinker.jpg/revision/latest/scale-to-width-down/400?cb=20240826160703"
   },
   {
     "id": "xc1-fc-quest-wallflower",
@@ -643,7 +669,8 @@
       "Redwood Vest※"
     ],
     "description": "Giver: Angela",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wallflower"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Wallflower",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/31/Wallflower.jpg/revision/latest/scale-to-width-down/400?cb=20220506154914"
   },
   {
     "id": "xc1-fc-quest-brace-for-friendship-req-wallflower",
@@ -688,7 +715,8 @@
       "Jubilant Plate※"
     ],
     "description": "Giver: Ardred",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rival_Hearts"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rival_Hearts",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/Rival_Hearts.jpg/revision/latest/scale-to-width-down/400?cb=20240826205020"
   },
   {
     "id": "xc1-fc-quest-steady-on-grandad",
@@ -711,7 +739,8 @@
       "Replica Shoes※"
     ],
     "description": "Giver: Miles",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Steady_on%2C_Grandad!"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Steady_on%2C_Grandad!",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0f/Steady_on_Grandad.jpg/revision/latest/scale-to-width-down/400?cb=20220509163105"
   },
   {
     "id": "xc1-fc-quest-rubble-trouble",
@@ -731,7 +760,8 @@
       "000 G"
     ],
     "description": "Giver: Selsetana",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rubble_Trouble"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/Rubble_Trouble",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/Rubble_Trouble.jpg/revision/latest/scale-to-width-down/400?cb=20220508171017"
   },
   {
     "id": "xc1-fc-quest-sorrow-req-wallflower-brace-for-friendship",
@@ -774,7 +804,8 @@
       "000 G"
     ],
     "description": "Giver: Radzam",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Quest_for_Radzamalt%C2%B3"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Quest_for_Radzamalt%C2%B3",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/The_Quest_for_Radzamalt.jpg/revision/latest/scale-to-width-down/400?cb=20240903152349"
   },
   {
     "id": "xc1-fc-quest-stubborn-minds-req-rival-hearts",
@@ -814,7 +845,8 @@
       "000 G"
     ],
     "description": "Giver: Thad",
-    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Surefire_Hit"
+    "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Surefire_Hit",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/A_Surefire_Hit.jpg/revision/latest/scale-to-width-down/400?cb=20240903152921"
   },
   {
     "id": "xc1-fc-quest-the-fallen-req-wallflower-brace-for-friendship",

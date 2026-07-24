@@ -10,7 +10,7 @@ import {
   stripWikiMarkup,
 } from './parse-infobox.ts'
 import { extractWikiTable, parseTableCells } from './parse-wikitable.ts'
-import { expandWikiTemplates, getCategoryPagesWithWikitext, getPageWikitext, wikiPageUrl } from './wiki-client.ts'
+import { expandWikiTemplates, getCategoryPagesWithWikitext, getPageWikitext, imageUrlFromInfobox, wikiPageUrl } from './wiki-client.ts'
 
 function makeId(gameId: GameId, category: string, name: string): string {
   return `${gameId}-${category}-${slugify(name)}`
@@ -487,6 +487,7 @@ export async function fetchXC1Persons(gameId: GameId): Promise<TrackableItem[]> 
           prerequisites: [],
           wikiUrl: wikiPageUrl(page.title),
           wikiPageId: page.pageid,
+          imageUrl: imageUrlFromInfobox(fields),
           role: race || undefined,
         })
       }

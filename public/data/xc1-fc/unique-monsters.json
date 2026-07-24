@@ -19,7 +19,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Air_Marshal_Reisenbach",
-    "wikiPageId": 105858
+    "wikiPageId": 105858,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/Lelepago_Pterix.jpg/revision/latest?cb=20120825170650"
   },
   {
     "id": "xc1-fc-unique_monster-booming-frederick",
@@ -41,7 +42,8 @@
     "spawnTime": "Rain",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Booming_Frederick",
-    "wikiPageId": 105856
+    "wikiPageId": 105856,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/49/White_Eduardo.jpg/revision/latest?cb=20120829023725"
   },
   {
     "id": "xc1-fc-unique_monster-buoyant-rostein",
@@ -63,7 +65,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Buoyant_Rostein",
-    "wikiPageId": 105750
+    "wikiPageId": 105750,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/Makna_Eluca.jpg/revision/latest?cb=20111024090501"
   },
   {
     "id": "xc1-fc-unique_monster-caustic-naquatra",
@@ -85,7 +88,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Caustic_Naquatra",
-    "wikiPageId": 105781
+    "wikiPageId": 105781,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c3/White_Spider.png/revision/latest?cb=20151017121854"
   },
   {
     "id": "xc1-fc-unique_monster-citadel-tostega",
@@ -107,7 +111,8 @@
     "spawnTime": "Anytime",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Citadel_Tostega",
-    "wikiPageId": 105773
+    "wikiPageId": 105773,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/aa/Carbon_Tude_%28Torta%29.jpg/revision/latest?cb=20120930175956"
   },
   {
     "id": "xc1-fc-unique_monster-confluent-uzva",
@@ -129,7 +134,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Confluent_Uzva",
-    "wikiPageId": 105384
+    "wikiPageId": 105384,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/Rhoen_Quadwing.jpg/revision/latest?cb=20120905015214"
   },
   {
     "id": "xc1-fc-unique_monster-contemptuous-greymane",
@@ -159,7 +165,8 @@
       "Gold chest — Weapons: Meteor Staff (2 slots) — 25%; Meteor Staff (3 slots) — 25%; Sun Staff (2 slots) — 25%; Sun Staff (3 slots) — 25%"
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Contemptuous_Greymane",
-    "wikiPageId": 105863
+    "wikiPageId": 105863,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1e/Contemptuous_Greymane.jpg/revision/latest/scale-to-width-down/400?cb=20240830182600"
   },
   {
     "id": "xc1-fc-unique_monster-custodian-barreldart",
@@ -181,7 +188,8 @@
     "spawnTime": "Anytime",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Custodian_Barreldart",
-    "wikiPageId": 105859
+    "wikiPageId": 105859,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Custodian_Barreldart.jpg/revision/latest/scale-to-width-down/400?cb=20240830182739"
   },
   {
     "id": "xc1-fc-unique_monster-cyclonic-yughana",
@@ -203,7 +211,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cyclonic_Yughana",
-    "wikiPageId": 105788
+    "wikiPageId": 105788,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b2/Leg_Tokilos.jpg/revision/latest?cb=20120810012132"
   },
   {
     "id": "xc1-fc-unique_monster-deputy-seagal",
@@ -225,7 +234,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Deputy_Seagal",
-    "wikiPageId": 105860
+    "wikiPageId": 105860,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/Shield_Igna.jpg/revision/latest?cb=20140624234512"
   },
   {
     "id": "xc1-fc-unique_monster-dismal-umya",
@@ -247,7 +257,8 @@
     "spawnTime": "Anytime",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dismal_Umya",
-    "wikiPageId": 105779
+    "wikiPageId": 105779,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/88/Mell_Lizard.jpg/revision/latest?cb=20120826175301"
   },
   {
     "id": "xc1-fc-unique_monster-grotesque-deimis",
@@ -269,7 +280,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Grotesque_Deimis",
-    "wikiPageId": 105185
+    "wikiPageId": 105185,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/Barbaric_Sitri_%28Antol_King%29.jpg/revision/latest?cb=20121105000301"
   },
   {
     "id": "xc1-fc-unique_monster-highborn-alexandra",
@@ -291,7 +303,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Highborn_Alexandra",
-    "wikiPageId": 105855
+    "wikiPageId": 105855,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a8/Feltl_Eks.jpg/revision/latest?cb=20120909195005"
   },
   {
     "id": "xc1-fc-unique_monster-marquis-odesh",
@@ -313,7 +326,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Marquis_Odesh",
-    "wikiPageId": 105861
+    "wikiPageId": 105861,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ea/Guard_Igna.jpg/revision/latest?cb=20120909020441"
   },
   {
     "id": "xc1-fc-unique_monster-perceptive-quinops",
@@ -335,7 +349,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Perceptive_Quinops",
-    "wikiPageId": 105780
+    "wikiPageId": 105780,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/Makna_forest_monster_5.jpg/revision/latest?cb=20111013083143"
   },
   {
     "id": "xc1-fc-unique_monster-phlegmatic-jamir",
@@ -357,7 +372,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Phlegmatic_Jamir",
-    "wikiPageId": 105854
+    "wikiPageId": 105854,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c4/Wood_Bunnit.jpg/revision/latest?cb=20120830035453"
   },
   {
     "id": "xc1-fc-unique_monster-prosecutor-davrum",
@@ -383,7 +399,8 @@
       "Wood chest: Demonic Everflame (0%)"
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Prosecutor_Davrum",
-    "wikiPageId": 105792
+    "wikiPageId": 105792,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/Dragon.jpg/revision/latest?cb=20111013074021"
   },
   {
     "id": "xc1-fc-unique_monster-quondam-grimbellum",
@@ -405,7 +422,8 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Quondam_Grimbellum",
-    "wikiPageId": 105857
+    "wikiPageId": 105857,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/Sabulum_Orluga.jpg/revision/latest?cb=20120909034939"
   },
   {
     "id": "xc1-fc-unique_monster-ravager-apelpis-a",
@@ -435,7 +453,8 @@
       "Gold chest — Weapons: Jumbo Fruitshot (2 slots) — 25%; Jumbo Fruitshot (3 slots) — 25%; Tenderheart Blocker (2 slots) — 25%; Tenderheart Blocker (3 slots) — 25%"
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravager_Apelpis%C3%ADa",
-    "wikiPageId": 105782
+    "wikiPageId": 105782,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ce/Trava_Kromar.jpg/revision/latest?cb=20120909160838"
   },
   {
     "id": "xc1-fc-unique_monster-terpsichorean-cenoth",
@@ -457,6 +476,7 @@
     "spawnTime": "Any",
     "respawn": "Yes (30% chance)",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Terpsichorean_Cenoth",
-    "wikiPageId": 105774
+    "wikiPageId": 105774,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ae/Flamii.jpg/revision/latest?cb=20120305202406"
   }
 ]

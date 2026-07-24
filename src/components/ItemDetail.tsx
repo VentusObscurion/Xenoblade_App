@@ -85,6 +85,21 @@ export function ItemDetail({
         </button>
       </div>
 
+      {item.imageUrl && (
+        <div className="item-detail-image-wrap">
+          <img
+            className="item-detail-image"
+            src={item.imageUrl}
+            alt=""
+            loading="lazy"
+            referrerPolicy="no-referrer"
+            onError={(e) => {
+              e.currentTarget.style.display = 'none'
+            }}
+          />
+        </div>
+      )}
+
       <div className="item-detail-meta">
         {item.region && <span className="meta-tag">{item.region}</span>}
         {item.level !== undefined && (

@@ -583,7 +583,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"The Defence Force are so happy that you completed this near-impossible task for them.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_(Colony_9)",
-    "wikiPageId": 4437
+    "wikiPageId": 4437,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/42/Loc-bunnit.png/revision/latest/scale-to-width-down/400?cb=20120422083104"
   },
   {
     "id": "xc1-quest-challenge-2-colony-9",
@@ -658,7 +659,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Tephra Cave is much safer now. The Colony 9 resident is very grateful.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_4_(Colony_9)",
-    "wikiPageId": 4438
+    "wikiPageId": 4438,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4b/Loc-gna.png/revision/latest/scale-to-width-down/400?cb=20120422082636"
   },
   {
     "id": "xc1-quest-collection-quest-1-colony-9",
@@ -3271,7 +3273,8 @@
     "uniqueComments": ": 'Sharla': ''\"I do. I can see it in your eyes. I can't be a hundred percent sure. But it feels like you're telling the truth this time.\"''\n: 'Earnest': ''\"Really? Ya believe me? Hmm... What's this? I'm feeling a bit guilty.\"''\n: 'Sharla': ''\"Don't be like that. I'm sure you had reasons for lying when you did. But I believe what you're saying now.\"''",
     "results": "\"The darkness in Earnest is gone. No more dishonest antics from him!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Earnest's_Solitude",
-    "wikiPageId": 7106
+    "wikiPageId": 7106,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9d/Loc-grave.jpg/revision/latest/scale-to-width-down/400?cb=20120426064928"
   },
   {
     "id": "xc1-quest-emergency-treatment",
@@ -3678,7 +3681,8 @@
     "timeWindow": "Automatic",
     "results": "''\"The girl who went bathing alone is safe. She won't be coming back here alone any time soon!\"''\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Save_the_Girl!",
-    "wikiPageId": 4492
+    "wikiPageId": 4492,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/27/Save_the_Girl%21.jpeg/revision/latest/scale-to-width-down/399?cb=20200609213125"
   },
   {
     "id": "xc1-quest-search-quest-1-bionis-leg",
@@ -3728,7 +3732,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Quest completed. The precious gift has been successfully recovered, intact and safe.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_2_(Bionis'_Leg)",
-    "wikiPageId": 4510
+    "wikiPageId": 4510,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/IMG01118-20120416-0959.jpg/revision/latest/scale-to-width-down/400?cb=20120416143921"
   },
   {
     "id": "xc1-quest-spirits-raised",
@@ -3856,7 +3861,8 @@
     "uniqueComments": ": 'Sharla': ''\"Do you have any idea where he could've gone?\"''\n: 'Gerugu': \"Gerugu tell him not to go too far. He always get lost. Gerugu think he go very far. He has no sense of direction.\"\n: 'Sharla': ''\"He's probably completely lost.\"''",
     "results": "\"Batubatu has been found and won’t be heading off alone in future.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Lost_Nopon",
-    "wikiPageId": 5415
+    "wikiPageId": 5415,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/Loc-batubatu.jpg/revision/latest/scale-to-width-down/400?cb=20120426070124"
   },
   {
     "id": "xc1-quest-thieving-monsters",
@@ -3922,7 +3928,8 @@
     "uniqueComments": ": 'Reyn': ''\"Again? What's he playing at? Why did you take your eyes off him?\"''\n: 'Gerugu': \"Gerugu need to watch Batubatu every second in every day. Batubatu always get lost and never listen to what Gerugu say.\"\n: 'Reyn': ''\"You're amazing. There aren't many like you around. Maybe I had the Nopon all wrong.\"''",
     "results": "''\"Batubatu has proven just how unreliable he is but he promises that it won't happen again.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/With_Even_More_Gratitude",
-    "wikiPageId": 7111
+    "wikiPageId": 7111,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2f/Loc-batubatu2.jpg/revision/latest/scale-to-width-down/400?cb=20120426074854"
   },
   {
     "id": "xc1-quest-with-much-gratitude",
@@ -3991,7 +3998,8 @@
     "results": "''\"Quest completed. You're now the proud owner of the Ether Jet. Or its proud test driver, at least.\"''",
     "trivia": "This is the only quest in XCDE (outside of XCFC) that was not in the original game.\nCategory:Bionis' Leg Quests\nCategory:Xenoblade Chronicles: Definitive Edition",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/World-Changing_Whatchamajig",
-    "wikiPageId": 133621
+    "wikiPageId": 133621,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/33/Nopon_Engineer.jpg/revision/latest/scale-to-width-down/400?cb=20260610135610"
   },
   {
     "id": "xc1-quest-a-butlers-concerns",
@@ -4271,7 +4279,8 @@
     "timeWindow": "09:00 - 18:00",
     "results": "''\"Anna realised her mistake and won't make it again. All three are happy and safe once more.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Selfish_Girl's_Mistake",
-    "wikiPageId": 6848
+    "wikiPageId": 6848,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e1/Nikita-loc.png/revision/latest/scale-to-width-down/400?cb=20120421074118"
   },
   {
     "id": "xc1-quest-a-tantalising-treat",
@@ -4617,7 +4626,8 @@
     "timeWindow": "Automatic",
     "results": "\"You eliminated the threat of the primeval enemies that had appeared by the ether planter.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Ancient",
-    "wikiPageId": 15757
+    "wikiPageId": 15757,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Ether_Planter_Map.png/revision/latest/scale-to-width-down/268?cb=20150313184758"
   },
   {
     "id": "xc1-quest-defend-colony-6-demon",
@@ -4647,7 +4657,8 @@
     "timeWindow": "Automatic",
     "results": "\"You eliminated the threat of the formidable enemy that had appeared by the ether planter.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Demon",
-    "wikiPageId": 12312
+    "wikiPageId": 12312,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Ether_Planter_Map.png/revision/latest/scale-to-width-down/268?cb=20150313184758"
   },
   {
     "id": "xc1-quest-defend-colony-6-elite",
@@ -4681,7 +4692,8 @@
     "timeWindow": "Automatic",
     "results": "\"You eliminated the threat of the terrifying enemy that had appeared by the ether planter.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Elite",
-    "wikiPageId": 15756
+    "wikiPageId": 15756,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Ether_Planter_Map.png/revision/latest/scale-to-width-down/268?cb=20150313184758"
   },
   {
     "id": "xc1-quest-defend-colony-6-mechon",
@@ -4711,7 +4723,8 @@
     "timeWindow": "Automatic",
     "results": "\"You eliminated the threat of the difficult enemies that had appeared by the ether planter.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Mechon",
-    "wikiPageId": 15758
+    "wikiPageId": 15758,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Ether_Planter_Map.png/revision/latest/scale-to-width-down/268?cb=20150313184758"
   },
   {
     "id": "xc1-quest-defend-colony-6-reptile",
@@ -4745,7 +4758,8 @@
     "timeWindow": "Automatic",
     "results": "\"You eliminated the threat of the raging enemies that had appeared by the ether planter.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defend_Colony_6_-_Reptile",
-    "wikiPageId": 11803
+    "wikiPageId": 11803,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Ether_Planter_Map.png/revision/latest/scale-to-width-down/268?cb=20150313184758"
   },
   {
     "id": "xc1-quest-delivering-the-undeliverable",
@@ -5178,7 +5192,8 @@
     "timeWindow": "Automatic",
     "results": "\"You helped Tyrea to fulfill the duty entrusted to her by First Consort Yumea.\"\nes:La melancolía de Tyrea\nCategory:XC Surprise Quests\nCategory:Colony 6 Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Melancholy_Tyrea",
-    "wikiPageId": 13214
+    "wikiPageId": 13214,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/97/Tyrea-art.png/revision/latest/scale-to-width-down/251?cb=20170122211048"
   },
   {
     "id": "xc1-quest-miss-sweetness-showdown-berryjammy",
@@ -5630,7 +5645,8 @@
     "timeWindow": "Anytime",
     "results": "\"Your efforts combined with the technology of the Machina have created a new Replica Monado.\"\nes:La réplica de Monado (1)\nCategory:Colony 6 Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Replica_Monado_1",
-    "wikiPageId": 9083
+    "wikiPageId": 9083,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/268px-Vanea_-_Xenoblade_Chronicles.png/revision/latest/scale-to-width-down/179?cb=20170122205927"
   },
   {
     "id": "xc1-quest-replica-monado-2",
@@ -5659,7 +5675,8 @@
     "timeWindow": "Anytime",
     "results": "\"Your efforts combined with the technology of the Machina have created a new Replica Monado.\"\nes:La réplica de Monado (2)\nCategory:Colony 6 Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Replica_Monado_2",
-    "wikiPageId": 9084
+    "wikiPageId": 9084,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/268px-Vanea_-_Xenoblade_Chronicles.png/revision/latest/scale-to-width-down/179?cb=20170122205927"
   },
   {
     "id": "xc1-quest-replica-monado-3",
@@ -5688,7 +5705,8 @@
     "timeWindow": "Anytime",
     "results": "\"Your efforts combined with the technology of the Machina have created a new Replica Monado.\"\nes:La réplica de Monado (3)\nCategory:Colony 6 Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Replica_Monado_3",
-    "wikiPageId": 9085
+    "wikiPageId": 9085,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/268px-Vanea_-_Xenoblade_Chronicles.png/revision/latest/scale-to-width-down/179?cb=20170122205927"
   },
   {
     "id": "xc1-quest-replica-monado-4",
@@ -5717,7 +5735,8 @@
     "timeWindow": "Anytime",
     "results": "\"Your efforts combined with the technology of the Machina have created a new Replica Monado.\"\nes:La réplica de Monado (4)\nCategory:Colony 6 Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Replica_Monado_4",
-    "wikiPageId": 9086
+    "wikiPageId": 9086,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/268px-Vanea_-_Xenoblade_Chronicles.png/revision/latest/scale-to-width-down/179?cb=20170122205927"
   },
   {
     "id": "xc1-quest-replica-monado-5",
@@ -5746,7 +5765,8 @@
     "timeWindow": "Anytime",
     "results": "\"Your efforts combined with the technology of the Machina have created a new Replica Monado.\"\nes:La réplica de Monado (5)\nCategory:Colony 6 Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Replica_Monado_5",
-    "wikiPageId": 9087
+    "wikiPageId": 9087,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/268px-Vanea_-_Xenoblade_Chronicles.png/revision/latest/scale-to-width-down/179?cb=20170122205927"
   },
   {
     "id": "xc1-quest-rest-in-peace",
@@ -6057,7 +6077,8 @@
     "timeWindow": "Anytime",
     "results": "\"The refugees can return home safely. Now the restoration of Colony 6 can begin in earnest.\"\nCategory:Colony 6 Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Road_Home",
-    "wikiPageId": 4519
+    "wikiPageId": 4519,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7d/Otharon.png/revision/latest/scale-to-width-down/127?cb=20170122210133"
   },
   {
     "id": "xc1-quest-to-colony-6",
@@ -6393,7 +6414,8 @@
     "timeWindow": "Automatic",
     "results": "''\"You have collected the 4 offerings. It's time to go to the Sororal Statues to perform the ceremony.\"''\nCategory:XC Story Quests\nCategory:Satorl Marsh Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ancient_Ceremony_Offerings",
-    "wikiPageId": 7666
+    "wikiPageId": 7666,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/45/XC-Nopon-Merchant-Story-Quest.png/revision/latest/scale-to-width-down/400?cb=20150718155840"
   },
   {
     "id": "xc1-quest-challenge-satorl-marsh",
@@ -6567,7 +6589,8 @@
     "uniqueComments": ": 'Sharla': \"This is serious. But what could the Ignas possibly hope to learn from him?\"\n: 'Bokoko': \"It must be about that big secret. But Bokoko no know very much.\"\n: 'Sharla': \"An important secret? It sounds fascinating. But his safety is the top priority.\"",
     "results": "\"Kacha has been rescued. However, she has told a secret to the Ignas.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Kacha's_Kidnapping",
-    "wikiPageId": 4536
+    "wikiPageId": 4536,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/96/Dolphin_2012-04-26_15-56-23-581.jpg/revision/latest/scale-to-width-down/400?cb=20120426080145"
   },
   {
     "id": "xc1-quest-making-camp",
@@ -6754,7 +6777,8 @@
     "timeWindow": "Anytime",
     "results": "\"The Coming-of-Age Ceremony is complete and the path to the top of the Bionis is open.\"\nCategory:XC Story Quests\nCategory:Satorl Marsh Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ancient_Ceremony",
-    "wikiPageId": 7665
+    "wikiPageId": 7665,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/45/XC-Nopon-Merchant-Story-Quest.png/revision/latest/scale-to-width-down/400?cb=20150718155840"
   },
   {
     "id": "xc1-quest-the-giants-key",
@@ -7510,7 +7534,8 @@
     "uniqueComments": ": 'Reyn': \"If she wants to go bash a few monsters, then why not let her? It might be good to let your sister see a bit of the world.\"\n: 'Leku': \"No! No! Nooooo! What if weird insects take fancy to Kilaki?! What then?!\"\n: 'Reyn': \"Well, it would be a good learning experience for her.\"\n: 'Leku': \"Shield Bugs or Fire Tarantulas! Just thinking about it make Leku shiver!\"\n: 'Reyn': \"Ah, those kind of weird insects...\"",
     "results": "\"Phewey! Monster Kilaki wanted to fight is all gone. Sigh of big relief!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Beat_Kilaki_to_it!",
-    "wikiPageId": 4632
+    "wikiPageId": 4632,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e3/Beat-kilaki-to-it.jpg/revision/latest/scale-to-width-down/400?cb=20120429083112"
   },
   {
     "id": "xc1-quest-bored-pelupelu",
@@ -7635,7 +7660,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Now Albatro gone. Shame. Me just wanted to have nibble on it a bit... Only joking!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_(Frontier_Village)",
-    "wikiPageId": 4556
+    "wikiPageId": 4556,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Loc-agilealbatro.png/revision/latest/scale-to-width-down/400?cb=20120422094031"
   },
   {
     "id": "xc1-quest-challenge-2-frontier-village",
@@ -7660,7 +7686,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Now it is just gentle breeze. Perfect for carrying pollen back to village!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_(Frontier_Village)",
-    "wikiPageId": 4557
+    "wikiPageId": 4557,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/Loc-breezyzolos.png/revision/latest/scale-to-width-down/400?cb=20120422101319"
   },
   {
     "id": "xc1-quest-challenge-3-frontier-village",
@@ -7859,7 +7886,8 @@
     "uniqueComments": ": 'Reyn': ''\"But Makna is where you get your pollen orb materials from. There's nothing strange about him going out there to get them, right?\"''\n: 'Cherri': \"Mmm... True, I guess. But he never used to go away for so long.\"\n: 'Reyn': ''\"Maybe he's been eaten by a Makna monster!\"''\n: 'Cherri': \"Wah! That terrible thing to say! Gadada too clever to get eaten by monsters!\"",
     "results": "\"Gadada gave top-secret Red Pollen Orbs to someone not from village. This is serious!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dangerous_Ambition",
-    "wikiPageId": 4655
+    "wikiPageId": 4655,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dd/Gadadas_Location.PNG/revision/latest/scale-to-width-down/400?cb=20150217200557"
   },
   {
     "id": "xc1-quest-decoration-makeover",
@@ -8136,7 +8164,8 @@
     "uniqueComments": ": 'Reyn': ''\"Can't you just eat a snack whenever you feel hungry?\"''\n: 'Migaga': \"What?! How ridiculous! If that was the case then no one would ever stop eating! Nopon would get so fat! Nopon would eat themselves into oblivion!\"\n: 'Reyn': \"Wow! Do Nopon really eat that much?\"",
     "results": "\"Now I know if it is 3am or 3pm. This is very important to have normal Nopon life.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fixing_Time_Mushrooms",
-    "wikiPageId": 4640
+    "wikiPageId": 4640,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/48/XC-Time-Mushroom.png/revision/latest/scale-to-width-down/400?cb=20150726225826"
   },
   {
     "id": "xc1-quest-getting-bigger",
@@ -8541,7 +8570,8 @@
     "timeWindow": "Automatic",
     "results": "''\"Flowers offered up on four places of Bionis' Leg. Time to tell Dr. Yusa!\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Legendary_Nopon_Charm",
-    "wikiPageId": 5232
+    "wikiPageId": 5232,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0e/Altar_Locations.jpg/revision/latest/scale-to-width-down/400?cb=20150219030809"
   },
   {
     "id": "xc1-quest-lekus-food-crisis",
@@ -8790,7 +8820,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Nice and bright! Now me can read before bed.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_4_(Frontier_Village)",
-    "wikiPageId": 4562
+    "wikiPageId": 4562,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2f/Loc-itmosupa.png/revision/latest/scale-to-width-down/400?cb=20120422092612"
   },
   {
     "id": "xc1-quest-materials-for-a-mixer",
@@ -9565,7 +9596,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Yay! Yay! Yay! Yay! Yay! This still good! Me can give it to girlfriend. Only smell a little bad.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_1_(Frontier_Village)",
-    "wikiPageId": 4569
+    "wikiPageId": 4569,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fb/MlWA771nQDwJ1d7fZz.jpg/revision/latest?cb=20150724211626"
   },
   {
     "id": "xc1-quest-search-quest-2-frontier-village",
@@ -10048,7 +10080,8 @@
     "timeWindow": "Anytime",
     "results": "''\"You completed the lighthouse keeper's request. Eryth Sea should be a little safer now.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_(Eryth_Sea)",
-    "wikiPageId": 5333
+    "wikiPageId": 5333,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/SX4P01-4.jpg/revision/latest/scale-to-width-down/400?cb=20120308023231"
   },
   {
     "id": "xc1-quest-collect-quest-1-eryth-sea",
@@ -10361,7 +10394,8 @@
     "timeWindow": "Automatic",
     "results": "\"You saved the worker. Now he should be able to continue repairing the transporter.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Save_the_Worker",
-    "wikiPageId": 7670
+    "wikiPageId": 7670,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d5/XC-Save-the-Worker-Story-Quest.png/revision/latest/scale-to-width-down/400?cb=20150803175442"
   },
   {
     "id": "xc1-quest-secret-research",
@@ -10449,7 +10483,8 @@
     "uniqueComments": ": 'Riki': \"Little boy gone missing? That really bad! We have to find him quick! Little boy must be really hungry! Riki no like being hungry!\"\n: 'Miriall': ''\"Exactly. He hasn't eaten for a long time now. I need you to find him as quickly as possible.\"''",
     "results": "''\"Teelan was hiding in the imperial capital. You rescued him, and put Miriall's worries to rest.\"''\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Missing_Boy",
-    "wikiPageId": 7659
+    "wikiPageId": 7659,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4d/Loc-teelan.jpg/revision/latest/scale-to-width-down/363?cb=20120430062807"
   },
   {
     "id": "xc1-quest-the-only-thing-i-can-do",
@@ -10588,7 +10623,8 @@
     "uniqueComments": ": 'Sharla': \"Could it be that the exit was blocked? It looks like we came along at a bad time.\"\n: 'Nopon Researcher': \"But there no way you lose to them.\"\nCategory:Valak Mountain Quests",
     "results": "\"You helped the kidnapped Nopon who took some amazing information to the Research Team.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bad_Timing",
-    "wikiPageId": 5247
+    "wikiPageId": 5247,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/Nopon_Location.PNG/revision/latest/scale-to-width-down/400?cb=20150219010431"
   },
   {
     "id": "xc1-quest-chilkin-changes",
@@ -10993,7 +11029,8 @@
     "timeWindow": "Automatic",
     "results": "\"The war situation has improved a lot as a result of you defeating the Mechon reinforcements.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Gate_Front_Line",
-    "wikiPageId": 13217
+    "wikiPageId": 13217,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-secure-dolgan-outpost",
@@ -11019,7 +11056,8 @@
     "timeWindow": "Automatic",
     "results": "\"The Dolgan Outpost is now under your control.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_Dolgan_Outpost",
-    "wikiPageId": 13215
+    "wikiPageId": 13215,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-secure-enalda-control-base",
@@ -11045,7 +11083,8 @@
     "timeWindow": "Automatic",
     "results": "\"Enalda Control Base is now under your control.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_Enalda_Control_Base",
-    "wikiPageId": 13216
+    "wikiPageId": 13216,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-secure-the-radio-tower",
@@ -11072,7 +11111,8 @@
     "timeWindow": "Automatic",
     "results": "\"You helped the war effort by defeating the leader of the enemies around the radio tower.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_the_Radio_Tower",
-    "wikiPageId": 13220
+    "wikiPageId": 13220,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-fioras-conviction",
@@ -11096,7 +11136,8 @@
     "timeWindow": "Automatic",
     "results": "''\"You destroyed the Mechon. It's time to talk to Fiora!\"''\nCategory:XC Story Quests\nCategory:Galahad Fortress Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fiora's_Conviction",
-    "wikiPageId": 10801
+    "wikiPageId": 10801,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-lift-battle",
@@ -11120,7 +11161,8 @@
     "timeWindow": "Automatic",
     "results": "You unlocked the lift and it can be used now. Descend to the lower levels of the fortress.\nCategory:XC Story Quests\nCategory:Galahad Fortress Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lift_Battle",
-    "wikiPageId": 10798
+    "wikiPageId": 10798,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-supply-station-battle",
@@ -11144,7 +11186,8 @@
     "timeWindow": "Automatic",
     "results": "\"You stopped the pistons and the Ether Blast Furnace is no longer functioning.\"\nCategory:XC Story Quests\nCategory:Galahad Fortress Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Supply_Station_Battle",
-    "wikiPageId": 10799
+    "wikiPageId": 10799,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-turbine-battle",
@@ -11168,7 +11211,8 @@
     "timeWindow": "Automatic",
     "results": "\"You stopped the two turbines and in doing so unlocked the Piston Control Panel.\"\nCategory:XC Story Quests\nCategory:Galahad Fortress Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Turbine_Battle",
-    "wikiPageId": 10800
+    "wikiPageId": 10800,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-a-tough-battle",
@@ -11292,7 +11336,8 @@
     "timeWindow": "Automatic",
     "results": "\"You have given the Piezoelectric Unit to Linada. Fiora should be OK now.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fiora's_Treatment",
-    "wikiPageId": 12480
+    "wikiPageId": 12480,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/Linada.png/revision/latest/scale-to-width-down/169?cb=20170122205953"
   },
   {
     "id": "xc1-quest-fixing-a-broken-door",
@@ -11667,7 +11712,8 @@
     "timeWindow": "Automatic",
     "results": "\"You collected some Clean Water.\"\nCategory:XC Story Quests\nCategory:Fallen Arm Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Reunion_with_Fiora",
-    "wikiPageId": 15998
+    "wikiPageId": 15998,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-save-the-machina",
@@ -12151,7 +12197,8 @@
     "timeWindow": "Automatic",
     "results": "\"You found everyone and they are all safe.\"\nCategory:XC Story Quests\nCategory:Fallen Arm Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/We_Made_It",
-    "wikiPageId": 15999
+    "wikiPageId": 15999,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-aiming-for-the-top",
@@ -12175,7 +12222,8 @@
     "timeWindow": "Automatic",
     "results": "\"You can use the 2nd Lift to get to the first floor.\"\nCategory:XC Story Quests\nCategory:Mechonis Field Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Aiming_for_the_Top",
-    "wikiPageId": 16000
+    "wikiPageId": 16000,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-best-boots",
@@ -12229,7 +12277,8 @@
     "timeWindow": "Anytime",
     "results": "\"You completed the Garrisoned Troop's request and made Hidden Village safer.\"\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_Quest_1_(Mechonis_Field)",
-    "wikiPageId": 9917
+    "wikiPageId": 9917,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-challenge-quest-2-mechonis-field",
@@ -12254,7 +12303,8 @@
     "timeWindow": "Anytime",
     "results": "''\"You completed the Garrisoned Troop's request and made Hidden Village safer.\"''\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_Quest_2_(Mechonis_Field)",
-    "wikiPageId": 9919
+    "wikiPageId": 9919,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-get-the-3rd-lift-moving",
@@ -12282,7 +12332,8 @@
     "timeWindow": "Automatic",
     "results": "\"You connected the power plug and the 3rd Lift is working now.\"\nCategory:XC Story Quests\nCategory:Mechonis Field Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Get_the_3rd_Lift_Moving",
-    "wikiPageId": 16001
+    "wikiPageId": 16001,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-monster-quest",
@@ -12307,7 +12358,8 @@
     "timeWindow": "Anytime",
     "results": "''\"You completed the Garrisoned Troop's request and made Hidden Village safer.\"''\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest",
-    "wikiPageId": 9916
+    "wikiPageId": 9916,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-need-power",
@@ -12339,7 +12391,8 @@
     "timeWindow": "Automatic",
     "results": "\"You can now use the High-Velocity Lift Panel to connect the power plug.\"\nCategory:XC Story Quests\nCategory:Mechonis Field Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Need_Power!",
-    "wikiPageId": 16004
+    "wikiPageId": 16004,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-opening-the-bulkhead",
@@ -12367,7 +12420,8 @@
     "timeWindow": "Automatic",
     "results": "\"You released the Bulkhead and can now go outside.\"\nCategory:XC Story Quests\nCategory:Mechonis Field Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Opening_the_Bulkhead",
-    "wikiPageId": 16002
+    "wikiPageId": 16002,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-the-high-velocity-lift",
@@ -12395,7 +12449,8 @@
     "timeWindow": "Automatic",
     "results": "\"The power plug is connected and the High-Velocity Lift is working properly.\"\nCategory:XC Story Quests\nCategory:Mechonis Field Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_High-Velocity_Lift",
-    "wikiPageId": 16003
+    "wikiPageId": 16003,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
   },
   {
     "id": "xc1-quest-a-friend-in-need",
@@ -12796,7 +12851,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request. She's all better now.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Alcamoth)",
-    "wikiPageId": 2474
+    "wikiPageId": 2474,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/58/WVW69iZ35Go-OK147l.jpg/revision/latest?cb=20150920023745"
   },
   {
     "id": "xc1-quest-collection-quest-2-alcamoth",
@@ -12821,7 +12877,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request and collected all the items he asked for.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Alcamoth)",
-    "wikiPageId": 9511
+    "wikiPageId": 9511,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/Alcamoth_Collection_Quest_2.png/revision/latest/scale-to-width-down/238?cb=20150713171317"
   },
   {
     "id": "xc1-quest-collection-quest-3-alcamoth",
@@ -12890,7 +12947,8 @@
     "subLocation": "Alcamoth (Main Entrance)",
     "results": "\"Drydry was overjoyed by the feathers you brought him. The headdress is sure to be interesting...\"\nCategory:Alcamoth Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Drydry_Entia",
-    "wikiPageId": 105870
+    "wikiPageId": 105870,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0c/FC_Drydry.png/revision/latest?cb=20200712073641"
   },
   {
     "id": "xc1-quest-getting-a-members-card",
@@ -13071,7 +13129,8 @@
     "uniqueComments": ": 'Shulk': ''\"I think it's great when kids are being kids. And I guess being a kid means getting yourself lost sometimes... But you must be happy to see your children full of life, right?\"''\n: Vol'aren': \"Of course it makes me happy! Seeing my kids happy and active makes me happier than anything! But I'd hate for anything to happen to them, so I can't help but worry.\"''",
     "results": "\"You found the lost child and returned her safely to her father.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Looking_for_a_Lost_Daughter",
-    "wikiPageId": 5180
+    "wikiPageId": 5180,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Looking_for_a_Lost_Daughter.jpg/revision/latest?cb=20151208194320"
   },
   {
     "id": "xc1-quest-looking-for-a-lost-son",
@@ -13099,7 +13158,8 @@
     "uniqueComments": ": 'Riki': \"Riki have many littlepon, so he know how you feel! Riki understand why you so worried about it! Heropon and friends help you!\"\n: Vol'aren': \"I admit I'd never guessed someone like you has children! But my ignorance is beside the point. Knowing I am not alone in feeling like this is a great comfort.\"''",
     "results": "\"You found the lost child and returned him safely to his father.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Looking_for_a_Lost_Son",
-    "wikiPageId": 5179
+    "wikiPageId": 5179,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/ff/Looking_for_a_Lost_Son.jpg/revision/latest?cb=20151208193921"
   },
   {
     "id": "xc1-quest-looking-for-gold-bugs",

@@ -17,7 +17,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Trace",
-    "wikiPageId": 118244
+    "wikiPageId": 118244,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/45/XC3_Yellow_Marks.jpg/revision/latest/scale-to-width-down/400?cb=20220720203131"
   },
   {
     "id": "xc3-quest-forgotten-supplies",
@@ -28,7 +29,8 @@
     "prerequisites": [],
     "description": "\"Noah recalls a container that got blown off-course before it could be recovered. With Colony 9 short on supplies, now is a good time to go look for it.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Forgotten_Supplies",
-    "wikiPageId": 119441
+    "wikiPageId": 119441,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/XC3_Forgotten_Supplies.jpg/revision/latest?cb=20230113040035"
   },
   {
     "id": "xc3-quest-tau-tirkin-alliance",
@@ -40,7 +42,8 @@
     "description": "\"Colony Tau gives the Tirkins provisions every year to bolster their alliance. Ask Rowland for more details.\"",
     "giver": "Rowland",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tau-Tirkin_Alliance",
-    "wikiPageId": 119677
+    "wikiPageId": 119677,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/XC3_Tau-Tirkin_Alliance.jpg/revision/latest?cb=20230204070848"
   },
   {
     "id": "xc3-quest-challenge-battles",
@@ -51,7 +54,8 @@
     "prerequisites": [],
     "description": "\"Investigate the mysterious light that has appeared on the banks of Llyn Nyddwr in the Fornis region. (You can get there starting partway through chapter 3.)\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_Battles!",
-    "wikiPageId": 124236
+    "wikiPageId": 124236,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/Challenge_Battles%21.jpg/revision/latest?cb=20221014025518"
   },
   {
     "id": "xc3-quest-champion-of-the-nopon",
@@ -63,7 +67,8 @@
     "description": "\"Head to the Great Idalla Ravine to make the acquaintance of a new Hero. (You can get there starting partway through chapter 3.)\"",
     "giver": "Expansion Pass",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Champion_of_the_Nopon",
-    "wikiPageId": 124234
+    "wikiPageId": 124234,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Champion_of_the_Nopon.jpg/revision/latest?cb=20221014025632"
   },
   {
     "id": "xc3-quest-for-the-sake-of-keepsakes",
@@ -75,7 +80,8 @@
     "description": "\"Masha has asked the party's help fulfilling Jake and Tessa's order. Don't let her down!\"",
     "giver": "Masha",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/For_the_Sake_of_Keepsakes",
-    "wikiPageId": 125621
+    "wikiPageId": 125621,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/For_the_Sake_of_Keepsakes.png/revision/latest/scale-to-width-down/400?cb=20230216151212"
   },
   {
     "id": "xc3-quest-going-full-hd",
@@ -87,7 +93,8 @@
     "description": "\"In order to upgrade their HD Ether Cylinders+, the party decides to visit Sunny and Cheerio's caravan\"",
     "giver": "Ino",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Going_Full_HD",
-    "wikiPageId": 124235
+    "wikiPageId": 124235,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/17/Going_Full_HD.jpg/revision/latest?cb=20221014181354"
   },
   {
     "id": "xc3-quest-lapidarist-extraordinaire",
@@ -99,7 +106,8 @@
     "description": "\"Head to Serene Square to make the acquaintance of a new Hero. (You can get there starting partway through chapter 5.)\"",
     "giver": "Expansion Pass",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lapidarist_Extraordinaire",
-    "wikiPageId": 125610
+    "wikiPageId": 125610,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5c/Lapidarist_Extraordinaire.png/revision/latest/scale-to-width-down/400?cb=20230216150551"
   },
   {
     "id": "xc3-quest-more-challenge-battles",
@@ -110,7 +118,8 @@
     "prerequisites": [],
     "description": "\"It seems that the Archsage occasionally comes up with something new... (You must complete \"Challenge Battles!\" first.)\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/More_Challenge_Battles!",
-    "wikiPageId": 125611
+    "wikiPageId": 125611,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/09/More_Challenge_Battles%21.png/revision/latest/scale-to-width-down/400?cb=20230216160359"
   },
   {
     "id": "xc3-quest-the-hope-of-noponkind",
@@ -122,7 +131,8 @@
     "description": "\"Ino requires the party's help to defeat the Nopon Eater, the monster threatening Nopon peace and prosperity. Do it for the Nopon!\"",
     "giver": "Sunny",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Hope_of_Noponkind",
-    "wikiPageId": 124267
+    "wikiPageId": 124267,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a0/The_Hope_of_Noponkind.jpg/revision/latest?cb=20230214230202"
   },
   {
     "id": "xc3-quest-file-going-full-hd-jpg",
@@ -132,7 +142,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGoing_Full_HD.jpg",
-    "wikiPageId": 124266
+    "wikiPageId": 124266,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/17/Going_Full_HD.jpg/revision/latest?cb=20221014181354"
   },
   {
     "id": "xc3-quest-file-more-challenge-battles-png",
@@ -142,7 +153,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMore_Challenge_Battles!.png",
-    "wikiPageId": 125655
+    "wikiPageId": 125655,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/09/More_Challenge_Battles%21.png/revision/latest/scale-to-width-down/400?cb=20230216160359"
   },
   {
     "id": "xc3-quest-file-the-hope-of-noponkind-jpg",
@@ -152,7 +164,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Hope_of_Noponkind.jpg",
-    "wikiPageId": 124265
+    "wikiPageId": 124265,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a0/The_Hope_of_Noponkind.jpg/revision/latest?cb=20230214230202"
   },
   {
     "id": "xc3-quest-a-gray-matter",
@@ -164,7 +177,8 @@
     "description": "\"The party make an unusual find in Millick Meadows, bringing them into conflict with an unidentified man, who was searching for the same thing.\"",
     "giver": "Gray",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Gray_Matter",
-    "wikiPageId": 120395
+    "wikiPageId": 120395,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cc/XC3_A_Gray_Matter.jpg/revision/latest?cb=20221208231336"
   },
   {
     "id": "xc3-quest-a-nopons-counsel",
@@ -176,7 +190,8 @@
     "description": "\"Go and find a gemstone that Riku will like as you make your way through the Urayan Tunnels.\"",
     "giver": "Riku & Manana",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Nopon's_Counsel",
-    "wikiPageId": 120393
+    "wikiPageId": 120393,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d8/XC3_A_Nopon%27s_Counsel.jpg/revision/latest?cb=20221208231052"
   },
   {
     "id": "xc3-quest-a-twist-of-fate",
@@ -188,7 +203,8 @@
     "description": "\"Suddenly reunited with the party, the party invite Cammuravi to live on his own terms. Safety can be guaranteed in the City, for the time being.\"",
     "giver": "Cammuravi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Twist_of_Fate",
-    "wikiPageId": 120403
+    "wikiPageId": 120403,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/A_Twist_of_Fate.jpg/revision/latest/scale-to-width-down/400?cb=20220918152932"
   },
   {
     "id": "xc3-quest-doing-it-my-way",
@@ -200,7 +216,8 @@
     "description": "\"On the Erythia Sea, the party finds itself going head-to-head with a Moebius who goes by the name of Triton.\"",
     "giver": "Triton",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Doing_It_My_Way",
-    "wikiPageId": 120402
+    "wikiPageId": 120402,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/Doing_It_My_Way.jpg/revision/latest/scale-to-width-down/400?cb=20221012052846"
   },
   {
     "id": "xc3-quest-going-beyond-power",
@@ -212,7 +229,8 @@
     "description": "\"Kyrie got separated from her unit yet again. Bring her back to Colony Gamma.\"",
     "giver": "Kyrie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Going_Beyond_Power",
-    "wikiPageId": 120394
+    "wikiPageId": 120394,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/Going_Beyond_Power.jpg/revision/latest/scale-to-width-down/400?cb=20220918150331"
   },
   {
     "id": "xc3-quest-her-reasons",
@@ -224,7 +242,8 @@
     "description": "\"Defeat Commander Alexandria, and capture Colony Iota.\"",
     "giver": "Alexandria",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Her_Reasons",
-    "wikiPageId": 120399
+    "wikiPageId": 120399,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/Her_Reasons.jpg/revision/latest/scale-to-width-down/400?cb=20220918150649"
   },
   {
     "id": "xc3-quest-inhumanity",
@@ -235,7 +254,8 @@
     "prerequisites": [],
     "description": "\"A mysterious girl appeared, piloting a fearsome Levnis. Just who is this person...?\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Inhumanity",
-    "wikiPageId": 120404
+    "wikiPageId": 120404,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9f/Inhumanity.jpg/revision/latest/scale-to-width-down/400?cb=20220901184448"
   },
   {
     "id": "xc3-quest-natural-selection",
@@ -246,7 +266,8 @@
     "prerequisites": [],
     "description": "\"As the party move through Maktha Wildwood, they are ambushed by Agnian Soldiers, defeating them.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Natural_Selection",
-    "wikiPageId": 120397
+    "wikiPageId": 120397,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ce/XC3_Natural_Selection.jpg/revision/latest?cb=20221208231552"
   },
   {
     "id": "xc3-quest-no-want-of-courage",
@@ -258,7 +279,8 @@
     "description": "\"Colony 4 is running out of medical supplies. Taion has a plan to solve it. Follow his lead.\"",
     "giver": "Taion",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/No_Want_of_Courage",
-    "wikiPageId": 120390
+    "wikiPageId": 120390,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c5/No_Want_of_Courage.jpg/revision/latest/scale-to-width-down/400?cb=20220902155231"
   },
   {
     "id": "xc3-quest-the-kind-right-hand",
@@ -269,7 +291,8 @@
     "prerequisites": [],
     "description": "\"After climbing up a cliff that continues on to the Great Sword, the party fends off a Levnis-backed force.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Kind_Right_Hand",
-    "wikiPageId": 120391
+    "wikiPageId": 120391,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b5/The_Kind_Right_Hand.jpg/revision/latest?cb=20221106031724"
   },
   {
     "id": "xc3-quest-the-wrath-of-ashera",
@@ -281,7 +304,8 @@
     "description": "\"The commander of Colony 11, Ashera, invites the party to join her on her personal battlefield. They're not very excited about what's to come...\"",
     "giver": "Ashera",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Wrath_of_Ashera",
-    "wikiPageId": 120398
+    "wikiPageId": 120398,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/The_Wrath_of_Ashera.jpg/revision/latest/scale-to-width-down/400?cb=20221002062101"
   },
   {
     "id": "xc3-quest-transparent-dreams",
@@ -293,7 +317,8 @@
     "description": "\"The party find Fiona attempting to single-handedly repel a Kevesi raid on Colony Mu. Unable to stand idly by, Noah and co. offer her their assistance.\"",
     "giver": "Fiona",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Transparent_Dreams",
-    "wikiPageId": 120401
+    "wikiPageId": 120401,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bf/XC3_Transparent_Dreams.jpg/revision/latest?cb=20221208231815"
   },
   {
     "id": "xc3-quest-unwavering-resolve",
@@ -305,7 +330,8 @@
     "description": "\"Lambda uses the Urayan Tunnels to mine ether. Unfortunately, there's been a cave-in. Go check it out.\"",
     "giver": "Isurd",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unwavering_Resolve",
-    "wikiPageId": 120396
+    "wikiPageId": 120396,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/65/Unwavering_Resolve.jpg/revision/latest/scale-to-width-down/400?cb=20220930065055"
   },
   {
     "id": "xc3-quest-vandhams-heir",
@@ -316,7 +342,8 @@
     "prerequisites": [],
     "description": "\"Curious about the man who gave them the opportunity to choose a different life, the party decide to go and ask Monica about Guernica.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Vandham's_Heir",
-    "wikiPageId": 120400
+    "wikiPageId": 120400,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Vandham%27s_Heir.jpg/revision/latest/scale-to-width-down/400?cb=20221010052914"
   },
   {
     "id": "xc3-quest-where-the-heart-is",
@@ -327,7 +354,8 @@
     "prerequisites": [],
     "description": "\"Rumor has it that a raid on Colony 9 is planned. If true, it can't be ignored. Go there, and help your comrades.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Where_The_Heart_Is",
-    "wikiPageId": 120392
+    "wikiPageId": 120392,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4a/Where_The_Heart_Is.jpg/revision/latest/scale-to-width-down/400?cb=20220918150521"
   },
   {
     "id": "xc3-quest-file-a-twist-of-fate-jpg",
@@ -337,7 +365,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Twist_of_Fate.jpg",
-    "wikiPageId": 123504
+    "wikiPageId": 123504,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/A_Twist_of_Fate.jpg/revision/latest/scale-to-width-down/400?cb=20220918152932"
   },
   {
     "id": "xc3-quest-file-champion-of-the-nopon-jpg",
@@ -347,7 +376,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChampion_of_the_Nopon.jpg",
-    "wikiPageId": 124240
+    "wikiPageId": 124240,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Champion_of_the_Nopon.jpg/revision/latest?cb=20221014025632"
   },
   {
     "id": "xc3-quest-file-doing-it-my-way-jpg",
@@ -357,7 +387,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADoing_It_My_Way.jpg",
-    "wikiPageId": 124222
+    "wikiPageId": 124222,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/Doing_It_My_Way.jpg/revision/latest/scale-to-width-down/400?cb=20221012052846"
   },
   {
     "id": "xc3-quest-file-going-beyond-power-jpg",
@@ -367,7 +398,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGoing_Beyond_Power.jpg",
-    "wikiPageId": 123926
+    "wikiPageId": 123926,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/Going_Beyond_Power.jpg/revision/latest/scale-to-width-down/400?cb=20220918150331"
   },
   {
     "id": "xc3-quest-file-her-reasons-jpg",
@@ -377,7 +409,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHer_Reasons.jpg",
-    "wikiPageId": 123930
+    "wikiPageId": 123930,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/Her_Reasons.jpg/revision/latest/scale-to-width-down/400?cb=20220918150649"
   },
   {
     "id": "xc3-quest-file-inhumanity-jpg",
@@ -387,7 +420,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInhumanity.jpg",
-    "wikiPageId": 123031
+    "wikiPageId": 123031,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9f/Inhumanity.jpg/revision/latest/scale-to-width-down/400?cb=20220901184448"
   },
   {
     "id": "xc3-quest-file-lapidarist-extraordinaire-jpg",
@@ -397,7 +431,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALapidarist_Extraordinaire.jpg",
-    "wikiPageId": 125613
+    "wikiPageId": 125613,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/20/Lapidarist_Extraordinaire.jpg/revision/latest?cb=20230216013911"
   },
   {
     "id": "xc3-quest-file-lapidarist-extraordinaire-png",
@@ -407,7 +442,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALapidarist_Extraordinaire.png",
-    "wikiPageId": 125653
+    "wikiPageId": 125653,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5c/Lapidarist_Extraordinaire.png/revision/latest/scale-to-width-down/400?cb=20230216150551"
   },
   {
     "id": "xc3-quest-file-the-kind-right-hand-jpg",
@@ -417,7 +453,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Kind_Right_Hand.jpg",
-    "wikiPageId": 124557
+    "wikiPageId": 124557,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b5/The_Kind_Right_Hand.jpg/revision/latest?cb=20221106031724"
   },
   {
     "id": "xc3-quest-file-the-wrath-of-ashera-jpg",
@@ -427,7 +464,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Wrath_of_Ashera.jpg",
-    "wikiPageId": 124134
+    "wikiPageId": 124134,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/The_Wrath_of_Ashera.jpg/revision/latest/scale-to-width-down/400?cb=20221002062101"
   },
   {
     "id": "xc3-quest-file-unwavering-resolve-jpg",
@@ -437,7 +475,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUnwavering_Resolve.jpg",
-    "wikiPageId": 124124
+    "wikiPageId": 124124,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/65/Unwavering_Resolve.jpg/revision/latest/scale-to-width-down/400?cb=20220930065055"
   },
   {
     "id": "xc3-quest-file-vandhams-heir-jpg",
@@ -447,7 +486,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AVandham's_Heir.jpg",
-    "wikiPageId": 124210
+    "wikiPageId": 124210,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Vandham%27s_Heir.jpg/revision/latest/scale-to-width-down/400?cb=20221010052914"
   },
   {
     "id": "xc3-quest-file-where-the-heart-is-jpg",
@@ -457,7 +497,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWhere_The_Heart_Is.jpg",
-    "wikiPageId": 123891
+    "wikiPageId": 123891,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4a/Where_The_Heart_Is.jpg/revision/latest/scale-to-width-down/400?cb=20220918150521"
   },
   {
     "id": "xc3-quest-file-xc3-a-gray-matter-jpg",
@@ -467,7 +508,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Gray_Matter.jpg",
-    "wikiPageId": 124974
+    "wikiPageId": 124974,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cc/XC3_A_Gray_Matter.jpg/revision/latest?cb=20221208231336"
   },
   {
     "id": "xc3-quest-file-xc3-a-nopons-counsel-jpg",
@@ -477,7 +519,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Nopon's_Counsel.jpg",
-    "wikiPageId": 124973
+    "wikiPageId": 124973,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d8/XC3_A_Nopon%27s_Counsel.jpg/revision/latest?cb=20221208231052"
   },
   {
     "id": "xc3-quest-file-xc3-natural-selection-jpg",
@@ -487,7 +530,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Natural_Selection.jpg",
-    "wikiPageId": 124975
+    "wikiPageId": 124975,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ce/XC3_Natural_Selection.jpg/revision/latest?cb=20221208231552"
   },
   {
     "id": "xc3-quest-file-xc3-transparent-dreams-jpg",
@@ -497,7 +541,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Transparent_Dreams.jpg",
-    "wikiPageId": 124976
+    "wikiPageId": 124976,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bf/XC3_Transparent_Dreams.jpg/revision/latest?cb=20221208231815"
   },
   {
     "id": "xc3-quest-a-deep-seated-scar",
@@ -509,7 +554,8 @@
     "description": "\"Consul R has declared war on Colony 11. Ashera has been awaiting this with rabid anticipation, and now...the games can finally begin.\"",
     "giver": "Ashera",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Deep-Seated_Scar",
-    "wikiPageId": 121671
+    "wikiPageId": 121671,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bf/A_Deep-Seated_Scar.jpg/revision/latest/scale-to-width-down/400?cb=20221003133456"
   },
   {
     "id": "xc3-quest-a-farewell-reset",
@@ -521,7 +567,8 @@
     "description": "\"Distrust is growing in Colony Mu toward Fiona, who feels unable to tell them the truth about Irma. Help her regain the colony's trust.\"",
     "giver": "Fiona",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Farewell_Reset",
-    "wikiPageId": 120763
+    "wikiPageId": 120763,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/A_Farewell_Reset.jpg/revision/latest/scale-to-width-down/400?cb=20221006054142"
   },
   {
     "id": "xc3-quest-culinary-repertoire",
@@ -533,7 +580,8 @@
     "description": "\"After hearing a Nopon speak of the legendary Tempapa's cuisine, Manana decides to try and become his disciple.\"",
     "giver": "Riku & Manana",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Culinary_Repertoire",
-    "wikiPageId": 119320
+    "wikiPageId": 119320,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8d/XC3_Culinary_Repetoire.jpg/revision/latest?cb=20221212002917"
   },
   {
     "id": "xc3-quest-effervescent-heart",
@@ -545,7 +593,8 @@
     "description": "\"Looking to refresh himself, Isurd sets out in search of something called a \"spa\". Go to the City to find out more.\"",
     "giver": "Isurd",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Effervescent_Heart",
-    "wikiPageId": 120416
+    "wikiPageId": 120416,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/03/Effervescent_Heart.jpg/revision/latest/scale-to-width-down/400?cb=20221004052745"
   },
   {
     "id": "xc3-quest-from-atop-her-throne",
@@ -557,7 +606,8 @@
     "description": "\"While Melia was out with the party, various problems arose at the Castle. Continue to work together with her to resolve the issues.\"",
     "giver": "Aizel",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/From_Atop_Her_Throne",
-    "wikiPageId": 119722
+    "wikiPageId": 119722,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/From_Atop_Her_Throne.jpg/revision/latest?cb=20220813154203"
   },
   {
     "id": "xc3-quest-grasping-my-future",
@@ -569,7 +619,8 @@
     "description": "\"The party search for the highest location in Aionios for Nia, who wishes to be closer to the skies.\"",
     "giver": "Nia",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Grasping_My_Future",
-    "wikiPageId": 119719
+    "wikiPageId": 119719,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/33/Grasping_My_Future.jpg/revision/latest?cb=20230117160932"
   },
   {
     "id": "xc3-quest-happiness",
@@ -580,7 +631,8 @@
     "prerequisites": [],
     "description": "\"Miyabi and Manana decide to take part in the City's customary cook-off. Can they go all the way and win?!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Happiness",
-    "wikiPageId": 120414
+    "wikiPageId": 120414,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/68/XC3_Happiness.jpg/revision/latest?cb=20221212001400"
   },
   {
     "id": "xc3-quest-im-a-mechanic",
@@ -592,7 +644,8 @@
     "description": "\"Lieutenant Yuzet has collapsed from overwork. To fulfill his duty as commander, Valdi decides to head to Colony Lambda.\"",
     "giver": "Yuzet",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/I'm_a_Mechanic",
-    "wikiPageId": 120405
+    "wikiPageId": 120405,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/47/I%27m_a_Mechanic.jpg/revision/latest?cb=20230313192118"
   },
   {
     "id": "xc3-quest-inescapable-past",
@@ -604,7 +657,8 @@
     "description": "\"As Colony Iota holds a tech summit with Colony 30, the previous loss lingers in Alexandria's mind. Some mediation between the colonies is required.\"",
     "giver": "Gambert",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Inescapable_Past",
-    "wikiPageId": 120765
+    "wikiPageId": 120765,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/af/XC3_Inescapable_Past.jpg/revision/latest?cb=20221212002817"
   },
   {
     "id": "xc3-quest-invisible-bond",
@@ -616,7 +670,8 @@
     "description": "\"At Segiri's request, Sena and the party head to Colony Lambda to get ingredients to make onigiri for the people of Colony 0.\"",
     "giver": "Segiri",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Invisible_Bond",
-    "wikiPageId": 121150
+    "wikiPageId": 121150,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/Invisible_Bond.jpg/revision/latest/scale-to-width-down/400?cb=20221009070419"
   },
   {
     "id": "xc3-quest-knowing-your-family",
@@ -628,7 +683,8 @@
     "description": "\"Some Lost Numbers were attacked by a giant monster in the Fornis region. Go with Ghondor to investigate.\"",
     "giver": "Ghondor",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Knowing_Your_Family",
-    "wikiPageId": 120999
+    "wikiPageId": 120999,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/Knowing_Your_Family.jpg/revision/latest/scale-to-width-down/400?cb=20221007053849"
   },
   {
     "id": "xc3-quest-my-memories",
@@ -640,7 +696,8 @@
     "description": "\"Triton recalls how someone handed something to him about 100 years ago. Go and look for it if you like.\"",
     "giver": "Triton",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/My_Memories",
-    "wikiPageId": 121045
+    "wikiPageId": 121045,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/My_Memories.jpg/revision/latest/scale-to-width-down/400?cb=20221013053839"
   },
   {
     "id": "xc3-quest-payback-for-treason",
@@ -652,7 +709,8 @@
     "description": "\"Some Lost Number hardliners are up to something. Work with Rozana to stop their scheme.\"",
     "giver": "Rozana",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Payback_for_Treason",
-    "wikiPageId": 120407
+    "wikiPageId": 120407,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/XC3_Payback_for_Treason.jpg/revision/latest?cb=20221212003016"
   },
   {
     "id": "xc3-quest-promise-to-the-future",
@@ -663,7 +721,8 @@
     "prerequisites": [],
     "description": "\"Go to Michiba Canteen to hear out Monica, who doesn't see eye to eye with Garrett or the Ouroboros candidates.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Promise_to_the_Future",
-    "wikiPageId": 120761
+    "wikiPageId": 120761,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ab/XC3_Promise_to_the_Future.jpg/revision/latest?cb=20221212002659"
   },
   {
     "id": "xc3-quest-reasons-to-evolve",
@@ -675,7 +734,8 @@
     "description": "\"Due to the crop field issues and the emetaters, Zeon has found himself in a bind. Help him and Colony 9 weather the storm.\"",
     "giver": "Kite",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Reasons_to_Evolve",
-    "wikiPageId": 120406
+    "wikiPageId": 120406,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/Reasons_to_Evolve.jpg/revision/latest/scale-to-width-down/400?cb=20221005052357"
   },
   {
     "id": "xc3-quest-shadow-of-enmity",
@@ -687,7 +747,8 @@
     "description": "\"The newbies' training will end with large-scale maneuvers on Everblight Plain. Head there.\"",
     "giver": "Teach",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Shadow_of_Enmity",
-    "wikiPageId": 120408
+    "wikiPageId": 120408,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/66/Shadow_of_Enmity.jpg/revision/latest/scale-to-width-down/400?cb=20220920111806"
   },
   {
     "id": "xc3-quest-side-story-eunie",
@@ -699,7 +760,8 @@
     "description": "\"It appears Colony 5, now at Gold rank, can't be contacted. Meet up with Bolearis and investigate.\"",
     "giver": "Bolearis",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Side_Story%3A_Eunie",
-    "wikiPageId": 120409
+    "wikiPageId": 120409,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/Side_Story-_Eunie.jpg/revision/latest/scale-to-width-down/400?cb=20220918150144"
   },
   {
     "id": "xc3-quest-side-story-lanz",
@@ -710,7 +772,8 @@
     "prerequisites": [],
     "description": "\"Lanz seems interested in what the Lost Numbers' training sessions are like. Go to the City's training ground.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Side_Story%3A_Lanz",
-    "wikiPageId": 120410
+    "wikiPageId": 120410,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Side_Story-_Lanz.jpg/revision/latest/scale-to-width-down/400?cb=20220918150002"
   },
   {
     "id": "xc3-quest-side-story-mio",
@@ -722,7 +785,8 @@
     "description": "\"Before heading to the Cloudkeep, the party decides to first investigate Colony Omega.\"",
     "giver": "Mio",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Side_Story%3A_Mio",
-    "wikiPageId": 120412
+    "wikiPageId": 120412,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/Side_Story_Mio.jpg/revision/latest/scale-to-width-down/400?cb=20220924072248"
   },
   {
     "id": "xc3-quest-side-story-noah",
@@ -734,7 +798,8 @@
     "description": "\"In search of the last Origin Metal, the party head to Gardin Defense Base, which is east of Keves Castle.\"",
     "giver": "Samon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Side_Story%3A_Noah",
-    "wikiPageId": 119608
+    "wikiPageId": 119608,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Side_Story_Noah.png/revision/latest/scale-to-width-down/400?cb=20220923123956"
   },
   {
     "id": "xc3-quest-side-story-sena",
@@ -746,7 +811,8 @@
     "description": "\"You Received a monster culling request from Monica to secure the Material Storage Warehouse at the Great Sword.\"",
     "giver": "Monica Vandham",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Side_Story%3A_Sena",
-    "wikiPageId": 120413
+    "wikiPageId": 120413,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ec/Side_Story_Sena.jpg/revision/latest/scale-to-width-down/400?cb=20220925090831"
   },
   {
     "id": "xc3-quest-side-story-taion",
@@ -758,7 +824,8 @@
     "description": "\"Taion receives a call from Isurd. Give Command a visit next time you drop by Colony Lambda.\"",
     "giver": "Isurd",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Side_Story%3A_Taion",
-    "wikiPageId": 120411
+    "wikiPageId": 120411,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/60/Side_Story-_Taion.jpg/revision/latest/scale-to-width-down/400?cb=20220921061558"
   },
   {
     "id": "xc3-quest-survivors",
@@ -770,7 +837,8 @@
     "description": "\"Upon returning to Colony Tau, the party find the Consul, who defeated the monsters, waiting for them... Hear her out for now.\"",
     "giver": "Consul U",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Survivors",
-    "wikiPageId": 120415
+    "wikiPageId": 120415,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/XC3_Survivors.jpg/revision/latest?cb=20221212003049"
   },
   {
     "id": "xc3-quest-file-a-deep-seated-scar-jpg",
@@ -780,7 +848,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Deep-Seated_Scar.jpg",
-    "wikiPageId": 124139
+    "wikiPageId": 124139,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bf/A_Deep-Seated_Scar.jpg/revision/latest/scale-to-width-down/400?cb=20221003133456"
   },
   {
     "id": "xc3-quest-file-a-farewell-reset-jpg",
@@ -790,7 +859,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Farewell_Reset.jpg",
-    "wikiPageId": 124186
+    "wikiPageId": 124186,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/A_Farewell_Reset.jpg/revision/latest/scale-to-width-down/400?cb=20221006054142"
   },
   {
     "id": "xc3-quest-file-effervescent-heart-jpg",
@@ -800,7 +870,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEffervescent_Heart.jpg",
-    "wikiPageId": 124165
+    "wikiPageId": 124165,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/03/Effervescent_Heart.jpg/revision/latest/scale-to-width-down/400?cb=20221004052745"
   },
   {
     "id": "xc3-quest-file-for-the-sake-of-keepsakes-jpg",
@@ -810,7 +881,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFor_the_Sake_of_Keepsakes.jpg",
-    "wikiPageId": 125616
+    "wikiPageId": 125616,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e0/For_the_Sake_of_Keepsakes.jpg/revision/latest?cb=20230216030326"
   },
   {
     "id": "xc3-quest-file-for-the-sake-of-keepsakes-png",
@@ -820,7 +892,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFor_the_Sake_of_Keepsakes.png",
-    "wikiPageId": 125654
+    "wikiPageId": 125654,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/For_the_Sake_of_Keepsakes.png/revision/latest/scale-to-width-down/400?cb=20230216151212"
   },
   {
     "id": "xc3-quest-file-from-atop-her-throne-jpg",
@@ -830,7 +903,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFrom_Atop_Her_Throne.jpg",
-    "wikiPageId": 119720
+    "wikiPageId": 119720,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/From_Atop_Her_Throne.jpg/revision/latest?cb=20220813154203"
   },
   {
     "id": "xc3-quest-file-grasping-my-future-jpg",
@@ -840,7 +914,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGrasping_My_Future.jpg",
-    "wikiPageId": 119718
+    "wikiPageId": 119718,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/33/Grasping_My_Future.jpg/revision/latest?cb=20230117160932"
   },
   {
     "id": "xc3-quest-file-im-a-mechanic-jpg",
@@ -850,7 +925,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AI'm_a_Mechanic.jpg",
-    "wikiPageId": 125745
+    "wikiPageId": 125745,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/47/I%27m_a_Mechanic.jpg/revision/latest?cb=20230313192118"
   },
   {
     "id": "xc3-quest-file-invisible-bond-jpg",
@@ -860,7 +936,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInvisible_Bond.jpg",
-    "wikiPageId": 124204
+    "wikiPageId": 124204,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/Invisible_Bond.jpg/revision/latest/scale-to-width-down/400?cb=20221009070419"
   },
   {
     "id": "xc3-quest-file-knowing-your-family-jpg",
@@ -870,7 +947,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKnowing_Your_Family.jpg",
-    "wikiPageId": 124188
+    "wikiPageId": 124188,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/Knowing_Your_Family.jpg/revision/latest/scale-to-width-down/400?cb=20221007053849"
   },
   {
     "id": "xc3-quest-file-my-memories-jpg",
@@ -880,7 +958,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMy_Memories.jpg",
-    "wikiPageId": 124230
+    "wikiPageId": 124230,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/My_Memories.jpg/revision/latest/scale-to-width-down/400?cb=20221013053839"
   },
   {
     "id": "xc3-quest-file-reasons-to-evolve-jpg",
@@ -890,7 +969,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AReasons_to_Evolve.jpg",
-    "wikiPageId": 124170
+    "wikiPageId": 124170,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/Reasons_to_Evolve.jpg/revision/latest/scale-to-width-down/400?cb=20221005052357"
   },
   {
     "id": "xc3-quest-file-shadow-of-enmity-jpg",
@@ -900,7 +980,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AShadow_of_Enmity.jpg",
-    "wikiPageId": 124035
+    "wikiPageId": 124035,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/66/Shadow_of_Enmity.jpg/revision/latest/scale-to-width-down/400?cb=20220920111806"
   },
   {
     "id": "xc3-quest-file-side-story-mio-jpg",
@@ -910,7 +991,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASide_Story_Mio.jpg",
-    "wikiPageId": 124074
+    "wikiPageId": 124074,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/Side_Story_Mio.jpg/revision/latest/scale-to-width-down/400?cb=20220924072248"
   },
   {
     "id": "xc3-quest-file-side-story-noah-png",
@@ -920,7 +1002,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASide_Story_Noah.png",
-    "wikiPageId": 124070
+    "wikiPageId": 124070,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Side_Story_Noah.png/revision/latest/scale-to-width-down/400?cb=20220923123956"
   },
   {
     "id": "xc3-quest-file-side-story-sena-jpg",
@@ -930,7 +1013,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASide_Story_Sena.jpg",
-    "wikiPageId": 124076
+    "wikiPageId": 124076,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ec/Side_Story_Sena.jpg/revision/latest/scale-to-width-down/400?cb=20220925090831"
   },
   {
     "id": "xc3-quest-file-side-story-eunie-jpg",
@@ -940,7 +1024,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASide_Story-_Eunie.jpg",
-    "wikiPageId": 124016
+    "wikiPageId": 124016,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/Side_Story-_Eunie.jpg/revision/latest/scale-to-width-down/400?cb=20220918150144"
   },
   {
     "id": "xc3-quest-file-side-story-lanz-jpg",
@@ -950,7 +1035,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASide_Story-_Lanz.jpg",
-    "wikiPageId": 124017
+    "wikiPageId": 124017,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6e/Side_Story-_Lanz.jpg/revision/latest/scale-to-width-down/400?cb=20220918150002"
   },
   {
     "id": "xc3-quest-file-side-story-taion-jpg",
@@ -960,7 +1046,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASide_Story-_Taion.jpg",
-    "wikiPageId": 124041
+    "wikiPageId": 124041,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/60/Side_Story-_Taion.jpg/revision/latest/scale-to-width-down/400?cb=20220921061558"
   },
   {
     "id": "xc3-quest-file-xc3-culinary-repetoire-jpg",
@@ -970,7 +1057,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Culinary_Repetoire.jpg",
-    "wikiPageId": 124990
+    "wikiPageId": 124990,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8d/XC3_Culinary_Repetoire.jpg/revision/latest?cb=20221212002917"
   },
   {
     "id": "xc3-quest-file-xc3-happiness-jpg",
@@ -980,7 +1068,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Happiness.jpg",
-    "wikiPageId": 124987
+    "wikiPageId": 124987,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/68/XC3_Happiness.jpg/revision/latest?cb=20221212001400"
   },
   {
     "id": "xc3-quest-file-xc3-inescapable-past-jpg",
@@ -990,7 +1079,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Inescapable_Past.jpg",
-    "wikiPageId": 124989
+    "wikiPageId": 124989,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/af/XC3_Inescapable_Past.jpg/revision/latest?cb=20221212002817"
   },
   {
     "id": "xc3-quest-file-xc3-payback-for-treason-jpg",
@@ -1000,7 +1090,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Payback_for_Treason.jpg",
-    "wikiPageId": 124991
+    "wikiPageId": 124991,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/XC3_Payback_for_Treason.jpg/revision/latest?cb=20221212003016"
   },
   {
     "id": "xc3-quest-file-xc3-promise-to-the-future-jpg",
@@ -1010,7 +1101,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Promise_to_the_Future.jpg",
-    "wikiPageId": 124988
+    "wikiPageId": 124988,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ab/XC3_Promise_to_the_Future.jpg/revision/latest?cb=20221212002659"
   },
   {
     "id": "xc3-quest-file-xc3-survivors-jpg",
@@ -1020,7 +1112,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Survivors.jpg",
-    "wikiPageId": 124992
+    "wikiPageId": 124992,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/XC3_Survivors.jpg/revision/latest?cb=20221212003049"
   },
   {
     "id": "xc3-quest-chapter-1",
@@ -1031,7 +1124,8 @@
     "prerequisites": [],
     "description": "\"Fighting for Colony 9, Noah, Lanz, Eunie and Mwamba go toe-to-toe in battle with soldiers from Colony Sigma. Then, once the dust settles...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_1_(XC3)",
-    "wikiPageId": 118063
+    "wikiPageId": 118063,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/89/XC3_Chapter_1.png/revision/latest/scale-to-width-down/400?cb=20220708225803"
   },
   {
     "id": "xc3-quest-chapter-2",
@@ -1042,7 +1136,8 @@
     "prerequisites": [],
     "description": "\"With their eyes set on Swordmarch,Noah and co. decide to head south through the Aetia region.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_2_(XC3)",
-    "wikiPageId": 120285
+    "wikiPageId": 120285,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/XC3_Chapter_2.jpg/revision/latest?cb=20221207035453"
   },
   {
     "id": "xc3-quest-chapter-3",
@@ -1053,7 +1148,8 @@
     "prerequisites": [],
     "description": "\"With the Flame Clock now destroyed, Noah and co. have a few things they need to do around Colony 4.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_3_(XC3)",
-    "wikiPageId": 120286
+    "wikiPageId": 120286,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a7/XC3_Chapter_3.jpg/revision/latest?cb=20221207035645"
   },
   {
     "id": "xc3-quest-chapter-4",
@@ -1064,7 +1160,8 @@
     "prerequisites": [],
     "description": "\"Departing Colony Lambda, Noah and co. once again set their sights on reaching Swordmarch.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_4_(XC3)",
-    "wikiPageId": 120287
+    "wikiPageId": 120287,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/XC3_Chapter_4.jpg/revision/latest?cb=20221207035834"
   },
   {
     "id": "xc3-quest-chapter-5",
@@ -1075,7 +1172,8 @@
     "prerequisites": [],
     "description": "\"The party escapes the Castle, with Swordmarch now within reach.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_5_(XC3)",
-    "wikiPageId": 120289
+    "wikiPageId": 120289,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8a/XC3_Chapter_5.jpg/revision/latest?cb=20221207035956"
   },
   {
     "id": "xc3-quest-chapter-6",
@@ -1086,7 +1184,8 @@
     "prerequisites": [],
     "description": "\"Noah gets lost, grasping amidst the fog...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_6_(XC3)",
-    "wikiPageId": 120290
+    "wikiPageId": 120290,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/Amidst_Fog.jpg/revision/latest/scale-to-width-down/400?cb=20220824160137"
   },
   {
     "id": "xc3-quest-chapter-7",
@@ -1097,7 +1196,8 @@
     "prerequisites": [],
     "description": "\"Noah learns about Moebius and Ouroboros from Queen Nia. The time has finally come to confront Z.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_7_(XC3)",
-    "wikiPageId": 120291
+    "wikiPageId": 120291,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/XC3_Chapter_7.jpg/revision/latest?cb=20221207040120"
   },
   {
     "id": "xc3-quest-file-amidst-fog-jpg",
@@ -1107,7 +1207,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAmidst_Fog.jpg",
-    "wikiPageId": 122173
+    "wikiPageId": 122173,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/Amidst_Fog.jpg/revision/latest/scale-to-width-down/400?cb=20220824160137"
   },
   {
     "id": "xc3-quest-file-xc3-chapter-1-png",
@@ -1117,7 +1218,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Chapter_1.png",
-    "wikiPageId": 118093
+    "wikiPageId": 118093,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/89/XC3_Chapter_1.png/revision/latest/scale-to-width-down/400?cb=20220708225803"
   },
   {
     "id": "xc3-quest-file-xc3-chapter-2-jpg",
@@ -1127,7 +1229,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Chapter_2.jpg",
-    "wikiPageId": 124955
+    "wikiPageId": 124955,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/XC3_Chapter_2.jpg/revision/latest?cb=20221207035453"
   },
   {
     "id": "xc3-quest-file-xc3-chapter-3-jpg",
@@ -1137,7 +1240,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Chapter_3.jpg",
-    "wikiPageId": 124956
+    "wikiPageId": 124956,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a7/XC3_Chapter_3.jpg/revision/latest?cb=20221207035645"
   },
   {
     "id": "xc3-quest-file-xc3-chapter-4-jpg",
@@ -1147,7 +1251,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Chapter_4.jpg",
-    "wikiPageId": 124957
+    "wikiPageId": 124957,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/XC3_Chapter_4.jpg/revision/latest?cb=20221207035834"
   },
   {
     "id": "xc3-quest-file-xc3-chapter-5-jpg",
@@ -1157,7 +1262,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Chapter_5.jpg",
-    "wikiPageId": 124958
+    "wikiPageId": 124958,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8a/XC3_Chapter_5.jpg/revision/latest?cb=20221207035956"
   },
   {
     "id": "xc3-quest-file-xc3-chapter-7-jpg",
@@ -1167,7 +1273,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Chapter_7.jpg",
-    "wikiPageId": 124959
+    "wikiPageId": 124959,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/XC3_Chapter_7.jpg/revision/latest?cb=20221207040120"
   },
   {
     "id": "xc3-quest-a-chance-encounter",
@@ -1178,7 +1285,8 @@
     "prerequisites": [],
     "description": "\"Eilis hasn't returned to Colony 9. She might have gone somewhere in the area of Li Garte Prison Camp. Find her and bring her back safe.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Chance_Encounter",
-    "wikiPageId": 121003
+    "wikiPageId": 121003,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5f/A_Chance_Encounter.jpg/revision/latest?cb=20230314185730"
   },
   {
     "id": "xc3-quest-a-difficult-transition",
@@ -1189,7 +1297,8 @@
     "prerequisites": [],
     "description": "\"Fox may be raiding nearby colonies to solve the food shortage. Gather intel, and then stop him.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Difficult_Transition",
-    "wikiPageId": 120302
+    "wikiPageId": 120302,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3e/XC3_A_Difficult_Transition.jpg/revision/latest?cb=20230119025643"
   },
   {
     "id": "xc3-quest-a-lesson-in-off-seeing",
@@ -1200,7 +1309,8 @@
     "prerequisites": [],
     "description": "\"Schoon from Zakir's squad asked for Noah to teach her. As her senior in off-seeing, show her how it's done.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Lesson_in_Off-Seeing",
-    "wikiPageId": 120303
+    "wikiPageId": 120303,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e6/XC3_A_Lesson_in_Off-Seeing.jpg/revision/latest?cb=20230116060332"
   },
   {
     "id": "xc3-quest-aetia-region-quests",
@@ -1221,7 +1331,8 @@
     "prerequisites": [],
     "description": "\"Colony 9's new off-seer appears to be struggling with some problems. Try asking the people that know him what's troubling him\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/An_Off-Seer's_Anguish",
-    "wikiPageId": 120306
+    "wikiPageId": 120306,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7f/XC3_An_Off-Seer%27s_Anguish.jpg/revision/latest?cb=20230111032755"
   },
   {
     "id": "xc3-quest-crusader-for-spuds",
@@ -1232,7 +1343,8 @@
     "prerequisites": [],
     "description": "\"Raising Spongy Spuds has put an end to Colony 9's food shortages. Now go and spread the good word to the other colonies!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Crusader_For_Spuds",
-    "wikiPageId": 123945
+    "wikiPageId": 123945,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/Crusader_for_Spuds.jpg/revision/latest?cb=20221002124426"
   },
   {
     "id": "xc3-quest-extracurricular-lesson",
@@ -1243,7 +1355,8 @@
     "prerequisites": [],
     "description": "\"Thanks to a rigorously impartial lottery, Mio will be teaching Kyrie, although what she is actually hoping to learn about is a cause for concern and intrigue...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Extracurricular_Lesson",
-    "wikiPageId": 120319
+    "wikiPageId": 120319,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2e/XC3_Extracurricular_Lesson.jpg/revision/latest?cb=20230226092448"
   },
   {
     "id": "xc3-quest-farewell-melody",
@@ -1255,7 +1368,8 @@
     "description": "\"Lenny's friends were killed by monsters while on a mission. Head to Sonata Saddleback to see them off.\"",
     "giver": "Lenny",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Farewell_Melody",
-    "wikiPageId": 117998
+    "wikiPageId": 117998,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/52/XC3_Farewell_Melody.jpg/revision/latest?cb=20230225112030"
   },
   {
     "id": "xc3-quest-for-colony-9",
@@ -1266,7 +1380,8 @@
     "prerequisites": [],
     "description": "\"Dissenting against Zeon's leadership, Kite and his friends leave Colony 9. Ask Fox for details, and then bring them back.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/For_Colony_9",
-    "wikiPageId": 120324
+    "wikiPageId": 120324,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/XC3_For_Colony_9.jpg/revision/latest?cb=20230205045915"
   },
   {
     "id": "xc3-quest-friendly-support",
@@ -1278,7 +1393,8 @@
     "description": "\"The team that was to rendezvous with Laurea has gone missing in action. To find them, head for Shark's Jaws Cape\"",
     "giver": "Laurea",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Friendly_Support",
-    "wikiPageId": 118000
+    "wikiPageId": 118000,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/69/XC3_Friendly_Support.jpg/revision/latest?cb=20230225112331"
   },
   {
     "id": "xc3-quest-in-search-of-a-home",
@@ -1290,7 +1406,8 @@
     "description": "\"The party suggest that the baseless Colony 0 move into Li Garte Prison Camp. Negotiate the proposal with Ghondor first.\"",
     "giver": "Segiri",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/In_Search_of_a_Home",
-    "wikiPageId": 120330
+    "wikiPageId": 120330,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/In_Search_of_a_Home.png/revision/latest/scale-to-width-down/400?cb=20220923122458"
   },
   {
     "id": "xc3-quest-lean-times-in-colony-9",
@@ -1301,7 +1418,8 @@
     "prerequisites": [],
     "description": "\"Colony 9 faces a supply shortage. Find reusable things on the old battlefields to send back to Camilla.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lean_Times_in_Colony_9",
-    "wikiPageId": 120334
+    "wikiPageId": 120334,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/XC3_Lean_Times_in_Colony_9.jpg/revision/latest?cb=20230111034129"
   },
   {
     "id": "xc3-quest-live-combat-training",
@@ -1312,7 +1430,8 @@
     "prerequisites": [],
     "description": "\"Foots's squad, who excel in combat, asked for Eunie and Sena's guidance. Teach them what they need to know.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Live_Combat_Training",
-    "wikiPageId": 120335
+    "wikiPageId": 120335,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/XC3_Live_Combat_Training.jpg/revision/latest?cb=20230111033624"
   },
   {
     "id": "xc3-quest-nopon-register",
@@ -1324,7 +1443,8 @@
     "description": "\"Shillshill has asked you to confirm names and bring back stones from Nopon belonging to each caravan. You can take your time with this one.\"",
     "giver": "Shillshill",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Register",
-    "wikiPageId": 120293
+    "wikiPageId": 120293,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b5/XC3_Nopon_Register.jpg/revision/latest?cb=20221225172714"
   },
   {
     "id": "xc3-quest-preparing-for-battle",
@@ -1335,7 +1455,8 @@
     "prerequisites": [],
     "description": "\"Use the G you got from the Colony Sigma operation to buy and equip a new accessory for Noah.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Preparing_for_Battle",
-    "wikiPageId": 118094
+    "wikiPageId": 118094,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/XC3_Preparing_for_Battle.jpg/revision/latest?cb=20221208000301"
   },
   {
     "id": "xc3-quest-research-procedures",
@@ -1347,7 +1468,8 @@
     "description": "\"Lanz finally got a request to teach a lesson! Show Namuki what a good, dependable teacher he is!\"",
     "giver": "Namuki",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Research_Procedures",
-    "wikiPageId": 120492
+    "wikiPageId": 120492,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/XC3_Research_Procedures.jpg/revision/latest?cb=20230130023544"
   },
   {
     "id": "xc3-quest-shared-secret",
@@ -1358,7 +1480,8 @@
     "prerequisites": [],
     "description": "\"Lenny and Eastman appear to have fallen out about something. Go and ask Lenny what happened.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Shared_Secret",
-    "wikiPageId": 120352
+    "wikiPageId": 120352,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f1/XC3_Shared_Secret.jpg/revision/latest?cb=20230113041319"
   },
   {
     "id": "xc3-quest-special-instructors",
@@ -1370,7 +1493,8 @@
     "description": "\"Ysorra secretly wishes to become a medical practitioner. Invite Colony 4's doctor, Oleshandra, to support her in her studies\"",
     "giver": "Ysorra",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Special_Instructors",
-    "wikiPageId": 120354
+    "wikiPageId": 120354,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/53/Special_Instructors.jpg/revision/latest?cb=20230314183235"
   },
   {
     "id": "xc3-quest-supplies-in-the-wind",
@@ -1382,7 +1506,8 @@
     "description": "\"Retrieve the supplies requisitioned by Pollux from the salvage corps.\"",
     "giver": "Pollux",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Supplies_in_the_Wind",
-    "wikiPageId": 117999
+    "wikiPageId": 117999,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5d/Supplies_in_the_Wind.png/revision/latest/scale-to-width-down/400?cb=20220708042524"
   },
   {
     "id": "xc3-quest-teachs-teachers",
@@ -1394,7 +1519,8 @@
     "description": "\"Teach has requested that the party teach the newbies. Turn them into fine, worthy soldiers.\"",
     "giver": "Teach",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Teach's_Teachers",
-    "wikiPageId": 120358
+    "wikiPageId": 120358,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/XC3_Teach%27s_Teachers.jpg/revision/latest?cb=20230315094829"
   },
   {
     "id": "xc3-quest-the-battlescar-hulk",
@@ -1405,7 +1531,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Battlescar_Hulk",
-    "wikiPageId": 120360
+    "wikiPageId": 120360,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8c/XC3_The_Battlescar_Hulk.jpg/revision/latest?cb=20221216180311"
   },
   {
     "id": "xc3-quest-the-big-unseen-monster",
@@ -1417,7 +1544,8 @@
     "description": "\"Dorin is making fun of Bambam, who is sure he saw a big monster. Work together with them to uncover the truth.\"",
     "giver": "Bambam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Big%2C_Unseen_Monster",
-    "wikiPageId": 120361
+    "wikiPageId": 120361,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/XC3_The_Big%2C_Unseen_Monster.jpg/revision/latest?cb=20221214110154"
   },
   {
     "id": "xc3-quest-the-hillside-hulk",
@@ -1428,7 +1556,8 @@
     "prerequisites": [],
     "description": "\"The party finds a decrepit Ferronis on their travels. Search it to see if it contains any useful resources.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Hillside_Hulk",
-    "wikiPageId": 118091
+    "wikiPageId": 118091,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/31/XC3_The_Hillside_Hulk.jpg/revision/latest?cb=20221208000543"
   },
   {
     "id": "xc3-quest-the-illusion-returns",
@@ -1439,7 +1568,8 @@
     "prerequisites": [],
     "description": "\"The mysterious Levnises from earlier have returned. The party are determined to take them down this time, once and for all.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Illusion_Returns",
-    "wikiPageId": 120368
+    "wikiPageId": 120368,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/The_Illusion_Returns.jpg/revision/latest?cb=20230314184635"
   },
   {
     "id": "xc3-quest-theoretical-knowledge",
@@ -1450,7 +1580,8 @@
     "prerequisites": [],
     "description": "\"Taion enlists Noah as an assistant for the lecture he's delivering to Zakir's squad. Don't let the newbies show you up, and show them they can trust you.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Theoretical_Knowledge",
-    "wikiPageId": 120371
+    "wikiPageId": 120371,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/32/Theoretical_Knowledge.png/revision/latest/scale-to-width-down/400?cb=20221026121142"
   },
   {
     "id": "xc3-quest-file-a-chance-encounter-jpg",
@@ -1460,7 +1591,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Chance_Encounter.jpg",
-    "wikiPageId": 125771
+    "wikiPageId": 125771,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5f/A_Chance_Encounter.jpg/revision/latest?cb=20230314185730"
   },
   {
     "id": "xc3-quest-file-crusader-for-spuds-jpg",
@@ -1470,7 +1602,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACrusader_for_Spuds.jpg",
-    "wikiPageId": 124136
+    "wikiPageId": 124136,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/Crusader_for_Spuds.jpg/revision/latest?cb=20221002124426"
   },
   {
     "id": "xc3-quest-file-in-search-of-a-home-png",
@@ -1480,7 +1613,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIn_Search_of_a_Home.png",
-    "wikiPageId": 124069
+    "wikiPageId": 124069,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/In_Search_of_a_Home.png/revision/latest/scale-to-width-down/400?cb=20220923122458"
   },
   {
     "id": "xc3-quest-file-special-instructors-jpg",
@@ -1490,7 +1624,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASpecial_Instructors.jpg",
-    "wikiPageId": 125761
+    "wikiPageId": 125761,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/53/Special_Instructors.jpg/revision/latest?cb=20230314183235"
   },
   {
     "id": "xc3-quest-file-the-illusion-returns-jpg",
@@ -1500,7 +1635,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Illusion_Returns.jpg",
-    "wikiPageId": 125765
+    "wikiPageId": 125765,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/The_Illusion_Returns.jpg/revision/latest?cb=20230314184635"
   },
   {
     "id": "xc3-quest-file-theoretical-knowledge-png",
@@ -1510,7 +1646,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATheoretical_Knowledge.png",
-    "wikiPageId": 124441
+    "wikiPageId": 124441,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/32/Theoretical_Knowledge.png/revision/latest/scale-to-width-down/400?cb=20221026121142"
   },
   {
     "id": "xc3-quest-file-xc3-a-difficult-transition-jpg",
@@ -1520,7 +1657,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Difficult_Transition.jpg",
-    "wikiPageId": 125275
+    "wikiPageId": 125275,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3e/XC3_A_Difficult_Transition.jpg/revision/latest?cb=20230119025643"
   },
   {
     "id": "xc3-quest-file-xc3-a-lesson-in-off-seeing-jpg",
@@ -1530,7 +1668,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Lesson_in_Off-Seeing.jpg",
-    "wikiPageId": 125234
+    "wikiPageId": 125234,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e6/XC3_A_Lesson_in_Off-Seeing.jpg/revision/latest?cb=20230116060332"
   },
   {
     "id": "xc3-quest-file-xc3-an-off-seers-anguish-jpg",
@@ -1540,7 +1679,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_An_Off-Seer's_Anguish.jpg",
-    "wikiPageId": 125197
+    "wikiPageId": 125197,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7f/XC3_An_Off-Seer%27s_Anguish.jpg/revision/latest?cb=20230111032755"
   },
   {
     "id": "xc3-quest-file-xc3-extracurricular-lesson-jpg",
@@ -1550,7 +1690,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Extracurricular_Lesson.jpg",
-    "wikiPageId": 125711
+    "wikiPageId": 125711,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2e/XC3_Extracurricular_Lesson.jpg/revision/latest?cb=20230226092448"
   },
   {
     "id": "xc3-quest-file-xc3-farewell-melody-jpg",
@@ -1560,7 +1701,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Farewell_Melody.jpg",
-    "wikiPageId": 125707
+    "wikiPageId": 125707,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/52/XC3_Farewell_Melody.jpg/revision/latest?cb=20230225112030"
   },
   {
     "id": "xc3-quest-file-xc3-for-colony-9-jpg",
@@ -1570,7 +1712,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_For_Colony_9.jpg",
-    "wikiPageId": 125478
+    "wikiPageId": 125478,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/XC3_For_Colony_9.jpg/revision/latest?cb=20230205045915"
   },
   {
     "id": "xc3-quest-file-xc3-forgotten-supplies-jpg",
@@ -1580,7 +1723,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Forgotten_Supplies.jpg",
-    "wikiPageId": 125213
+    "wikiPageId": 125213,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/XC3_Forgotten_Supplies.jpg/revision/latest?cb=20230113040035"
   },
   {
     "id": "xc3-quest-file-xc3-friendly-support-jpg",
@@ -1590,7 +1734,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Friendly_Support.jpg",
-    "wikiPageId": 125708
+    "wikiPageId": 125708,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/69/XC3_Friendly_Support.jpg/revision/latest?cb=20230225112331"
   },
   {
     "id": "xc3-quest-file-xc3-lean-times-in-colony-9-jpg",
@@ -1600,7 +1745,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Lean_Times_in_Colony_9.jpg",
-    "wikiPageId": 125201
+    "wikiPageId": 125201,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/XC3_Lean_Times_in_Colony_9.jpg/revision/latest?cb=20230111034129"
   },
   {
     "id": "xc3-quest-file-xc3-live-combat-training-jpg",
@@ -1610,7 +1756,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Live_Combat_Training.jpg",
-    "wikiPageId": 125200
+    "wikiPageId": 125200,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/XC3_Live_Combat_Training.jpg/revision/latest?cb=20230111033624"
   },
   {
     "id": "xc3-quest-file-xc3-preparing-for-battle-jpg",
@@ -1620,7 +1767,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Preparing_for_Battle.jpg",
-    "wikiPageId": 124968
+    "wikiPageId": 124968,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/XC3_Preparing_for_Battle.jpg/revision/latest?cb=20221208000301"
   },
   {
     "id": "xc3-quest-file-xc3-research-procedures-jpg",
@@ -1630,7 +1778,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Research_Procedures.jpg",
-    "wikiPageId": 125410
+    "wikiPageId": 125410,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/XC3_Research_Procedures.jpg/revision/latest?cb=20230130023544"
   },
   {
     "id": "xc3-quest-file-xc3-shared-secret-jpg",
@@ -1640,7 +1789,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Shared_Secret.jpg",
-    "wikiPageId": 125216
+    "wikiPageId": 125216,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f1/XC3_Shared_Secret.jpg/revision/latest?cb=20230113041319"
   },
   {
     "id": "xc3-quest-file-xc3-teachs-teachers-jpg",
@@ -1650,7 +1800,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Teach's_Teachers.jpg",
-    "wikiPageId": 125779
+    "wikiPageId": 125779,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/XC3_Teach%27s_Teachers.jpg/revision/latest?cb=20230315094829"
   },
   {
     "id": "xc3-quest-file-xc3-the-battlescar-hulk-jpg",
@@ -1660,7 +1811,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Battlescar_Hulk.jpg",
-    "wikiPageId": 125036
+    "wikiPageId": 125036,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8c/XC3_The_Battlescar_Hulk.jpg/revision/latest?cb=20221216180311"
   },
   {
     "id": "xc3-quest-file-xc3-the-hillside-hulk-jpg",
@@ -1670,7 +1822,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Hillside_Hulk.jpg",
-    "wikiPageId": 124969
+    "wikiPageId": 124969,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/31/XC3_The_Hillside_Hulk.jpg/revision/latest?cb=20221208000543"
   },
   {
     "id": "xc3-quest-agnus-castle-region-quests",
@@ -1692,7 +1845,8 @@
     "description": "\"The formerly-imprisoned Lost Numbers are now able to go home to the City. The Castle even kindly offers to lend a boat.\"",
     "giver": "Seeker",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Going_Home_(XC3)",
-    "wikiPageId": 120388
+    "wikiPageId": 120388,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/XC3_Going_Home.jpg/revision/latest?cb=20230305111713"
   },
   {
     "id": "xc3-quest-lost-stones",
@@ -1704,7 +1858,8 @@
     "description": "\"Ruggyscruggy lost all three of his stones while busy with prison labor. Look for them in Li Garte Prison Camp's Perimeter Woodland.\"",
     "giver": "Ruggyscruggy",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_Stones",
-    "wikiPageId": 120337
+    "wikiPageId": 120337,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/XC3_Lost_Stones.jpg/revision/latest?cb=20230226091903"
   },
   {
     "id": "xc3-quest-missing-in-action",
@@ -1716,7 +1871,8 @@
     "description": "\"Contact was lost with Dana and the others before they could make it to Farview Cape. Go look for them in the Erythia Sea.\"",
     "giver": "Seeker",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Missing_in_Action_(XC3)",
-    "wikiPageId": 123112
+    "wikiPageId": 123112,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6f/XC3_Missing_in_Action.jpg/revision/latest?cb=20230205235719"
   },
   {
     "id": "xc3-quest-seekers-true-intent",
@@ -1727,7 +1883,8 @@
     "prerequisites": [],
     "description": "\"Unaware that Seeker is only trying to be kind, the City folk find his behavior suspicious. Find out why Seeker is acting like he is.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Seeker's_True_Intent",
-    "wikiPageId": 120493
+    "wikiPageId": 120493,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/Seeker%27s_True_Intent.jpg/revision/latest?cb=20230313192351"
   },
   {
     "id": "xc3-quest-the-path-i-forge",
@@ -1738,7 +1895,8 @@
     "prerequisites": [],
     "description": "\"Seeker and co. are called to the City. Ghondor says nothing bad will happen, but not a word more.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Path_I_Forge",
-    "wikiPageId": 123143
+    "wikiPageId": 123143,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b4/XC3_The_Path_I_Forge.jpg/revision/latest?cb=20230315100909"
   },
   {
     "id": "xc3-quest-the-three-fiends",
@@ -1749,7 +1907,8 @@
     "prerequisites": [],
     "description": "\"Despite the Castle's liberation, there are still some people left locked up in its prison. Inquire into the reasons with internal security.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Three_Fiends",
-    "wikiPageId": 120491
+    "wikiPageId": 120491,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fc/The_Three_Fiends.jpg/revision/latest?cb=20230313192918"
   },
   {
     "id": "xc3-quest-three-fiends-jhodor",
@@ -1761,7 +1920,8 @@
     "description": "\"It is said Jhodor was locked up for the crime of wiping certain intel. Why did he commit the crime?\"",
     "giver": "Jhodor",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Three_Fiends%3A_Jhodor",
-    "wikiPageId": 120488
+    "wikiPageId": 120488,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Three_Fiends_Jhodor.jpg/revision/latest?cb=20230313193021"
   },
   {
     "id": "xc3-quest-three-fiends-tohma",
@@ -1773,7 +1933,8 @@
     "description": "\"It is said Tohma was locked up for the crime of mass murder. Why did he do it?\"",
     "giver": "Tohma",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Three_Fiends%3A_Tohma",
-    "wikiPageId": 120489
+    "wikiPageId": 120489,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/Three_Fiends_Tohma.jpg/revision/latest?cb=20230313193042"
   },
   {
     "id": "xc3-quest-three-fiends-xera",
@@ -1785,7 +1946,8 @@
     "description": "\"It is said Xera was locked up for the crime of blowing up containers. Why did she commit the crime?\"",
     "giver": "Xera",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Three_Fiends%3A_Xera",
-    "wikiPageId": 120490
+    "wikiPageId": 120490,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9c/Three_Fiends_Xera.jpg/revision/latest?cb=20230313192959"
   },
   {
     "id": "xc3-quest-why-so-busy",
@@ -1796,7 +1958,8 @@
     "prerequisites": [],
     "description": "\"Both the Lost Numbers and Agnian soldiers in the Castle seem very busy. Find out why from Seeker.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Why_So_Busy%3F",
-    "wikiPageId": 123111
+    "wikiPageId": 123111,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2a/XC3_why_so_busy.jpg/revision/latest?cb=20230205235520"
   },
   {
     "id": "xc3-quest-file-seekers-true-intent-jpg",
@@ -1806,7 +1969,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASeeker's_True_Intent.jpg",
-    "wikiPageId": 125746
+    "wikiPageId": 125746,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/Seeker%27s_True_Intent.jpg/revision/latest?cb=20230313192351"
   },
   {
     "id": "xc3-quest-file-the-three-fiends-jpg",
@@ -1816,7 +1980,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Three_Fiends.jpg",
-    "wikiPageId": 125747
+    "wikiPageId": 125747,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fc/The_Three_Fiends.jpg/revision/latest?cb=20230313192918"
   },
   {
     "id": "xc3-quest-file-three-fiends-jhodor-jpg",
@@ -1826,7 +1991,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThree_Fiends_Jhodor.jpg",
-    "wikiPageId": 125749
+    "wikiPageId": 125749,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Three_Fiends_Jhodor.jpg/revision/latest?cb=20230313193021"
   },
   {
     "id": "xc3-quest-file-three-fiends-tohma-jpg",
@@ -1836,7 +2002,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThree_Fiends_Tohma.jpg",
-    "wikiPageId": 125750
+    "wikiPageId": 125750,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/Three_Fiends_Tohma.jpg/revision/latest?cb=20230313193042"
   },
   {
     "id": "xc3-quest-file-three-fiends-xera-jpg",
@@ -1846,7 +2013,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThree_Fiends_Xera.jpg",
-    "wikiPageId": 125748
+    "wikiPageId": 125748,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9c/Three_Fiends_Xera.jpg/revision/latest?cb=20230313192959"
   },
   {
     "id": "xc3-quest-file-xc3-going-home-jpg",
@@ -1856,7 +2024,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Going_Home.jpg",
-    "wikiPageId": 125720
+    "wikiPageId": 125720,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/XC3_Going_Home.jpg/revision/latest?cb=20230305111713"
   },
   {
     "id": "xc3-quest-file-xc3-lost-stones-jpg",
@@ -1866,7 +2035,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Lost_Stones.jpg",
-    "wikiPageId": 125709
+    "wikiPageId": 125709,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/XC3_Lost_Stones.jpg/revision/latest?cb=20230226091903"
   },
   {
     "id": "xc3-quest-file-xc3-the-path-i-forge-jpg",
@@ -1876,7 +2046,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Path_I_Forge.jpg",
-    "wikiPageId": 125786
+    "wikiPageId": 125786,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b4/XC3_The_Path_I_Forge.jpg/revision/latest?cb=20230315100909"
   },
   {
     "id": "xc3-quest-acknowledging-feelings",
@@ -1888,7 +2059,8 @@
     "description": "\"Segiri tells the party some info about old world relics they collected earlier. No. 8 seems to know more.\"",
     "giver": "No. 6 & No. 9",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Acknowledging_Feelings",
-    "wikiPageId": 121924
+    "wikiPageId": 121924,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/20/Acknowledging_Feelings.jpg/revision/latest?cb=20230313193623"
   },
   {
     "id": "xc3-quest-cadensia-region-quests",
@@ -1909,7 +2081,8 @@
     "prerequisites": [],
     "description": "\"Ayase has a favor to ask of Fiona and the party. Head to the much livelier Colony Mu.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_Mu's_Resolve",
-    "wikiPageId": 123129
+    "wikiPageId": 123129,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1d/Colony_Mu%27s_Resolve.jpg/revision/latest?cb=20220913130537"
   },
   {
     "id": "xc3-quest-contrary-emotions",
@@ -1921,7 +2094,8 @@
     "description": "\"Having somehow created tension between herself and No. 9, Sena ruminates over how they can reconcile their differences...\"",
     "giver": "No. 9",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Contrary_Emotions",
-    "wikiPageId": 123140
+    "wikiPageId": 123140,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/18/Contrary_Emotions.jpg/revision/latest?cb=20230313194155"
   },
   {
     "id": "xc3-quest-distress-signal",
@@ -1933,7 +2107,8 @@
     "description": "\"Go to \"the two trees\" as understood from the wood pieces that washed up in Colony Mu, and save whoever sent the message.\"",
     "giver": "Lotus",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Distress_Signal",
-    "wikiPageId": 123107
+    "wikiPageId": 123107,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/73/XC3_Distress_Signal.jpg/revision/latest?cb=20230226092843"
   },
   {
     "id": "xc3-quest-first-day-of-prison",
@@ -1944,7 +2119,8 @@
     "prerequisites": [],
     "description": "\"The first day of incarceration sees the party assigned to gathering food. Follow the warden's orders, and keep your heads down.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/First_Day_of_Prison",
-    "wikiPageId": 120322
+    "wikiPageId": 120322,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/XC3_First_Day_of_Prison.jpg/revision/latest?cb=20221213014722"
   },
   {
     "id": "xc3-quest-future-trajectory",
@@ -1955,7 +2131,8 @@
     "prerequisites": [],
     "description": "\"With Mu united and helping each other out, Fiona is uneasy about how much less she has to do. Ask Tallow if there's anything she can help out with.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Future_Trajectory",
-    "wikiPageId": 123136
+    "wikiPageId": 123136,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Future_Trajectory.jpg/revision/latest?cb=20230314190141"
   },
   {
     "id": "xc3-quest-missing-luggage",
@@ -1967,7 +2144,8 @@
     "description": "\"Dorin and Bambam are arguing over who lost the luggage. Find the luggage, then help them make up.\"",
     "giver": "Dorin & Bambam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Missing_Luggage",
-    "wikiPageId": 120341
+    "wikiPageId": 120341,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5b/XC3_Missing_Luggage.jpg/revision/latest?cb=20230212015507"
   },
   {
     "id": "xc3-quest-new-names",
@@ -1979,7 +2157,8 @@
     "description": "\"Sena is asked to give new names to the citizens of Colony 0. She decides to think back on past events for inspiration.\"",
     "giver": "Segiri",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/New_Names",
-    "wikiPageId": 123141
+    "wikiPageId": 123141,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/57/New_Names.jpg/revision/latest?cb=20230313193326"
   },
   {
     "id": "xc3-quest-prison-refurbishment",
@@ -1991,7 +2170,8 @@
     "description": "\"To make the former prison camp more livable, first speak with No. 6, who manages the colony's supplies, about how to go about the interior refurbishment.\"",
     "giver": "No. 3 & No. 10",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Prison_Refurbishment",
-    "wikiPageId": 120343
+    "wikiPageId": 120343,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/Prison_Refurbishment.jpg/revision/latest?cb=20230313193811"
   },
   {
     "id": "xc3-quest-prison-spring-clean",
@@ -2003,7 +2183,8 @@
     "description": "\"The amount of monsters in the vicinity of the former prison camp has increased. Work with Colony 0 to clear them out.\"",
     "giver": "No. 6 & No. 8",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Prison_Spring_Clean",
-    "wikiPageId": 121777
+    "wikiPageId": 121777,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/Prison_Spring_Clean.jpg/revision/latest?cb=20230313194007"
   },
   {
     "id": "xc3-quest-second-day-of-prison",
@@ -2015,7 +2196,8 @@
     "description": "\"Today, the party is sent to subjugate an enraged Feris. Whoever succeeds will be excused from other tasks, so get subjugating!\"",
     "giver": "Automatic",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Second_Day_of_Prison",
-    "wikiPageId": 120349
+    "wikiPageId": 120349,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/38/XC3_Second_Day_of_Prison.jpg/revision/latest?cb=20221213014801"
   },
   {
     "id": "xc3-quest-shut-in",
@@ -2027,7 +2209,8 @@
     "description": "\"No. 15 has shut himself in a Ferron unit. Worried for his wellbeing, the party try to coax him out.\"",
     "giver": "No. 15",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Shut-In",
-    "wikiPageId": 123946
+    "wikiPageId": 123946,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Shut-In.jpg/revision/latest?cb=20230313193452"
   },
   {
     "id": "xc3-quest-the-atoll-hulk",
@@ -2038,7 +2221,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Atoll_Hulk",
-    "wikiPageId": 120359
+    "wikiPageId": 120359,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/15/The_Atoll_Hulk.jpg/revision/latest/scale-to-width-down/400?cb=20230315134431"
   },
   {
     "id": "xc3-quest-the-castle-beckons",
@@ -2050,7 +2234,8 @@
     "description": "\"Before beginning the prison rescue operation, you'll first need to talk to Kisame in Vinisog Holm. Board the Boundary and set out to the Erythia Sea.\"",
     "giver": "Monica",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Castle_Beckons",
-    "wikiPageId": 120363
+    "wikiPageId": 120363,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b4/XC3_The_Castle_Beckons.jpg/revision/latest?cb=20221213014631"
   },
   {
     "id": "xc3-quest-the-future-i-want-to-spin",
@@ -2062,7 +2247,8 @@
     "description": "\"You've received a call for help from Tussore at newly-independent Colony Mu. Go see if she's safe.\"",
     "giver": "Tussore",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Future_I_Want_to_Spin",
-    "wikiPageId": 122532
+    "wikiPageId": 122532,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/37/XC3_The_Future_I_Want_to_Spin.jpg/revision/latest?cb=20230315095033"
   },
   {
     "id": "xc3-quest-the-mysterious-white-fog",
@@ -2073,7 +2259,8 @@
     "prerequisites": [],
     "description": "\"The white fog that troubled Noah and co. has been implicated in a string of disappearances around the Erythia Sea. Get to the bottom of the matter.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Mysterious_White_Fog",
-    "wikiPageId": 120774
+    "wikiPageId": 120774,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/XC3_The_Mysterious_White_Fog.jpg/revision/latest?cb=20230212020024"
   },
   {
     "id": "xc3-quest-the-sandbar-hulk",
@@ -2084,7 +2271,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Sandbar_Hulk",
-    "wikiPageId": 123097
+    "wikiPageId": 123097,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5c/XC3_The_Sandbar_Hulk.jpg/revision/latest?cb=20221216180537"
   },
   {
     "id": "xc3-quest-the-ultimate-vessel",
@@ -2096,7 +2284,8 @@
     "description": "\"Find Origin metal from across Aionios to finish the ultimate vessel, and conquer the Great Sea's vortex.\"",
     "giver": "Samon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ultimate_Vessel",
-    "wikiPageId": 120377
+    "wikiPageId": 120377,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/30/XC3_The_Ultimate_Vessel.jpg/revision/latest?cb=20221223030626"
   },
   {
     "id": "xc3-quest-third-day-of-prison",
@@ -2108,7 +2297,8 @@
     "description": "\"The guard has taken a shine to the party, and shows it by giving them yet more work to do. Hang tight till Ghondor gives the cue.\"",
     "giver": "Automatic",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Third_Day_of_Prison",
-    "wikiPageId": 120379
+    "wikiPageId": 120379,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/73/XC3_Third_Day_of_Prison.jpg/revision/latest?cb=20221213014904"
   },
   {
     "id": "xc3-quest-to-face-forward",
@@ -2119,7 +2309,8 @@
     "prerequisites": [],
     "description": "\"Tallow's rep has worsened. To resolve the discord in Mu, you lend an ear to everyone again.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/To_Face_Forward",
-    "wikiPageId": 121923
+    "wikiPageId": 121923,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/49/XC3_To_Face_Forward.jpg/revision/latest?cb=20230226092640"
   },
   {
     "id": "xc3-quest-treasured-memory",
@@ -2130,7 +2321,8 @@
     "prerequisites": [],
     "description": "\"Mu's gates have been improved. Go inspect them to see if anything else can be done to help prevent invasion.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Treasured_Memory",
-    "wikiPageId": 123115
+    "wikiPageId": 123115,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c7/Treasured_Memory.jpg/revision/latest?cb=20230314185208"
   },
   {
     "id": "xc3-quest-unease",
@@ -2141,7 +2333,8 @@
     "prerequisites": [],
     "description": "\"An unease is spreading through Colony Mu. Fiona wants to see if she can do something to reassure everyone.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unease",
-    "wikiPageId": 120381
+    "wikiPageId": 120381,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d3/XC3_Unease.jpg/revision/latest?cb=20230225111151"
   },
   {
     "id": "xc3-quest-uniting-the-seven-nopon",
@@ -2153,7 +2346,8 @@
     "description": "\"Bring together all seven of the Nopon who wield Ultimate Hammers, and they will fuse Origin shards together for you, and upgrade the party's Blades.\"",
     "giver": "Samon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Uniting_the_Seven_Nopon",
-    "wikiPageId": 120382
+    "wikiPageId": 120382,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0d/Uniting_the_Seven_Nopon.jpg/revision/latest?cb=20230116142558"
   },
   {
     "id": "xc3-quest-unspeakable-being",
@@ -2165,7 +2359,8 @@
     "description": "\"The party find a curious monument somewhere in the Erythia Sea. Your Nopon companions are leery of making an offering to it... But why?\"",
     "giver": "Riku and Manana",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unspeakable_Being",
-    "wikiPageId": 121006
+    "wikiPageId": 121006,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/XC3_Unspeakable_Being.jpg/revision/latest?cb=20221224001556"
   },
   {
     "id": "xc3-quest-file-acknowledging-feelings-jpg",
@@ -2175,7 +2370,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAcknowledging_Feelings.jpg",
-    "wikiPageId": 125753
+    "wikiPageId": 125753,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/20/Acknowledging_Feelings.jpg/revision/latest?cb=20230313193623"
   },
   {
     "id": "xc3-quest-file-contrary-emotions-jpg",
@@ -2185,7 +2381,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AContrary_Emotions.jpg",
-    "wikiPageId": 125756
+    "wikiPageId": 125756,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/18/Contrary_Emotions.jpg/revision/latest?cb=20230313194155"
   },
   {
     "id": "xc3-quest-file-future-trajectory-jpg",
@@ -2195,7 +2392,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFuture_Trajectory.jpg",
-    "wikiPageId": 125773
+    "wikiPageId": 125773,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Future_Trajectory.jpg/revision/latest?cb=20230314190141"
   },
   {
     "id": "xc3-quest-file-new-names-jpg",
@@ -2205,7 +2403,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANew_Names.jpg",
-    "wikiPageId": 125751
+    "wikiPageId": 125751,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/57/New_Names.jpg/revision/latest?cb=20230313193326"
   },
   {
     "id": "xc3-quest-file-prison-refurbishment-jpg",
@@ -2215,7 +2414,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APrison_Refurbishment.jpg",
-    "wikiPageId": 125754
+    "wikiPageId": 125754,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/Prison_Refurbishment.jpg/revision/latest?cb=20230313193811"
   },
   {
     "id": "xc3-quest-file-prison-spring-clean-jpg",
@@ -2225,7 +2425,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APrison_Spring_Clean.jpg",
-    "wikiPageId": 125755
+    "wikiPageId": 125755,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/Prison_Spring_Clean.jpg/revision/latest?cb=20230313194007"
   },
   {
     "id": "xc3-quest-file-shut-in-jpg",
@@ -2235,7 +2436,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AShut-In.jpg",
-    "wikiPageId": 125752
+    "wikiPageId": 125752,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Shut-In.jpg/revision/latest?cb=20230313193452"
   },
   {
     "id": "xc3-quest-file-the-atoll-hulk-jpg",
@@ -2245,7 +2447,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Atoll_Hulk.jpg",
-    "wikiPageId": 125787
+    "wikiPageId": 125787,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/15/The_Atoll_Hulk.jpg/revision/latest/scale-to-width-down/400?cb=20230315134431"
   },
   {
     "id": "xc3-quest-file-treasured-memory-jpg",
@@ -2255,7 +2458,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATreasured_Memory.jpg",
-    "wikiPageId": 125768
+    "wikiPageId": 125768,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c7/Treasured_Memory.jpg/revision/latest?cb=20230314185208"
   },
   {
     "id": "xc3-quest-file-uniting-the-seven-nopon-jpg",
@@ -2265,7 +2469,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUniting_the_Seven_Nopon.jpg",
-    "wikiPageId": 125241
+    "wikiPageId": 125241,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0d/Uniting_the_Seven_Nopon.jpg/revision/latest?cb=20230116142558"
   },
   {
     "id": "xc3-quest-file-xc3-distress-signal-jpg",
@@ -2275,7 +2480,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Distress_Signal.jpg",
-    "wikiPageId": 125713
+    "wikiPageId": 125713,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/73/XC3_Distress_Signal.jpg/revision/latest?cb=20230226092843"
   },
   {
     "id": "xc3-quest-file-xc3-missing-luggage-jpg",
@@ -2285,7 +2491,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Missing_Luggage.jpg",
-    "wikiPageId": 125595
+    "wikiPageId": 125595,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5b/XC3_Missing_Luggage.jpg/revision/latest?cb=20230212015507"
   },
   {
     "id": "xc3-quest-file-xc3-the-future-i-want-to-spin-jpg",
@@ -2295,7 +2502,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Future_I_Want_to_Spin.jpg",
-    "wikiPageId": 125780
+    "wikiPageId": 125780,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/37/XC3_The_Future_I_Want_to_Spin.jpg/revision/latest?cb=20230315095033"
   },
   {
     "id": "xc3-quest-file-xc3-the-mysterious-white-fog-jpg",
@@ -2305,7 +2513,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Mysterious_White_Fog.jpg",
-    "wikiPageId": 125598
+    "wikiPageId": 125598,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/XC3_The_Mysterious_White_Fog.jpg/revision/latest?cb=20230212020024"
   },
   {
     "id": "xc3-quest-file-xc3-the-sandbar-hulk-jpg",
@@ -2315,7 +2524,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Sandbar_Hulk.jpg",
-    "wikiPageId": 125037
+    "wikiPageId": 125037,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5c/XC3_The_Sandbar_Hulk.jpg/revision/latest?cb=20221216180537"
   },
   {
     "id": "xc3-quest-file-xc3-to-face-forward-jpg",
@@ -2325,7 +2535,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_To_Face_Forward.jpg",
-    "wikiPageId": 125712
+    "wikiPageId": 125712,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/49/XC3_To_Face_Forward.jpg/revision/latest?cb=20230226092640"
   },
   {
     "id": "xc3-quest-file-xc3-unease-jpg",
@@ -2335,7 +2546,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Unease.jpg",
-    "wikiPageId": 125705
+    "wikiPageId": 125705,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d3/XC3_Unease.jpg/revision/latest?cb=20230225111151"
   },
   {
     "id": "xc3-quest-a-young-nobles-request",
@@ -2347,7 +2559,8 @@
     "description": "\"Young Shiner of House Ortiz has sent the party a rescue request. Go look for Playne's squad at Cape Arcaphor in the Erythia Sea.\"",
     "giver": "Shiner",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Young_Noble's_Request",
-    "wikiPageId": 122216
+    "wikiPageId": 122216,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a4/A_Young_Noble%27s_Request.jpg/revision/latest?cb=20220825223107"
   },
   {
     "id": "xc3-quest-castle-access",
@@ -2359,7 +2572,8 @@
     "description": "\"Ghondor, currently in Agnian custody, knows the location of the true Queens. The first step in the prison rescue is talking to Samon in engineering.\"",
     "giver": "Monica",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Castle_Access",
-    "wikiPageId": 120311
+    "wikiPageId": 120311,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9e/XC3_Castle_Access.jpg/revision/latest?cb=20221213014302"
   },
   {
     "id": "xc3-quest-choices",
@@ -2370,7 +2584,8 @@
     "prerequisites": [],
     "description": "\"The City folk are worried that Moebius know where the City is. Ask Monica and Travis for more details.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Choices",
-    "wikiPageId": 120773
+    "wikiPageId": 120773,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7c/Choices.jpg/revision/latest?cb=20230314184827"
   },
   {
     "id": "xc3-quest-city-quests",
@@ -2391,7 +2606,8 @@
     "prerequisites": [],
     "description": "\"The Colony 15 soldiers seem to have gone missing from the City. Stop by Michiba Canteen to find out more.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_15_Soldiers_Missing",
-    "wikiPageId": 123114
+    "wikiPageId": 123114,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f4/Colony_15_Soldiers_Missing.jpg/revision/latest?cb=20230314185021"
   },
   {
     "id": "xc3-quest-counterpoint",
@@ -2403,7 +2619,8 @@
     "description": "\"In attempting to play the score she picked up in the City, Mio discovers that it's unfinished. Ask around in the City to find out who wrote it.\"",
     "giver": "World Item",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Counterpoint",
-    "wikiPageId": 120315
+    "wikiPageId": 120315,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/XC3_Counterpoint.jpg/revision/latest?cb=20230210235930"
   },
   {
     "id": "xc3-quest-friendship",
@@ -2415,7 +2632,8 @@
     "description": "\"Find a Bright Fig in Maktha Wildwood, and take it to Triton's drinking buddy, Jaggar.\"",
     "giver": "Jaggar",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Friendship",
-    "wikiPageId": 52268
+    "wikiPageId": 52268,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/ba/Friendship.jpg/revision/latest?cb=20220907042312"
   },
   {
     "id": "xc3-quest-joulietta-and-romero",
@@ -2426,7 +2644,8 @@
     "prerequisites": [],
     "description": "\"Go see Romero and Joulietta to find out if their marriage talks have progressed any further.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Joulietta_and_Romero",
-    "wikiPageId": 123817
+    "wikiPageId": 123817,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3f/XC3_Joulietta_and_Romero.jpg/revision/latest?cb=20230306105513"
   },
   {
     "id": "xc3-quest-life-in-the-city",
@@ -2437,7 +2656,8 @@
     "prerequisites": [],
     "description": "\"Walk around the City, and see how the Colony 15 soldiers are adapting to their new environment.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Life_in_the_City",
-    "wikiPageId": 122250
+    "wikiPageId": 122250,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/15/XC3_Life_in_the_City.png/revision/latest/scale-to-width-down/400?cb=20221104013134"
   },
   {
     "id": "xc3-quest-lovebirds",
@@ -2448,7 +2668,8 @@
     "prerequisites": [],
     "description": "\"It turns out Gray is a member of the Lost Numbers. Go meet his partner who is in the City, waiting for him.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lovebirds",
-    "wikiPageId": 120338
+    "wikiPageId": 120338,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/XC3_Lovebirds.jpg/revision/latest?cb=20230226092207"
   },
   {
     "id": "xc3-quest-romero-and-joulietta",
@@ -2460,7 +2681,8 @@
     "description": "\"Left to his own devices, Romero is likely to get himself killed. Bring back a Jeweled Pebble for the sake of his romantic relationship.\"",
     "giver": "Romero",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Romero_and_Joulietta",
-    "wikiPageId": 120295
+    "wikiPageId": 120295,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/XC3_Romero_and_Joulietta.jpg/revision/latest?cb=20230212015650"
   },
   {
     "id": "xc3-quest-shock-to-the-system",
@@ -2472,7 +2694,8 @@
     "description": "\"Upon finding a poorly-looking old woman in the City, the party decide to hurry her to the Medical Facility.\"",
     "giver": "Clara",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Shock_to_the_System",
-    "wikiPageId": 120297
+    "wikiPageId": 120297,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/98/XC3_Shock_to_the_System.jpg/revision/latest?cb=20230315093721"
   },
   {
     "id": "xc3-quest-the-key-to-a-new-home",
@@ -2483,7 +2706,8 @@
     "prerequisites": [],
     "description": "\"The City's Homecoming has been called off this year. Ask the members of the Six Houses and this year's Homecomers why.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Key_to_a_New_Home",
-    "wikiPageId": 123133
+    "wikiPageId": 123133,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/XC3_The_Key_to_a_New_Home.jpg/revision/latest?cb=20230315100717"
   },
   {
     "id": "xc3-quest-the-kids-aspiration",
@@ -2495,7 +2719,8 @@
     "description": "\"The City children appear to be planning something in Ribelly Square. Go and see what's up.\"",
     "giver": "Lanz",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Kids'_Aspiration",
-    "wikiPageId": 120777
+    "wikiPageId": 120777,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/The_Kids%27_Aspiration.jpg/revision/latest?cb=20230314190507"
   },
   {
     "id": "xc3-quest-the-scavenger-force",
@@ -2507,7 +2732,8 @@
     "description": "\"Curious about the Lost Numbers' scavenger force, the party decide to find them in the N'ohm Wetlands and get to know them better.\"",
     "giver": "City Resident",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Scavenger_Force",
-    "wikiPageId": 120299
+    "wikiPageId": 120299,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c4/XC3_The_Scavenger_Force.jpg/revision/latest?cb=20230212015135"
   },
   {
     "id": "xc3-quest-unsolved-riddle",
@@ -2519,7 +2745,8 @@
     "description": "\"The party is invited by some City kids to help solve a riddle. Search for what is \"at foot of 15 light\".\"",
     "giver": "Shiner",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unsolved_Riddle",
-    "wikiPageId": 120383
+    "wikiPageId": 120383,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/XC3_Unsolved_Riddle.jpg/revision/latest?cb=20230205050209"
   },
   {
     "id": "xc3-quest-writers-block",
@@ -2530,7 +2757,8 @@
     "prerequisites": [],
     "description": "\"Something called \"novels\" seem to be very popular in the City. Go to Wellwell's store to see if you can buy one.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Writer's_Block",
-    "wikiPageId": 120385
+    "wikiPageId": 120385,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b3/XC3_Writer%27s_Block.jpg/revision/latest?cb=20221121200810"
   },
   {
     "id": "xc3-quest-file-choices-jpg",
@@ -2540,7 +2768,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChoices.jpg",
-    "wikiPageId": 125766
+    "wikiPageId": 125766,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7c/Choices.jpg/revision/latest?cb=20230314184827"
   },
   {
     "id": "xc3-quest-file-colony-15-soldiers-missing-jpg",
@@ -2550,7 +2779,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AColony_15_Soldiers_Missing.jpg",
-    "wikiPageId": 125767
+    "wikiPageId": 125767,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f4/Colony_15_Soldiers_Missing.jpg/revision/latest?cb=20230314185021"
   },
   {
     "id": "xc3-quest-file-the-kids-aspiration-jpg",
@@ -2560,7 +2790,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Kids'_Aspiration.jpg",
-    "wikiPageId": 125774
+    "wikiPageId": 125774,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/The_Kids%27_Aspiration.jpg/revision/latest?cb=20230314190507"
   },
   {
     "id": "xc3-quest-file-xc3-counterpoint-jpg",
@@ -2570,7 +2801,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Counterpoint.jpg",
-    "wikiPageId": 125579
+    "wikiPageId": 125579,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/XC3_Counterpoint.jpg/revision/latest?cb=20230210235930"
   },
   {
     "id": "xc3-quest-file-xc3-joulietta-and-romero-jpg",
@@ -2580,7 +2812,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Joulietta_and_Romero.jpg",
-    "wikiPageId": 125722
+    "wikiPageId": 125722,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3f/XC3_Joulietta_and_Romero.jpg/revision/latest?cb=20230306105513"
   },
   {
     "id": "xc3-quest-file-xc3-lovebirds-jpg",
@@ -2590,7 +2823,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Lovebirds.jpg",
-    "wikiPageId": 125710
+    "wikiPageId": 125710,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/XC3_Lovebirds.jpg/revision/latest?cb=20230226092207"
   },
   {
     "id": "xc3-quest-file-xc3-romero-and-joulietta-jpg",
@@ -2600,7 +2834,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Romero_and_Joulietta.jpg",
-    "wikiPageId": 125596
+    "wikiPageId": 125596,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/XC3_Romero_and_Joulietta.jpg/revision/latest?cb=20230212015650"
   },
   {
     "id": "xc3-quest-file-xc3-shock-to-the-system-jpg",
@@ -2610,7 +2845,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Shock_to_the_System.jpg",
-    "wikiPageId": 125776
+    "wikiPageId": 125776,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/98/XC3_Shock_to_the_System.jpg/revision/latest?cb=20230315093721"
   },
   {
     "id": "xc3-quest-file-xc3-the-key-to-a-new-home-jpg",
@@ -2620,7 +2856,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Key_to_a_New_Home.jpg",
-    "wikiPageId": 125785
+    "wikiPageId": 125785,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/XC3_The_Key_to_a_New_Home.jpg/revision/latest?cb=20230315100717"
   },
   {
     "id": "xc3-quest-file-xc3-the-scavenger-force-jpg",
@@ -2630,7 +2867,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Scavenger_Force.jpg",
-    "wikiPageId": 125594
+    "wikiPageId": 125594,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c4/XC3_The_Scavenger_Force.jpg/revision/latest?cb=20230212015135"
   },
   {
     "id": "xc3-quest-file-xc3-unsolved-riddle-jpg",
@@ -2640,7 +2878,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Unsolved_Riddle.jpg",
-    "wikiPageId": 125479
+    "wikiPageId": 125479,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/XC3_Unsolved_Riddle.jpg/revision/latest?cb=20230205050209"
   },
   {
     "id": "xc3-quest-a-burning-curiosity",
@@ -2652,7 +2891,8 @@
     "description": "\"How do Agnian Levnises float? Work with Ymeer from the maintenance and development team to find out the answer to this curious question\"",
     "giver": "Ymeer",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Burning_Curiosity",
-    "wikiPageId": 120300
+    "wikiPageId": 120300,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/XC3_A_Burning_Curiosity.jpg/revision/latest?cb=20230211000140"
   },
   {
     "id": "xc3-quest-a-burning-curiosity-part-2",
@@ -2664,7 +2904,8 @@
     "description": "\"Ymeer is frustrated that his research has reached a dead end. Acquire parts from the \"Mechapod Carthegia\" to help get his research up and running again.\"",
     "giver": "Ymeer",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Burning_Curiosity%2C_Part_2",
-    "wikiPageId": 120301
+    "wikiPageId": 120301,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/A_Burning_Curiosity%2C_Part_2.jpg/revision/latest?cb=20230314185603"
   },
   {
     "id": "xc3-quest-alexandrias-birthday",
@@ -2675,7 +2916,8 @@
     "prerequisites": [],
     "description": "\"Nobody can seem to reach Chickadee. Inquire around Colony Iota for more information.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Alexandria's_Birthday",
-    "wikiPageId": 123128
+    "wikiPageId": 123128,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c4/Alexandria%27s_Birthday.jpg/revision/latest?cb=20230314185926"
   },
   {
     "id": "xc3-quest-bearing-fruit",
@@ -2686,7 +2928,8 @@
     "prerequisites": [],
     "description": "\"Collectopedia Cards are being used in unexpected ways among the liberated colonies. Help solve some lingering issues with the system.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bearing_Fruit",
-    "wikiPageId": 123116
+    "wikiPageId": 123116,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/Bearing_Fruit.jpg/revision/latest?cb=20230123131913"
   },
   {
     "id": "xc3-quest-beyond-mercy-and-revenge",
@@ -2698,7 +2941,8 @@
     "description": "\"Go visit Laszlo who is in the Colony 4 Canteen.\"",
     "giver": "Maxie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Beyond_Mercy_and_Revenge",
-    "wikiPageId": 120308
+    "wikiPageId": 120308,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/XC3_Beyond_Mercy_and_Revenge.jpg/revision/latest?cb=20230304111009"
   },
   {
     "id": "xc3-quest-big-friendly-friend",
@@ -2709,7 +2953,8 @@
     "prerequisites": [],
     "description": "\"Valdi has been leaving all his commander-type work to his lieutenant, Yuzet...See if there is a better way to arrange all this \"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Big_Friendly_Friend",
-    "wikiPageId": 120309
+    "wikiPageId": 120309,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/58/XC3_Big_Friendly_Friend.jpg/revision/latest?cb=20230111033405"
   },
   {
     "id": "xc3-quest-bugs",
@@ -2720,7 +2965,8 @@
     "prerequisites": [],
     "description": "\"It seems the Collectopaedia is experiencing issues, with duplicate and unreadable posts. Find someone with specialist knowledge and ask them about it.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bugs",
-    "wikiPageId": 120310
+    "wikiPageId": 120310,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/ba/XC3_Bugs.jpg/revision/latest?cb=20230225111409"
   },
   {
     "id": "xc3-quest-charity-and-hypocrisy",
@@ -2731,7 +2977,8 @@
     "prerequisites": [],
     "description": "\"Colony 4 is under threat from a large monster force. The party decide to help them, while remaining wary of meddling in their affairs *too* much...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Charity_and_Hypocrisy",
-    "wikiPageId": 120312
+    "wikiPageId": 120312,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/ff/XC3_Charity_and_Hypocrisy.jpg/revision/latest?cb=20221229043917"
   },
   {
     "id": "xc3-quest-collapsed-traderpon",
@@ -2743,7 +2990,8 @@
     "description": "\"The party finds a collapsed Nopon Merchant in Eagus Wilderness. Help rehydrate the poor thing.\"",
     "giver": "Panepane",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collapsed_Traderpon",
-    "wikiPageId": 120313
+    "wikiPageId": 120313,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/56/XC3_Collapsed_Traderpon.jpg/revision/latest?cb=20221224001142"
   },
   {
     "id": "xc3-quest-dorin-and-bambam",
@@ -2754,7 +3002,8 @@
     "prerequisites": [],
     "description": "\"A certain Nopon from maintenance and development has gone missing. Ask M&D chief Dinzel to see if he knows the errant Nopon's whereabouts\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dorin_and_Bambam",
-    "wikiPageId": 120317
+    "wikiPageId": 120317,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/XC3_Dorin_and_Bambam.jpg/revision/latest?cb=20221229044129"
   },
   {
     "id": "xc3-quest-dorrick-is-online",
@@ -2766,7 +3015,8 @@
     "description": "\"Dorrick project's phase nine is a live combat test. Go to the Terra Wastelands to see Dorrick in action.\"",
     "giver": "Repapa",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dorrick_is_Online!",
-    "wikiPageId": 121002
+    "wikiPageId": 121002,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/XC3_Dorrick_is_Online%21.jpg/revision/latest?cb=20221223000059"
   },
   {
     "id": "xc3-quest-enemies-and-allies",
@@ -2778,7 +3028,8 @@
     "description": "''Go to Colony Iota's Storehouse. It seems that Alexandria wants to open up about colony affairs in the hope of gaining the party's trust''",
     "giver": "Alexandria",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Enemies_and_Allies",
-    "wikiPageId": 119712
+    "wikiPageId": 119712,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/XC3_Enemies_and_Allies.jpg/revision/latest?cb=20230204071358"
   },
   {
     "id": "xc3-quest-exhausted-supplies",
@@ -2789,7 +3040,8 @@
     "prerequisites": [],
     "description": "\"The procurement division is being flooded by supply requests from every department. Help them out.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Exhausted_Supplies",
-    "wikiPageId": 120318
+    "wikiPageId": 120318,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/XC3_Exhausted_Supplies.jpg/revision/latest?cb=20230108222649"
   },
   {
     "id": "xc3-quest-fear-of-the-unknown",
@@ -2801,7 +3053,8 @@
     "description": "\"An odd noise reverberating in the area is spooking Bambam and Dorin. Go find the source of it to put their minds at rest.\"",
     "giver": "Dorin & Bambam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fear_of_the_Unknown",
-    "wikiPageId": 120320
+    "wikiPageId": 120320,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/XC3_Fear_of_the_Unknown.jpg/revision/latest?cb=20230108223152"
   },
   {
     "id": "xc3-quest-finite-time",
@@ -2813,7 +3066,8 @@
     "description": "\"Taion decides to help procure some supplies to confirm the accuracy of Colony Iota's intel, though is decidedly unimpressed by Fili's attitude.\"",
     "giver": "Fili",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Finite_Time",
-    "wikiPageId": 120321
+    "wikiPageId": 120321,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/XC3_Finite_Time.jpg/revision/latest?cb=20230204070021"
   },
   {
     "id": "xc3-quest-flarans-request",
@@ -2825,7 +3079,8 @@
     "description": "\"Follow Maxie's instructions, and ask Fla'ran for information on one of the monsters threatening the colony.\"",
     "giver": "Maxie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fla'ran's_Request",
-    "wikiPageId": 120323
+    "wikiPageId": 120323,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a4/XC3_Fla%27ran%27s_Request.jpg/revision/latest?cb=20221224002214"
   },
   {
     "id": "xc3-quest-fornis-region-quests",
@@ -2847,7 +3102,8 @@
     "description": "\"In Colony Iota, soldiers who have contributed greatly are rewarded on Harvest Day, but one of them seems to be missing. Go find the soldier in question.\"",
     "giver": "Chickadee",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Harvest_Day",
-    "wikiPageId": 120326
+    "wikiPageId": 120326,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/86/XC3_Harvest_Day.jpg/revision/latest?cb=20230111033043"
   },
   {
     "id": "xc3-quest-helping-out",
@@ -2859,7 +3115,8 @@
     "description": "\"With the southward route blocked and roadworks ongoing, now's as good a time as any to see who might need helping in Colony 4.\"",
     "giver": "Taion",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Helping_Out",
-    "wikiPageId": 120327
+    "wikiPageId": 120327,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/40/XC3_Helping_Out.jpg/revision/latest?cb=20221209004758"
   },
   {
     "id": "xc3-quest-jeremys-request",
@@ -2871,7 +3128,8 @@
     "description": "\"Follow Maxie's instructions, and ask Jeremy for information on one of the monsters threatening the colony.\"",
     "giver": "Maxie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Jeremy's_Request",
-    "wikiPageId": 120331
+    "wikiPageId": 120331,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/XC3_Jeremy%27s_Request.jpg/revision/latest?cb=20221224001851"
   },
   {
     "id": "xc3-quest-melody-of-mourning",
@@ -2882,7 +3140,8 @@
     "prerequisites": [],
     "description": "\"Hearing about some husks left abandoned by Singbreeze Funnel, the party set out to try and see them off.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Melody_of_Mourning",
-    "wikiPageId": 120339
+    "wikiPageId": 120339,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/XC3_Melody_of_Mourning.jpg/revision/latest?cb=20221229044354"
   },
   {
     "id": "xc3-quest-missing-parts",
@@ -2894,7 +3153,8 @@
     "description": "\"The parts for Mechafriend have gone missing during maintenance. Ask around to see if anyone knows where they are.\"",
     "giver": "Repapa",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Missing_Parts",
-    "wikiPageId": 120342
+    "wikiPageId": 120342,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/29/XC3_Missing_Parts.jpg/revision/latest?cb=20230113041025"
   },
   {
     "id": "xc3-quest-riku-and-manana",
@@ -2906,7 +3166,8 @@
     "description": "\"Now that you've set up camp at the oasis for the night, help Manana make a scrumptious meal.\"",
     "giver": "Riku and Manana",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Riku_and_Manana",
-    "wikiPageId": 120345
+    "wikiPageId": 120345,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/XC3_Riku_and_Manana.jpg/revision/latest?cb=20221208000832"
   },
   {
     "id": "xc3-quest-rousing-bolearis",
@@ -2918,7 +3179,8 @@
     "description": "\"Losing Ethel has caused Bolearis to sink into a deep funk. Go see how he's getting on.\"",
     "giver": "Maxie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Rousing_Bolearis",
-    "wikiPageId": 120346
+    "wikiPageId": 120346,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/XC3_Rousing_Bolearis.jpg/revision/latest?cb=20230204070346"
   },
   {
     "id": "xc3-quest-scant-supplies",
@@ -2930,7 +3192,8 @@
     "description": "\"Due to sending other colonies lots of supplies, Colony Iota itself is running short. See if you can help them out with that.\"",
     "giver": "Alexandria",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Scant_Supplies",
-    "wikiPageId": 120348
+    "wikiPageId": 120348,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ee/XC3_Scant_Supplies.jpg/revision/latest?cb=20230305111304"
   },
   {
     "id": "xc3-quest-serene-melody",
@@ -2941,7 +3204,8 @@
     "prerequisites": [],
     "description": "\"Stories arise of a Colony 30 Nopon aspiring to become an off-seer. Go meet him and find out his motivation.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Serene_Melody",
-    "wikiPageId": 120350
+    "wikiPageId": 120350,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/08/XC3_Serene_Melody.jpg/revision/latest?cb=20230104050541"
   },
   {
     "id": "xc3-quest-severed-connection",
@@ -2953,7 +3217,8 @@
     "description": "\"A squad secretly dispatched to other colonies was attacked by parties unknown and wiped out. Search the site of the attack to find out who did it.\"",
     "giver": "Colony 4 Soldier",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Severed_Connection",
-    "wikiPageId": 120351
+    "wikiPageId": 120351,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/XC3_Severed_Connection.jpg/revision/latest?cb=20230119030912"
   },
   {
     "id": "xc3-quest-so-much-more-to-see",
@@ -2965,7 +3230,8 @@
     "description": "\"Bambam is out cold! Dorin is desperately hurrying him over to Oleshandra back at Colony 4...\"",
     "giver": "Dorin",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/So_Much_More_to_See",
-    "wikiPageId": 120353
+    "wikiPageId": 120353,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/df/So_Much_More_to_See_Quest.png/revision/latest?cb=20220827041058"
   },
   {
     "id": "xc3-quest-tactical-eradication",
@@ -2977,7 +3243,8 @@
     "description": "\"Maxie, whom the party saved previously, asks them to eliminate a certain three boss monsters. Ask his subordinates for more details.\"",
     "giver": "Colony 4 Soldiers",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tactical_Eradication",
-    "wikiPageId": 120357
+    "wikiPageId": 120357,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/XC3_Tactical_Eradication.jpg/revision/latest?cb=20230113040709"
   },
   {
     "id": "xc3-quest-the-desert-hulk",
@@ -2988,7 +3255,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Desert_Hulk",
-    "wikiPageId": 120367
+    "wikiPageId": 120367,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/XC3_The_Desert_Hulk.jpg/revision/latest?cb=20221216180853"
   },
   {
     "id": "xc3-quest-the-final-cog",
@@ -3000,7 +3268,8 @@
     "description": "\"Dorrick is finally complete. Go to the Terra Wastelands to take part in the grand unveiling.\"",
     "giver": "Valdi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Final_Cog",
-    "wikiPageId": 121005
+    "wikiPageId": 121005,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/15/The_Final_Cog.jpg/revision/latest?cb=20230314183848"
   },
   {
     "id": "xc3-quest-the-missing-squad",
@@ -3012,7 +3281,8 @@
     "description": "\"A Colony 30 squad sent into Dannagh Desert hasn't returned, and communications are down. Go there, and check on their well-being.\"",
     "giver": "Ven",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Missing_Squad",
-    "wikiPageId": 120369
+    "wikiPageId": 120369,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/00/XC3_The_Missing_Squad.jpg/revision/latest?cb=20230104050938"
   },
   {
     "id": "xc3-quest-the-ouroboros-experiment",
@@ -3024,7 +3294,8 @@
     "description": "\"Falling into Salazar's trap, the party is left in Dannagh Desert. Meet her, and get your supply distribution authorization back.\"",
     "giver": "Salazar",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ouroboros_Experiment",
-    "wikiPageId": 120372
+    "wikiPageId": 120372,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ce/XC3_The_Ouroboros_Experiment.jpg/revision/latest?cb=20221206034756"
   },
   {
     "id": "xc3-quest-the-tableland-hulk",
@@ -3035,7 +3306,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Tableland_Hulk",
-    "wikiPageId": 120374
+    "wikiPageId": 120374,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a6/XC3_The_Tableland_Hulk.jpg/revision/latest?cb=20221216180746"
   },
   {
     "id": "xc3-quest-the-thrill-of-the-hunt",
@@ -3047,7 +3319,8 @@
     "description": "\"Past the strange cave filled with mechanical contraptions, the party finds a bizarre Nopon named Burrburr. See what has got her so excitable.\"",
     "giver": "Burrburr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Thrill_of_the_Hunt!",
-    "wikiPageId": 120375
+    "wikiPageId": 120375,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/XC3_The_Thrill_of_the_Hunt%21.jpg/revision/latest?cb=20230108223519"
   },
   {
     "id": "xc3-quest-the-true-culprit",
@@ -3058,7 +3331,8 @@
     "prerequisites": [],
     "description": "\"Pulipuli raises concerns when he comes up in conversation with Widgewidge. Find him hiding in maintenance to discuss Mechafriend.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_True_Culprit%3F",
-    "wikiPageId": 120376
+    "wikiPageId": 120376,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/48/XC3_The_True_Culprit%3F.jpg/revision/latest?cb=20230117024731"
   },
   {
     "id": "xc3-quest-theres-no-ether",
@@ -3069,7 +3343,8 @@
     "prerequisites": [],
     "description": "\"Colony 30 has run out of ether cylinders. You'll need to procure over 2,000 of them to restart Dorrick's construction.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/There's_No_Ether!!!",
-    "wikiPageId": 120373
+    "wikiPageId": 120373,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/XC3_There%27s_No_Ether%21%21.jpg/revision/latest?cb=20221202041357"
   },
   {
     "id": "xc3-quest-wish-upon-a-clover",
@@ -3080,7 +3355,8 @@
     "prerequisites": [],
     "description": "\"Ven, a Colony 30 mechanic, seems to be collecting Fourtune Clovers. Try finding out where best to harvest them\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Wish_Upon_a_Clover",
-    "wikiPageId": 120384
+    "wikiPageId": 120384,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/22/XC3_Wish_Upon_a_Clover.jpg/revision/latest?cb=20230108222922"
   },
   {
     "id": "xc3-quest-yordes-request",
@@ -3092,7 +3368,8 @@
     "description": "\"Follow Maxie's instructions, and ask Yorde for information on one of the monsters threatening the colony.\"",
     "giver": "Maxie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Yorde's_Request",
-    "wikiPageId": 120386
+    "wikiPageId": 120386,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/24/XC3_Yorde%27s_Request.jpg/revision/latest?cb=20221224002350"
   },
   {
     "id": "xc3-quest-file-a-burning-curiosity-part-2-jpg",
@@ -3102,7 +3379,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Burning_Curiosity%2C_Part_2.jpg",
-    "wikiPageId": 125770
+    "wikiPageId": 125770,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/A_Burning_Curiosity%2C_Part_2.jpg/revision/latest?cb=20230314185603"
   },
   {
     "id": "xc3-quest-file-alexandrias-birthday-jpg",
@@ -3112,7 +3390,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAlexandria's_Birthday.jpg",
-    "wikiPageId": 125772
+    "wikiPageId": 125772,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c4/Alexandria%27s_Birthday.jpg/revision/latest?cb=20230314185926"
   },
   {
     "id": "xc3-quest-file-bearing-fruit-jpg",
@@ -3122,7 +3401,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABearing_Fruit.jpg",
-    "wikiPageId": 125303
+    "wikiPageId": 125303,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/62/Bearing_Fruit.jpg/revision/latest?cb=20230123131913"
   },
   {
     "id": "xc3-quest-file-more-challenge-battles-jpg",
@@ -3132,7 +3412,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMore_Challenge_Battles!.jpg",
-    "wikiPageId": 125612
+    "wikiPageId": 125612,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/More_Challenge_Battles%21.jpg/revision/latest?cb=20230216013815"
   },
   {
     "id": "xc3-quest-file-the-final-cog-jpg",
@@ -3142,7 +3423,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Final_Cog.jpg",
-    "wikiPageId": 125762
+    "wikiPageId": 125762,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/15/The_Final_Cog.jpg/revision/latest?cb=20230314183848"
   },
   {
     "id": "xc3-quest-file-xc3-a-burning-curiosity-jpg",
@@ -3152,7 +3434,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Burning_Curiosity.jpg",
-    "wikiPageId": 125580
+    "wikiPageId": 125580,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/XC3_A_Burning_Curiosity.jpg/revision/latest?cb=20230211000140"
   },
   {
     "id": "xc3-quest-file-xc3-beyond-mercy-and-revenge-jpg",
@@ -3162,7 +3445,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Beyond_Mercy_and_Revenge.jpg",
-    "wikiPageId": 125716
+    "wikiPageId": 125716,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/XC3_Beyond_Mercy_and_Revenge.jpg/revision/latest?cb=20230304111009"
   },
   {
     "id": "xc3-quest-file-xc3-big-friendly-friend-jpg",
@@ -3172,7 +3456,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Big_Friendly_Friend.jpg",
-    "wikiPageId": 125199
+    "wikiPageId": 125199,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/58/XC3_Big_Friendly_Friend.jpg/revision/latest?cb=20230111033405"
   },
   {
     "id": "xc3-quest-file-xc3-bugs-jpg",
@@ -3182,7 +3467,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Bugs.jpg",
-    "wikiPageId": 125706
+    "wikiPageId": 125706,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/ba/XC3_Bugs.jpg/revision/latest?cb=20230225111409"
   },
   {
     "id": "xc3-quest-file-xc3-enemies-and-allies-jpg",
@@ -3192,7 +3478,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Enemies_and_Allies.jpg",
-    "wikiPageId": 125476
+    "wikiPageId": 125476,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/XC3_Enemies_and_Allies.jpg/revision/latest?cb=20230204071358"
   },
   {
     "id": "xc3-quest-file-xc3-exhausted-supplies-jpg",
@@ -3202,7 +3489,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Exhausted_Supplies.jpg",
-    "wikiPageId": 125158
+    "wikiPageId": 125158,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/XC3_Exhausted_Supplies.jpg/revision/latest?cb=20230108222649"
   },
   {
     "id": "xc3-quest-file-xc3-fear-of-the-unknown-jpg",
@@ -3212,7 +3500,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Fear_of_the_Unknown.jpg",
-    "wikiPageId": 125160
+    "wikiPageId": 125160,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/XC3_Fear_of_the_Unknown.jpg/revision/latest?cb=20230108223152"
   },
   {
     "id": "xc3-quest-file-xc3-finite-time-jpg",
@@ -3222,7 +3511,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Finite_Time.jpg",
-    "wikiPageId": 125473
+    "wikiPageId": 125473,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/XC3_Finite_Time.jpg/revision/latest?cb=20230204070021"
   },
   {
     "id": "xc3-quest-file-xc3-harvest-day-jpg",
@@ -3232,7 +3522,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Harvest_Day.jpg",
-    "wikiPageId": 125198
+    "wikiPageId": 125198,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/86/XC3_Harvest_Day.jpg/revision/latest?cb=20230111033043"
   },
   {
     "id": "xc3-quest-file-xc3-missing-parts-jpg",
@@ -3242,7 +3533,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Missing_Parts.jpg",
-    "wikiPageId": 125215
+    "wikiPageId": 125215,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/29/XC3_Missing_Parts.jpg/revision/latest?cb=20230113041025"
   },
   {
     "id": "xc3-quest-file-xc3-riku-and-manana-jpg",
@@ -3252,7 +3544,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Riku_and_Manana.jpg",
-    "wikiPageId": 124970
+    "wikiPageId": 124970,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/XC3_Riku_and_Manana.jpg/revision/latest?cb=20221208000832"
   },
   {
     "id": "xc3-quest-file-xc3-rousing-bolearis-jpg",
@@ -3262,7 +3555,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Rousing_Bolearis.jpg",
-    "wikiPageId": 125474
+    "wikiPageId": 125474,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/81/XC3_Rousing_Bolearis.jpg/revision/latest?cb=20230204070346"
   },
   {
     "id": "xc3-quest-file-xc3-scant-supplies-jpg",
@@ -3272,7 +3566,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Scant_Supplies.jpg",
-    "wikiPageId": 125719
+    "wikiPageId": 125719,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ee/XC3_Scant_Supplies.jpg/revision/latest?cb=20230305111304"
   },
   {
     "id": "xc3-quest-file-xc3-serene-melody-jpg",
@@ -3282,7 +3577,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Serene_Melody.jpg",
-    "wikiPageId": 125143
+    "wikiPageId": 125143,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/08/XC3_Serene_Melody.jpg/revision/latest?cb=20230104050541"
   },
   {
     "id": "xc3-quest-file-xc3-severed-connection-jpg",
@@ -3292,7 +3588,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Severed_Connection.jpg",
-    "wikiPageId": 125282
+    "wikiPageId": 125282,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/XC3_Severed_Connection.jpg/revision/latest?cb=20230119030912"
   },
   {
     "id": "xc3-quest-file-xc3-tactical-eradication-jpg",
@@ -3302,7 +3599,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Tactical_Eradication.jpg",
-    "wikiPageId": 125214
+    "wikiPageId": 125214,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/XC3_Tactical_Eradication.jpg/revision/latest?cb=20230113040709"
   },
   {
     "id": "xc3-quest-file-xc3-the-desert-hulk-jpg",
@@ -3312,7 +3610,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Desert_Hulk.jpg",
-    "wikiPageId": 125040
+    "wikiPageId": 125040,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/XC3_The_Desert_Hulk.jpg/revision/latest?cb=20221216180853"
   },
   {
     "id": "xc3-quest-file-xc3-the-missing-squad-jpg",
@@ -3322,7 +3621,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Missing_Squad.jpg",
-    "wikiPageId": 125144
+    "wikiPageId": 125144,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/00/XC3_The_Missing_Squad.jpg/revision/latest?cb=20230104050938"
   },
   {
     "id": "xc3-quest-file-xc3-the-tableland-hulk-jpg",
@@ -3332,7 +3632,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Tableland_Hulk.jpg",
-    "wikiPageId": 125039
+    "wikiPageId": 125039,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a6/XC3_The_Tableland_Hulk.jpg/revision/latest?cb=20221216180746"
   },
   {
     "id": "xc3-quest-file-xc3-the-thrill-of-the-hunt-jpg",
@@ -3342,7 +3643,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Thrill_of_the_Hunt!.jpg",
-    "wikiPageId": 125161
+    "wikiPageId": 125161,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/XC3_The_Thrill_of_the_Hunt%21.jpg/revision/latest?cb=20230108223519"
   },
   {
     "id": "xc3-quest-file-xc3-the-true-culprit-jpg",
@@ -3352,7 +3654,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_True_Culprit%3F.jpg",
-    "wikiPageId": 125258
+    "wikiPageId": 125258,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/48/XC3_The_True_Culprit%3F.jpg/revision/latest?cb=20230117024731"
   },
   {
     "id": "xc3-quest-file-xc3-theres-no-ether-jpg",
@@ -3362,7 +3665,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_There's_No_Ether!!.jpg",
-    "wikiPageId": 124940
+    "wikiPageId": 124940,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/XC3_There%27s_No_Ether%21%21.jpg/revision/latest?cb=20221202041357"
   },
   {
     "id": "xc3-quest-file-xc3-wish-upon-a-clover-jpg",
@@ -3372,7 +3676,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Wish_Upon_a_Clover.jpg",
-    "wikiPageId": 125159
+    "wikiPageId": 125159,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/22/XC3_Wish_Upon_a_Clover.jpg/revision/latest?cb=20230108222922"
   },
   {
     "id": "xc3-quest-a-dark-cloud",
@@ -3384,7 +3689,8 @@
     "description": "\"According to guards Heath and Wynonna, dissidents in the Castle are plotting something. Go to the ether mine to investigate.\"",
     "giver": "Heath & Wynonna",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Dark_Cloud",
-    "wikiPageId": 123138
+    "wikiPageId": 123138,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/30/XC3_A_Dark_Cloud.jpg/revision/latest?cb=20230304111843"
   },
   {
     "id": "xc3-quest-a-warriors-pride",
@@ -3395,7 +3701,8 @@
     "prerequisites": [],
     "description": "\"Make contact with Zoren's squad.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Warrior's_Pride",
-    "wikiPageId": 120307
+    "wikiPageId": 120307,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ac/XC3_A_Warrior%27s_Pride.jpg/revision/latest?cb=20230130023017"
   },
   {
     "id": "xc3-quest-an-artist",
@@ -3406,7 +3713,8 @@
     "prerequisites": [],
     "description": "\"Apparently, there is an artist at Fort O'Virbus. Go meet him.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/An_Artist",
-    "wikiPageId": 120305
+    "wikiPageId": 120305,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b6/XC3_An_Artist.png/revision/latest/scale-to-width-down/400?cb=20221103164128"
   },
   {
     "id": "xc3-quest-colony-9s-backup",
@@ -3418,7 +3726,8 @@
     "description": "\"Colony 9 has requested backup following a recent Origin attack. Go there with Melia.\"",
     "giver": "Aizel",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Colony_9's_Backup",
-    "wikiPageId": 120314
+    "wikiPageId": 120314,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f5/XC3_Colony_9%27s_Backup.jpg/revision/latest?cb=20221226054727"
   },
   {
     "id": "xc3-quest-fate",
@@ -3430,7 +3739,8 @@
     "description": "\"Sigrún requests the party escort Zoren back to the fort. Just what is the relationship between those two…?\"",
     "giver": "Sigrún",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fate",
-    "wikiPageId": 123142
+    "wikiPageId": 123142,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bc/XC3_Fate.png/revision/latest/scale-to-width-down/400?cb=20221031201453"
   },
   {
     "id": "xc3-quest-festival-of-war",
@@ -3442,7 +3752,8 @@
     "description": "\"Ashera invites the party to a mock battle, but she won't be taking part. Instead, she decides to coerce someone else to join the party's side this time\"",
     "giver": "Ashera",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Festival_of_War",
-    "wikiPageId": 123113
+    "wikiPageId": 123113,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d2/Festival_of_War.jpg/revision/latest?cb=20220908145214"
   },
   {
     "id": "xc3-quest-friction-with-agnus",
@@ -3454,7 +3765,8 @@
     "description": "\"The Agnian troops Aizel provoked have rallied together to become a rebel force. Go to Agnus Castle to discuss and resolve the issue.\"",
     "giver": "Aizel",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Friction_With_Agnus",
-    "wikiPageId": 120325
+    "wikiPageId": 120325,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/31/XC3_Friction_With_Agnus.jpg/revision/latest?cb=20221226054934"
   },
   {
     "id": "xc3-quest-indomitable",
@@ -3465,7 +3777,8 @@
     "prerequisites": [],
     "description": "\"Make contact with Clad's squad.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Indomitable",
-    "wikiPageId": 120329
+    "wikiPageId": 120329,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d5/XC3_Indomitable.jpg/revision/latest?cb=20230304111931"
   },
   {
     "id": "xc3-quest-keves-castle-region-quests",
@@ -3487,7 +3800,8 @@
     "description": "\"Many of Fort O'Virbus's leaders-in-training underestimate you. Show them beyond any doubt that experience trumps simple knowledge.\"",
     "giver": "Heath",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Leaders_in_Training",
-    "wikiPageId": 120333
+    "wikiPageId": 120333,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4b/XC3_Leaders_in_Training.jpg/revision/latest?cb=20230315095838"
   },
   {
     "id": "xc3-quest-merciless-pursuit",
@@ -3499,7 +3813,8 @@
     "description": "\"Some soldiers have deserted from Colony 11. Hurry to Maktha Wildwood where they escaped to.\"",
     "giver": "Clad",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Merciless_Pursuit",
-    "wikiPageId": 120340
+    "wikiPageId": 120340,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/XC3_Merciless_Pursuit.jpg/revision/latest?cb=20230315094354"
   },
   {
     "id": "xc3-quest-rules-of-the-hunt",
@@ -3510,7 +3825,8 @@
     "prerequisites": [],
     "description": "\"Make contact with Easel's squad.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Rules_of_the_Hunt",
-    "wikiPageId": 120347
+    "wikiPageId": 120347,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/06/XC3_Rules_of_the_Hunt.jpg/revision/latest?cb=20230211001241"
   },
   {
     "id": "xc3-quest-the-castle-guard",
@@ -3522,7 +3838,8 @@
     "description": "\"The Captain of the Guard is looking for the party. Go and see what she needs.\"",
     "giver": "Sigrún",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Castle_Guard",
-    "wikiPageId": 120364
+    "wikiPageId": 120364,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/The_Castle_Guard_XC3_pic.png/revision/latest/scale-to-width-down/400?cb=20221030201855"
   },
   {
     "id": "xc3-quest-the-city-pep-talk",
@@ -3534,7 +3851,8 @@
     "description": "\"Melia receives a request from Monica asking her to offer some words of encouragement to the City. Head there together with her.\"",
     "giver": "Aizel",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_City_Pep_Talk",
-    "wikiPageId": 120365
+    "wikiPageId": 120365,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/XC3_The_City_Pep_Talk.jpg/revision/latest?cb=20221226055101"
   },
   {
     "id": "xc3-quest-the-new-inspector",
@@ -3546,7 +3864,8 @@
     "description": "\"Inspector Ulrich wants to check in on the colonies that the party liberated. Guide him through the liberated colonies.\"",
     "giver": "Ulrich",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_New_Inspector",
-    "wikiPageId": 123137
+    "wikiPageId": 123137,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b9/XC3_The_New_Inspector.jpg/revision/latest?cb=20230315100048"
   },
   {
     "id": "xc3-quest-the-true-inspector",
@@ -3557,7 +3876,8 @@
     "prerequisites": [],
     "description": "\"The inspector was allegedly seen in the basement storehouse at night. Go to the storehouse, and uncover the truth.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_True_Inspector",
-    "wikiPageId": 123139
+    "wikiPageId": 123139,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/XC3_The_True_Inspector.jpg/revision/latest?cb=20230206002058"
   },
   {
     "id": "xc3-quest-three-ravens-at-war",
@@ -3568,7 +3888,8 @@
     "prerequisites": [],
     "description": "\"Ashera entrusts Colony 11 to the party. For starters, meet each of the \"Three Ravens\", her squad leaders, and get them on-side.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Three_Ravens_at_War",
-    "wikiPageId": 120380
+    "wikiPageId": 120380,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/Three_Ravens_at_War.jpg/revision/latest?cb=20230314185349"
   },
   {
     "id": "xc3-quest-file-three-ravens-at-war-jpg",
@@ -3578,7 +3899,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThree_Ravens_at_War.jpg",
-    "wikiPageId": 125769
+    "wikiPageId": 125769,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/Three_Ravens_at_War.jpg/revision/latest?cb=20230314185349"
   },
   {
     "id": "xc3-quest-file-xc3-a-warriors-pride-jpg",
@@ -3588,7 +3910,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Warrior's_Pride.jpg",
-    "wikiPageId": 125409
+    "wikiPageId": 125409,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ac/XC3_A_Warrior%27s_Pride.jpg/revision/latest?cb=20230130023017"
   },
   {
     "id": "xc3-quest-file-xc3-indomitable-jpg",
@@ -3598,7 +3921,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Indomitable.jpg",
-    "wikiPageId": 125717
+    "wikiPageId": 125717,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d5/XC3_Indomitable.jpg/revision/latest?cb=20230304111931"
   },
   {
     "id": "xc3-quest-file-xc3-leaders-in-training-jpg",
@@ -3608,7 +3932,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Leaders_in_Training.jpg",
-    "wikiPageId": 125783
+    "wikiPageId": 125783,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4b/XC3_Leaders_in_Training.jpg/revision/latest?cb=20230315095838"
   },
   {
     "id": "xc3-quest-file-xc3-merciless-pursuit-jpg",
@@ -3618,7 +3943,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Merciless_Pursuit.jpg",
-    "wikiPageId": 125778
+    "wikiPageId": 125778,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/XC3_Merciless_Pursuit.jpg/revision/latest?cb=20230315094354"
   },
   {
     "id": "xc3-quest-file-xc3-rules-of-the-hunt-jpg",
@@ -3628,7 +3954,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Rules_of_the_Hunt.jpg",
-    "wikiPageId": 125583
+    "wikiPageId": 125583,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/06/XC3_Rules_of_the_Hunt.jpg/revision/latest?cb=20230211001241"
   },
   {
     "id": "xc3-quest-file-xc3-the-new-inspector-jpg",
@@ -3638,7 +3965,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_New_Inspector.jpg",
-    "wikiPageId": 125784
+    "wikiPageId": 125784,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b9/XC3_The_New_Inspector.jpg/revision/latest?cb=20230315100048"
   },
   {
     "id": "xc3-quest-file-xc3-the-true-inspector-jpg",
@@ -3648,7 +3976,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_True_Inspector.jpg",
-    "wikiPageId": 125519
+    "wikiPageId": 125519,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/XC3_The_True_Inspector.jpg/revision/latest?cb=20230206002058"
   },
   {
     "id": "xc3-quest-a-more-balanced-recipe",
@@ -3660,7 +3989,8 @@
     "description": "\"Dorin is angry at Bambam for giving him Glare Aubergine, which he can't stand. Show him that it can be a part of a delicious meal.\"",
     "giver": "Dorin and Bambam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_More_Balanced_Recipe",
-    "wikiPageId": 120304
+    "wikiPageId": 120304,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/XC3_A_More_Balanced_Recipe.jpg/revision/latest?cb=20230119030202"
   },
   {
     "id": "xc3-quest-cultural-exchange",
@@ -3672,7 +4002,8 @@
     "description": "\"Honorine arrived at Colony Tau along with some Nopon, which are a rare sight there. Go check up on them.\"",
     "giver": "Graziana",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cultural_Exchange",
-    "wikiPageId": 120316
+    "wikiPageId": 120316,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/XC3_Cultural_Exchange.jpg/revision/latest?cb=20230212015835"
   },
   {
     "id": "xc3-quest-duty",
@@ -3683,7 +4014,8 @@
     "prerequisites": [],
     "description": "\"Lamda's off-seer appears to have met his end... Go and see how Moraine is coping with it.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Duty",
-    "wikiPageId": 121007
+    "wikiPageId": 121007,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3e/Duty.jpg/revision/latest?cb=20230314184415"
   },
   {
     "id": "xc3-quest-imminent-illusion",
@@ -3694,7 +4026,8 @@
     "prerequisites": [],
     "description": "\"From out of nowhere, a mysterious Levnis materializes, blocking the way of the party.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Imminent_Illusion",
-    "wikiPageId": 120328
+    "wikiPageId": 120328,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/59/Imminent_Illusion.jpg/revision/latest/scale-to-width-down/400?cb=20220830000038"
   },
   {
     "id": "xc3-quest-korresia-finds-her-calling",
@@ -3705,7 +4038,8 @@
     "prerequisites": [],
     "description": "\"Korresia has returned from Colony Gamma, and is now a specialist in making accessories. Go see how she is doing.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Korresia_Finds_Her_Calling",
-    "wikiPageId": 120292
+    "wikiPageId": 120292,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d5/Korresia_Finds_Her_Calling.jpg/revision/latest/scale-to-width-down/400?cb=20220830181834"
   },
   {
     "id": "xc3-quest-lambdas-problem",
@@ -3716,7 +4050,8 @@
     "prerequisites": [],
     "description": "\"Colony Lambda's Ferronis is out of commission, which inconveniently puts its canteen out of use too. Suggest a plan to the head of manufacturing.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lambda's_Problem",
-    "wikiPageId": 120332
+    "wikiPageId": 120332,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/06/XC3_Lambda%27s_Problem.jpg/revision/latest?cb=20230113035715"
   },
   {
     "id": "xc3-quest-learning-from-lambda",
@@ -3728,7 +4063,8 @@
     "description": "\"Selin has borrowed an ether-detecting probe from Colony Lambda. Go help him out.\"",
     "giver": "Selin and Nootka",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Learning_from_Lambda",
-    "wikiPageId": 121151
+    "wikiPageId": 121151,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/17/XC3_Learning_from_Lambda.jpg/revision/latest?cb=20230315094134"
   },
   {
     "id": "xc3-quest-lost-friend",
@@ -3740,7 +4076,8 @@
     "description": "\"Worryingly, contact has been lost with Imogen, who was headed to Colony 4. Go see if she is all right.\"",
     "giver": "Cardamine",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_Friend",
-    "wikiPageId": 120336
+    "wikiPageId": 120336,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/XC3_Lost_Friend.jpg/revision/latest?cb=20230211000412"
   },
   {
     "id": "xc3-quest-new-developments",
@@ -3751,7 +4088,8 @@
     "prerequisites": [],
     "description": "\"Varen is developing something to strengthen Lambda's defenses. Go see how he's getting on.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/New_Developments",
-    "wikiPageId": 121004
+    "wikiPageId": 121004,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/New_Developments.jpg/revision/latest?cb=20230314184232"
   },
   {
     "id": "xc3-quest-off-seeing-customs",
@@ -3763,7 +4101,8 @@
     "description": "\"Colony Tau has its own peculiar customs. However, since the last major battle, many of their comrades' husks still lie where they fell...\"",
     "giver": "Cardamine",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Off-Seeing_Customs",
-    "wikiPageId": 120294
+    "wikiPageId": 120294,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/11/XC3_Off-Seeing_Customs.jpg/revision/latest?cb=20230117025216"
   },
   {
     "id": "xc3-quest-past-and-present",
@@ -3774,7 +4113,8 @@
     "prerequisites": [],
     "description": "\"Lambda is reeling in shock from the Koji case. Go with Isurd to discuss it with the captains.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Past_and_Present",
-    "wikiPageId": 123134
+    "wikiPageId": 123134,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/28/XC3_Past_and_Present.jpg/revision/latest?cb=20230315095602"
   },
   {
     "id": "xc3-quest-pentelas-region-quests",
@@ -3795,7 +4135,8 @@
     "prerequisites": [],
     "description": "\"Colony Lambda's Auto-Levs still can't be restarted. Talk to the head of engineering to find out why.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Restart",
-    "wikiPageId": 120344
+    "wikiPageId": 120344,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/XC3_Restart.jpg/revision/latest?cb=20230117024141"
   },
   {
     "id": "xc3-quest-securing-supplies",
@@ -3807,7 +4148,8 @@
     "description": "\"The supplies prepared for the battle with Colony 5 are at the Urayan Trail. Help with their recovery.\"",
     "giver": "Tonya, Tulgrim, & Hozumi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Securing_Supplies",
-    "wikiPageId": 120296
+    "wikiPageId": 120296,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ee/XC3_Securing_Supplies.jpg/revision/latest?cb=20230205045655"
   },
   {
     "id": "xc3-quest-stolen-provisions",
@@ -3818,7 +4160,8 @@
     "prerequisites": [],
     "description": "\"While they slept, the party's stored provisions were stolen by Tirkins. Search the nearby area for ways to replenish the supplies.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Stolen_Provisions",
-    "wikiPageId": 120355
+    "wikiPageId": 120355,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/80/XC3_Stolen_Provisions.jpg/revision/latest?cb=20221213014054"
   },
   {
     "id": "xc3-quest-surplus-supply",
@@ -3829,7 +4172,8 @@
     "prerequisites": [],
     "description": "\"All the ether Colony Lambda has been mining has created a surplus. Talk with Koji about how best to use the extra resources.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Surplus_Supply",
-    "wikiPageId": 120356
+    "wikiPageId": 120356,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/XC3_Surplus_Supply.jpg/revision/latest?cb=20230211001059"
   },
   {
     "id": "xc3-quest-the-cascade-hulk",
@@ -3840,7 +4184,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Cascade_Hulk",
-    "wikiPageId": 120362
+    "wikiPageId": 120362,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/XC3_The_Cascade_Hulk.jpg/revision/latest?cb=20221216180929"
   },
   {
     "id": "xc3-quest-the-clifftop-hulk",
@@ -3851,7 +4196,8 @@
     "prerequisites": [],
     "description": "\"Clear out the monsters lurking around the decrepit Ferronis.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Clifftop_Hulk",
-    "wikiPageId": 120366
+    "wikiPageId": 120366,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/06/XC3_The_Clifftop_Hulk.jpg/revision/latest?cb=20221216180639"
   },
   {
     "id": "xc3-quest-the-harvest",
@@ -3863,7 +4209,8 @@
     "description": "\"Now self-sufficient, the time has come for Colony Tau to harvest its crops. The only issue is that they are short of manpower. Go offer them your help.\"",
     "giver": "Geum",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Harvest",
-    "wikiPageId": 120370
+    "wikiPageId": 120370,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/XC3_The_Harvest.jpg/revision/latest?cb=20230119030002"
   },
   {
     "id": "xc3-quest-the-hunt-of-plenty",
@@ -3875,7 +4222,8 @@
     "description": "\"New ninth-termers of Colony Tau traditionally head alone to the lower levels to take part in the \"Hunt of Plenty\". Ask Raine about it.\"",
     "giver": "Glory and Cardamine",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Hunt_of_Plenty",
-    "wikiPageId": 123110
+    "wikiPageId": 123110,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/The_Hunt_of_Plenty.jpg/revision/latest?cb=20230123125957"
   },
   {
     "id": "xc3-quest-the-hunter",
@@ -3887,7 +4235,8 @@
     "description": "\"Raine went out hunting despite his injuries, and has now been found. Ask Geum for more details.\"",
     "giver": "Glory",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Hunter",
-    "wikiPageId": 120298
+    "wikiPageId": 120298,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4e/XC3_The_Hunter.jpg/revision/latest?cb=20230130022601"
   },
   {
     "id": "xc3-quest-the-lost-off-seer",
@@ -3898,7 +4247,8 @@
     "prerequisites": [],
     "description": "\"Lambda's off-seer seemed to have gone to the Fornis region through the tunnels, but no search party has been sent out. In light of this, go look for him instead.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Lost_Off-Seer",
-    "wikiPageId": 117609
+    "wikiPageId": 117609,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/The_Missing_Offseer.png/revision/latest/scale-to-width-down/400?cb=20220628173613"
   },
   {
     "id": "xc3-quest-the-wildwood-life",
@@ -3910,7 +4260,8 @@
     "description": "\"Deep in Maktha Wildwood, the party encounter a mysterious Nopon. Accompany her.\"",
     "giver": "Gingin",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Wildwood_Life",
-    "wikiPageId": 120378
+    "wikiPageId": 120378,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/XC3_The_Wildwood_Life.jpg/revision/latest?cb=20230306105202"
   },
   {
     "id": "xc3-quest-water-of-rhonnar",
@@ -3922,7 +4273,8 @@
     "description": "\"It is said in Colony Tau that the Spring of Rhonnar's water makes you stronger. Lanz and Sena want to see if it's true. Go investigate the rumor.\"",
     "giver": "Carson",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Water_of_Rhonnar",
-    "wikiPageId": 123130
+    "wikiPageId": 123130,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/XC3_Water_of_Rhonnar.jpg/revision/latest?cb=20230315093400"
   },
   {
     "id": "xc3-quest-file-duty-jpg",
@@ -3932,7 +4284,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADuty.jpg",
-    "wikiPageId": 125764
+    "wikiPageId": 125764,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3e/Duty.jpg/revision/latest?cb=20230314184415"
   },
   {
     "id": "xc3-quest-file-new-developments-jpg",
@@ -3942,7 +4295,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANew_Developments.jpg",
-    "wikiPageId": 125763
+    "wikiPageId": 125763,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/New_Developments.jpg/revision/latest?cb=20230314184232"
   },
   {
     "id": "xc3-quest-file-the-hunt-of-plenty-jpg",
@@ -3952,7 +4306,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Hunt_of_Plenty.jpg",
-    "wikiPageId": 125301
+    "wikiPageId": 125301,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/The_Hunt_of_Plenty.jpg/revision/latest?cb=20230123125957"
   },
   {
     "id": "xc3-quest-file-xc3-a-more-balanced-recipe-jpg",
@@ -3962,7 +4317,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_More_Balanced_Recipe.jpg",
-    "wikiPageId": 125279
+    "wikiPageId": 125279,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/XC3_A_More_Balanced_Recipe.jpg/revision/latest?cb=20230119030202"
   },
   {
     "id": "xc3-quest-file-xc3-cultural-exchange-jpg",
@@ -3972,7 +4328,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Cultural_Exchange.jpg",
-    "wikiPageId": 125597
+    "wikiPageId": 125597,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/XC3_Cultural_Exchange.jpg/revision/latest?cb=20230212015835"
   },
   {
     "id": "xc3-quest-file-xc3-lambdas-problem-jpg",
@@ -3982,7 +4339,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Lambda's_Problem.jpg",
-    "wikiPageId": 125212
+    "wikiPageId": 125212,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/06/XC3_Lambda%27s_Problem.jpg/revision/latest?cb=20230113035715"
   },
   {
     "id": "xc3-quest-file-xc3-learning-from-lambda-jpg",
@@ -3992,7 +4350,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Learning_from_Lambda.jpg",
-    "wikiPageId": 125777
+    "wikiPageId": 125777,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/17/XC3_Learning_from_Lambda.jpg/revision/latest?cb=20230315094134"
   },
   {
     "id": "xc3-quest-file-xc3-lost-friend-jpg",
@@ -4002,7 +4361,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Lost_Friend.jpg",
-    "wikiPageId": 125581
+    "wikiPageId": 125581,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/XC3_Lost_Friend.jpg/revision/latest?cb=20230211000412"
   },
   {
     "id": "xc3-quest-file-xc3-off-seeing-customs-jpg",
@@ -4012,7 +4372,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Off-Seeing_Customs.jpg",
-    "wikiPageId": 125261
+    "wikiPageId": 125261,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/11/XC3_Off-Seeing_Customs.jpg/revision/latest?cb=20230117025216"
   },
   {
     "id": "xc3-quest-file-xc3-past-and-present-jpg",
@@ -4022,7 +4383,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Past_and_Present.jpg",
-    "wikiPageId": 125782
+    "wikiPageId": 125782,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/28/XC3_Past_and_Present.jpg/revision/latest?cb=20230315095602"
   },
   {
     "id": "xc3-quest-file-xc3-restart-jpg",
@@ -4032,7 +4394,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Restart.jpg",
-    "wikiPageId": 125255
+    "wikiPageId": 125255,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/XC3_Restart.jpg/revision/latest?cb=20230117024141"
   },
   {
     "id": "xc3-quest-file-xc3-securing-supplies-jpg",
@@ -4042,7 +4405,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Securing_Supplies.jpg",
-    "wikiPageId": 125477
+    "wikiPageId": 125477,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ee/XC3_Securing_Supplies.jpg/revision/latest?cb=20230205045655"
   },
   {
     "id": "xc3-quest-file-xc3-surplus-supply-jpg",
@@ -4052,7 +4416,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Surplus_Supply.jpg",
-    "wikiPageId": 125582
+    "wikiPageId": 125582,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/XC3_Surplus_Supply.jpg/revision/latest?cb=20230211001059"
   },
   {
     "id": "xc3-quest-file-xc3-tau-tirkin-alliance-jpg",
@@ -4062,7 +4427,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Tau-Tirkin_Alliance.jpg",
-    "wikiPageId": 125475
+    "wikiPageId": 125475,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/XC3_Tau-Tirkin_Alliance.jpg/revision/latest?cb=20230204070848"
   },
   {
     "id": "xc3-quest-file-xc3-the-harvest-jpg",
@@ -4072,7 +4438,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Harvest.jpg",
-    "wikiPageId": 125278
+    "wikiPageId": 125278,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/XC3_The_Harvest.jpg/revision/latest?cb=20230119030002"
   },
   {
     "id": "xc3-quest-file-xc3-the-hunter-jpg",
@@ -4082,7 +4449,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Hunter.jpg",
-    "wikiPageId": 125408
+    "wikiPageId": 125408,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4e/XC3_The_Hunter.jpg/revision/latest?cb=20230130022601"
   },
   {
     "id": "xc3-quest-file-xc3-the-wildwood-life-jpg",
@@ -4092,7 +4460,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Wildwood_Life.jpg",
-    "wikiPageId": 125721
+    "wikiPageId": 125721,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/XC3_The_Wildwood_Life.jpg/revision/latest?cb=20230306105202"
   },
   {
     "id": "xc3-quest-file-xc3-water-of-rhonnar-jpg",
@@ -4102,7 +4471,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Water_of_Rhonnar.jpg",
-    "wikiPageId": 125775
+    "wikiPageId": 125775,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/XC3_Water_of_Rhonnar.jpg/revision/latest?cb=20230315093400"
   },
   {
     "id": "xc3-quest-file-a-young-nobles-request-jpg",
@@ -4112,7 +4482,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Young_Noble's_Request.jpg",
-    "wikiPageId": 122215
+    "wikiPageId": 122215,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a4/A_Young_Noble%27s_Request.jpg/revision/latest?cb=20220825223107"
   },
   {
     "id": "xc3-quest-file-the-missing-offseer-png",
@@ -4122,7 +4493,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Missing_Offseer.png",
-    "wikiPageId": 117770
+    "wikiPageId": 117770,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/The_Missing_Offseer.png/revision/latest/scale-to-width-down/400?cb=20220628173613"
   },
   {
     "id": "xc3-quest-file-xc3-a-dark-cloud-jpg",
@@ -4132,7 +4504,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_A_Dark_Cloud.jpg",
-    "wikiPageId": 124718
+    "wikiPageId": 124718,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/30/XC3_A_Dark_Cloud.jpg/revision/latest?cb=20230304111843"
   },
   {
     "id": "xc3-quest-file-xc3-castle-access-jpg",
@@ -4142,7 +4515,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Castle_Access.jpg",
-    "wikiPageId": 125001
+    "wikiPageId": 125001,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9e/XC3_Castle_Access.jpg/revision/latest?cb=20221213014302"
   },
   {
     "id": "xc3-quest-file-xc3-charity-and-hypocrisy-jpg",
@@ -4152,7 +4526,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Charity_and_Hypocrisy.jpg",
-    "wikiPageId": 125079
+    "wikiPageId": 125079,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/ff/XC3_Charity_and_Hypocrisy.jpg/revision/latest?cb=20221229043917"
   },
   {
     "id": "xc3-quest-file-xc3-collapsed-traderpon-jpg",
@@ -4162,7 +4537,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Collapsed_Traderpon.jpg",
-    "wikiPageId": 125056
+    "wikiPageId": 125056,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/56/XC3_Collapsed_Traderpon.jpg/revision/latest?cb=20221224001142"
   },
   {
     "id": "xc3-quest-file-xc3-colony-9s-backup-jpg",
@@ -4172,7 +4548,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Colony_9's_Backup.jpg",
-    "wikiPageId": 125069
+    "wikiPageId": 125069,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f5/XC3_Colony_9%27s_Backup.jpg/revision/latest?cb=20221226054727"
   },
   {
     "id": "xc3-quest-file-xc3-dorin-and-bambam-jpg",
@@ -4182,7 +4559,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Dorin_and_Bambam.jpg",
-    "wikiPageId": 125080
+    "wikiPageId": 125080,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/XC3_Dorin_and_Bambam.jpg/revision/latest?cb=20221229044129"
   },
   {
     "id": "xc3-quest-file-xc3-dorrick-is-online-jpg",
@@ -4192,7 +4570,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Dorrick_is_Online!.jpg",
-    "wikiPageId": 125054
+    "wikiPageId": 125054,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/XC3_Dorrick_is_Online%21.jpg/revision/latest?cb=20221223000059"
   },
   {
     "id": "xc3-quest-file-xc3-first-day-of-prison-jpg",
@@ -4202,7 +4581,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_First_Day_of_Prison.jpg",
-    "wikiPageId": 125003
+    "wikiPageId": 125003,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/XC3_First_Day_of_Prison.jpg/revision/latest?cb=20221213014722"
   },
   {
     "id": "xc3-quest-file-xc3-flarans-request-jpg",
@@ -4212,7 +4592,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Fla'ran's_Request.jpg",
-    "wikiPageId": 125059
+    "wikiPageId": 125059,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a4/XC3_Fla%27ran%27s_Request.jpg/revision/latest?cb=20221224002214"
   },
   {
     "id": "xc3-quest-file-xc3-friction-with-agnus-jpg",
@@ -4222,7 +4603,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Friction_With_Agnus.jpg",
-    "wikiPageId": 125070
+    "wikiPageId": 125070,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/31/XC3_Friction_With_Agnus.jpg/revision/latest?cb=20221226054934"
   },
   {
     "id": "xc3-quest-file-xc3-helping-out-jpg",
@@ -4232,7 +4614,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Helping_Out.jpg",
-    "wikiPageId": 124978
+    "wikiPageId": 124978,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/40/XC3_Helping_Out.jpg/revision/latest?cb=20221209004758"
   },
   {
     "id": "xc3-quest-file-xc3-jeremys-request-jpg",
@@ -4242,7 +4625,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Jeremy's_Request.jpg",
-    "wikiPageId": 125058
+    "wikiPageId": 125058,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/XC3_Jeremy%27s_Request.jpg/revision/latest?cb=20221224001851"
   },
   {
     "id": "xc3-quest-file-xc3-melody-of-mourning-jpg",
@@ -4252,7 +4636,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Melody_of_Mourning.jpg",
-    "wikiPageId": 125081
+    "wikiPageId": 125081,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/XC3_Melody_of_Mourning.jpg/revision/latest?cb=20221229044354"
   },
   {
     "id": "xc3-quest-file-xc3-nopon-register-jpg",
@@ -4262,7 +4647,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Nopon_Register.jpg",
-    "wikiPageId": 125063
+    "wikiPageId": 125063,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b5/XC3_Nopon_Register.jpg/revision/latest?cb=20221225172714"
   },
   {
     "id": "xc3-quest-file-xc3-second-day-of-prison-jpg",
@@ -4272,7 +4658,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Second_Day_of_Prison.jpg",
-    "wikiPageId": 125004
+    "wikiPageId": 125004,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/38/XC3_Second_Day_of_Prison.jpg/revision/latest?cb=20221213014801"
   },
   {
     "id": "xc3-quest-file-xc3-so-much-more-to-see-jpg",
@@ -4282,7 +4669,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_So_Much_More_to_See.jpg",
-    "wikiPageId": 125014
+    "wikiPageId": 125014,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8c/XC3_So_Much_More_to_See.jpg/revision/latest?cb=20221214110438"
   },
   {
     "id": "xc3-quest-file-xc3-stolen-provisions-jpg",
@@ -4292,7 +4680,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Stolen_Provisions.jpg",
-    "wikiPageId": 124999
+    "wikiPageId": 124999,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/80/XC3_Stolen_Provisions.jpg/revision/latest?cb=20221213014054"
   },
   {
     "id": "xc3-quest-file-xc3-supplies-in-the-wind-png",
@@ -4302,7 +4691,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Supplies_in_the_Wind.png",
-    "wikiPageId": 118061
+    "wikiPageId": 118061,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f7/XC3_Supplies_in_the_Wind.png/revision/latest/scale-to-width-down/400?cb=20220708153400"
   },
   {
     "id": "xc3-quest-file-xc3-the-big-unseen-monster-jpg",
@@ -4312,7 +4702,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Big%2C_Unseen_Monster.jpg",
-    "wikiPageId": 125013
+    "wikiPageId": 125013,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/XC3_The_Big%2C_Unseen_Monster.jpg/revision/latest?cb=20221214110154"
   },
   {
     "id": "xc3-quest-file-xc3-the-castle-beckons-jpg",
@@ -4322,7 +4713,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Castle_Beckons.jpg",
-    "wikiPageId": 125002
+    "wikiPageId": 125002,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b4/XC3_The_Castle_Beckons.jpg/revision/latest?cb=20221213014631"
   },
   {
     "id": "xc3-quest-file-xc3-the-city-pep-talk-jpg",
@@ -4332,7 +4724,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_City_Pep_Talk.jpg",
-    "wikiPageId": 125071
+    "wikiPageId": 125071,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/XC3_The_City_Pep_Talk.jpg/revision/latest?cb=20221226055101"
   },
   {
     "id": "xc3-quest-file-xc3-the-ouroboros-experiment-jpg",
@@ -4342,7 +4735,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Ouroboros_Experiment.jpg",
-    "wikiPageId": 124947
+    "wikiPageId": 124947,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ce/XC3_The_Ouroboros_Experiment.jpg/revision/latest?cb=20221206034756"
   },
   {
     "id": "xc3-quest-file-xc3-the-ultimate-vessel-jpg",
@@ -4352,7 +4746,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_The_Ultimate_Vessel.jpg",
-    "wikiPageId": 125055
+    "wikiPageId": 125055,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/30/XC3_The_Ultimate_Vessel.jpg/revision/latest?cb=20221223030626"
   },
   {
     "id": "xc3-quest-file-xc3-third-day-of-prison-jpg",
@@ -4362,7 +4757,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Third_Day_of_Prison.jpg",
-    "wikiPageId": 125005
+    "wikiPageId": 125005,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/73/XC3_Third_Day_of_Prison.jpg/revision/latest?cb=20221213014904"
   },
   {
     "id": "xc3-quest-file-xc3-unspeakable-being-jpg",
@@ -4372,7 +4768,8 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Unspeakable_Being.jpg",
-    "wikiPageId": 125057
+    "wikiPageId": 125057,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/XC3_Unspeakable_Being.jpg/revision/latest?cb=20221224001556"
   },
   {
     "id": "xc3-quest-file-xc3-yordes-request-jpg",
@@ -4382,6 +4779,7 @@
     "region": "",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AXC3_Yorde's_Request.jpg",
-    "wikiPageId": 125060
+    "wikiPageId": 125060,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/24/XC3_Yorde%27s_Request.jpg/revision/latest?cb=20221224002350"
   }
 ]

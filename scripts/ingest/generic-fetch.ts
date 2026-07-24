@@ -9,6 +9,7 @@ import {
 import {
   getCategoryPagesRecursive,
   getCategoryPagesWithWikitext,
+  imageUrlFromInfobox,
   wikiPageUrl,
 } from './wiki-client.ts'
 
@@ -106,6 +107,7 @@ export async function fetchFromWikiCategories(options: {
           giver: fields.giver || fields.client,
           wikiUrl: wikiPageUrl(page.title),
           wikiPageId: page.pageid,
+          imageUrl: imageUrlFromInfobox(fields),
           element: fields.element,
           weaponClass: fields.weapon || fields.class,
           role: fields.role,

@@ -9,7 +9,8 @@
     "description": "\"Zenobia gathers everyone to confess her desire to fight terrible monsters. Mythra has one in mind...\"",
     "giver": "Zenobia",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Real_Challenge",
-    "wikiPageId": 79532
+    "wikiPageId": 79532,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/71/A_Real_Challenge.png/revision/latest?cb=20180403193953"
   },
   {
     "id": "xc2-quest-adenines-password",
@@ -21,7 +22,8 @@
     "description": "\"Get information from the Merc Group as a first step to looking for clues that will aid in deciphering the tablet.\"",
     "giver": "Adenine",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Adenine's_Password_(quest)",
-    "wikiPageId": 79804
+    "wikiPageId": 79804,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/11/Adenine%27s_Password.png/revision/latest?cb=20180403162442"
   },
   {
     "id": "xc2-quest-argentum-trade-guild-quests",
@@ -43,7 +45,8 @@
     "description": "\"Investigate the flow of illegal assets recorded in Bana's secret documents.\"",
     "giver": "Niranira",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bana's_Revenge",
-    "wikiPageId": 84669
+    "wikiPageId": 84669,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/Bana%27s_Revenge.png/revision/latest?cb=20180403162443"
   },
   {
     "id": "xc2-quest-banas-secret-treasure",
@@ -55,7 +58,8 @@
     "description": "\"Niranira from the SAB found a treasure trove while searching for Bana's secret assets. Help him open it.\"",
     "giver": "Niranira",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bana's_Secret_Treasure",
-    "wikiPageId": 80363
+    "wikiPageId": 80363,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/Bana%27s_Secret_Treasure.png/revision/latest?cb=20180403162444"
   },
   {
     "id": "xc2-quest-better-late-than-never",
@@ -67,7 +71,8 @@
     "description": "\"Limuli is supposed to relieve Gegebi on watch duty, but he's late for the umpteenth time. Go and get him.\"",
     "giver": "Gegebi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Better_Late_Than_Never",
-    "wikiPageId": 73413
+    "wikiPageId": 73413,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/43/Better_Late_than_Never_icon.jpg/revision/latest?cb=20180113184505"
   },
   {
     "id": "xc2-quest-big-job-preparations",
@@ -79,7 +84,8 @@
     "description": "\"Chairman Bana has hired you to salvage goods from deep in the Cloud Sea. Use some of your new cash to buy supplies.\"",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Big_Job_Preparations",
-    "wikiPageId": 73410
+    "wikiPageId": 73410,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9f/Big_Job_Preparations_icon.jpg/revision/latest?cb=20180112032410"
   },
   {
     "id": "xc2-quest-birds-of-a-feather",
@@ -91,7 +97,8 @@
     "description": "\"A Nopon gets angry with Finch after his guild ID was stolen by Tirkin. Find it to prove Finch isn't like those birdbrains!\"",
     "giver": "Noganga",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Birds_of_a_Feather",
-    "wikiPageId": 84686
+    "wikiPageId": 84686,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/Birds_of_a_Feather.png/revision/latest?cb=20180403162444"
   },
   {
     "id": "xc2-quest-boreass-food-stash",
@@ -101,7 +108,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Boreas's_Food_Stash",
-    "wikiPageId": 90617
+    "wikiPageId": 90617,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e5/Boreas%27s_Food_Stash.png/revision/latest/scale-to-width-down/400?cb=20180407134137"
   },
   {
     "id": "xc2-quest-cargo-escort",
@@ -113,7 +121,8 @@
     "description": "\"You've been asked by Ysolde, from Argentum's Central Exchange, to guard her precious cargo from Krabbles.\"",
     "giver": "Ysolde",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cargo_Escort",
-    "wikiPageId": 73412
+    "wikiPageId": 73412,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Cargo_Escort_icon.jpg/revision/latest?cb=20180113184504"
   },
   {
     "id": "xc2-quest-dagass-past-leftheria",
@@ -125,7 +134,8 @@
     "description": "\"An old book you got in Argentum says something about an island kingdom... Go investigate it!\"",
     "giver": "Dagas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dagas's_Past%3A_Leftheria",
-    "wikiPageId": 80100
+    "wikiPageId": 80100,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0d/Dagas%27s_Past_-_Lefteria.png/revision/latest?cb=20180403165635"
   },
   {
     "id": "xc2-quest-eternal-spirit",
@@ -137,7 +147,8 @@
     "description": "\"In Argentum, Perun is intrigued by a noticeboard asking for help finding a missing child. Let's do what we can.\"",
     "giver": "Perun",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Eternal_Spirit",
-    "wikiPageId": 80288
+    "wikiPageId": 80288,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/23/Eternal_Spirit.png/revision/latest?cb=20180403162819"
   },
   {
     "id": "xc2-quest-fame-and-family",
@@ -149,7 +160,8 @@
     "description": "\"The singer Falala wants to become famous to find her son. She will need all the help she can get.\"",
     "giver": "Falala",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fame_and_Family",
-    "wikiPageId": 77455
+    "wikiPageId": 77455,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/Fame_and_Family.png/revision/latest?cb=20180403162820"
   },
   {
     "id": "xc2-quest-fooraras-walky-walky",
@@ -161,7 +173,8 @@
     "description": "Find Foorara around the world.",
     "giver": "Foorara",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Foorara's_Walky-Walky",
-    "wikiPageId": 87509
+    "wikiPageId": 87509,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/66/Foorara.jpg/revision/latest/scale-to-width-down/400?cb=20200121031501"
   },
   {
     "id": "xc2-quest-hide-and-seek",
@@ -173,7 +186,8 @@
     "description": "\"The kids in Bower Lounge have got you playing hide-and-seek. Find the three of them somewhere in Argentum.\"",
     "giver": "Aft",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hide_and_Seek",
-    "wikiPageId": 73411
+    "wikiPageId": 73411,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e6/Hide_and_Seek_icon.jpg/revision/latest?cb=20180113184505"
   },
   {
     "id": "xc2-quest-hot-spring-bonanza",
@@ -185,7 +199,8 @@
     "description": "\"Kasandra won first prize in a raffle - a lifetime's free entry to an Ardainian hot spring! Visit it with Sheba and Kora. (DLC Quest)\"",
     "giver": "Gachagacha",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hot_Spring_Bonanza",
-    "wikiPageId": 90981
+    "wikiPageId": 90981,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4a/Hot_Spring_Bonanza.png/revision/latest?cb=20180803150600"
   },
   {
     "id": "xc2-quest-into-the-open-sky",
@@ -197,7 +212,8 @@
     "description": "\"Panpan is a trainee Nopon pilot. He's close to getting his license, so you offered to help him out.\"",
     "giver": "Panpan",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Into_the_Open_Sky",
-    "wikiPageId": 83164
+    "wikiPageId": 83164,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Into_the_Open_Sky.png/revision/latest?cb=20180403162826"
   },
   {
     "id": "xc2-quest-limits-of-awareness",
@@ -209,7 +225,8 @@
     "description": "\"In the old tomes she's been studying, Adenine has found coordinates for a location. Go there and check it out!\"",
     "giver": "Adenine",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Limits_of_Awareness",
-    "wikiPageId": 79805
+    "wikiPageId": 79805,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Limits_of_Awareness.png/revision/latest?cb=20180204193709"
   },
   {
     "id": "xc2-quest-making-love-source",
@@ -221,7 +238,8 @@
     "description": "\"Poppi's interested in a love potion. Gather Flutterheart Grass in Tantal and make the concoction! (DLC Quest)\"",
     "giver": "Poppi QT",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Making_Love_Source",
-    "wikiPageId": 87887
+    "wikiPageId": 87887,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/Making_Love_Source.png/revision/latest?cb=20180530135138"
   },
   {
     "id": "xc2-quest-nopon-doubloons-ahoy",
@@ -233,7 +251,8 @@
     "description": "\"Collect all 11 legendary Nopon Doubloons and help Nunui restore the renown of Pyrithium Trade Guild.\"",
     "giver": "Nunui",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Doubloons_Ahoy",
-    "wikiPageId": 79945
+    "wikiPageId": 79945,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Nopon_Doubloons_Ahoy.png/revision/latest?cb=20180203033038"
   },
   {
     "id": "xc2-quest-salvager-rank",
@@ -245,7 +264,8 @@
     "description": "Try to attain the highest Salvager Rank.",
     "giver": "Mochichi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Salvager_Rank",
-    "wikiPageId": 87758
+    "wikiPageId": 87758,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/34/Mochichi.png/revision/latest?cb=20180407161227"
   },
   {
     "id": "xc2-quest-shebas-piggy-bank",
@@ -267,7 +287,8 @@
     "description": "Find Motata's 11 siblings across the world.",
     "giver": "Motata",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Twelve_Brothersisterpon",
-    "wikiPageId": 87467
+    "wikiPageId": 87467,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Motata.jpg/revision/latest/scale-to-width-down/400?cb=20200121033219"
   },
   {
     "id": "xc2-quest-uncover-the-truth",
@@ -279,7 +300,8 @@
     "description": "\"Help is needed to uncover the truth about the founding of Argentum. Go and ask for more information.\"",
     "giver": "Notice Board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Uncover_the_Truth",
-    "wikiPageId": 80040
+    "wikiPageId": 80040,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Uncover_the_Truth.png/revision/latest?cb=20180403163422"
   },
   {
     "id": "xc2-quest-file-adenines-password-png",
@@ -289,7 +311,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAdenine's_Password.png",
-    "wikiPageId": 85469
+    "wikiPageId": 85469,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/11/Adenine%27s_Password.png/revision/latest?cb=20180403162442"
   },
   {
     "id": "xc2-quest-file-banas-revenge-png",
@@ -299,7 +322,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABana's_Revenge.png",
-    "wikiPageId": 85471
+    "wikiPageId": 85471,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/Bana%27s_Revenge.png/revision/latest?cb=20180403162443"
   },
   {
     "id": "xc2-quest-file-banas-secret-treasure-png",
@@ -309,7 +333,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABana's_Secret_Treasure.png",
-    "wikiPageId": 85472
+    "wikiPageId": 85472,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/dc/Bana%27s_Secret_Treasure.png/revision/latest?cb=20180403162444"
   },
   {
     "id": "xc2-quest-file-better-late-than-never-icon-jpg",
@@ -319,7 +344,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABetter_Late_than_Never_icon.jpg",
-    "wikiPageId": 79768
+    "wikiPageId": 79768,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/43/Better_Late_than_Never_icon.jpg/revision/latest?cb=20180113184505"
   },
   {
     "id": "xc2-quest-file-birds-of-a-feather-png",
@@ -329,7 +355,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABirds_of_a_Feather.png",
-    "wikiPageId": 85474
+    "wikiPageId": 85474,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/14/Birds_of_a_Feather.png/revision/latest?cb=20180403162444"
   },
   {
     "id": "xc2-quest-file-cargo-escort-icon-jpg",
@@ -339,7 +366,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACargo_Escort_icon.jpg",
-    "wikiPageId": 79766
+    "wikiPageId": 79766,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Cargo_Escort_icon.jpg/revision/latest?cb=20180113184504"
   },
   {
     "id": "xc2-quest-file-dagass-past-lefteria-png",
@@ -349,7 +377,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas's_Past_-_Lefteria.png",
-    "wikiPageId": 85543
+    "wikiPageId": 85543,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0d/Dagas%27s_Past_-_Lefteria.png/revision/latest?cb=20180403165635"
   },
   {
     "id": "xc2-quest-file-eternal-spirit-png",
@@ -359,7 +388,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEternal_Spirit.png",
-    "wikiPageId": 85486
+    "wikiPageId": 85486,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/23/Eternal_Spirit.png/revision/latest?cb=20180403162819"
   },
   {
     "id": "xc2-quest-file-fame-and-family-png",
@@ -369,7 +399,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFame_and_Family.png",
-    "wikiPageId": 85487
+    "wikiPageId": 85487,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/Fame_and_Family.png/revision/latest?cb=20180403162820"
   },
   {
     "id": "xc2-quest-file-hero-of-the-nopon-png",
@@ -379,7 +410,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHero_of_the_Nopon.png",
-    "wikiPageId": 85496
+    "wikiPageId": 85496,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/Hero_of_the_Nopon.png/revision/latest?cb=20180403162825"
   },
   {
     "id": "xc2-quest-file-hide-and-seek-icon-jpg",
@@ -389,7 +421,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHide_and_Seek_icon.jpg",
-    "wikiPageId": 79767
+    "wikiPageId": 79767,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e6/Hide_and_Seek_icon.jpg/revision/latest?cb=20180113184505"
   },
   {
     "id": "xc2-quest-file-hot-spring-bonanza-png",
@@ -399,7 +432,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHot_Spring_Bonanza.png",
-    "wikiPageId": 91290
+    "wikiPageId": 91290,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4a/Hot_Spring_Bonanza.png/revision/latest?cb=20180803150600"
   },
   {
     "id": "xc2-quest-file-into-the-open-sky-png",
@@ -409,7 +443,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInto_the_Open_Sky.png",
-    "wikiPageId": 85499
+    "wikiPageId": 85499,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Into_the_Open_Sky.png/revision/latest?cb=20180403162826"
   },
   {
     "id": "xc2-quest-file-making-love-source-png",
@@ -419,7 +454,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMaking_Love_Source.png",
-    "wikiPageId": 88239
+    "wikiPageId": 88239,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/Making_Love_Source.png/revision/latest?cb=20180530135138"
   },
   {
     "id": "xc2-quest-file-nopon-doubloons-ahoy-png",
@@ -429,7 +465,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANopon_Doubloons_Ahoy.png",
-    "wikiPageId": 82006
+    "wikiPageId": 82006,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Nopon_Doubloons_Ahoy.png/revision/latest?cb=20180203033038"
   },
   {
     "id": "xc2-quest-file-stop-thief-png",
@@ -439,7 +476,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStop%2C_Thief!.png",
-    "wikiPageId": 85555
+    "wikiPageId": 85555,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Stop%2C_Thief%21.png/revision/latest?cb=20180403191733"
   },
   {
     "id": "xc2-quest-file-uncover-the-truth-png",
@@ -449,7 +487,8 @@
     "region": "Argentum Trade Guild",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUncover_the_Truth.png",
-    "wikiPageId": 85536
+    "wikiPageId": 85536,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Uncover_the_Truth.png/revision/latest?cb=20180403163422"
   },
   {
     "id": "xc2-quest-a-small-war",
@@ -461,7 +500,8 @@
     "description": "Salvage another Morph Orb to replace the Gormotti youth's memento which has been stolen by an Ardainian youth.",
     "giver": "Petir",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Small_War",
-    "wikiPageId": 79258
+    "wikiPageId": 79258,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5a/A_Small_War.png/revision/latest?cb=20180403162441"
   },
   {
     "id": "xc2-quest-a-young-mans-prize",
@@ -473,7 +513,8 @@
     "description": "\"A young Ardainian man named Eluned is after a Snow-White Rhino native to parts of Gormott. Catch one for him.\"",
     "giver": "Eluned",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Young_Man's_Prize",
-    "wikiPageId": 81468
+    "wikiPageId": 81468,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/18/A_Young_Man%27s_Prize_icon.jpg/revision/latest?cb=20180123224500"
   },
   {
     "id": "xc2-quest-ardun-rearing",
@@ -485,7 +526,8 @@
     "description": "Help the Ardun to grow by feeding it.",
     "giver": "Pekka",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ardun_Rearing",
-    "wikiPageId": 83710
+    "wikiPageId": 83710,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/60/Newborn_Ardun.png/revision/latest/scale-to-width-down/400?cb=20180726035031"
   },
   {
     "id": "xc2-quest-artificial-blade-parts-1",
@@ -497,7 +539,8 @@
     "description": "\"Tora needs a Perfect Range Sensor and Bion Connectors for his artificial Blade. Help him out, so you can all save Nia!\"",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Artificial_Blade_Parts_1",
-    "wikiPageId": 79634
+    "wikiPageId": 79634,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f5/Artificial_Blade_Parts_1_icon.jpg/revision/latest?cb=20180112143458"
   },
   {
     "id": "xc2-quest-artificial-blade-parts-2",
@@ -509,7 +552,8 @@
     "description": "\"Tora needs a Perfect Range Sensor and Bion Connectors for his artificial Blade. Help him out, so you can all save Nia!\"",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Artificial_Blade_Parts_2",
-    "wikiPageId": 79635
+    "wikiPageId": 79635,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/Artificial_Blade_Parts_2_icon.jpg/revision/latest?cb=20180112143459"
   },
   {
     "id": "xc2-quest-bearing-her-soul",
@@ -521,7 +565,8 @@
     "description": "\"Ursula is scouted for her singing talents, but needs to overcome her shyness. Help her come out of her shell.\"",
     "giver": "Kiara",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bearing_Her_Soul",
-    "wikiPageId": 76281
+    "wikiPageId": 76281,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/34/Bearing_Her_Soul.png/revision/latest?cb=20180403162444"
   },
   {
     "id": "xc2-quest-buoy-cant-swim",
@@ -533,7 +578,8 @@
     "description": "\"By a lake in Gormott, you met a young boy who wants to learn to swim. Collect some Buoyweed for him.\"",
     "giver": "Sulya",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Buoy_Can't_Swim",
-    "wikiPageId": 79133
+    "wikiPageId": 79133,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b6/Buoy_Can%27t_Swim_icon.jpg/revision/latest?cb=20180123224501"
   },
   {
     "id": "xc2-quest-concerned-carpenter",
@@ -545,7 +591,8 @@
     "description": "\"Go look for Siorge the carpenter's son, Pawli, who went on an errand and still hasn't returned\"",
     "giver": "Siorge",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Concerned_Carpenter",
-    "wikiPageId": 81325
+    "wikiPageId": 81325,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/Concerned_Carpenter_icon.jpg/revision/latest?cb=20180123224502"
   },
   {
     "id": "xc2-quest-crane-criminals",
@@ -557,7 +604,8 @@
     "description": "\"Sniff out the criminals who broke the crane in Torigoth. Start by asking around town.\"",
     "giver": "Pettle",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Crane_Criminals",
-    "wikiPageId": 80361
+    "wikiPageId": 80361,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Crane_Criminals.png/revision/latest?cb=20180403162447"
   },
   {
     "id": "xc2-quest-crystal-clear",
@@ -569,7 +617,8 @@
     "description": "\"While walking in Torigoth, you are confronted by a couple of Blades. Could they be Core Crystal hunters?\"",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Crystal_Clear",
-    "wikiPageId": 74080
+    "wikiPageId": 74080,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a5/Crystal_Clear.png/revision/latest?cb=20180403162447"
   },
   {
     "id": "xc2-quest-diplomatic-tensions",
@@ -581,7 +630,8 @@
     "description": "\"Resolve the dispute that has sprung up between the people of Torigoth and the Ardainian Army.\"",
     "giver": "Gryff",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Diplomatic_Tensions",
-    "wikiPageId": 79259
+    "wikiPageId": 79259,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/Diplomatic_Tensions.png/revision/latest?cb=20180403162818"
   },
   {
     "id": "xc2-quest-fresh-and-fruity",
@@ -593,7 +643,8 @@
     "description": "\"Twaina has asked you to gather some ingredients for her famous pie. In the name of delicious pie, do it!\"",
     "giver": "Twaina",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fresh_and_Fruity",
-    "wikiPageId": 79823
+    "wikiPageId": 79823,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/25/Fresh_and_Fruity_icon.jpg/revision/latest?cb=20180114023806"
   },
   {
     "id": "xc2-quest-go-for-it-electra",
@@ -605,7 +656,8 @@
     "description": "\"Electra just wants to be useful, but she despairs when she cannot control her power. Where did she run off to?\"",
     "giver": "Electra",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Go_for_it%2C_Electra!",
-    "wikiPageId": 78244
+    "wikiPageId": 78244,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Go_for_it%2C_Electra%21.png/revision/latest?cb=20180403162823"
   },
   {
     "id": "xc2-quest-gormott-province-quests",
@@ -627,7 +679,8 @@
     "description": "\"Help Nomon grow some nice, nutritious vegetables.\"",
     "giver": "Nomon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Grow%2C_Little_Vegetables!",
-    "wikiPageId": 80188
+    "wikiPageId": 80188,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/24/Grow%2C_Little_Vegetables%21_icon.jpg/revision/latest?cb=20180123224503"
   },
   {
     "id": "xc2-quest-knocked-about-nopon",
@@ -639,7 +692,8 @@
     "description": "\"You've come across a Nopon trader being attacked on the Garanti Plain. Defeat the monsters and help her out!\"",
     "giver": "Tunini",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Knocked_About_Nopon",
-    "wikiPageId": 74452
+    "wikiPageId": 74452,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/28/Knocked_About_Nopon_icon.jpg/revision/latest?cb=20180114023805"
   },
   {
     "id": "xc2-quest-newt-recruits",
@@ -651,7 +705,8 @@
     "description": "\"Newt is unimpressed with the training regimen at the Ardainian base. Teach them a thing or two with a mock battle.\"",
     "giver": "Newt",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Newt_Recruits",
-    "wikiPageId": 80280
+    "wikiPageId": 80280,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8f/Newt_Recruits.png/revision/latest?cb=20180403163139"
   },
   {
     "id": "xc2-quest-no-penny-nopon",
@@ -663,7 +718,8 @@
     "description": "\"Poor Shatoto has been duped and left penniless by some soldiers. Cheer him up with some Noodle Soup!\"",
     "giver": "Shatoto",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/No-Penny_Nopon",
-    "wikiPageId": 79263
+    "wikiPageId": 79263,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/53/No-Penny_Nopon.png/revision/latest?cb=20180403163140"
   },
   {
     "id": "xc2-quest-nopon-of-good-tastes",
@@ -675,7 +731,8 @@
     "description": "\"Show Bipopo to Tora's house, where he can play Tiger! Tiger! (DLC Quest)\"",
     "giver": "Bipopo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_of_Good_Tastes",
-    "wikiPageId": 85281
+    "wikiPageId": 85281,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/Nopon_of_Good_Tastes.png/revision/latest?cb=20180510232227"
   },
   {
     "id": "xc2-quest-one-step-ahead",
@@ -687,7 +744,8 @@
     "description": "\"A mercenary and his companion were separated while searching for Healing Herb for a doctor. Help reunite them.\"",
     "giver": "Capher",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/One_Step_Ahead",
-    "wikiPageId": 80048
+    "wikiPageId": 80048,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/48/One_Step_Ahead.png/revision/latest?cb=20180403163140"
   },
   {
     "id": "xc2-quest-our-daily-bread",
@@ -699,7 +757,8 @@
     "description": "\"Kasandra gets a sudden craving for Lucky Dawn Bread, which is only sold at dawn. Go with her to get some!\"",
     "giver": "Kasandra",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Our_Daily_Bread",
-    "wikiPageId": 84685
+    "wikiPageId": 84685,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e1/Our_Daily_Bread.png/revision/latest?cb=20180403163141"
   },
   {
     "id": "xc2-quest-passion-of-the-artisan",
@@ -711,7 +770,8 @@
     "description": "\"Some lumber has disappeared from the Nocclia Timber Site. Find the culprit for Tucker the lumberjack.\"",
     "giver": "Tucker",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Passion_of_the_Artisan",
-    "wikiPageId": 81600
+    "wikiPageId": 81600,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/69/Passion_of_the_Artisan_icon.jpg/revision/latest?cb=20180123224504"
   },
   {
     "id": "xc2-quest-paying-it-forward",
@@ -723,7 +783,8 @@
     "description": "\"Bowery asked you to help Tenne by becoming the owner of her shop, Llysiau Greens.\"",
     "giver": "Bowery",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Paying_It_Forward",
-    "wikiPageId": 81461
+    "wikiPageId": 81461,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/Paying_it_Forward_icon.jpg/revision/latest?cb=20180123224505"
   },
   {
     "id": "xc2-quest-pest-control-1",
@@ -735,7 +796,8 @@
     "description": "\"Taking note of Praxis's gut feeling, head to tackle the Urayan monster problem mentioned in the memo.\"",
     "giver": "Theory",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Pest_Control_1",
-    "wikiPageId": 74184
+    "wikiPageId": 74184,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/ff/Pest_Control_1.png/revision/latest?cb=20180403163142"
   },
   {
     "id": "xc2-quest-pest-control-2",
@@ -747,7 +809,8 @@
     "description": "\"Taking note of Praxis's gut feeling, head to tackle the monster problem at the Spirit Crucible mentioned in the memo.\"",
     "giver": "Theory",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Pest_Control_2",
-    "wikiPageId": 74185
+    "wikiPageId": 74185,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/df/Pest_Control_2.png/revision/latest?cb=20180403163143"
   },
   {
     "id": "xc2-quest-pest-control-3",
@@ -759,7 +822,8 @@
     "description": "\"Taking note of Praxis's gut feeling, head to tackle the monster problem in Leftheria mentioned in the memo.\"",
     "giver": "Theory",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Pest_Control_3",
-    "wikiPageId": 74186
+    "wikiPageId": 74186,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/86/Pest_Control_3.png/revision/latest?cb=20180403163143"
   },
   {
     "id": "xc2-quest-powered-up-poppi",
@@ -771,7 +835,8 @@
     "description": "Tatazo has developed new plans to power Poppi-up. Help him collect the materials that he needs.",
     "giver": "Tatazo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Powered-Up_Poppi",
-    "wikiPageId": 74147
+    "wikiPageId": 74147,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ed/Powered-Up_Poppi.png/revision/latest?cb=20180403181722"
   },
   {
     "id": "xc2-quest-repair-torigoths-crane",
@@ -783,7 +848,8 @@
     "description": "\"Gather the parts that Natheus needs to repair the crane that keeps getting broken by someone.\"",
     "giver": "Natheus",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Repair_Torigoth's_Crane",
-    "wikiPageId": 81259
+    "wikiPageId": 81259,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/86/Repair_Torigoth%27s_Crane_icon.jpg/revision/latest?cb=20180123224505"
   },
   {
     "id": "xc2-quest-shiny-new-power",
@@ -795,7 +861,8 @@
     "description": "\"Following letter Tora got, gather Blade special data and then head to Bulge Harbor in Mor Ardain, meh! (DLC Quest)\"",
     "giver": "Tatazo and Soosoo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Shiny_New_Power",
-    "wikiPageId": 86827
+    "wikiPageId": 86827,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/Shiny_New_Power.png/revision/latest?cb=20180427122906"
   },
   {
     "id": "xc2-quest-star-crossed-lovers",
@@ -807,7 +874,8 @@
     "description": "\"A young couple heading to the shipyard have been beset by monsters! Defeat the monsters and help them out.\"",
     "giver": "Rhiannon and Norman",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Star-Crossed_Lovers",
-    "wikiPageId": 81463
+    "wikiPageId": 81463,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8c/Star_Crossed_Lovers_icon.jpg/revision/latest?cb=20180123224506"
   },
   {
     "id": "xc2-quest-stop-thief",
@@ -819,7 +887,8 @@
     "description": "A young boy stole Roc's Core Crystal and escaped to Torigoth. Ask around and search for clues.",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Stop%2C_Thief!_(XC2)",
-    "wikiPageId": 85556
+    "wikiPageId": 85556,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Stop%2C_Thief%21.png/revision/latest?cb=20180403191733"
   },
   {
     "id": "xc2-quest-the-case-of-the-crane",
@@ -831,7 +900,8 @@
     "description": "\"Torigoth's crane has been breaking down a lot recently. Fix the crane and catch whoever's responsible.\"",
     "giver": "Eyvan",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Case_of_the_Crane",
-    "wikiPageId": 80362
+    "wikiPageId": 80362,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/The_Case_of_the_Crane_icon.jpg/revision/latest?cb=20180123224819"
   },
   {
     "id": "xc2-quest-the-driver-in-ice",
@@ -843,7 +913,8 @@
     "description": "\"Llonya's Driver is encased in ice and she's looking for a Blade who can help. Melt the ice for her.\"",
     "giver": "Llonya",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Driver_in_Ice",
-    "wikiPageId": 80211
+    "wikiPageId": 80211,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/The_Driver_in_Ice.png/revision/latest?cb=20180403163415"
   },
   {
     "id": "xc2-quest-the-militias-request",
@@ -855,7 +926,8 @@
     "description": "\"Gather Melosian Honey and deliver it to Militia Chief Moui.\"",
     "giver": "Notice Board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Militia's_Request",
-    "wikiPageId": 79255
+    "wikiPageId": 79255,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/The_Militia%27s_Request_icon.jpg/revision/latest?cb=20180123224820"
   },
   {
     "id": "xc2-quest-the-missing-order",
@@ -867,7 +939,8 @@
     "description": "\"The order from Nopon trader, Mopopo, is past due. Go to the Nopon Camp and check on Mopopo.\"",
     "giver": "Feyla",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Missing_Order",
-    "wikiPageId": 79257
+    "wikiPageId": 79257,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/38/The_Missing_Order.png/revision/latest?cb=20180403163416"
   },
   {
     "id": "xc2-quest-the-race-to-find-nia",
@@ -879,7 +952,8 @@
     "description": "\"Nia has been imprisoned by the Imperial Army. Ask around in Torigoth to find out as much about her as you can, fast.\"",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Race_to_Find_Nia",
-    "wikiPageId": 79617
+    "wikiPageId": 79617,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/The_Race_to_Find_Nia_icon.jpg/revision/latest?cb=20180112034424"
   },
   {
     "id": "xc2-quest-the-riddle-on-the-wall",
@@ -891,7 +965,8 @@
     "description": "\"You found a riddle on a mural in Torigoth. What could it mean? The first thing to do is to figure out how to read it.\"",
     "giver": "Erebos",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Riddle_on_the_Wall",
-    "wikiPageId": 76512
+    "wikiPageId": 76512,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8e/The_Riddle_on_the_Wall.png/revision/latest?cb=20180403163417"
   },
   {
     "id": "xc2-quest-tirkin-suppression",
@@ -903,7 +978,8 @@
     "description": "\"An Ardainian soldier needs your help to get rid of some vicious Tirkin that trouble the public.\"",
     "giver": "Saclich",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tirkin_Suppression",
-    "wikiPageId": 81075
+    "wikiPageId": 81075,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Tirkin_Suppression.png/revision/latest?cb=20180122032030"
   },
   {
     "id": "xc2-quest-tranquility",
@@ -915,7 +991,8 @@
     "description": "\"While shopping, Vess asks for some ingredients that have become scarce in Gormott. Go and gather them for her.\"",
     "giver": "Vess",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tranquility",
-    "wikiPageId": 73959
+    "wikiPageId": 73959,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Tranquility_icon.jpg/revision/latest?cb=20180123224821"
   },
   {
     "id": "xc2-quest-umon-bounces-back",
@@ -927,7 +1004,8 @@
     "description": "\"You found Umon about to throw himself off a pier in Torigoth. There must be a way to help ease his worries\"",
     "giver": "Umon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Umon_Bounces_Back",
-    "wikiPageId": 80004
+    "wikiPageId": 80004,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c5/Umon_Bounces_Back.png/revision/latest?cb=20180403163421"
   },
   {
     "id": "xc2-quest-umons-ship",
@@ -939,7 +1017,8 @@
     "description": "\"Help Umon to complete a Titan craft, so that you can borrow a boat to journey to the World Tree.\"",
     "giver": "Umon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Umon's_Ship_(quest)",
-    "wikiPageId": 73538
+    "wikiPageId": 73538,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b2/Umon%27s_Ship_icon.jpg/revision/latest?cb=20180112143459"
   },
   {
     "id": "xc2-quest-upgrades-and-tinkering",
@@ -951,7 +1030,8 @@
     "description": "\"Tora's tinkering has paid off, and the Cloud Sea Compass is much stronger! Travel around to find new Salvage Points. (DLC Quest)\"",
     "giver": "Tora",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Upgrades_and_Tinkering",
-    "wikiPageId": 85284
+    "wikiPageId": 85284,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/98/Upgrades_and_Tinkering.png/revision/latest?cb=20180509210201"
   },
   {
     "id": "xc2-quest-whereabouts-unknown",
@@ -963,7 +1043,8 @@
     "description": "\"A vermin specialist and some guards went to check on the Volff and never came back. See if you can find them.\"",
     "giver": "Ashe",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Whereabouts_Unknown",
-    "wikiPageId": 80044
+    "wikiPageId": 80044,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/83/Whereabouts_Unknown.png/revision/latest?cb=20180403163423"
   },
   {
     "id": "xc2-quest-file-a-small-war-png",
@@ -973,7 +1054,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Small_War.png",
-    "wikiPageId": 85467
+    "wikiPageId": 85467,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5a/A_Small_War.png/revision/latest?cb=20180403162441"
   },
   {
     "id": "xc2-quest-file-a-young-mans-prize-icon-jpg",
@@ -983,7 +1065,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Young_Man's_Prize_icon.jpg",
-    "wikiPageId": 81237
+    "wikiPageId": 81237,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/18/A_Young_Man%27s_Prize_icon.jpg/revision/latest?cb=20180123224500"
   },
   {
     "id": "xc2-quest-file-bearing-her-soul-png",
@@ -993,7 +1076,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABearing_Her_Soul.png",
-    "wikiPageId": 85473
+    "wikiPageId": 85473,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/34/Bearing_Her_Soul.png/revision/latest?cb=20180403162444"
   },
   {
     "id": "xc2-quest-file-buoy-cant-swim-icon-jpg",
@@ -1003,7 +1087,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABuoy_Can't_Swim_icon.jpg",
-    "wikiPageId": 81238
+    "wikiPageId": 81238,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b6/Buoy_Can%27t_Swim_icon.jpg/revision/latest?cb=20180123224501"
   },
   {
     "id": "xc2-quest-file-concerned-carpenter-icon-jpg",
@@ -1013,7 +1098,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AConcerned_Carpenter_icon.jpg",
-    "wikiPageId": 81239
+    "wikiPageId": 81239,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/Concerned_Carpenter_icon.jpg/revision/latest?cb=20180123224502"
   },
   {
     "id": "xc2-quest-file-crane-criminals-png",
@@ -1023,7 +1109,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACrane_Criminals.png",
-    "wikiPageId": 85478
+    "wikiPageId": 85478,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Crane_Criminals.png/revision/latest?cb=20180403162447"
   },
   {
     "id": "xc2-quest-file-crystal-clear-png",
@@ -1033,7 +1120,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACrystal_Clear.png",
-    "wikiPageId": 85479
+    "wikiPageId": 85479,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a5/Crystal_Clear.png/revision/latest?cb=20180403162447"
   },
   {
     "id": "xc2-quest-file-diplomatic-tensions-png",
@@ -1043,7 +1131,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADiplomatic_Tensions.png",
-    "wikiPageId": 85484
+    "wikiPageId": 85484,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/Diplomatic_Tensions.png/revision/latest?cb=20180403162818"
   },
   {
     "id": "xc2-quest-file-fresh-and-fruity-icon-jpg",
@@ -1053,7 +1142,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFresh_and_Fruity_icon.jpg",
-    "wikiPageId": 79819
+    "wikiPageId": 79819,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/25/Fresh_and_Fruity_icon.jpg/revision/latest?cb=20180114023806"
   },
   {
     "id": "xc2-quest-file-go-for-it-electra-png",
@@ -1063,7 +1153,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGo_for_it%2C_Electra!.png",
-    "wikiPageId": 85493
+    "wikiPageId": 85493,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Go_for_it%2C_Electra%21.png/revision/latest?cb=20180403162823"
   },
   {
     "id": "xc2-quest-file-grow-little-vegetables-icon-jpg",
@@ -1073,7 +1164,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGrow%2C_Little_Vegetables!_icon.jpg",
-    "wikiPageId": 81241
+    "wikiPageId": 81241,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/24/Grow%2C_Little_Vegetables%21_icon.jpg/revision/latest?cb=20180123224503"
   },
   {
     "id": "xc2-quest-file-knocked-about-nopon-icon-jpg",
@@ -1083,7 +1175,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AKnocked_About_Nopon_icon.jpg",
-    "wikiPageId": 79818
+    "wikiPageId": 79818,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/28/Knocked_About_Nopon_icon.jpg/revision/latest?cb=20180114023805"
   },
   {
     "id": "xc2-quest-file-newt-recruits-png",
@@ -1093,7 +1186,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANewt_Recruits.png",
-    "wikiPageId": 85509
+    "wikiPageId": 85509,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8f/Newt_Recruits.png/revision/latest?cb=20180403163139"
   },
   {
     "id": "xc2-quest-file-no-penny-nopon-png",
@@ -1103,7 +1197,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANo-Penny_Nopon.png",
-    "wikiPageId": 85510
+    "wikiPageId": 85510,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/53/No-Penny_Nopon.png/revision/latest?cb=20180403163140"
   },
   {
     "id": "xc2-quest-file-nopon-of-good-tastes-png",
@@ -1113,7 +1208,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANopon_of_Good_Tastes.png",
-    "wikiPageId": 87409
+    "wikiPageId": 87409,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/Nopon_of_Good_Tastes.png/revision/latest?cb=20180510232227"
   },
   {
     "id": "xc2-quest-file-one-step-ahead-png",
@@ -1123,7 +1219,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOne_Step_Ahead.png",
-    "wikiPageId": 85511
+    "wikiPageId": 85511,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/48/One_Step_Ahead.png/revision/latest?cb=20180403163140"
   },
   {
     "id": "xc2-quest-file-our-daily-bread-png",
@@ -1133,7 +1230,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AOur_Daily_Bread.png",
-    "wikiPageId": 85512
+    "wikiPageId": 85512,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e1/Our_Daily_Bread.png/revision/latest?cb=20180403163141"
   },
   {
     "id": "xc2-quest-file-passion-of-the-artisan-icon-jpg",
@@ -1143,7 +1241,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APassion_of_the_Artisan_icon.jpg",
-    "wikiPageId": 81243
+    "wikiPageId": 81243,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/69/Passion_of_the_Artisan_icon.jpg/revision/latest?cb=20180123224504"
   },
   {
     "id": "xc2-quest-file-paying-it-forward-icon-jpg",
@@ -1153,7 +1252,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APaying_it_Forward_icon.jpg",
-    "wikiPageId": 81244
+    "wikiPageId": 81244,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/Paying_it_Forward_icon.jpg/revision/latest?cb=20180123224505"
   },
   {
     "id": "xc2-quest-file-pest-control-1-png",
@@ -1163,7 +1263,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APest_Control_1.png",
-    "wikiPageId": 85514
+    "wikiPageId": 85514,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/ff/Pest_Control_1.png/revision/latest?cb=20180403163142"
   },
   {
     "id": "xc2-quest-file-pest-control-2-png",
@@ -1173,7 +1274,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APest_Control_2.png",
-    "wikiPageId": 85515
+    "wikiPageId": 85515,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/df/Pest_Control_2.png/revision/latest?cb=20180403163143"
   },
   {
     "id": "xc2-quest-file-pest-control-3-png",
@@ -1183,7 +1285,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APest_Control_3.png",
-    "wikiPageId": 85516
+    "wikiPageId": 85516,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/86/Pest_Control_3.png/revision/latest?cb=20180403163143"
   },
   {
     "id": "xc2-quest-file-powered-up-poppi-png",
@@ -1193,7 +1296,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APowered-Up_Poppi.png",
-    "wikiPageId": 85549
+    "wikiPageId": 85549,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ed/Powered-Up_Poppi.png/revision/latest?cb=20180403181722"
   },
   {
     "id": "xc2-quest-file-repair-torigoths-crane-icon-jpg",
@@ -1203,7 +1307,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARepair_Torigoth's_Crane_icon.jpg",
-    "wikiPageId": 81245
+    "wikiPageId": 81245,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/86/Repair_Torigoth%27s_Crane_icon.jpg/revision/latest?cb=20180123224505"
   },
   {
     "id": "xc2-quest-file-shiny-new-power-png",
@@ -1213,7 +1318,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AShiny_New_Power.png",
-    "wikiPageId": 86840
+    "wikiPageId": 86840,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2b/Shiny_New_Power.png/revision/latest?cb=20180427122906"
   },
   {
     "id": "xc2-quest-file-star-crossed-lovers-icon-jpg",
@@ -1223,7 +1329,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStar_Crossed_Lovers_icon.jpg",
-    "wikiPageId": 81246
+    "wikiPageId": 81246,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8c/Star_Crossed_Lovers_icon.jpg/revision/latest?cb=20180123224506"
   },
   {
     "id": "xc2-quest-file-the-case-of-the-crane-icon-jpg",
@@ -1233,7 +1340,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Case_of_the_Crane_icon.jpg",
-    "wikiPageId": 81249
+    "wikiPageId": 81249,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/The_Case_of_the_Crane_icon.jpg/revision/latest?cb=20180123224819"
   },
   {
     "id": "xc2-quest-file-the-driver-in-ice-png",
@@ -1243,7 +1351,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Driver_in_Ice.png",
-    "wikiPageId": 85524
+    "wikiPageId": 85524,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/The_Driver_in_Ice.png/revision/latest?cb=20180403163415"
   },
   {
     "id": "xc2-quest-file-the-militias-request-icon-jpg",
@@ -1253,7 +1362,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Militia's_Request_icon.jpg",
-    "wikiPageId": 81250
+    "wikiPageId": 81250,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/The_Militia%27s_Request_icon.jpg/revision/latest?cb=20180123224820"
   },
   {
     "id": "xc2-quest-file-the-missing-order-png",
@@ -1263,7 +1373,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Missing_Order.png",
-    "wikiPageId": 85526
+    "wikiPageId": 85526,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/38/The_Missing_Order.png/revision/latest?cb=20180403163416"
   },
   {
     "id": "xc2-quest-file-the-riddle-on-the-wall-png",
@@ -1273,7 +1384,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Riddle_on_the_Wall.png",
-    "wikiPageId": 85528
+    "wikiPageId": 85528,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8e/The_Riddle_on_the_Wall.png/revision/latest?cb=20180403163417"
   },
   {
     "id": "xc2-quest-file-tirkin-suppression-png",
@@ -1283,7 +1395,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATirkin_Suppression.png",
-    "wikiPageId": 81112
+    "wikiPageId": 81112,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ca/Tirkin_Suppression.png/revision/latest?cb=20180122032030"
   },
   {
     "id": "xc2-quest-file-tranquility-icon-jpg",
@@ -1293,7 +1406,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATranquility_icon.jpg",
-    "wikiPageId": 81251
+    "wikiPageId": 81251,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Tranquility_icon.jpg/revision/latest?cb=20180123224821"
   },
   {
     "id": "xc2-quest-file-umon-bounces-back-png",
@@ -1303,7 +1417,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUmon_Bounces_Back.png",
-    "wikiPageId": 85535
+    "wikiPageId": 85535,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c5/Umon_Bounces_Back.png/revision/latest?cb=20180403163421"
   },
   {
     "id": "xc2-quest-file-upgrades-and-tinkering-png",
@@ -1313,7 +1428,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AUpgrades_and_Tinkering.png",
-    "wikiPageId": 87359
+    "wikiPageId": 87359,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/98/Upgrades_and_Tinkering.png/revision/latest?cb=20180509210201"
   },
   {
     "id": "xc2-quest-file-whereabouts-unknown-png",
@@ -1323,7 +1439,8 @@
     "region": "Gormott Province",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWhereabouts_Unknown.png",
-    "wikiPageId": 85538
+    "wikiPageId": 85538,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/83/Whereabouts_Unknown.png/revision/latest?cb=20180403163423"
   },
   {
     "id": "xc2-quest-a-hat-fit-for-a-lady",
@@ -1335,7 +1452,8 @@
     "description": "\"Find Beemer's wayward daughter Lhagen. She went to Argentum to find herself the hat of her dreams. (DLC Quest)\"",
     "giver": "Beemer",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Hat_Fit_for_a_Lady",
-    "wikiPageId": 87884
+    "wikiPageId": 87884,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/A_Hat_Fit_for_a_Lady.png/revision/latest?cb=20180621141327"
   },
   {
     "id": "xc2-quest-a-helping-hand",
@@ -1347,7 +1465,8 @@
     "description": "\"Julion has requested your help with Indoline refugee relief effort. Go to each distribution to lend a hand.\"",
     "giver": "Julion",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Helping_Hand",
-    "wikiPageId": 84693
+    "wikiPageId": 84693,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/A_Helping_Hand.png/revision/latest?cb=20180403162439"
   },
   {
     "id": "xc2-quest-a-mercenarys-honor",
@@ -1359,7 +1478,8 @@
     "description": "''\"A group of mercs haven't returned from a mission to watch Ardainian forces. Head to Temperantia to find them and bring them back. (DLC Quest)\"''",
     "giver": "Matteo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Mercenary's_Honor",
-    "wikiPageId": 87886
+    "wikiPageId": 87886,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/A_Mercenary%27s_Honor.png/revision/latest?cb=20180902225220"
   },
   {
     "id": "xc2-quest-a-secret-cure",
@@ -1371,7 +1491,8 @@
     "description": "\"Iona needs help healing Cole without getting his hopes up. Find a doctor who can make medicine for him.\"",
     "giver": "Iona",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Secret_Cure",
-    "wikiPageId": 82005
+    "wikiPageId": 82005,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/A_Secret_Cure.png/revision/latest?cb=20180203010049"
   },
   {
     "id": "xc2-quest-a-smiths-pastime",
@@ -1383,7 +1504,8 @@
     "description": "\"Chulev, a retired blacksmith, has been dabbling in making accessories. Bring him the materials to get one made! (DLC Quest)\"",
     "giver": "Chulev",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Smith's_Pastime",
-    "wikiPageId": 87883
+    "wikiPageId": 87883,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/A_Smith%27s_Pastime.png/revision/latest?cb=20180621140117"
   },
   {
     "id": "xc2-quest-a-test-of-strength",
@@ -1395,7 +1517,8 @@
     "description": "\"The mercs want to test the strength of their new leader. Head to the training ground and show them who's boss.\"",
     "giver": "Yew",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Test_of_Strength",
-    "wikiPageId": 84330
+    "wikiPageId": 84330,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ef/A_Test_of_Strength.png/revision/latest?cb=20180403162441"
   },
   {
     "id": "xc2-quest-alls-fair",
@@ -1407,7 +1530,8 @@
     "description": "\"To liven up a boring duty, Azami keeps an eye on a suspicious group in town. Find out what they're up to!\"",
     "giver": "Azami",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/All's_Fair",
-    "wikiPageId": 83073
+    "wikiPageId": 83073,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/68/All%27s_Fair.PNG/revision/latest?cb=20180314000952"
   },
   {
     "id": "xc2-quest-boys-and-bullies",
@@ -1419,7 +1543,8 @@
     "description": "\"A young boy has asked you to get back his treasure from the bully who took it. Grant his request.\"",
     "giver": "Jammie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Boys_and_Bullies",
-    "wikiPageId": 84672
+    "wikiPageId": 84672,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8e/Boys_and_Bullies.png/revision/latest?cb=20180403162446"
   },
   {
     "id": "xc2-quest-dagass-past-folktales",
@@ -1431,7 +1556,8 @@
     "description": "\"A book bought from a shop in Uraya mentions an ancient kingdom that was near Temperantia. Go find out more!\"",
     "giver": "Dagas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dagas's_Past%3A_Folktales",
-    "wikiPageId": 80157
+    "wikiPageId": 80157,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/Dagas%27s_Past_-_Folktales.png/revision/latest?cb=20180403165634"
   },
   {
     "id": "xc2-quest-difficult-decisions",
@@ -1443,7 +1569,8 @@
     "description": "\"Jelved thinks that the mercenary Nicc may be responsible for his parents' deaths. See if you can dig up the past and learn the truth.\"",
     "giver": "Jelved",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Difficult_Decisions",
-    "wikiPageId": 84673
+    "wikiPageId": 84673,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fb/Difficult_Decisions.png/revision/latest?cb=20180403162449"
   },
   {
     "id": "xc2-quest-family-vs-fiends",
@@ -1455,7 +1582,8 @@
     "description": "\"Some ruffian is trying to steal rations from a mother and child. Lend the unfortunate victims a hand.\"",
     "giver": "Maryn and Terry",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Family_vs._Fiends",
-    "wikiPageId": 84670
+    "wikiPageId": 84670,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/96/Family_vs._Fiends.png/revision/latest?cb=20180403162821"
   },
   {
     "id": "xc2-quest-flames-of-justice",
@@ -1467,7 +1595,8 @@
     "description": "\"Godfrey declares his desire to support the weak and uphold justice! Help him in his righteous cause!\"",
     "giver": "Godfrey",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Flames_of_Justice",
-    "wikiPageId": 75068
+    "wikiPageId": 75068,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Flames_of_Justice.png/revision/latest?cb=20180314003248"
   },
   {
     "id": "xc2-quest-follow-your-passion",
@@ -1479,7 +1608,8 @@
     "description": "\"Go on a salvage mission to return treasured paintings to their owner.\"",
     "giver": "Alban",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Follow_Your_Passion",
-    "wikiPageId": 80163
+    "wikiPageId": 80163,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/Follow_Your_Passion.png/revision/latest?cb=20180314003028"
   },
   {
     "id": "xc2-quest-gotta-start-somewhere",
@@ -1491,7 +1621,8 @@
     "description": "\"On the way to Fonsa Myma, you found a group of mercenaries in a spot of trouble. See what you can do to help.\"",
     "giver": "Ragi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Gotta_Start_Somewhere!",
-    "wikiPageId": 84350
+    "wikiPageId": 84350,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/Gotta_Start_Somewhere%21.png/revision/latest?cb=20180403162824"
   },
   {
     "id": "xc2-quest-jeline-and-shaun",
@@ -1503,7 +1634,8 @@
     "description": "\"Jeline asked you to search for Shaun. Look for him outside of Fonsa Myma.\"",
     "giver": "Jeline",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Jeline_and_Shaun",
-    "wikiPageId": 84671
+    "wikiPageId": 84671,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/Jeline_and_Shaun.png/revision/latest?cb=20180403162827"
   },
   {
     "id": "xc2-quest-kingdom-of-uraya-quests",
@@ -1525,7 +1657,8 @@
     "description": "\"Yew has asked for your help in deciding which of three candidates to hire for a new Merc Group position.\"",
     "giver": "Yew",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Leadership_Qualities",
-    "wikiPageId": 84349
+    "wikiPageId": 84349,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/Leadership_Qualities.png/revision/latest?cb=20180403162828"
   },
   {
     "id": "xc2-quest-lingering-resentment",
@@ -1537,7 +1670,8 @@
     "description": "\"Chancing upon Indoline survivors in Olethro Ruins, you were attacked on sight. Find out about their schemes.\"",
     "giver": "T-elos",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lingering_Resentment",
-    "wikiPageId": 86849
+    "wikiPageId": 86849,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bc/Lingering_Resentment.png/revision/latest?cb=20180620154415"
   },
   {
     "id": "xc2-quest-m-i-a-nopon",
@@ -1549,7 +1683,8 @@
     "description": "\"Look for Budada, who went missing after saying he was going to Uraya to observe the life of Ignas. (DLC Quest)\"",
     "giver": "Konakona",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/M.I.A._Nopon",
-    "wikiPageId": 84327
+    "wikiPageId": 84327,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b5/M.I.A._Nopon_icon.jpg/revision/latest?cb=20180123225011"
   },
   {
     "id": "xc2-quest-marvelous-mercenaries",
@@ -1561,7 +1696,8 @@
     "description": "\"Yew landed you a big job in the hopes of building the mercenaries' reputation. Go see what the client has to say.\"",
     "giver": "Yew",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Marvelous_Mercenaries",
-    "wikiPageId": 79942
+    "wikiPageId": 79942,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ad/Marvelous_Mercenaries.png/revision/latest?cb=20180403163137"
   },
   {
     "id": "xc2-quest-mysterious-note",
@@ -1573,7 +1709,8 @@
     "description": "\"The note you found in Acid Gullet is a map of sorts with a spot marked on it. Why not go and see what you find?\"",
     "giver": "None",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mysterious_Note",
-    "wikiPageId": 79394
+    "wikiPageId": 79394,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f4/Mysterious_Note.png/revision/latest?cb=20180403163138"
   },
   {
     "id": "xc2-quest-nature-boy",
@@ -1585,7 +1722,8 @@
     "description": "\"Floren wants to restore a wounded tree back to health. Look for the required medicine in Gormott.\"",
     "giver": "Floren",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nature_Boy",
-    "wikiPageId": 84684
+    "wikiPageId": 84684,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0f/Nature_Boy.png/revision/latest?cb=20180403163139"
   },
   {
     "id": "xc2-quest-precious-yearnings",
@@ -1597,7 +1735,8 @@
     "description": "\"During a chat at the inn, Agate reveals her dream of discovering a totally new mineral. Help her make it come true!\"",
     "giver": "Agate",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Precious_Yearnings",
-    "wikiPageId": 74049
+    "wikiPageId": 74049,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/Precious_Yearnings.png/revision/latest?cb=20180403163144"
   },
   {
     "id": "xc2-quest-sniff-out-the-spy",
@@ -1609,7 +1748,8 @@
     "description": "\"It seems that a spy may have infiltrated the Merc Group. See if you can identify them.\"",
     "giver": "Raloo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sniff_out_the_Spy",
-    "wikiPageId": 83677
+    "wikiPageId": 83677,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/40/Sniff_out_the_Spy.png/revision/latest?cb=20180403163145"
   },
   {
     "id": "xc2-quest-sunken-boosters",
@@ -1621,7 +1761,8 @@
     "description": "\"A ship carrying a shipment of Boosters sank off Gormott's Lascham Island. Talk to Seesaw the Nopon to learn more. (DLC Quest)\"",
     "giver": "Borella",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sunken_Boosters",
-    "wikiPageId": 90978
+    "wikiPageId": 90978,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0c/Sunken_Boosters.png/revision/latest?cb=20180805200228"
   },
   {
     "id": "xc2-quest-the-supply-situation",
@@ -1633,7 +1774,8 @@
     "description": "\"Yew is worried that his mercenary group doesn't have the supplies it needs. Help him to develop his group.\"",
     "giver": "Yew",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Supply_Situation",
-    "wikiPageId": 84329
+    "wikiPageId": 84329,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ad/The_Supply_Situation.png/revision/latest?cb=20180403163418"
   },
   {
     "id": "xc2-quest-the-titan-scholar",
@@ -1645,7 +1787,8 @@
     "description": "\"A Nopon waiting at the port in Fonsa Myma asked you to go looking for his teacher, who researches Titans.\"",
     "giver": "Pilolo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Titan_Scholar",
-    "wikiPageId": 84312
+    "wikiPageId": 84312,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/The_Titan_Scholar.png/revision/latest?cb=20180403163418"
   },
   {
     "id": "xc2-quest-the-trendy-patissier",
@@ -1657,7 +1800,8 @@
     "description": "\"Gorg's Just Desserts brand is booming across Alrest. Try to establish new distribution channels with Boreas! (DLC Quest)\"",
     "giver": "Jennifora",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Trendy_Patissier",
-    "wikiPageId": 90979
+    "wikiPageId": 90979,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c6/The_Trendy_Patissier.png/revision/latest?cb=20180909035426"
   },
   {
     "id": "xc2-quest-theory-and-praxis",
@@ -1669,7 +1813,8 @@
     "description": "\"While stopping by an Urayan cafe, you see a boy consoling his crying younger brother. Find out what the matter is.\"",
     "giver": "Praxis and Theory",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Theory_and_Praxis",
-    "wikiPageId": 81278
+    "wikiPageId": 81278,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f7/Theory_and_Praxis.png/revision/latest?cb=20180124042011"
   },
   {
     "id": "xc2-quest-true-colors",
@@ -1681,7 +1826,8 @@
     "description": "\"Dobran, an artist working in Fonsa Myma, has requested that you find her ingredients for her paint.\"",
     "giver": "Dobran",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/True_Colors",
-    "wikiPageId": 84270
+    "wikiPageId": 84270,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/72/True_Colors.png/revision/latest?cb=20180403163420"
   },
   {
     "id": "xc2-quest-unspoken-suspicion",
@@ -1693,7 +1839,8 @@
     "description": "\"A shady merc demands you return classified documents you know nothing about. You'll have to fight him off.\"",
     "giver": "Floren",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unspoken_Suspicion",
-    "wikiPageId": 86343
+    "wikiPageId": 86343,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Unspoken_suspicion.png/revision/latest?cb=20190117230435"
   },
   {
     "id": "xc2-quest-vandhams-last-wish",
@@ -1705,7 +1852,8 @@
     "description": "\"Yew wants to talk to you about a message that Vandham left. Return to the village and see what he has to say.\"",
     "giver": "Yew",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Vandham's_Last_Wish",
-    "wikiPageId": 79637
+    "wikiPageId": 79637,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ec/Vandham%27s_Last_Wish_icon.jpg/revision/latest?cb=20180112143500"
   },
   {
     "id": "xc2-quest-would-be-mercs",
@@ -1717,7 +1865,8 @@
     "description": "\"Some Garfont kids who went hunting for materials still haven't come home. Look for them at the Greatmaw Rapids.\"",
     "giver": "Geross",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Would-Be_Mercs",
-    "wikiPageId": 84267
+    "wikiPageId": 84267,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/77/Would-Be_Mercs.png/revision/latest?cb=20180403163424"
   },
   {
     "id": "xc2-quest-file-a-hat-fit-for-a-lady-png",
@@ -1727,7 +1876,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Hat_Fit_for_a_Lady.png",
-    "wikiPageId": 89212
+    "wikiPageId": 89212,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/A_Hat_Fit_for_a_Lady.png/revision/latest?cb=20180621141327"
   },
   {
     "id": "xc2-quest-file-a-helping-hand-png",
@@ -1737,7 +1887,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Helping_Hand.png",
-    "wikiPageId": 85464
+    "wikiPageId": 85464,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/A_Helping_Hand.png/revision/latest?cb=20180403162439"
   },
   {
     "id": "xc2-quest-file-a-mercenarys-honor-png",
@@ -1747,7 +1898,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Mercenary's_Honor.png",
-    "wikiPageId": 92347
+    "wikiPageId": 92347,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/A_Mercenary%27s_Honor.png/revision/latest?cb=20180902225220"
   },
   {
     "id": "xc2-quest-file-a-secret-cure-png",
@@ -1757,7 +1909,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Secret_Cure.png",
-    "wikiPageId": 82002
+    "wikiPageId": 82002,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/A_Secret_Cure.png/revision/latest?cb=20180203010049"
   },
   {
     "id": "xc2-quest-file-a-smiths-pastime-png",
@@ -1767,7 +1920,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Smith's_Pastime.png",
-    "wikiPageId": 89208
+    "wikiPageId": 89208,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/A_Smith%27s_Pastime.png/revision/latest?cb=20180621140117"
   },
   {
     "id": "xc2-quest-file-a-test-of-strength-png",
@@ -1777,7 +1931,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Test_of_Strength.png",
-    "wikiPageId": 85468
+    "wikiPageId": 85468,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ef/A_Test_of_Strength.png/revision/latest?cb=20180403162441"
   },
   {
     "id": "xc2-quest-file-blade-sharp-memory-png",
@@ -1787,7 +1942,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABlade-Sharp_Memory.png",
-    "wikiPageId": 85475
+    "wikiPageId": 85475,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e2/Blade-Sharp_Memory.png/revision/latest?cb=20180403162445"
   },
   {
     "id": "xc2-quest-file-boys-and-bullies-png",
@@ -1797,7 +1953,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABoys_and_Bullies.png",
-    "wikiPageId": 85476
+    "wikiPageId": 85476,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8e/Boys_and_Bullies.png/revision/latest?cb=20180403162446"
   },
   {
     "id": "xc2-quest-file-dagass-past-folktales-png",
@@ -1807,7 +1964,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas's_Past_-_Folktales.png",
-    "wikiPageId": 85541
+    "wikiPageId": 85541,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/Dagas%27s_Past_-_Folktales.png/revision/latest?cb=20180403165634"
   },
   {
     "id": "xc2-quest-file-difficult-decisions-png",
@@ -1817,7 +1975,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADifficult_Decisions.png",
-    "wikiPageId": 85483
+    "wikiPageId": 85483,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fb/Difficult_Decisions.png/revision/latest?cb=20180403162449"
   },
   {
     "id": "xc2-quest-file-family-vs-fiends-png",
@@ -1827,7 +1986,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFamily_vs._Fiends.png",
-    "wikiPageId": 85488
+    "wikiPageId": 85488,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/96/Family_vs._Fiends.png/revision/latest?cb=20180403162821"
   },
   {
     "id": "xc2-quest-file-gotta-start-somewhere-png",
@@ -1837,7 +1997,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGotta_Start_Somewhere!.png",
-    "wikiPageId": 85494
+    "wikiPageId": 85494,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/74/Gotta_Start_Somewhere%21.png/revision/latest?cb=20180403162824"
   },
   {
     "id": "xc2-quest-file-jeline-and-shaun-png",
@@ -1847,7 +2008,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJeline_and_Shaun.png",
-    "wikiPageId": 85500
+    "wikiPageId": 85500,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2d/Jeline_and_Shaun.png/revision/latest?cb=20180403162827"
   },
   {
     "id": "xc2-quest-file-leadership-qualities-png",
@@ -1857,7 +2019,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALeadership_Qualities.png",
-    "wikiPageId": 85502
+    "wikiPageId": 85502,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/26/Leadership_Qualities.png/revision/latest?cb=20180403162828"
   },
   {
     "id": "xc2-quest-file-lingering-resentment-png",
@@ -1867,7 +2030,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALingering_Resentment.png",
-    "wikiPageId": 89182
+    "wikiPageId": 89182,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bc/Lingering_Resentment.png/revision/latest?cb=20180620154415"
   },
   {
     "id": "xc2-quest-file-m-i-a-nopon-icon-jpg",
@@ -1877,7 +2041,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AM.I.A._Nopon_icon.jpg",
-    "wikiPageId": 81253
+    "wikiPageId": 81253,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b5/M.I.A._Nopon_icon.jpg/revision/latest?cb=20180123225011"
   },
   {
     "id": "xc2-quest-file-marvelous-mercenaries-png",
@@ -1887,7 +2052,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMarvelous_Mercenaries.png",
-    "wikiPageId": 85505
+    "wikiPageId": 85505,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ad/Marvelous_Mercenaries.png/revision/latest?cb=20180403163137"
   },
   {
     "id": "xc2-quest-file-mysterious-note-png",
@@ -1897,7 +2063,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMysterious_Note.png",
-    "wikiPageId": 85507
+    "wikiPageId": 85507,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f4/Mysterious_Note.png/revision/latest?cb=20180403163138"
   },
   {
     "id": "xc2-quest-file-nature-boy-png",
@@ -1907,7 +2074,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANature_Boy.png",
-    "wikiPageId": 85508
+    "wikiPageId": 85508,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0f/Nature_Boy.png/revision/latest?cb=20180403163139"
   },
   {
     "id": "xc2-quest-file-precious-yearnings-png",
@@ -1917,7 +2085,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APrecious_Yearnings.png",
-    "wikiPageId": 85517
+    "wikiPageId": 85517,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/99/Precious_Yearnings.png/revision/latest?cb=20180403163144"
   },
   {
     "id": "xc2-quest-file-sniff-out-the-spy-png",
@@ -1927,7 +2096,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASniff_out_the_Spy.png",
-    "wikiPageId": 85520
+    "wikiPageId": 85520,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/40/Sniff_out_the_Spy.png/revision/latest?cb=20180403163145"
   },
   {
     "id": "xc2-quest-file-sunken-boosters-png",
@@ -1937,7 +2107,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASunken_Boosters.png",
-    "wikiPageId": 91352
+    "wikiPageId": 91352,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0c/Sunken_Boosters.png/revision/latest?cb=20180805200228"
   },
   {
     "id": "xc2-quest-file-the-supply-situation-png",
@@ -1947,7 +2118,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Supply_Situation.png",
-    "wikiPageId": 85529
+    "wikiPageId": 85529,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ad/The_Supply_Situation.png/revision/latest?cb=20180403163418"
   },
   {
     "id": "xc2-quest-file-the-titan-scholar-png",
@@ -1957,7 +2129,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Titan_Scholar.png",
-    "wikiPageId": 85530
+    "wikiPageId": 85530,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/44/The_Titan_Scholar.png/revision/latest?cb=20180403163418"
   },
   {
     "id": "xc2-quest-file-the-trendy-patissier-png",
@@ -1967,7 +2140,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Trendy_Patissier.png",
-    "wikiPageId": 92522
+    "wikiPageId": 92522,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c6/The_Trendy_Patissier.png/revision/latest?cb=20180909035426"
   },
   {
     "id": "xc2-quest-file-true-colors-png",
@@ -1977,7 +2151,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATrue_Colors.png",
-    "wikiPageId": 85534
+    "wikiPageId": 85534,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/72/True_Colors.png/revision/latest?cb=20180403163420"
   },
   {
     "id": "xc2-quest-file-would-be-mercs-png",
@@ -1987,7 +2162,8 @@
     "region": "Kingdom of Uraya",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWould-Be_Mercs.png",
-    "wikiPageId": 85540
+    "wikiPageId": 85540,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/77/Would-Be_Mercs.png/revision/latest?cb=20180403163424"
   },
   {
     "id": "xc2-quest-dagass-past-gormott",
@@ -1999,7 +2175,8 @@
     "description": "\"According to a book from an Ardainian shop, Gormott was once a republic. Go and see what you can find out.\"",
     "giver": "Dagas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dagas's_Past%3A_Gormott",
-    "wikiPageId": 80102
+    "wikiPageId": 80102,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/Dagas%27s_Past_-_Gormott.png/revision/latest?cb=20180403165634"
   },
   {
     "id": "xc2-quest-defeat-arrodh",
@@ -2011,7 +2188,8 @@
     "description": "\"Information suggests that Brionac leaders are trading in commodities. Find the leaders and defeat them.\"",
     "giver": "Stulc",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defeat_Arrodh",
-    "wikiPageId": 84692
+    "wikiPageId": 84692,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Defeat_Arrodh.png/revision/latest?cb=20180403162448"
   },
   {
     "id": "xc2-quest-defeat-bhianc",
@@ -2023,7 +2201,8 @@
     "description": "\"Information suggests that Brionac leaders are trading in commodities. Find the leaders and defeat them.\"",
     "giver": "Stulc",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defeat_Bhianc",
-    "wikiPageId": 84691
+    "wikiPageId": 84691,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cc/Defeat_Bhianc.png/revision/latest?cb=20180403162448"
   },
   {
     "id": "xc2-quest-defeat-wiggins",
@@ -2035,7 +2214,8 @@
     "description": "\"Information suggests that Brionac leaders are trading in commodities. Find the leaders and defeat them.\"",
     "giver": "Stulc",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Defeat_Wiggins",
-    "wikiPageId": 84690
+    "wikiPageId": 84690,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/Defeat_Wiggins.png/revision/latest?cb=20180403162449"
   },
   {
     "id": "xc2-quest-ecological-survey",
@@ -2047,7 +2227,8 @@
     "description": "You found a flyer requesting help with an ecological survey of fauna in the Thermal Exhaust Fork. Check it out!",
     "giver": "Notice Board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ecological_Survey",
-    "wikiPageId": 84674
+    "wikiPageId": 84674,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/Ecological_Survey.png/revision/latest?cb=20180403162818"
   },
   {
     "id": "xc2-quest-empire-of-mor-ardain-quests",
@@ -2069,7 +2250,8 @@
     "description": "\"Perceval comes to the aid of a woman after she is set upon by a group of men in the poor quarter of Alba Cavanich\"",
     "giver": "Ellenora",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Failure_and_Success",
-    "wikiPageId": 84678
+    "wikiPageId": 84678,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a8/Failure_and_Success.png/revision/latest?cb=20180401183708"
   },
   {
     "id": "xc2-quest-farewell-good-friend",
@@ -2081,7 +2263,8 @@
     "description": "\"Farraw's friend is moving away and she wants to make him a pendant. Collect Rosary Moss at the World Tree to help.\"",
     "giver": "Farraw",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Farewell%2C_Good_Friend",
-    "wikiPageId": 80852
+    "wikiPageId": 80852,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/33/Farewell%2C_Good_Friend.png/revision/latest?cb=20180403162821"
   },
   {
     "id": "xc2-quest-hard-to-stomach",
@@ -2093,7 +2276,8 @@
     "description": "\"Overheard a story about stolen docs which a monster then swallowed. Find them and claim the reward.\"",
     "giver": "Hansatra",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hard_to_Stomach",
-    "wikiPageId": 84675
+    "wikiPageId": 84675,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/67/Hard_to_Stomach.png/revision/latest?cb=20180403162824"
   },
   {
     "id": "xc2-quest-industrial-sort-of-tour",
@@ -2105,7 +2289,8 @@
     "description": "\"Toutour's four customers disappeared during a guided tour of an old factory. Help Toutour by finding them. (DLC Quest)\"",
     "giver": "Toutour",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Industrial_Sort_of_Tour",
-    "wikiPageId": 84328
+    "wikiPageId": 84328,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5d/Industrial_Sort_of_Tour.png/revision/latest?cb=20180806140856"
   },
   {
     "id": "xc2-quest-insurgent-investigations",
@@ -2117,7 +2302,8 @@
     "description": "\"Senator Stulc has managed to obtain information about an anti-imperialist group. Continue the investigations.\"",
     "giver": "Stulc",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Insurgent_Investigations",
-    "wikiPageId": 84677
+    "wikiPageId": 84677,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Insurgent_Investigations.png/revision/latest?cb=20180403162826"
   },
   {
     "id": "xc2-quest-lilas-location",
@@ -2129,7 +2315,8 @@
     "description": "Tora suggests that following the flow of materials for artificial Blades might lead you to Lila. Start with Bion Connectors.",
     "giver": "Story event",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lila's_Location",
-    "wikiPageId": 85558
+    "wikiPageId": 85558,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/Lila%27s_Location.png/revision/latest?cb=20180403193310"
   },
   {
     "id": "xc2-quest-lost-kingdom",
@@ -2141,7 +2328,8 @@
     "description": "\"Self-declared king Dagas commands you to search for his long vanquished kingdom. Accompany him on his quest.\"",
     "giver": "Dagas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_Kingdom",
-    "wikiPageId": 80095
+    "wikiPageId": 80095,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/Lost_Kingdom.png/revision/latest?cb=20180403162829"
   },
   {
     "id": "xc2-quest-midnight-feasting",
@@ -2153,7 +2341,8 @@
     "description": "\"Ghosts are having loud parties at the Bellyful Canteen in Mor Ardain's Old Industrial District. Go and investigate! (DLC Quest)\"",
     "giver": "Mughtal",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Midnight_Feasting",
-    "wikiPageId": 84153
+    "wikiPageId": 84153,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ae/Midnight_Feasting.png/revision/latest?cb=20181227033354"
   },
   {
     "id": "xc2-quest-road-to-the-capital",
@@ -2165,7 +2354,8 @@
     "description": "\"A merchant on his way to the capital Alba Cavanich has asked you to eliminate some monsters on the road.\"",
     "giver": "Pidede",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Road_to_the_Capital",
-    "wikiPageId": 84369
+    "wikiPageId": 84369,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fb/Road_to_the_Capital.png/revision/latest?cb=20180403163144"
   },
   {
     "id": "xc2-quest-search-for-alec",
@@ -2177,7 +2367,8 @@
     "description": "\"Amir asked you to find Alec. Find Alec and get the plant back in running order! (DLC Quest)\"",
     "giver": "Amir",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_for_Alec",
-    "wikiPageId": 91055
+    "wikiPageId": 91055,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/Search_For_Alec.png/revision/latest?cb=20180803150716"
   },
   {
     "id": "xc2-quest-search-for-sarrac",
@@ -2189,7 +2380,8 @@
     "description": "\"Amir asked you to find Sarrac. Find Sarrac and get the plant back in running order! (DLC Quest)\"",
     "giver": "Amir",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_for_Sarrac",
-    "wikiPageId": 91058
+    "wikiPageId": 91058,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/Search_For_Alec.png/revision/latest?cb=20180803150716"
   },
   {
     "id": "xc2-quest-search-for-tekuteku",
@@ -2201,7 +2393,8 @@
     "description": "\"Amir asked you to find Tekuteku. Find Tekuteku and get the plant back in running order! (DLC Quest)\"",
     "giver": "Amir",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_for_Tekuteku",
-    "wikiPageId": 91049
+    "wikiPageId": 91049,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/Search_For_Alec.png/revision/latest?cb=20180803150716"
   },
   {
     "id": "xc2-quest-the-lone-watchman",
@@ -2213,7 +2406,8 @@
     "description": "\"Inform Captain Maddock's subordinate Irving of his new orders. Irving is at the Bathein Watchtower. (DLC Quest)\"",
     "giver": "Maddock",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Lone_Watchman",
-    "wikiPageId": 84140
+    "wikiPageId": 84140,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e2/The_Lone_Watchman.png/revision/latest?cb=20181227033305"
   },
   {
     "id": "xc2-quest-the-nopon-murals",
@@ -2225,7 +2419,8 @@
     "description": "\"Smuggle Alisdeigh, the Ardainian archeologist, into Uraya, and solve the mystery of the ancient Nopon murals.\"",
     "giver": "Alisdeigh",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Nopon_Murals",
-    "wikiPageId": 83464
+    "wikiPageId": 83464,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/The_Nopon_Murals.png/revision/latest?cb=20180403163417"
   },
   {
     "id": "xc2-quest-the-ties-that-bind",
@@ -2237,7 +2432,8 @@
     "description": "\"A Nopon mother seeks her daughter, who has gotten mixed up with a strange cult. Get some information around town.\"",
     "giver": "Mamumu",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ties_That_Bind_(XC2)",
-    "wikiPageId": 80812
+    "wikiPageId": 80812,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/52/The_Ties_that_Bind.png/revision/latest?cb=20180902060622"
   },
   {
     "id": "xc2-quest-we-meet-again",
@@ -2249,7 +2445,8 @@
     "description": "\"A boy you met in Gormott is now a Driver with no time to spare. You offer to deliver presents to his young siblings.\"",
     "giver": "Jac",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/We_Meet_Again",
-    "wikiPageId": 78958
+    "wikiPageId": 78958,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/We_Meet_Again.png/revision/latest?cb=20180403163422"
   },
   {
     "id": "xc2-quest-world-tree-disaster",
@@ -2261,7 +2458,8 @@
     "description": "\"A refugee boy told of a Nopon who fell to the World Tree and has not been seen since. Help search for him.\"",
     "giver": "Aki",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/World_Tree_Disaster",
-    "wikiPageId": 84676
+    "wikiPageId": 84676,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/66/World_Tree_Disaster.png/revision/latest?cb=20180403163423"
   },
   {
     "id": "xc2-quest-file-dagass-past-gormott-png",
@@ -2271,7 +2469,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas's_Past_-_Gormott.png",
-    "wikiPageId": 85542
+    "wikiPageId": 85542,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/Dagas%27s_Past_-_Gormott.png/revision/latest?cb=20180403165634"
   },
   {
     "id": "xc2-quest-file-defeat-arrodh-png",
@@ -2281,7 +2480,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADefeat_Arrodh.png",
-    "wikiPageId": 85480
+    "wikiPageId": 85480,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Defeat_Arrodh.png/revision/latest?cb=20180403162448"
   },
   {
     "id": "xc2-quest-file-defeat-bhianc-png",
@@ -2291,7 +2491,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADefeat_Bhianc.png",
-    "wikiPageId": 85481
+    "wikiPageId": 85481,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cc/Defeat_Bhianc.png/revision/latest?cb=20180403162448"
   },
   {
     "id": "xc2-quest-file-defeat-wiggins-png",
@@ -2301,7 +2502,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADefeat_Wiggins.png",
-    "wikiPageId": 85482
+    "wikiPageId": 85482,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/Defeat_Wiggins.png/revision/latest?cb=20180403162449"
   },
   {
     "id": "xc2-quest-file-ecological-survey-png",
@@ -2311,7 +2513,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEcological_Survey.png",
-    "wikiPageId": 85485
+    "wikiPageId": 85485,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/Ecological_Survey.png/revision/latest?cb=20180403162818"
   },
   {
     "id": "xc2-quest-file-farewell-good-friend-png",
@@ -2321,7 +2524,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFarewell%2C_Good_Friend.png",
-    "wikiPageId": 85489
+    "wikiPageId": 85489,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/33/Farewell%2C_Good_Friend.png/revision/latest?cb=20180403162821"
   },
   {
     "id": "xc2-quest-file-hard-to-stomach-png",
@@ -2331,7 +2535,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHard_to_Stomach.png",
-    "wikiPageId": 85495
+    "wikiPageId": 85495,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/67/Hard_to_Stomach.png/revision/latest?cb=20180403162824"
   },
   {
     "id": "xc2-quest-file-industrial-sort-of-tour-png",
@@ -2341,7 +2546,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIndustrial_Sort_of_Tour.png",
-    "wikiPageId": 91373
+    "wikiPageId": 91373,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5d/Industrial_Sort_of_Tour.png/revision/latest?cb=20180806140856"
   },
   {
     "id": "xc2-quest-file-insurgent-investigations-png",
@@ -2351,7 +2557,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInsurgent_Investigations.png",
-    "wikiPageId": 85498
+    "wikiPageId": 85498,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Insurgent_Investigations.png/revision/latest?cb=20180403162826"
   },
   {
     "id": "xc2-quest-file-lilas-location-png",
@@ -2361,7 +2568,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALila's_Location.png",
-    "wikiPageId": 85557
+    "wikiPageId": 85557,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/Lila%27s_Location.png/revision/latest?cb=20180403193310"
   },
   {
     "id": "xc2-quest-file-lost-kingdom-png",
@@ -2371,7 +2579,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALost_Kingdom.png",
-    "wikiPageId": 85503
+    "wikiPageId": 85503,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/Lost_Kingdom.png/revision/latest?cb=20180403162829"
   },
   {
     "id": "xc2-quest-file-road-to-the-capital-png",
@@ -2381,7 +2590,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARoad_to_the_Capital.png",
-    "wikiPageId": 85518
+    "wikiPageId": 85518,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fb/Road_to_the_Capital.png/revision/latest?cb=20180403163144"
   },
   {
     "id": "xc2-quest-file-search-for-alec-png",
@@ -2391,7 +2601,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASearch_For_Alec.png",
-    "wikiPageId": 91291
+    "wikiPageId": 91291,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/85/Search_For_Alec.png/revision/latest?cb=20180803150716"
   },
   {
     "id": "xc2-quest-file-the-nopon-murals-png",
@@ -2401,7 +2612,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Nopon_Murals.png",
-    "wikiPageId": 85527
+    "wikiPageId": 85527,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/The_Nopon_Murals.png/revision/latest?cb=20180403163417"
   },
   {
     "id": "xc2-quest-file-we-meet-again-png",
@@ -2411,7 +2623,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWe_Meet_Again.png",
-    "wikiPageId": 85537
+    "wikiPageId": 85537,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/We_Meet_Again.png/revision/latest?cb=20180403163422"
   },
   {
     "id": "xc2-quest-file-world-tree-disaster-png",
@@ -2421,7 +2634,8 @@
     "region": "Empire of Mor Ardain",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWorld_Tree_Disaster.png",
-    "wikiPageId": 85539
+    "wikiPageId": 85539,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/66/World_Tree_Disaster.png/revision/latest?cb=20180403163423"
   },
   {
     "id": "xc2-quest-judiciums-legacy",
@@ -2433,7 +2647,8 @@
     "description": "\"Ismet asked you to find the remains of ancient weapons used in a great war long ago. He intends to study them.\"",
     "giver": "Ismet",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Judicium's_Legacy",
-    "wikiPageId": 80203
+    "wikiPageId": 80203,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/Judicium%27s_Legacy_thumbnail.png/revision/latest?cb=20180901014208"
   },
   {
     "id": "xc2-quest-temperantia-quests",
@@ -2453,7 +2668,8 @@
     "region": "Temperantia",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AJudicium's_Legacy_thumbnail.png",
-    "wikiPageId": 92288
+    "wikiPageId": 92288,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/Judicium%27s_Legacy_thumbnail.png/revision/latest?cb=20180901014208"
   },
   {
     "id": "xc2-quest-a-ripe-new-frontier",
@@ -2465,7 +2681,8 @@
     "description": "\"A Nopon wants to set up shop in a new land.\"",
     "giver": "Snififi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Ripe_New_Frontier",
-    "wikiPageId": 84347
+    "wikiPageId": 84347,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/A_Ripe_New_Frontier.png/revision/latest?cb=20180403162440"
   },
   {
     "id": "xc2-quest-bana-the-schemer",
@@ -2477,7 +2694,8 @@
     "description": "\"Bana is up to something. Go to Indol to gather information and see if you can figure out what he's planning.\"",
     "giver": "Mòrag",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bana_the_Schemer",
-    "wikiPageId": 85560
+    "wikiPageId": 85560,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1d/Bana_the_Schemer.png/revision/latest?cb=20180403193559"
   },
   {
     "id": "xc2-quest-indols-teachings",
@@ -2489,7 +2707,8 @@
     "description": "\"Would-be reporter Mololo has asked you to help gather information on the warrior monks in the Sanctum.\"",
     "giver": "Mololo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Indol's_Teachings",
-    "wikiPageId": 84346
+    "wikiPageId": 84346,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/47/Indol%27s_Teachings.png/revision/latest?cb=20180403162825"
   },
   {
     "id": "xc2-quest-indoline-praetorium-quests",
@@ -2511,7 +2730,8 @@
     "description": "\"Mellica feels like someone is spying on her all the time.\"",
     "giver": "Mellica",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mellica_the_Chorister",
-    "wikiPageId": 83019
+    "wikiPageId": 83019,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/96/Mellica_the_Chorister.png/revision/latest?cb=20180403163138"
   },
   {
     "id": "xc2-quest-file-a-ripe-new-frontier-png",
@@ -2521,7 +2741,8 @@
     "region": "Indoline Praetorium",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Ripe_New_Frontier.png",
-    "wikiPageId": 85466
+    "wikiPageId": 85466,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/70/A_Ripe_New_Frontier.png/revision/latest?cb=20180403162440"
   },
   {
     "id": "xc2-quest-file-bana-the-schemer-png",
@@ -2531,7 +2752,8 @@
     "region": "Indoline Praetorium",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABana_the_Schemer.png",
-    "wikiPageId": 85559
+    "wikiPageId": 85559,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1d/Bana_the_Schemer.png/revision/latest?cb=20180403193559"
   },
   {
     "id": "xc2-quest-file-indols-teachings-png",
@@ -2541,7 +2763,8 @@
     "region": "Indoline Praetorium",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIndol's_Teachings.png",
-    "wikiPageId": 85497
+    "wikiPageId": 85497,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/47/Indol%27s_Teachings.png/revision/latest?cb=20180403162825"
   },
   {
     "id": "xc2-quest-file-mellica-the-chorister-png",
@@ -2551,7 +2774,8 @@
     "region": "Indoline Praetorium",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMellica_the_Chorister.png",
-    "wikiPageId": 85506
+    "wikiPageId": 85506,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/96/Mellica_the_Chorister.png/revision/latest?cb=20180403163138"
   },
   {
     "id": "xc2-quest-artisanal-accessories",
@@ -2563,7 +2787,8 @@
     "description": "\"The self-proclamed greatest artisan on Alrest got it in his head to make you an accessory from Ripbik Ellok materials. (DLC Quest)\"",
     "giver": "Barhanen",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Artisanal_Accessories",
-    "wikiPageId": 90980
+    "wikiPageId": 90980,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5d/Artisanal_Accessories.png/revision/latest?cb=20180909034259"
   },
   {
     "id": "xc2-quest-cannadeas-troubles",
@@ -2575,7 +2800,8 @@
     "description": "\"Cannadea is almost done with her concoction, but a bunch of Rodonya prevent her from getting the last ingredient.\"",
     "giver": "Cannadea",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cannadea's_Troubles",
-    "wikiPageId": 83004
+    "wikiPageId": 83004,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/Cannadea%27s_Troubles.png/revision/latest?cb=20180403162446"
   },
   {
     "id": "xc2-quest-corvins-approach",
@@ -2587,7 +2813,8 @@
     "description": "\"Plans to deploy troops to the Genbu Crown are being thwarted by some Garlus. They need to be removed. (DLC Quest)\"",
     "giver": "Marcel",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Corvin's_Approach",
-    "wikiPageId": 91954
+    "wikiPageId": 91954,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/Corvin%27s_Approach.png/revision/latest?cb=20180828125523"
   },
   {
     "id": "xc2-quest-dagass-past-tantal",
@@ -2599,7 +2826,8 @@
     "description": "\"A tablet in a Tantalese bookshop claims there once were houses on the drifts in Tantal. Check it out!\"",
     "giver": "Dagas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dagas's_Past%3A_Tantal",
-    "wikiPageId": 80103
+    "wikiPageId": 80103,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/53/Dagas%27s_Past_-_Tantal.png/revision/latest?cb=20180403165636"
   },
   {
     "id": "xc2-quest-fly-in-the-ointment",
@@ -2611,7 +2839,8 @@
     "description": "\"Dahlia hears from Kastina's mother that her No. 1 fan didn't come home last night. Find her quick!\"",
     "giver": "Celliara",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fly_in_the_Ointment",
-    "wikiPageId": 81062
+    "wikiPageId": 81062,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/Fly_in_the_Ointment.png/revision/latest?cb=20180403162822"
   },
   {
     "id": "xc2-quest-girl-power-off",
@@ -2623,7 +2852,8 @@
     "description": "\"Mythra and Kora go head-to-head in an epic struggle to determine who has the most Girl Power. Who will it be?\"",
     "giver": "Kora and Mythra",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Girl_Power-Off",
-    "wikiPageId": 85563
+    "wikiPageId": 85563,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/68/Girl_Power-Off.png/revision/latest?cb=20180403200709"
   },
   {
     "id": "xc2-quest-glory-from-the-past",
@@ -2635,7 +2865,8 @@
     "description": "\"You found a dead man clutching a message describing a certain location. What could be concealed there?\"",
     "giver": "Dead body",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Glory_from_the_Past",
-    "wikiPageId": 84689
+    "wikiPageId": 84689,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/Glory_from_the_Past.png/revision/latest?cb=20180403162823"
   },
   {
     "id": "xc2-quest-kingdom-of-tantal-quests",
@@ -2657,7 +2888,8 @@
     "description": "\"Finch caught wind of some big news at the inn, but she's managed to forget it, as you might expect. Investigate a little bit with the mercs. (DLC Quest)\"",
     "giver": "Zeke",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Most_Awful_News%3F!",
-    "wikiPageId": 85285
+    "wikiPageId": 85285,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/Most_Awful_News%3F%21.png/revision/latest?cb=20180509203858"
   },
   {
     "id": "xc2-quest-partners",
@@ -2669,7 +2901,8 @@
     "description": "\"A Nopon historian has fallen off a ruin after an argument with his partner. Humhum now needs your rescue.\"",
     "giver": "Humhum",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Partners",
-    "wikiPageId": 76401
+    "wikiPageId": 76401,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/Partners.png/revision/latest?cb=20180403163142"
   },
   {
     "id": "xc2-quest-salvage-king",
@@ -2681,7 +2914,8 @@
     "description": "\"King Eulogimenos has asked you to salvage four rare treasures from all over Alrest.\"",
     "giver": "Eulogimenos",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Salvage_King",
-    "wikiPageId": 80223
+    "wikiPageId": 80223,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9f/Salvage_King.png/revision/latest?cb=20180123195938"
   },
   {
     "id": "xc2-quest-tender-hearted-beast",
@@ -2693,7 +2927,8 @@
     "description": "\"Wulfric hears about a rockfall in the mine which left several people trapped. Hurry to the scene and help!\"",
     "giver": "Evart",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tender-Hearted_Beast",
-    "wikiPageId": 74260
+    "wikiPageId": 74260,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d4/Tender-Hearted_Beast.png/revision/latest?cb=20180403163147"
   },
   {
     "id": "xc2-quest-the-calm-and-the-storm",
@@ -2705,7 +2940,8 @@
     "description": "\"Eulogimenos requests the purging of enemies from the snow drifts around the capital. Protect the city!\"",
     "giver": "Eulogimenos",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Calm_and_the_Storm",
-    "wikiPageId": 78329
+    "wikiPageId": 78329,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/16/The_Calm_and_the_Storm.png/revision/latest?cb=20180314002619"
   },
   {
     "id": "xc2-quest-the-lost-turtle",
@@ -2717,7 +2953,8 @@
     "description": "\"You bumped into a young boy upset at having lost a good-luck charm given to him by his father. Help him find it.\"",
     "giver": "Lucarion",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Lost_Turtle",
-    "wikiPageId": 83002
+    "wikiPageId": 83002,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f9/The_Lost_Turtle.png/revision/latest?cb=20180403163416"
   },
   {
     "id": "xc2-quest-the-writers-assistant",
@@ -2729,7 +2966,8 @@
     "description": "Melusia wants to pick ice flowers, but the area where they grow is chock full of monsters. Pick some in her stead.",
     "giver": "Mesulia",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Writer's_Assistant",
-    "wikiPageId": 84688
+    "wikiPageId": 84688,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/69/The_Writer%27s_Assistant.png/revision/latest?cb=20180403163419"
   },
   {
     "id": "xc2-quest-file-artisanal-accessories-png",
@@ -2739,7 +2977,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AArtisanal_Accessories.png",
-    "wikiPageId": 92521
+    "wikiPageId": 92521,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5d/Artisanal_Accessories.png/revision/latest?cb=20180909034259"
   },
   {
     "id": "xc2-quest-file-cannadeas-troubles-png",
@@ -2749,7 +2988,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACannadea's_Troubles.png",
-    "wikiPageId": 85477
+    "wikiPageId": 85477,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/Cannadea%27s_Troubles.png/revision/latest?cb=20180403162446"
   },
   {
     "id": "xc2-quest-file-corvins-approach-png",
@@ -2759,7 +2999,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACorvin's_Approach.png",
-    "wikiPageId": 92093
+    "wikiPageId": 92093,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/Corvin%27s_Approach.png/revision/latest?cb=20180828125523"
   },
   {
     "id": "xc2-quest-file-dagass-past-tantal-png",
@@ -2769,7 +3010,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADagas's_Past_-_Tantal.png",
-    "wikiPageId": 85544
+    "wikiPageId": 85544,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/53/Dagas%27s_Past_-_Tantal.png/revision/latest?cb=20180403165636"
   },
   {
     "id": "xc2-quest-file-fly-in-the-ointment-png",
@@ -2779,7 +3021,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFly_in_the_Ointment.png",
-    "wikiPageId": 85490
+    "wikiPageId": 85490,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3c/Fly_in_the_Ointment.png/revision/latest?cb=20180403162822"
   },
   {
     "id": "xc2-quest-file-glory-from-the-past-png",
@@ -2789,7 +3032,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGlory_from_the_Past.png",
-    "wikiPageId": 85492
+    "wikiPageId": 85492,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/Glory_from_the_Past.png/revision/latest?cb=20180403162823"
   },
   {
     "id": "xc2-quest-file-most-awful-news-png",
@@ -2799,7 +3043,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMost_Awful_News%3F!.png",
-    "wikiPageId": 87353
+    "wikiPageId": 87353,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b7/Most_Awful_News%3F%21.png/revision/latest?cb=20180509203858"
   },
   {
     "id": "xc2-quest-file-partners-png",
@@ -2809,7 +3054,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APartners.png",
-    "wikiPageId": 85513
+    "wikiPageId": 85513,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8b/Partners.png/revision/latest?cb=20180403163142"
   },
   {
     "id": "xc2-quest-file-tender-hearted-beast-png",
@@ -2819,7 +3065,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATender-Hearted_Beast.png",
-    "wikiPageId": 85523
+    "wikiPageId": 85523,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d4/Tender-Hearted_Beast.png/revision/latest?cb=20180403163147"
   },
   {
     "id": "xc2-quest-file-the-lost-turtle-png",
@@ -2829,7 +3076,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Lost_Turtle.png",
-    "wikiPageId": 85525
+    "wikiPageId": 85525,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f9/The_Lost_Turtle.png/revision/latest?cb=20180403163416"
   },
   {
     "id": "xc2-quest-file-the-writers-assistant-png",
@@ -2839,7 +3087,8 @@
     "region": "Kingdom of Tantal",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Writer's_Assistant.png",
-    "wikiPageId": 85531
+    "wikiPageId": 85531,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/69/The_Writer%27s_Assistant.png/revision/latest?cb=20180403163419"
   },
   {
     "id": "xc2-quest-a-phonex-tale",
@@ -2851,7 +3100,8 @@
     "description": "\"Nim promises to help a lonely Phonex called Mix who she encounters in Fonsett Village\"",
     "giver": "Nim",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Phonex_Tale",
-    "wikiPageId": 79882
+    "wikiPageId": 79882,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/A_Phonex_Tale.png/revision/latest?cb=20180403162440"
   },
   {
     "id": "xc2-quest-at-wits-end",
@@ -2863,7 +3113,8 @@
     "description": "\"You encountered a fretful Nopon overwhelmed by an enormous job he took on but can't complete. Help him gather the items he needs.\"",
     "giver": "Sokoko",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/At_Wit's_End",
-    "wikiPageId": 84687
+    "wikiPageId": 84687,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/09/At_Wit%27s_End.png/revision/latest?cb=20180403162442"
   },
   {
     "id": "xc2-quest-beneath-the-aurora",
@@ -2875,7 +3126,8 @@
     "description": "\"Len's keen to propose to his girlfriend on their holiday to Leftheria. Give him a hand to make the moment perfect! (DLC Quest)\"",
     "giver": "Len",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Beneath_the_Aurora",
-    "wikiPageId": 85283
+    "wikiPageId": 85283,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/55/Beneath_the_Aurora.png/revision/latest?cb=20180806141017"
   },
   {
     "id": "xc2-quest-bright-spark",
@@ -2887,7 +3139,8 @@
     "description": "\"Lettina's children and husband have left the village and not come back. Help Crossette search Ysheva Harbor. (DLC Quest)\"",
     "giver": "Lettina",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bright_Spark",
-    "wikiPageId": 91018
+    "wikiPageId": 91018,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/61/Bright_Spark.png/revision/latest?cb=20180828125142"
   },
   {
     "id": "xc2-quest-cleared-of-all-charges",
@@ -2899,7 +3152,8 @@
     "description": "\"The vegetables growing in Fonsett are being stolen by somebody. Godfrey, Perceval, and Perun are on the case to sniff out the thief. (DLC Quest)\"",
     "giver": "Strath",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cleared_of_All_Charges",
-    "wikiPageId": 85282
+    "wikiPageId": 85282,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/Cleared_of_All_Charges.PNG/revision/latest?cb=20180610211218"
   },
   {
     "id": "xc2-quest-fools-gold",
@@ -2911,7 +3165,8 @@
     "description": "\"Sheba is not amused after realizing a trader tricked her into buying a barren island. Find them and get a refund!\"",
     "giver": "Sheba",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fool's_Gold",
-    "wikiPageId": 78356
+    "wikiPageId": 78356,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/41/Fool%27s_Gold.png/revision/latest?cb=20180403162822"
   },
   {
     "id": "xc2-quest-history-teacher",
@@ -2923,7 +3178,8 @@
     "description": "\"You've been asked to find someone to teach history. See if you can find a suitable candidate\"",
     "giver": "Willas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/History_Teacher",
-    "wikiPageId": 79998
+    "wikiPageId": 79998,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Language_Teacher.png/revision/latest?cb=20180403162828"
   },
   {
     "id": "xc2-quest-language-teacher",
@@ -2935,7 +3191,8 @@
     "description": "\"You've been asked to find someone to teach reading and writing. See if you can find a suitable candidate\"",
     "giver": "Willas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Language_Teacher",
-    "wikiPageId": 79996
+    "wikiPageId": 79996,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Language_Teacher.png/revision/latest?cb=20180403162828"
   },
   {
     "id": "xc2-quest-leftherian-archipelago-quests",
@@ -2957,7 +3214,8 @@
     "description": "\"You stumbled upon a Blade being attacked by monsters. Come to her aid.\"",
     "giver": "Olua",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Maiden_Voyage",
-    "wikiPageId": 84743
+    "wikiPageId": 84743,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a7/Maiden_Voyage.png/revision/latest?cb=20180403163137"
   },
   {
     "id": "xc2-quest-merclibays-mightiest",
@@ -2969,7 +3227,8 @@
     "description": "\"A foul monster has made its lair on Merclibay Islet in Leftheria. Defeat it to make the seas safe for travelers again! (DLC Quest)\"",
     "giver": "Caephon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Merclibay's_Mightiest",
-    "wikiPageId": 87888
+    "wikiPageId": 87888,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/Merclibay%27s_Mightiest.png/revision/latest?cb=20180612092553"
   },
   {
     "id": "xc2-quest-school-is-in-session",
@@ -2981,7 +3240,8 @@
     "description": "\"Willas, the mayor of Fonsett, wants to found a school so the village children have brighter futures. Help him get the school up and running\"",
     "giver": "Willas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/School_is_in_Session",
-    "wikiPageId": 79990
+    "wikiPageId": 79990,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/24/School_is_in_Session.png/revision/latest?cb=20180403163145"
   },
   {
     "id": "xc2-quest-science-teacher",
@@ -2993,7 +3253,8 @@
     "description": "\"You've been asked to find someone to teach mathematics and science. See if you can find a suitable candidate\"",
     "giver": "Willas",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Science_Teacher",
-    "wikiPageId": 79997
+    "wikiPageId": 79997,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Language_Teacher.png/revision/latest?cb=20180403162828"
   },
   {
     "id": "xc2-quest-stolen-keepsake",
@@ -3005,7 +3266,8 @@
     "description": "\"You meet an old man whose precious memento was stolen while he was going for a stroll. Get it back for him!\"",
     "giver": "Dragand",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Stolen_Keepsake",
-    "wikiPageId": 80214
+    "wikiPageId": 80214,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7f/Stolen_Keepsake.png/revision/latest?cb=20180403163146"
   },
   {
     "id": "xc2-quest-time-is-money",
@@ -3017,7 +3279,8 @@
     "description": "\"The amount of money Corinne received was smaller than expected! Go ask the couriers if they know what's going on.\"",
     "giver": "Corinne",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Time_is_Money",
-    "wikiPageId": 74945
+    "wikiPageId": 74945,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8d/Time_is_Money.png/revision/latest?cb=20180403163419"
   },
   {
     "id": "xc2-quest-file-a-phonex-tale-png",
@@ -3027,7 +3290,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Phonex_Tale.png",
-    "wikiPageId": 85465
+    "wikiPageId": 85465,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/A_Phonex_Tale.png/revision/latest?cb=20180403162440"
   },
   {
     "id": "xc2-quest-file-at-wits-end-png",
@@ -3037,7 +3301,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAt_Wit's_End.png",
-    "wikiPageId": 85470
+    "wikiPageId": 85470,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/09/At_Wit%27s_End.png/revision/latest?cb=20180403162442"
   },
   {
     "id": "xc2-quest-file-beneath-the-aurora-png",
@@ -3047,7 +3312,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeneath_the_Aurora.png",
-    "wikiPageId": 91374
+    "wikiPageId": 91374,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/55/Beneath_the_Aurora.png/revision/latest?cb=20180806141017"
   },
   {
     "id": "xc2-quest-file-bright-spark-png",
@@ -3057,7 +3323,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABright_Spark.png",
-    "wikiPageId": 92092
+    "wikiPageId": 92092,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/61/Bright_Spark.png/revision/latest?cb=20180828125142"
   },
   {
     "id": "xc2-quest-file-cleared-of-all-charges-png",
@@ -3067,7 +3334,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACleared_of_All_Charges.PNG",
-    "wikiPageId": 88533
+    "wikiPageId": 88533,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/91/Cleared_of_All_Charges.PNG/revision/latest?cb=20180610211218"
   },
   {
     "id": "xc2-quest-file-fools-gold-png",
@@ -3077,7 +3345,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFool's_Gold.png",
-    "wikiPageId": 85491
+    "wikiPageId": 85491,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/41/Fool%27s_Gold.png/revision/latest?cb=20180403162822"
   },
   {
     "id": "xc2-quest-file-language-teacher-png",
@@ -3087,7 +3356,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALanguage_Teacher.png",
-    "wikiPageId": 85501
+    "wikiPageId": 85501,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/Language_Teacher.png/revision/latest?cb=20180403162828"
   },
   {
     "id": "xc2-quest-file-maiden-voyage-png",
@@ -3097,7 +3367,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMaiden_Voyage.png",
-    "wikiPageId": 85504
+    "wikiPageId": 85504,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a7/Maiden_Voyage.png/revision/latest?cb=20180403163137"
   },
   {
     "id": "xc2-quest-file-merclibays-mightiest-png",
@@ -3107,7 +3378,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMerclibay's_Mightiest.png",
-    "wikiPageId": 88558
+    "wikiPageId": 88558,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/Merclibay%27s_Mightiest.png/revision/latest?cb=20180612092553"
   },
   {
     "id": "xc2-quest-file-school-is-in-session-png",
@@ -3117,7 +3389,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASchool_is_in_Session.png",
-    "wikiPageId": 85519
+    "wikiPageId": 85519,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/24/School_is_in_Session.png/revision/latest?cb=20180403163145"
   },
   {
     "id": "xc2-quest-file-stolen-keepsake-png",
@@ -3127,7 +3400,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStolen_Keepsake.png",
-    "wikiPageId": 85522
+    "wikiPageId": 85522,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7f/Stolen_Keepsake.png/revision/latest?cb=20180403163146"
   },
   {
     "id": "xc2-quest-file-time-is-money-png",
@@ -3137,7 +3411,8 @@
     "region": "Leftherian Archipelago",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATime_is_Money.png",
-    "wikiPageId": 85532
+    "wikiPageId": 85532,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8d/Time_is_Money.png/revision/latest?cb=20180403163419"
   },
   {
     "id": "xc2-quest-cliffs-of-morytha-quests",
@@ -3159,7 +3434,8 @@
     "description": "\"A merchant would like you to look for valuable rarities in the Cliffs of Morytha. If you find something like that, bring it to her!\"",
     "giver": "Dibidi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Souvenirs_from_Morytha",
-    "wikiPageId": 83029
+    "wikiPageId": 83029,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/Souvenirs_from_Morytha.png/revision/latest?cb=20180403163146"
   },
   {
     "id": "xc2-quest-file-souvenirs-from-morytha-png",
@@ -3169,7 +3445,8 @@
     "region": "Cliffs of Morytha",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASouvenirs_from_Morytha.png",
-    "wikiPageId": 85521
+    "wikiPageId": 85521,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/Souvenirs_from_Morytha.png/revision/latest?cb=20180403163146"
   },
   {
     "id": "xc2-quest-land-of-morytha-quests",
@@ -3191,7 +3468,8 @@
     "description": "\"By studying a tablet in Morytha, you learned about a launch code split in two parts. Satisfy Adenine's curiosity! (DLC Quest)\"",
     "giver": "Ancient tablet",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mystery_Launch_Codes",
-    "wikiPageId": 90982
+    "wikiPageId": 90982,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/09/Mystery_Launch_Codes.png/revision/latest?cb=20181226044401"
   },
   {
     "id": "xc2-quest-timeworn-machine",
@@ -3203,7 +3481,8 @@
     "description": "\"You found instructions displayed on an old machine that was lying in the road. Follow them and see what happens.\"",
     "giver": "Old Machine",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Timeworn_Machine",
-    "wikiPageId": 80849
+    "wikiPageId": 80849,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/Timeworn_Machine.png/revision/latest?cb=20180403163420"
   },
   {
     "id": "xc2-quest-file-timeworn-machine-png",
@@ -3213,7 +3492,8 @@
     "region": "Land of Morytha",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATimeworn_Machine.png",
-    "wikiPageId": 85533
+    "wikiPageId": 85533,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3b/Timeworn_Machine.png/revision/latest?cb=20180403163420"
   },
   {
     "id": "xc2-quest-artificial-intelligence",
@@ -3225,7 +3505,8 @@
     "description": "\"Hordes of artificial Blades at the World Tree threaten Alrest's safety. KOS-MOS suggests wiping them out.\"",
     "giver": "KOS-MOS",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Artificial_Intelligence",
-    "wikiPageId": 84325
+    "wikiPageId": 84325,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8a/Artificial_Intelligence.png/revision/latest?cb=20180314000902"
   },
   {
     "id": "xc2-quest-world-tree-quests",
@@ -3245,7 +3526,8 @@
     "region": "World Tree",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AArtificial_Intelligence.png",
-    "wikiPageId": 84413
+    "wikiPageId": 84413,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/8a/Artificial_Intelligence.png/revision/latest?cb=20180314000902"
   },
   {
     "id": "xc2-quest-file-a-real-challenge-png",
@@ -3255,7 +3537,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Real_Challenge.png",
-    "wikiPageId": 85561
+    "wikiPageId": 85561,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/71/A_Real_Challenge.png/revision/latest?cb=20180403193953"
   },
   {
     "id": "xc2-quest-file-alls-fair-png",
@@ -3265,7 +3548,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAll's_Fair.PNG",
-    "wikiPageId": 84414
+    "wikiPageId": 84414,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/68/All%27s_Fair.PNG/revision/latest?cb=20180314000952"
   },
   {
     "id": "xc2-quest-file-failure-and-success-png",
@@ -3275,7 +3559,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFailure_and_Success.png",
-    "wikiPageId": 85376
+    "wikiPageId": 85376,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a8/Failure_and_Success.png/revision/latest?cb=20180401183708"
   },
   {
     "id": "xc2-quest-file-flames-of-justice-png",
@@ -3285,7 +3570,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlames_of_Justice.png",
-    "wikiPageId": 84417
+    "wikiPageId": 84417,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Flames_of_Justice.png/revision/latest?cb=20180314003248"
   },
   {
     "id": "xc2-quest-file-follow-your-passion-png",
@@ -3295,7 +3581,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFollow_Your_Passion.png",
-    "wikiPageId": 84416
+    "wikiPageId": 84416,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/Follow_Your_Passion.png/revision/latest?cb=20180314003028"
   },
   {
     "id": "xc2-quest-file-girl-power-off-png",
@@ -3305,7 +3592,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGirl_Power-Off.png",
-    "wikiPageId": 85562
+    "wikiPageId": 85562,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/68/Girl_Power-Off.png/revision/latest?cb=20180403200709"
   },
   {
     "id": "xc2-quest-file-limits-of-awareness-png",
@@ -3315,7 +3603,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALimits_of_Awareness.png",
-    "wikiPageId": 82139
+    "wikiPageId": 82139,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Limits_of_Awareness.png/revision/latest?cb=20180204193709"
   },
   {
     "id": "xc2-quest-file-the-calm-and-the-storm-png",
@@ -3325,7 +3614,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Calm_and_the_Storm.png",
-    "wikiPageId": 84415
+    "wikiPageId": 84415,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/16/The_Calm_and_the_Storm.png/revision/latest?cb=20180314002619"
   },
   {
     "id": "xc2-quest-file-the-ties-that-bind-png",
@@ -3335,7 +3625,8 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Ties_that_Bind.png",
-    "wikiPageId": 92332
+    "wikiPageId": 92332,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/52/The_Ties_that_Bind.png/revision/latest?cb=20180902060622"
   },
   {
     "id": "xc2-quest-file-theory-and-praxis-png",
@@ -3345,6 +3636,7 @@
     "region": "Blade",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATheory_and_Praxis.png",
-    "wikiPageId": 81277
+    "wikiPageId": 81277,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f7/Theory_and_Praxis.png/revision/latest?cb=20180124042011"
   }
 ]

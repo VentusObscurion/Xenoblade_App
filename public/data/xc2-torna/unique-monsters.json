@@ -15,7 +15,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Beatific_Ophelia",
     "wikiPageId": 95323,
     "element": "Ice",
-    "collectType": "Ellook"
+    "collectType": "Ellook",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ec/BeatificOpheliaNight.jpg/revision/latest/scale-to-width-down/400?cb=20190126125955"
   },
   {
     "id": "xc2-torna-unique_monster-erratic-goliante",
@@ -32,7 +33,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Erratic_Goliante_(TTGC)",
     "wikiPageId": 92858,
-    "collectType": "Gogol"
+    "collectType": "Gogol",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/89/ErraticGolianteTTGC.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-everdark-erg",
@@ -49,7 +51,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Everdark_Erg",
     "wikiPageId": 95314,
-    "collectType": "Quadwing"
+    "collectType": "Quadwing",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/EverdarkErg.jpg/revision/latest/scale-to-width-down/400?cb=20190126130415"
   },
   {
     "id": "xc2-torna-unique_monster-flying-fortress-desmor",
@@ -67,7 +70,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Flying_Fortress_Desmor",
     "wikiPageId": 93986,
     "element": "Ice",
-    "collectType": "Moramora"
+    "collectType": "Moramora",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/02/Flyingfortress2.jpg/revision/latest/scale-to-width-down/400?cb=20190112183602"
   },
   {
     "id": "xc2-torna-unique_monster-gourmand-galgan",
@@ -85,7 +89,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Gourmand_Galgan",
     "wikiPageId": 95049,
     "element": "Lightning",
-    "collectType": "Aspar"
+    "collectType": "Aspar",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Galgan3.jpg/revision/latest/scale-to-width-down/400?cb=20190118163829"
   },
   {
     "id": "xc2-torna-unique_monster-handwringing-bigelow",
@@ -102,7 +107,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Handwringing_Bigelow",
     "wikiPageId": 95320,
-    "collectType": "Brog"
+    "collectType": "Brog",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/HandwringingBigelow.jpg/revision/latest?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-harbringer-cavill",
@@ -119,7 +125,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Harbinger_Cavill",
     "wikiPageId": 95004,
-    "collectType": "Scorpox"
+    "collectType": "Scorpox",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fd/HarbringerCavill.jpg/revision/latest/scale-to-width-down/400?cb=20190116150853"
   },
   {
     "id": "xc2-torna-unique_monster-herculean-gibson",
@@ -137,7 +144,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Herculean_Gibson",
     "wikiPageId": 93990,
     "element": "None",
-    "collectType": "Ardun"
+    "collectType": "Ardun",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/Gibson.jpg/revision/latest/scale-to-width-down/400?cb=20190116174749"
   },
   {
     "id": "xc2-torna-unique_monster-hurricane-anise",
@@ -146,7 +154,8 @@
     "name": "Hurricane Anise",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hurricane_Anise",
-    "wikiPageId": 93140
+    "wikiPageId": 93140,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1d/Anise2.jpg/revision/latest/scale-to-width-down/400?cb=20191207174032"
   },
   {
     "id": "xc2-torna-unique_monster-interceptor-grace",
@@ -163,7 +172,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Interceptor_Grace",
     "wikiPageId": 95326,
-    "collectType": "Antol"
+    "collectType": "Antol",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/21/InterceptorGrace.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-ionospheric-mitchell",
@@ -180,7 +190,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ionospheric_Mitchell",
     "wikiPageId": 95003,
-    "collectType": "Marrin"
+    "collectType": "Marrin",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Ionospheric.jpg/revision/latest/scale-to-width-down/400?cb=20190116160846"
   },
   {
     "id": "xc2-torna-unique_monster-lunar-amaruq",
@@ -197,7 +208,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lunar_Amaruq",
     "wikiPageId": 95315,
-    "collectType": "Volff"
+    "collectType": "Volff",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/LunarAmaruq.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-mesmer-tlaloc",
@@ -215,7 +227,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Mesmer_Tlaloc",
     "wikiPageId": 94006,
     "element": "Water",
-    "collectType": "Blant"
+    "collectType": "Blant",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6d/Tlaloc.jpg/revision/latest/scale-to-width-down/400?cb=20190116174750"
   },
   {
     "id": "xc2-torna-unique_monster-nomadic-rusholme",
@@ -232,7 +245,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nomadic_Rusholme",
     "wikiPageId": 95324,
-    "collectType": "Griffox"
+    "collectType": "Griffox",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/NomadicRusholme.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-overaffectionate-murph",
@@ -250,7 +264,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Overaffectionate_Murph",
     "wikiPageId": 92791,
     "element": "Wind",
-    "collectType": "Taos"
+    "collectType": "Taos",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/Murph.jpg/revision/latest/scale-to-width-down/400?cb=20190118165441"
   },
   {
     "id": "xc2-torna-unique_monster-ravine-bunnit",
@@ -267,7 +282,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ravine_Bunnit",
     "wikiPageId": 95321,
-    "collectType": "Bunnit"
+    "collectType": "Bunnit",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/RavineBunnit.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-scowling-quincy",
@@ -284,7 +300,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Scowling_Quincy",
     "wikiPageId": 95319,
-    "collectType": "Tirkin"
+    "collectType": "Tirkin",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/12/ScowlingQuincey.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-sentinel-carpathia",
@@ -302,7 +319,8 @@
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sentinel_Carpathia",
     "wikiPageId": 93249,
     "element": "Light",
-    "collectType": "Urchon"
+    "collectType": "Urchon",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/Carpathia.jpg/revision/latest?cb=20190116174750"
   },
   {
     "id": "xc2-torna-unique_monster-sequestered-ludd",
@@ -319,7 +337,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sequestered_Ludd",
     "wikiPageId": 95139,
-    "collectType": "Parisax"
+    "collectType": "Parisax",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/61/SequesteredLudd.jpg/revision/latest/scale-to-width-down/400?cb=20190120183012"
   },
   {
     "id": "xc2-torna-unique_monster-sleepwalker-mork",
@@ -336,7 +355,8 @@
     ],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sleepwalker_Mork",
     "wikiPageId": 95317,
-    "collectType": "Caterpile"
+    "collectType": "Caterpile",
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d2/SleepwalkerMork.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-superboss",
@@ -345,7 +365,8 @@
     "name": "Superboss",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Superboss",
-    "wikiPageId": 3079
+    "wikiPageId": 3079,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Mechon_M87_Prototype.jpg/revision/latest?cb=20120915031804"
   },
   {
     "id": "xc2-torna-unique_monster-file-anise-jpg",
@@ -354,7 +375,8 @@
     "name": "File:Anise.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise.jpg",
-    "wikiPageId": 93456
+    "wikiPageId": 93456,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/Anise.jpg/revision/latest?cb=20181003032447"
   },
   {
     "id": "xc2-torna-unique_monster-file-anise2-jpg",
@@ -363,7 +385,8 @@
     "name": "File:Anise2.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise2.jpg",
-    "wikiPageId": 101937
+    "wikiPageId": 101937,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1d/Anise2.jpg/revision/latest/scale-to-width-down/400?cb=20191207174032"
   },
   {
     "id": "xc2-torna-unique_monster-file-anise4-jpg",
@@ -372,7 +395,8 @@
     "name": "File:Anise4.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise4.jpg",
-    "wikiPageId": 101938
+    "wikiPageId": 101938,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/01/Anise4.jpg/revision/latest/scale-to-width-down/400?cb=20191207174032"
   },
   {
     "id": "xc2-torna-unique_monster-file-anise5-jpg",
@@ -381,7 +405,8 @@
     "name": "File:Anise5.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAnise5.jpg",
-    "wikiPageId": 101939
+    "wikiPageId": 101939,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9c/Anise5.jpg/revision/latest/scale-to-width-down/400?cb=20191207174033"
   },
   {
     "id": "xc2-torna-unique_monster-file-beatificopheliaday-jpg",
@@ -390,7 +415,8 @@
     "name": "File:BeatificOpheliaDay.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeatificOpheliaDay.jpg",
-    "wikiPageId": 95303
+    "wikiPageId": 95303,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a0/BeatificOpheliaDay.jpg/revision/latest/scale-to-width-down/400?cb=20190126125955"
   },
   {
     "id": "xc2-torna-unique_monster-file-beatificophelianight-jpg",
@@ -399,7 +425,8 @@
     "name": "File:BeatificOpheliaNight.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABeatificOpheliaNight.jpg",
-    "wikiPageId": 95304
+    "wikiPageId": 95304,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ec/BeatificOpheliaNight.jpg/revision/latest/scale-to-width-down/400?cb=20190126125955"
   },
   {
     "id": "xc2-torna-unique_monster-file-carpathia-jpg",
@@ -408,7 +435,8 @@
     "name": "File:Carpathia.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACarpathia.jpg",
-    "wikiPageId": 95010
+    "wikiPageId": 95010,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d9/Carpathia.jpg/revision/latest?cb=20190116174750"
   },
   {
     "id": "xc2-torna-unique_monster-file-carpathiacrater-jpg",
@@ -417,7 +445,8 @@
     "name": "File:CarpathiaCrater.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACarpathiaCrater.jpg",
-    "wikiPageId": 95009
+    "wikiPageId": 95009,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/CarpathiaCrater.jpg/revision/latest/scale-to-width-down/400?cb=20190116174750"
   },
   {
     "id": "xc2-torna-unique_monster-file-erraticgoliantettgc-jpg",
@@ -426,7 +455,8 @@
     "name": "File:ErraticGolianteTTGC.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AErraticGolianteTTGC.jpg",
-    "wikiPageId": 95313
+    "wikiPageId": 95313,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/89/ErraticGolianteTTGC.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-everdarkerg-jpg",
@@ -435,7 +465,8 @@
     "name": "File:EverdarkErg.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEverdarkErg.jpg",
-    "wikiPageId": 95305
+    "wikiPageId": 95305,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c8/EverdarkErg.jpg/revision/latest/scale-to-width-down/400?cb=20190126130415"
   },
   {
     "id": "xc2-torna-unique_monster-file-flyingfortress1-jpg",
@@ -444,7 +475,8 @@
     "name": "File:Flyingfortress1.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress1.jpg",
-    "wikiPageId": 94869
+    "wikiPageId": 94869,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/aa/Flyingfortress1.jpg/revision/latest/scale-to-width-down/400?cb=20190112183601"
   },
   {
     "id": "xc2-torna-unique_monster-file-flyingfortress2-jpg",
@@ -453,7 +485,8 @@
     "name": "File:Flyingfortress2.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress2.jpg",
-    "wikiPageId": 94870
+    "wikiPageId": 94870,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/02/Flyingfortress2.jpg/revision/latest/scale-to-width-down/400?cb=20190112183602"
   },
   {
     "id": "xc2-torna-unique_monster-file-flyingfortress3-jpg",
@@ -462,7 +495,8 @@
     "name": "File:Flyingfortress3.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress3.jpg",
-    "wikiPageId": 94871
+    "wikiPageId": 94871,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5e/Flyingfortress3.jpg/revision/latest/scale-to-width-down/400?cb=20190112183602"
   },
   {
     "id": "xc2-torna-unique_monster-file-flyingfortress4-jpg",
@@ -471,7 +505,8 @@
     "name": "File:Flyingfortress4.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AFlyingfortress4.jpg",
-    "wikiPageId": 94872
+    "wikiPageId": 94872,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9d/Flyingfortress4.jpg/revision/latest/scale-to-width-down/400?cb=20190112183602"
   },
   {
     "id": "xc2-torna-unique_monster-file-galgan-jpg",
@@ -480,7 +515,8 @@
     "name": "File:Galgan.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalgan.jpg",
-    "wikiPageId": 95046
+    "wikiPageId": 95046,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b1/Galgan.jpg/revision/latest?cb=20190118163828"
   },
   {
     "id": "xc2-torna-unique_monster-file-galgan2-jpg",
@@ -489,7 +525,8 @@
     "name": "File:Galgan2.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalgan2.jpg",
-    "wikiPageId": 95047
+    "wikiPageId": 95047,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/Galgan2.jpg/revision/latest/scale-to-width-down/334?cb=20190118163829"
   },
   {
     "id": "xc2-torna-unique_monster-file-galgan3-jpg",
@@ -498,7 +535,8 @@
     "name": "File:Galgan3.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGalgan3.jpg",
-    "wikiPageId": 95048
+    "wikiPageId": 95048,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Galgan3.jpg/revision/latest/scale-to-width-down/400?cb=20190118163829"
   },
   {
     "id": "xc2-torna-unique_monster-file-gibson-jpg",
@@ -507,7 +545,8 @@
     "name": "File:Gibson.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGibson.jpg",
-    "wikiPageId": 95006
+    "wikiPageId": 95006,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f2/Gibson.jpg/revision/latest/scale-to-width-down/400?cb=20190116174749"
   },
   {
     "id": "xc2-torna-unique_monster-file-handwringingbigelow-jpg",
@@ -516,7 +555,8 @@
     "name": "File:HandwringingBigelow.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHandwringingBigelow.jpg",
-    "wikiPageId": 95306
+    "wikiPageId": 95306,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/HandwringingBigelow.jpg/revision/latest?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-harbringercavill-jpg",
@@ -525,7 +565,8 @@
     "name": "File:HarbringerCavill.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHarbringerCavill.jpg",
-    "wikiPageId": 94997
+    "wikiPageId": 94997,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fd/HarbringerCavill.jpg/revision/latest/scale-to-width-down/400?cb=20190116150853"
   },
   {
     "id": "xc2-torna-unique_monster-file-interceptorgrace-jpg",
@@ -534,7 +575,8 @@
     "name": "File:InterceptorGrace.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInterceptorGrace.jpg",
-    "wikiPageId": 95311
+    "wikiPageId": 95311,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/21/InterceptorGrace.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-ionospheric-jpg",
@@ -543,7 +585,8 @@
     "name": "File:Ionospheric.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIonospheric.jpg",
-    "wikiPageId": 95001
+    "wikiPageId": 95001,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Ionospheric.jpg/revision/latest/scale-to-width-down/400?cb=20190116160846"
   },
   {
     "id": "xc2-torna-unique_monster-file-lunaramaruq-jpg",
@@ -552,7 +595,8 @@
     "name": "File:LunarAmaruq.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALunarAmaruq.jpg",
-    "wikiPageId": 95308
+    "wikiPageId": 95308,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/LunarAmaruq.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-murph-jpg",
@@ -561,7 +605,8 @@
     "name": "File:Murph.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AMurph.jpg",
-    "wikiPageId": 95050
+    "wikiPageId": 95050,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6b/Murph.jpg/revision/latest/scale-to-width-down/400?cb=20190118165441"
   },
   {
     "id": "xc2-torna-unique_monster-file-nomadicrusholme-jpg",
@@ -570,7 +615,8 @@
     "name": "File:NomadicRusholme.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANomadicRusholme.jpg",
-    "wikiPageId": 95309
+    "wikiPageId": 95309,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/2c/NomadicRusholme.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-pedestalstargazing-jpg",
@@ -579,7 +625,8 @@
     "name": "File:PedestalStargazing.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3APedestalStargazing.jpg",
-    "wikiPageId": 95093
+    "wikiPageId": 95093,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6f/PedestalStargazing.jpg/revision/latest/scale-to-width-down/400?cb=20190119202413"
   },
   {
     "id": "xc2-torna-unique_monster-file-ravinebunnit-jpg",
@@ -588,7 +635,8 @@
     "name": "File:RavineBunnit.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARavineBunnit.jpg",
-    "wikiPageId": 95312
+    "wikiPageId": 95312,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/RavineBunnit.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-scowlingquincey-jpg",
@@ -597,7 +645,8 @@
     "name": "File:ScowlingQuincey.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AScowlingQuincey.jpg",
-    "wikiPageId": 95310
+    "wikiPageId": 95310,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/12/ScowlingQuincey.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-sequesteredludd-jpg",
@@ -606,7 +655,8 @@
     "name": "File:SequesteredLudd.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASequesteredLudd.jpg",
-    "wikiPageId": 95137
+    "wikiPageId": 95137,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/61/SequesteredLudd.jpg/revision/latest/scale-to-width-down/400?cb=20190120183012"
   },
   {
     "id": "xc2-torna-unique_monster-file-sleepwalkermork-jpg",
@@ -615,7 +665,8 @@
     "name": "File:SleepwalkerMork.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASleepwalkerMork.jpg",
-    "wikiPageId": 95307
+    "wikiPageId": 95307,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d2/SleepwalkerMork.jpg/revision/latest/scale-to-width-down/400?cb=20190126125956"
   },
   {
     "id": "xc2-torna-unique_monster-file-tlaloc-jpg",
@@ -624,7 +675,8 @@
     "name": "File:Tlaloc.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATlaloc.jpg",
-    "wikiPageId": 95007
+    "wikiPageId": 95007,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6d/Tlaloc.jpg/revision/latest/scale-to-width-down/400?cb=20190116174750"
   },
   {
     "id": "xc2-torna-unique_monster-file-tlalochidden-jpg",
@@ -633,6 +685,7 @@
     "name": "File:TlalocHidden.jpg",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATlalocHidden.jpg",
-    "wikiPageId": 95008
+    "wikiPageId": 95008,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/21/TlalocHidden.jpg/revision/latest/scale-to-width-down/341?cb=20190116174750"
   }
 ]

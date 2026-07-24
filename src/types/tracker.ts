@@ -57,6 +57,8 @@ export interface TrackableItem {
   walkthrough?: string
   wikiUrl: string
   wikiPageId?: number
+  /** Thumbnail / portrait URL from the wiki (detail panel). */
+  imageUrl?: string
   // Quest details
   giver?: string
   subLocation?: string

@@ -9,7 +9,8 @@
     "description": "\"Momimi's vases from Pyrithium Trade Guild just will not sell. Help her raise some money - she claims she only needs 100,000G more.\"",
     "giver": "Momimi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/100k_in_the_Red",
-    "wikiPageId": 95378
+    "wikiPageId": 95378,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/76/100k_in_the_red.png/revision/latest?cb=20190127002120"
   },
   {
     "id": "xc2-torna-quest-a-simple-errand",
@@ -21,7 +22,8 @@
     "description": "\"Defeat the monsters blocking the bridge.\"",
     "giver": "Kaym",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Simple_Errand",
-    "wikiPageId": 92902
+    "wikiPageId": 92902,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/5b/A_simple_errand.png/revision/latest?cb=20190121224035"
   },
   {
     "id": "xc2-torna-quest-a-small-promise",
@@ -33,7 +35,8 @@
     "description": "\"Milton wants to learn to sew. To embroider a handkerchief with his desired pattern, we'll first need to gather the requisite ingredients.\"",
     "giver": "Milton",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Small_Promise",
-    "wikiPageId": 100083
+    "wikiPageId": 100083,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/09/A_small_promise.png/revision/latest?cb=20190707200707"
   },
   {
     "id": "xc2-torna-quest-an-oasis-for-all",
@@ -45,7 +48,8 @@
     "description": "\"To reopen the interrupted trade routes, and restore access to a place of respite, someone has to defeat the Gogols that occupy Peln, Pilgrim's Springland.\"",
     "giver": "Morumo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/An_Oasis_for_All",
-    "wikiPageId": 93174
+    "wikiPageId": 93174,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/98/An_oasis_for_all.png/revision/latest?cb=20190121224823"
   },
   {
     "id": "xc2-torna-quest-armus-gone-astray",
@@ -57,7 +61,8 @@
     "description": "\"As a favor to Teeco, let's go and try to find out what's eating Joey.\"",
     "giver": "Teeco",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Armus_Gone_Astray",
-    "wikiPageId": 95101
+    "wikiPageId": 95101,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/df/Armus_gone_astray.png/revision/latest?cb=20190121225403"
   },
   {
     "id": "xc2-torna-quest-azurda-sos",
@@ -69,7 +74,8 @@
     "description": "\"Tornan soldier Tarath says that Azurda wants to talk to you. Head for Torna's Womb and see what's up.\"",
     "giver": "Tarath",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Azurda_SOS",
-    "wikiPageId": 100102
+    "wikiPageId": 100102,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/36/Azurda_sos.png/revision/latest?cb=20190708015151"
   },
   {
     "id": "xc2-torna-quest-barmy-tale-of-barney",
@@ -81,7 +87,8 @@
     "description": "\"According to Isabella, an adventurer by the name of Blue Barney hid his loot in the nearby Haradd Hills, guarded by monsters and a seal. Find it if you can!\"",
     "giver": "Isabella",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Barmy_Tale_of_Barney",
-    "wikiPageId": 92903
+    "wikiPageId": 92903,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d2/Barmy_tale_of_barney.png/revision/latest?cb=20190121234635"
   },
   {
     "id": "xc2-torna-quest-bolstering-sales",
@@ -93,7 +100,8 @@
     "description": "\"Obibi is having trouble marketing her textile wares to other Nopon. Help her find a way to boost her business and avert economic disaster.\"",
     "giver": "Obibi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bolstering_Sales",
-    "wikiPageId": 95102
+    "wikiPageId": 95102,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e4/Bolstering_sales.png/revision/latest?cb=20190121231834"
   },
   {
     "id": "xc2-torna-quest-community-spirit",
@@ -105,7 +113,8 @@
     "description": "\"Little Freja is too frail to evacuate the capital. Urayan Dragon Incense may cure her, but you need a team to get it.\"",
     "giver": "Marena",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Community_Spirit_(quest)",
-    "wikiPageId": 100597
+    "wikiPageId": 100597,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fa/Community_spirit.png/revision/latest?cb=20190708015336"
   },
   {
     "id": "xc2-torna-quest-driver-coaching",
@@ -117,7 +126,8 @@
     "description": "\"Rolipoli, a veteran warrior, decided to test you. Break and Topple five foes using Driver Combos to prove yourself.\"",
     "giver": "Rolipoli",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Driver_Coaching",
-    "wikiPageId": 92912
+    "wikiPageId": 92912,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/83/Driver_coaching.png/revision/latest?cb=20190122000942"
   },
   {
     "id": "xc2-torna-quest-duplicity",
@@ -129,7 +139,8 @@
     "description": "\"Find the missing Ardainian soldier who goes by the name of MacNeth.\"",
     "giver": "Yrrith",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Duplicity",
-    "wikiPageId": 95363
+    "wikiPageId": 95363,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0e/Duplicity.png/revision/latest?cb=20190126223101"
   },
   {
     "id": "xc2-torna-quest-feeding-an-army",
@@ -141,7 +152,8 @@
     "description": "\"It seems that the fiefdom of Aletta can't feed the great resistance army without your help. Speak to Brogyn, who's in charge of supplies, and find a solution.\"",
     "giver": "Addam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Feeding_an_Army",
-    "wikiPageId": 92988
+    "wikiPageId": 92988,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7e/Feeding_an_army.png/revision/latest?cb=20190122000519"
   },
   {
     "id": "xc2-torna-quest-for-lack-of-a-hunter",
@@ -153,7 +165,8 @@
     "description": "\"The Feris in the region of Hyber Village have been getting aggressive of late. Gather some Feris Beastmeat in Buzz's stead.\"",
     "giver": "Buzz",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/For_Lack_of_a_Hunter",
-    "wikiPageId": 93076
+    "wikiPageId": 93076,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0a/For_lack_of_a_hunter.png/revision/latest?cb=20190121235224"
   },
   {
     "id": "xc2-torna-quest-forest-trail-antics",
@@ -165,7 +178,8 @@
     "description": "\"Old Ms. Ofa, who has lately come to enjoy walking in the woods, asked you to pick up the litter that someone had been scattering. Let's clean this up!\"",
     "giver": "Ofa",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Forest_Trail_Antics",
-    "wikiPageId": 95329
+    "wikiPageId": 95329,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/05/Forest_trail_antics.png/revision/latest?cb=20190126194202"
   },
   {
     "id": "xc2-torna-quest-further-driver-coaching",
@@ -177,7 +191,8 @@
     "description": "\"Rolipoli, a veteran warrior, decided to test you further. Perform three full Driver Combos to prove yourself.\"",
     "giver": "Rolipoli",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Further_Driver_Coaching",
-    "wikiPageId": 92985
+    "wikiPageId": 92985,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/75/Further_driver_coaching.png/revision/latest?cb=20190122001113"
   },
   {
     "id": "xc2-torna-quest-further-feeding-issues",
@@ -189,7 +204,8 @@
     "description": "\"Brogyn, the militia quartermaster, has come to the capital for supplies, but can't take them back as Tizza Parisax block the Braying Canyon. Let's help!\"",
     "giver": "Brogyn",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Further_Feeding_Issues",
-    "wikiPageId": 95339
+    "wikiPageId": 95339,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/88/Further_feeding_issues.png/revision/latest?cb=20190126210300"
   },
   {
     "id": "xc2-torna-quest-fusion-coaching",
@@ -201,7 +217,8 @@
     "description": "\"Rolipoli and Krogane have one final test for you. Perform a Fusion Combo 10 times to prove yourself.\"",
     "giver": "Rolipoli",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Fusion_Coaching",
-    "wikiPageId": 95083
+    "wikiPageId": 95083,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/16/Fusion_coaching.png/revision/latest?cb=20190122001426"
   },
   {
     "id": "xc2-torna-quest-great-tornan-cook-off",
@@ -213,7 +230,8 @@
     "description": "\"Addam has proposed a cooking contest. Participants include the eminent chef Ms. Sorrel, Jin, and even Mythra! Who will win over the judges' tastebuds?\"",
     "giver": "Sorrel",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Great_Tornan_Cook-Off",
-    "wikiPageId": 100069
+    "wikiPageId": 100069,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Great_tornan_cook-off.png/revision/latest?cb=20190707044336"
   },
   {
     "id": "xc2-torna-quest-helping-the-helper",
@@ -225,7 +243,8 @@
     "description": "\"Lacking confidence in his own skills, Gio has asked you to gather Purestone and make Sweet Nothings for his client.\"",
     "giver": "Gio",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Helping_the_Helper",
-    "wikiPageId": 95331
+    "wikiPageId": 95331,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/10/Helping_the_helper.png/revision/latest?cb=20190126200835"
   },
   {
     "id": "xc2-torna-quest-here-be-treasure",
@@ -237,7 +256,8 @@
     "description": "\"Shanelle bought a treasure map from a Nopon, but failed to find anything. She wants you to go back and check in case there was something she missed.\"",
     "giver": "Shanelle",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Here_Be_Treasure%3F",
-    "wikiPageId": 93079
+    "wikiPageId": 93079,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a8/Here_be_treasure.png/revision/latest?cb=20190121235058"
   },
   {
     "id": "xc2-torna-quest-homegrown-inventor",
@@ -249,7 +269,8 @@
     "description": "\"Marcus, a young insect aficionado, has drawn up blueprints for a machine that will help him catch a lot of bugs. Let's help make the boy's dream a reality!\"",
     "giver": "Marcus",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Homegrown_Inventor",
-    "wikiPageId": 95105
+    "wikiPageId": 95105,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/Homegrown_inventor.png/revision/latest?cb=20190121231110"
   },
   {
     "id": "xc2-torna-quest-hubbie-takes-a-hike",
@@ -261,7 +282,8 @@
     "description": "\"Fisherwoman Chica is on the lookout for her missing husband. If you see him, she wants you to tell him to come back to Torna.\"",
     "giver": "Chica",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hubbie_Takes_a_Hike",
-    "wikiPageId": 95387
+    "wikiPageId": 95387,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e7/Hubbie_takes_a_hike.png/revision/latest?cb=20190127005109"
   },
   {
     "id": "xc2-torna-quest-hungry-for-more",
@@ -273,7 +295,8 @@
     "description": "\"Omnom, the gourmet with a grandiose appetite, has an incredibly rumbly tummy. Fill it up until she has been satisfied.\"",
     "giver": "Omnom",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hungry_for_More",
-    "wikiPageId": 95375
+    "wikiPageId": 95375,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/42/Hungry_for_more.png/revision/latest?cb=20190127000618"
   },
   {
     "id": "xc2-torna-quest-kingdom-of-torna-quests",
@@ -295,7 +318,8 @@
     "description": "\"Reconstruction work on Lett Bridge, which leads to the capital, is being hindered by Preoccupied Gogols. Defeat them to clear the way.\"",
     "giver": "Addam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lett_Bridge_Restoration",
-    "wikiPageId": 93013
+    "wikiPageId": 93013,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Lett_bridge_restoration.png/revision/latest?cb=20190122000652"
   },
   {
     "id": "xc2-torna-quest-lighting-the-way",
@@ -307,7 +331,8 @@
     "description": "\"Chalcedony, who guards the gates of the capital, has asked you to help with lighting the lantern which has gone out.\"",
     "giver": "Chalcedony",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lighting_the_Way",
-    "wikiPageId": 95100
+    "wikiPageId": 95100,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/29/Lighting_the_way.png/revision/latest?cb=20190121232017"
   },
   {
     "id": "xc2-torna-quest-making-up-the-numbers",
@@ -319,7 +344,8 @@
     "description": "\"After Malos's assault on the capital, soldiers have started leaving the militia. Help Lieutenant Vronka find new potential recruits around town.\"",
     "giver": "Vronka",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Making_Up_the_Numbers",
-    "wikiPageId": 100057
+    "wikiPageId": 100057,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a8/Making_up_the_numbers.png/revision/latest?cb=20190706221826"
   },
   {
     "id": "xc2-torna-quest-manning-the-gates",
@@ -331,7 +357,8 @@
     "description": "\"It seems that...something...has appeared on Outrider's Forest Trail in front of the capital gates. Search for evidence and report back to Carnelian.\"",
     "giver": "Carnelian",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Manning_the_Gates",
-    "wikiPageId": 100053
+    "wikiPageId": 100053,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0c/Manning_the_gate.png/revision/latest?cb=20190706212526"
   },
   {
     "id": "xc2-torna-quest-nuts-about-bugs",
@@ -343,7 +370,8 @@
     "description": "\"The insect-loving Marcus has asked you to help him with his bug collecting.\"",
     "giver": "Marcus",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nuts_About_Bugs",
-    "wikiPageId": 93172
+    "wikiPageId": 93172,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/Nuts_about_bugs.png/revision/latest?cb=20190121232507"
   },
   {
     "id": "xc2-torna-quest-passing-the-torch",
@@ -355,7 +383,8 @@
     "description": "\"Head for Torigoth Village to see if the man called Tarres is OK.\"",
     "giver": "Charlet",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Passing_the_Torch",
-    "wikiPageId": 95117
+    "wikiPageId": 95117,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cd/Passing_the_torch.png/revision/latest?cb=20190121225611"
   },
   {
     "id": "xc2-torna-quest-planning-for-the-future",
@@ -367,7 +396,8 @@
     "description": "\"Arb has asked you to help his apprentice, Aquin, build a ship. It seems like a worthy cause - let's do it!\"",
     "giver": "Arb",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Planning_for_the_Future",
-    "wikiPageId": 100061
+    "wikiPageId": 100061,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b8/Planning_for_the_future.png/revision/latest?cb=20190707012647"
   },
   {
     "id": "xc2-torna-quest-proof-of-love",
@@ -379,7 +409,8 @@
     "description": "\"To prove his feelings to Sarah, Leo set out to find a Rainbow Blossom. Find the secret area where the flower is said to bloom to make sure he's OK.\"",
     "giver": "Sarah",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Proof_of_Love",
-    "wikiPageId": 100085
+    "wikiPageId": 100085,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/64/Proof_of_love.png/revision/latest?cb=20190707201648"
   },
   {
     "id": "xc2-torna-quest-safety-measures",
@@ -391,7 +422,8 @@
     "description": "\"The people who have stayed behind in Auresco will need a shelter to escape to in case of an emergency. Speak to builder Wayton to see if he can help.\"",
     "giver": "Gio",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Safety_Measures",
-    "wikiPageId": 100063
+    "wikiPageId": 100063,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/02/Safety_measures.png/revision/latest?cb=20190707014048"
   },
   {
     "id": "xc2-torna-quest-the-bard-factor",
@@ -403,7 +435,8 @@
     "description": "\"The Nopon Rikoko hopes to debut as a minstrel by joining a band of traveling bards. See if you can put in a good word for her.\"",
     "giver": "Rikoko",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Bard_Factor",
-    "wikiPageId": 100101
+    "wikiPageId": 100101,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/61/The_bard_factor.png/revision/latest?cb=20190708015045"
   },
   {
     "id": "xc2-torna-quest-the-fish-that-could-be",
@@ -415,7 +448,8 @@
     "description": "\"The Gargoyle attack completely wiped out the capital's fish population. You've been asked to help repopulate them.\"",
     "giver": "Tyler",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Fish_That_Could_Be",
-    "wikiPageId": 95382
+    "wikiPageId": 95382,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f6/The_fish_that_could_be.png/revision/latest?cb=20190127004204"
   },
   {
     "id": "xc2-torna-quest-the-malcontent-doctor",
@@ -427,7 +461,8 @@
     "description": "\"Mungo, Addam's retainer reluctantly serving as the militia's doctor, asked you to collect Panacellin to make medicine with.\"",
     "giver": "Mungo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Malcontent_Doctor",
-    "wikiPageId": 93015
+    "wikiPageId": 93015,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/d0/The_malcontent_doctor.png/revision/latest?cb=20190121230939"
   },
   {
     "id": "xc2-torna-quest-the-secret-of-dannagh",
@@ -439,7 +474,8 @@
     "description": "\"You came across a fortune-hunting adventurer collapsed in the Dannagh Desert. Help her out by offering her some water.\"",
     "giver": "Palva",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Secret_of_Dannagh",
-    "wikiPageId": 93489
+    "wikiPageId": 93489,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b2/The_secret_of_dannagh.png/revision/latest?cb=20190121232303"
   },
   {
     "id": "xc2-torna-quest-the-tornan-inventor",
@@ -451,7 +487,8 @@
     "description": "\"The inventor Gideon is hoping to create a new invention, and he needs your help to collect parts for it.\"",
     "giver": "Gideon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Tornan_Inventor",
-    "wikiPageId": 93173
+    "wikiPageId": 93173,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fe/The_tornan_inventor.png/revision/latest?cb=20190127163442"
   },
   {
     "id": "xc2-torna-quest-the-travails-of-war",
@@ -463,7 +500,8 @@
     "description": "\"The resistance camp came under a surprise monster attack. Defeat them all and defend the garrrison.\"",
     "giver": "Noowl",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Travails_of_War",
-    "wikiPageId": 100065
+    "wikiPageId": 100065,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/87/The_travails_of_war.png/revision/latest?cb=20190707033222"
   },
   {
     "id": "xc2-torna-quest-thicker-than-water",
@@ -475,7 +513,8 @@
     "description": "\"Hedwyn is concerned for his family, who remained in Gormott. Head for the Seigle Fell campsite to find Kali and Kelly, whom you've met before!\"",
     "giver": "Hedwyn",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Thicker_than_Water",
-    "wikiPageId": 93504
+    "wikiPageId": 93504,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/2/25/Thicker_than_water.png/revision/latest?cb=20190121231630"
   },
   {
     "id": "xc2-torna-quest-to-cross-a-desert",
@@ -487,7 +526,8 @@
     "description": "\"Desert medicine is needed to cross the Dannagh Desert without dying of desert fever. Gather the ingredients so Mungo at the garrison can make it for you.\"",
     "giver": "Addam",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/To_Cross_a_Desert",
-    "wikiPageId": 93067
+    "wikiPageId": 93067,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ac/To_cross_a_desert.png/revision/latest?cb=20190122000803"
   },
   {
     "id": "xc2-torna-quest-trail-of-destruction",
@@ -499,7 +539,8 @@
     "description": "\"The Gargoyle attack left the capital in ruins. Help the clean-up effort to help get the city back to its feet!\"",
     "giver": "Nittle",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Trail_of_Destruction",
-    "wikiPageId": 95370
+    "wikiPageId": 95370,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/63/Trail_of_destruction.png/revision/latest?cb=20190126233354"
   },
   {
     "id": "xc2-torna-quest-unforgotten-promise",
@@ -511,7 +552,8 @@
     "description": "\"Mireille, a potter, asked for your help in creating a particular vase. Wouldn't it be nice to get the ingredients for her?\"",
     "giver": "Mireille",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Unforgotten_Promise",
-    "wikiPageId": 100059
+    "wikiPageId": 100059,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c3/Unforgotten_promise.png/revision/latest?cb=20190706233132"
   },
   {
     "id": "xc2-torna-quest-what-bars-the-way",
@@ -523,7 +565,8 @@
     "description": "\"Defeat the monsters swarming around the ether miasma on Uccar's Trail and disperse the miasma itself before the monsters' numbers grow any further.\"",
     "giver": "Haze",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/What_Bars_the_Way",
-    "wikiPageId": 92904
+    "wikiPageId": 92904,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/31/What_bars_the_way.png/revision/latest?cb=20190121224307"
   },
   {
     "id": "xc2-torna-quest-what-goes-around",
@@ -535,7 +578,8 @@
     "description": "\"Ask around the capital to work out who killed Jerry's sister. You know they lead the Bloody Lobsters, and may be lying low in Torna somewhere...\"",
     "giver": "Jerry",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/What_Goes_Around",
-    "wikiPageId": 100067
+    "wikiPageId": 100067,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ab/What_goes_around.png/revision/latest?cb=20190707040702"
   },
   {
     "id": "xc2-torna-quest-what-matters-most",
@@ -547,7 +591,8 @@
     "description": "\"Vez dropped the key to the Origo family vault when he was attacked by a Grafton Feris. We have to infiltrate the monster's den and retrieve the key!\"",
     "giver": "Vez",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/What_Matters_Most",
-    "wikiPageId": 92987
+    "wikiPageId": 92987,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0f/What_matters_most.png/revision/latest?cb=20190121225111"
   },
   {
     "id": "xc2-torna-quest-a-rare-sense-of-justice",
@@ -559,7 +604,8 @@
     "description": "\"Shady items known as Red Pollen Orbs have been appearing all over. Destroy any green barrels you find to remove the Red Pollen Orbs from distribution.\"",
     "giver": "Macmac",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Rare_Sense_of_Justice",
-    "wikiPageId": 92920
+    "wikiPageId": 92920,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a6/A_rare_sense.png/revision/latest?cb=20190121222632"
   },
   {
     "id": "xc2-torna-quest-a-taste-of-home",
@@ -571,7 +617,8 @@
     "description": "\"A ship mechanic whose travels have taken him far is beginning to get homesick. Cook him up something to remind him of his hometown, Chilsain.\"",
     "giver": "Hassan",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Taste_of_Home",
-    "wikiPageId": 92937
+    "wikiPageId": 92937,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/9a/A_taste_of_home.png/revision/latest?cb=20190121234454"
   },
   {
     "id": "xc2-torna-quest-doc-the-miasma-slayer",
@@ -583,7 +630,8 @@
     "description": "\"Doc was out studying ether and Titans when he got assulted by monsters. Now he's asking you to clear them out!\"",
     "giver": "Doc",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Doc%2C_the_Miasma_Slayer",
-    "wikiPageId": 92927
+    "wikiPageId": 92927,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fc/Doc_the_miasma_slayer.png/revision/latest?cb=20190121235659"
   },
   {
     "id": "xc2-torna-quest-further-blade-coaching",
@@ -595,7 +643,8 @@
     "description": "\"Krogane, a veteran Blade, decided to test you some more. Reach the third stage of a Blade Combo 5 times to prove yourself.\"",
     "giver": "Krogane",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Further_Blade_Coaching",
-    "wikiPageId": 92979
+    "wikiPageId": 92979,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/37/Further_blade_coaching.png/revision/latest?cb=20190122001305"
   },
   {
     "id": "xc2-torna-quest-gormott-quests",
@@ -617,7 +666,8 @@
     "description": "\"Support Lyta and Kaeda as they go around exploring Gormott.\"",
     "giver": "Lyta",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/My_First_Adventure",
-    "wikiPageId": 92935
+    "wikiPageId": 92935,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7c/My_first_adventure.png/revision/latest?cb=20190121230009"
   },
   {
     "id": "xc2-torna-quest-punpuns-rival",
@@ -629,7 +679,8 @@
     "description": "\"Punpun enjoys nothing more than a midday catnap. Punish the wicked monsters who disturbed her peaceful slumber at her favorite spot.\"",
     "giver": "Punpun",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Punpun's_Rival",
-    "wikiPageId": 92925
+    "wikiPageId": 92925,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b0/Punpuns_rival.png/revision/latest?cb=20190121235837"
   },
   {
     "id": "xc2-torna-quest-salvage-the-salvager",
@@ -641,7 +692,8 @@
     "description": "\"Dudan, a Salvager is struggling to find anything of value at Lascham Cove. Gather materials to help him make a Dudan-style Silver Cylinder.\"",
     "giver": "Dudan",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Salvage_the_Salvager",
-    "wikiPageId": 92932
+    "wikiPageId": 92932,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4c/Salvage_the_salvager.png/revision/latest?cb=20190121231319"
   },
   {
     "id": "xc2-torna-quest-seeking-a-seeker",
@@ -653,7 +705,8 @@
     "description": "\"Adventurer Zenma is in a bind now that his Seeker is broken. He wants you to collect a Bat Hinge and a Scarlet Coil to act as substitute parts.\"",
     "giver": "Zenma",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Seeking_a_Seeker",
-    "wikiPageId": 92986
+    "wikiPageId": 92986,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/da/Seeking_a_seeker.png/revision/latest?cb=20190121235416"
   },
   {
     "id": "xc2-torna-quest-sweetest-tidings",
@@ -665,7 +718,8 @@
     "description": "\"Vient Horrison, of Mor Ardain, was set to meet with an envoy from the White Chair, but the envoy went missing in the Hoary Weald. This calls for a search.\"",
     "giver": "Vient Horrison",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Sweetest_Tidings",
-    "wikiPageId": 95357
+    "wikiPageId": 95357,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6c/Sweetest_tidings.png/revision/latest?cb=20190126214356"
   },
   {
     "id": "xc2-torna-quest-the-ardainian-gunman",
@@ -677,7 +731,8 @@
     "description": "\"Sharpshooter Bathein of the Ardainian Imperial Army is spoiling for a real fight. Give him one.\"",
     "giver": "Bathein",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ardainian_Gunman",
-    "wikiPageId": 92940
+    "wikiPageId": 92940,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a3/The_ardainian_gunman.png/revision/latest?cb=20190121232710"
   },
   {
     "id": "xc2-torna-quest-power-unimaginable",
@@ -689,7 +744,8 @@
     "description": "\"Reports have surfaced pointing to purported traces of Malos's activity around Valafum Hill.\"",
     "giver": "Hugo",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Power_Unimaginable",
-    "wikiPageId": 92917
+    "wikiPageId": 92917,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/4/4d/Power_unimaginable.png/revision/latest?cb=20190122000134"
   },
   {
     "id": "xc2-torna-quest-wheres-the-boy-gone",
@@ -701,7 +757,8 @@
     "description": "\"A Gormotti boy has been sighted near the campsite at Seigle Fell. He may be a survivor from Torigoth Village - let's go ahead and find him!\"",
     "giver": "Lora",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Where's_the_Boy_Gone%3F",
-    "wikiPageId": 92934
+    "wikiPageId": 92934,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/ce/Wheres_the_boy_gone.png/revision/latest?cb=20190122000319"
   },
   {
     "id": "xc2-torna-quest-file-next-extract-jpg",
@@ -711,6 +768,7 @@
     "region": "Main Story",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANext_extract.JPG",
-    "wikiPageId": 113507
+    "wikiPageId": 113507,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c7/Next_extract.JPG/revision/latest/scale-to-width-down/400?cb=20210205021020"
   }
 ]

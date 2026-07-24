@@ -28,7 +28,8 @@
     "prerequisites": [],
     "description": "\"Matthew and A are traveling through the Cent-Omnia region in pursuit of their goal.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_1_(FR)",
-    "wikiPageId": 126759
+    "wikiPageId": 126759,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Chapter_1_FR.jpg/revision/latest?cb=20230430210910"
   },
   {
     "id": "xc3-fr-quest-chapter-2",
@@ -39,7 +40,8 @@
     "prerequisites": [],
     "description": "\"Nikol and Glimmer were freed from their Flame Clocks, but then Glimmer ran away into the night. Concerned for her safety, Matthew's group gives chase.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_2_(FR)",
-    "wikiPageId": 126758
+    "wikiPageId": 126758,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b3/Chapter_2_FR.jpg/revision/latest?cb=20230430210857"
   },
   {
     "id": "xc3-fr-quest-chapter-3",
@@ -50,7 +52,8 @@
     "prerequisites": [],
     "description": "\"Faced with a pair of fused Ferronises, Matthew and co. gain some new allies, and with that, the final piece is in place to fend off the Moebius threat.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_3_(FR)",
-    "wikiPageId": 126751
+    "wikiPageId": 126751,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/57/Chapter_3_FR.jpg/revision/latest?cb=20230430210843"
   },
   {
     "id": "xc3-fr-quest-chapter-4",
@@ -61,7 +64,8 @@
     "prerequisites": [],
     "description": "\"Na'el and Matthew meet again, but the reunion is a bittersweet one. Learning what became of his sister, Matthew prepares to face her, despite his unrest...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_4_(FR)",
-    "wikiPageId": 126592
+    "wikiPageId": 126592,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/67/Chapter_4_FR.jpg/revision/latest?cb=20230430210457"
   },
   {
     "id": "xc3-fr-quest-chapter-5",
@@ -72,7 +76,8 @@
     "prerequisites": [],
     "description": "\"When they come to, Matthew and his friends find themselves in an unfamiliar space...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Chapter_5_(FR)",
-    "wikiPageId": 126750
+    "wikiPageId": 126750,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Chapter_5_FR.jpg/revision/latest?cb=20230430210608"
   },
   {
     "id": "xc3-fr-quest-file-chapter-1-fr-jpg",
@@ -82,7 +87,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChapter_1_FR.jpg",
-    "wikiPageId": 126749
+    "wikiPageId": 126749,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cb/Chapter_1_FR.jpg/revision/latest?cb=20230430210910"
   },
   {
     "id": "xc3-fr-quest-file-chapter-2-fr-jpg",
@@ -92,7 +98,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChapter_2_FR.jpg",
-    "wikiPageId": 126748
+    "wikiPageId": 126748,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b3/Chapter_2_FR.jpg/revision/latest?cb=20230430210857"
   },
   {
     "id": "xc3-fr-quest-file-chapter-3-fr-jpg",
@@ -102,7 +109,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChapter_3_FR.jpg",
-    "wikiPageId": 126747
+    "wikiPageId": 126747,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/57/Chapter_3_FR.jpg/revision/latest?cb=20230430210843"
   },
   {
     "id": "xc3-fr-quest-file-chapter-4-fr-jpg",
@@ -112,7 +120,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChapter_4_FR.jpg",
-    "wikiPageId": 126745
+    "wikiPageId": 126745,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/67/Chapter_4_FR.jpg/revision/latest?cb=20230430210457"
   },
   {
     "id": "xc3-fr-quest-file-chapter-5-fr-jpg",
@@ -122,7 +131,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AChapter_5_FR.jpg",
-    "wikiPageId": 126746
+    "wikiPageId": 126746,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/be/Chapter_5_FR.jpg/revision/latest?cb=20230430210608"
   },
   {
     "id": "xc3-fr-quest-aurora-shelf-quests",
@@ -144,7 +154,8 @@
     "description": "\"In order to find a prime location for her dungeon, Burrburr requires rock samples from the local area. Give your new Nopon acquaintance a helping hand.\"",
     "giver": "Burrburr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dungeon_Mapping",
-    "wikiPageId": 127216
+    "wikiPageId": 127216,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/Dungeon_Mapping.jpg/revision/latest?cb=20230505173641"
   },
   {
     "id": "xc3-fr-quest-elevator-repairs",
@@ -156,7 +167,8 @@
     "description": "\"Gather the materials that Nikol mentioned so that the broken-down elevator can start moving again.\"",
     "giver": "Jilljill",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Elevator_Repairs",
-    "wikiPageId": 126973
+    "wikiPageId": 126973,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0f/Elevator_Repairs.jpg/revision/latest?cb=20230503030329"
   },
   {
     "id": "xc3-fr-quest-the-very-lost-nopon",
@@ -168,7 +180,8 @@
     "description": "\"Locate and bring back Babalulu, who went missing while out foraging for dinner.\"",
     "giver": "Guguru",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Very_Lost_Nopon",
-    "wikiPageId": 127221
+    "wikiPageId": 127221,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ee/The_Very_Lost_Nopon.jpg/revision/latest?cb=20230505174538"
   },
   {
     "id": "xc3-fr-quest-tinkering-with-the-x-reader",
@@ -180,7 +193,8 @@
     "description": "\"Tiny Timtim gave you design documents for improving the X-Reader's functions. Collect the required materials and try upgrading it.\"",
     "giver": "Tiny Timtim",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Tinkering_With_the_X-Reader",
-    "wikiPageId": 127223
+    "wikiPageId": 127223,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Tinkering_With_the_X-Reader.jpg/revision/latest?cb=20230505175906"
   },
   {
     "id": "xc3-fr-quest-file-dungeon-mapping-jpg",
@@ -190,7 +204,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ADungeon_Mapping.jpg",
-    "wikiPageId": 127215
+    "wikiPageId": 127215,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/54/Dungeon_Mapping.jpg/revision/latest?cb=20230505173641"
   },
   {
     "id": "xc3-fr-quest-file-the-very-lost-nopon-jpg",
@@ -200,7 +215,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Very_Lost_Nopon.jpg",
-    "wikiPageId": 127220
+    "wikiPageId": 127220,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/ee/The_Very_Lost_Nopon.jpg/revision/latest?cb=20230505174538"
   },
   {
     "id": "xc3-fr-quest-file-tinkering-with-the-x-reader-jpg",
@@ -210,7 +226,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATinkering_With_the_X-Reader.jpg",
-    "wikiPageId": 127222
+    "wikiPageId": 127222,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/39/Tinkering_With_the_X-Reader.jpg/revision/latest?cb=20230505175906"
   },
   {
     "id": "xc3-fr-quest-a-melody-sustained",
@@ -222,7 +239,8 @@
     "description": "\"Glimmer has happened upon an old, broken lute. Bring it back to Colony 9 and see if there might be anyone who can fix it.\"",
     "giver": "Glimmer",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Melody_Sustained",
-    "wikiPageId": 127134
+    "wikiPageId": 127134,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/A_Melody_Sustained.jpg/revision/latest?cb=20230504144002"
   },
   {
     "id": "xc3-fr-quest-ancient-contraption",
@@ -234,7 +252,8 @@
     "description": "\"Look around for the balls that will activate the mystery contraption.\"",
     "giver": "Matthew",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ancient_Contraption",
-    "wikiPageId": 127127
+    "wikiPageId": 127127,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Ancient_Contraption.jpg/revision/latest?cb=20230504143829"
   },
   {
     "id": "xc3-fr-quest-black-mountains-quests",
@@ -256,7 +275,8 @@
     "description": "\"Help Saomi and Hyzen find the place that's marked on their map.\"",
     "giver": "Saomi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Snow_Man's_Treasure",
-    "wikiPageId": 127131
+    "wikiPageId": 127131,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f8/Snow_Man%27s_Treasure.jpg/revision/latest?cb=20230504144432"
   },
   {
     "id": "xc3-fr-quest-file-ancient-contraption-jpg",
@@ -266,7 +286,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAncient_Contraption.jpg",
-    "wikiPageId": 127126
+    "wikiPageId": 127126,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c0/Ancient_Contraption.jpg/revision/latest?cb=20230504143829"
   },
   {
     "id": "xc3-fr-quest-regret-and-resolve",
@@ -278,7 +299,8 @@
     "description": "\"Help Jethro out by collecting the personal effects of the fallen soldiers.\"",
     "giver": "Jethro",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Regret_and_Resolve",
-    "wikiPageId": 127154
+    "wikiPageId": 127154,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/Regret_and_Resolve.jpg/revision/latest?cb=20230504183922"
   },
   {
     "id": "xc3-fr-quest-the-ragmos-desolation-quests",
@@ -300,7 +322,8 @@
     "description": "\"Join Kayleigh in a search for the lost Harby.\"",
     "giver": "Kayleigh",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Where_Is_That_Guy%3F",
-    "wikiPageId": 127156
+    "wikiPageId": 127156,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/Where_Is_That_Guy.jpg/revision/latest?cb=20230504184058"
   },
   {
     "id": "xc3-fr-quest-abandoned-supplies",
@@ -312,7 +335,8 @@
     "description": "\"Go and recover the abandoned supply cache. Peridot and Eow appear to know its location.\"",
     "giver": "Eow",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Abandoned_Supplies",
-    "wikiPageId": 127234
+    "wikiPageId": 127234,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/Abandoned_Supplies.jpg/revision/latest?cb=20230505191039"
   },
   {
     "id": "xc3-fr-quest-big-game-enn-shoox",
@@ -324,7 +348,8 @@
     "description": "\"I think a rare kind of Shoox is nesting in the lake's cave! I'd love to get my hands on it for science. Please can someone defeat it?\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Big_Game%3A_Enn_Shoox",
-    "wikiPageId": 127189
+    "wikiPageId": 127189,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Big_Game_Enn_Shoox.jpg/revision/latest?cb=20230505122025"
   },
   {
     "id": "xc3-fr-quest-big-game-rogal-vvarga",
@@ -336,7 +361,8 @@
     "description": "\"Hark! A Vvarga! Aye, that monster most rare was seen at Diablada Cliffs! I wish to dissect it for science. Won't someone go kill it?!\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Big_Game%3A_Rogal_Vvarga",
-    "wikiPageId": 127212
+    "wikiPageId": 127212,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/Big_Game_Rogal_Vvarga.jpg/revision/latest?cb=20230505163343"
   },
   {
     "id": "xc3-fr-quest-big-game-rumo-kapiba",
@@ -348,7 +374,8 @@
     "description": "\"I hear an unusual Kapiba was seen at Raguel Lake. If someone could hunt it, purely for science, it would be appreciated!\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Big_Game%3A_Rumo_Kapiba",
-    "wikiPageId": 127199
+    "wikiPageId": 127199,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/67/Big_Game_Rumo_Kapiba.jpg/revision/latest?cb=20230505150032"
   },
   {
     "id": "xc3-fr-quest-bobobis-bad-bad-day",
@@ -360,7 +387,8 @@
     "description": "\"Caravan apprentice Bobobi is in need of help. Start off by investigating the site where he was attacked and see if you can ascertain what happened.\"",
     "giver": "Bobobi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bobobi's_Bad%2C_Bad_Day",
-    "wikiPageId": 127122
+    "wikiPageId": 127122,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Bobobi%27s_Bad%2C_Bad_Day.jpg/revision/latest?cb=20230504141357"
   },
   {
     "id": "xc3-fr-quest-breaking-ground",
@@ -372,7 +400,8 @@
     "description": "\"To repair the Armories, Matthew sets out to enlist the aid of his allies, old and new.\"",
     "giver": "Dillon",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Breaking_Ground",
-    "wikiPageId": 127035
+    "wikiPageId": 127035,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bc/Breaking_Ground.jpg/revision/latest?cb=20230503182102"
   },
   {
     "id": "xc3-fr-quest-cooking-with-rex-part-1",
@@ -384,7 +413,8 @@
     "description": "\"Rex offered to cook a Kickin' Colony Acqua Pazza. Get him the ingredients he requires.\"",
     "giver": "Rex",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cooking_with_Rex%2C_Part_1",
-    "wikiPageId": 127206
+    "wikiPageId": 127206,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/04/Cooking_with_Rex%2C_Part_1.jpg/revision/latest?cb=20230505160647"
   },
   {
     "id": "xc3-fr-quest-cooking-with-rex-part-2",
@@ -396,7 +426,8 @@
     "description": "\"Rex offered to cook Tender Boiled Lobster. Get him the ingredients he requires.\"",
     "giver": "Rex",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cooking_with_Rex%2C_Part_2",
-    "wikiPageId": 127208
+    "wikiPageId": 127208,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/Cooking_with_Rex%2C_Part_2.jpg/revision/latest?cb=20230505162158"
   },
   {
     "id": "xc3-fr-quest-cooking-with-rex-part-3",
@@ -408,7 +439,8 @@
     "description": "\"Rex offered to cook a Ftheri Torpedo Wrap. Get him the ingredients he requires.\"",
     "giver": "Rex",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Cooking_with_Rex%2C_Part_3",
-    "wikiPageId": 127210
+    "wikiPageId": 127210,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fe/Cooking_with_Rex%2C_Part_3.jpg/revision/latest?cb=20230505162601"
   },
   {
     "id": "xc3-fr-quest-ether-lift-research",
@@ -420,7 +452,8 @@
     "description": "\"You won't be able to get to Prison Island without an Ether Lift. See what Shulk has to say about it first.\"",
     "giver": "Riku",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Ether_Lift_Research",
-    "wikiPageId": 126968
+    "wikiPageId": 126968,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/01/Ether_Lift_Research.jpg/revision/latest?cb=20230503023514"
   },
   {
     "id": "xc3-fr-quest-georgies-ask",
@@ -432,7 +465,8 @@
     "description": "\"Listen to Georgie's request and help her set up the canteen.\"",
     "giver": "Georgie",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Georgie's_Ask",
-    "wikiPageId": 127204
+    "wikiPageId": 127204,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e5/Georgie%27s_Ask.jpg/revision/latest?cb=20230505160316"
   },
   {
     "id": "xc3-fr-quest-hunt-for-the-kids",
@@ -444,7 +478,8 @@
     "description": "\"Accompany Dillon and Mickey on their search for the missing children.\"",
     "giver": "Dillon & Mickey",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Hunt_for_the_Kids",
-    "wikiPageId": 127232
+    "wikiPageId": 127232,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/Hunt_for_the_Kids.jpg/revision/latest?cb=20230505184817"
   },
   {
     "id": "xc3-fr-quest-if-walls-could-speak",
@@ -456,7 +491,8 @@
     "description": "\"Decode the mysterious wall mural's message and head to the location in which it points.\"",
     "giver": "Rex",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/If_Walls_Could_Speak",
-    "wikiPageId": 126587
+    "wikiPageId": 126587,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7b/If_Walls_Could_Speak.jpg/revision/latest?cb=20230429174535"
   },
   {
     "id": "xc3-fr-quest-instructor-panacea",
@@ -468,7 +504,8 @@
     "description": "\"Matthew has decided to assist Panacea with training the new recruits. Lend her a hand as needed.\"",
     "giver": "Panacea",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Instructor_Panacea",
-    "wikiPageId": 127195
+    "wikiPageId": 127195,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/Instructor_Panacea.jpg/revision/latest?cb=20230505142659"
   },
   {
     "id": "xc3-fr-quest-linkas-birthday",
@@ -480,7 +517,8 @@
     "description": "\"The party will be making Linka some of her favorite Fried Octomayo as a gift for her birthday. You can start by obtaining the ingredients.\"",
     "giver": "Rex",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Linka's_Birthday",
-    "wikiPageId": 127120
+    "wikiPageId": 127120,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/80/Linka%27s_Birthday.jpg/revision/latest?cb=20230504135342"
   },
   {
     "id": "xc3-fr-quest-lost-found-best-goggles",
@@ -492,7 +530,8 @@
     "description": "\"I dropped my favorite pair of goggles on the Old Legre-Bhaja Battlefront. If found, please return.\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_%26_Found%3A_Best_Goggles",
-    "wikiPageId": 127229
+    "wikiPageId": 127229,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Lost_%26_Found_Best_Goggles.jpg/revision/latest?cb=20230505184035"
   },
   {
     "id": "xc3-fr-quest-lost-found-unread-book",
@@ -504,7 +543,8 @@
     "description": "\"I dropped my book while on expedition to Raguel Lake. It's the 'Tale of the Bringer of Chaos'! If someone finds it, I'd love it back!\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_%26_Found%3A_Unread_Book",
-    "wikiPageId": 127201
+    "wikiPageId": 127201,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b0/Lost_%26_Found_Unread_Book.jpg/revision/latest?cb=20230505150336"
   },
   {
     "id": "xc3-fr-quest-lost-found-wedding-ring",
@@ -516,7 +556,8 @@
     "description": "\"I lost my wedding ring somewhere in Colony 9. If my wife finds out, I'm dead. Please, I beg you, someone find it.\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Lost_%26_Found%3A_Wedding_Ring",
-    "wikiPageId": 127186
+    "wikiPageId": 127186,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e0/Lost_%26_Found_Wedding_Ring.jpg/revision/latest?cb=20230505121251"
   },
   {
     "id": "xc3-fr-quest-nopon-medals-needed",
@@ -528,7 +569,8 @@
     "description": "\"Collect Nopon Medals for Bobobi.\"",
     "giver": "Bobobi",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Nopon_Medals_Needed",
-    "wikiPageId": 127033
+    "wikiPageId": 127033,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/Nopon_Medals_Needed.jpg/revision/latest?cb=20230503175228"
   },
   {
     "id": "xc3-fr-quest-rikus-workshop",
@@ -540,7 +582,8 @@
     "description": "\"Riku needs help with constructing his workshop. Assist him in any way you can.\"",
     "giver": "Nikol",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Riku's_Workshop_(quest)",
-    "wikiPageId": 126971
+    "wikiPageId": 126971,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Riku%27s_Workshop_quest.jpg/revision/latest?cb=20230510193257"
   },
   {
     "id": "xc3-fr-quest-step-by-step",
@@ -552,7 +595,8 @@
     "description": "\"Recruit some labor for the task of recreating the Remembrance Stones at Colony 9.\"",
     "giver": "Jethro",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Step_by_Step",
-    "wikiPageId": 126799
+    "wikiPageId": 126799,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/ba/Step_by_Step.jpg/revision/latest?cb=20230501194625"
   },
   {
     "id": "xc3-fr-quest-takedown-ignas",
@@ -564,7 +608,8 @@
     "description": "\"While exploring Zalmor's Thawtunnels, we chanced upon some real mean Ignas. Please take them out before someone gets hurt.\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Takedown%3A_Ignas",
-    "wikiPageId": 127227
+    "wikiPageId": 127227,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0a/Takedown_Ignas.jpg/revision/latest?cb=20230505183339"
   },
   {
     "id": "xc3-fr-quest-takedown-krodlaxes",
@@ -576,7 +621,8 @@
     "description": "\"I saw a school of Krodlaxes swimming around Colony 9's Tower Square! Please, take 'em out so we can have fresh fish to eat!\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Takedown%3A_Krodlaxes",
-    "wikiPageId": 127190
+    "wikiPageId": 127190,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c5/Takedown_Krodlaxes.jpg/revision/latest?cb=20230505121708"
   },
   {
     "id": "xc3-fr-quest-takedown-quadwings",
@@ -588,7 +634,8 @@
     "description": "\"Could someone take down a few Quadwings from the Vermilion Woods for me? I need the feathers to make medicine with.\"",
     "giver": "Request board",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Takedown%3A_Quadwings",
-    "wikiPageId": 127168
+    "wikiPageId": 127168,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/Takedown_Quadwings.jpg/revision/latest?cb=20230505003705"
   },
   {
     "id": "xc3-fr-quest-the-derelict-ether-furnace",
@@ -600,7 +647,8 @@
     "description": "\"Nikol and Shulk have set to work on restoring the old ether furnace. First off, you'll need to assemble the necessary parts.\"",
     "giver": "Shulk & Nikol",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Derelict_Ether_Furnace",
-    "wikiPageId": 126920
+    "wikiPageId": 126920,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ae/The_Derelict_Ether_Furnace.jpg/revision/latest?cb=20230502210515"
   },
   {
     "id": "xc3-fr-quest-the-junior-workforce",
@@ -612,7 +660,8 @@
     "description": "\"Axel and Finley are in need of a job. Find them an appropriate placement.\"",
     "giver": "Axel & Finley",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Junior_Workforce",
-    "wikiPageId": 127236
+    "wikiPageId": 127236,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/The_Junior_Workforce.jpg/revision/latest?cb=20230505191259"
   },
   {
     "id": "xc3-fr-quest-the-ouroboros-power",
@@ -624,7 +673,8 @@
     "description": "\"Nikol and Glimmer appear to have an urgent matter to discuss. Find a quiet spot for them to lay out the details.\"",
     "giver": "Nikol & Glimmer",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Ouroboros_Power",
-    "wikiPageId": 126966
+    "wikiPageId": 126966,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/df/The_Ouroboros_Power.jpg/revision/latest?cb=20230503023328"
   },
   {
     "id": "xc3-fr-quest-the-running-automaton",
@@ -636,7 +686,8 @@
     "description": "\"Help the Liberators by running a live-fire test against the newly-developed \"Automaton\" weapons platform.\"",
     "giver": "Lucille & Hamill",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Running_Automaton",
-    "wikiPageId": 127197
+    "wikiPageId": 127197,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/94/The_Running_Automaton.jpg/revision/latest?cb=20230505144048"
   },
   {
     "id": "xc3-fr-quest-yesterdale-quests",
@@ -656,7 +707,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AAbandoned_Supplies.jpg",
-    "wikiPageId": 127233
+    "wikiPageId": 127233,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/Abandoned_Supplies.jpg/revision/latest?cb=20230505191039"
   },
   {
     "id": "xc3-fr-quest-file-big-game-enn-shoox-jpg",
@@ -666,7 +718,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABig_Game_Enn_Shoox.jpg",
-    "wikiPageId": 127188
+    "wikiPageId": 127188,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1f/Big_Game_Enn_Shoox.jpg/revision/latest?cb=20230505122025"
   },
   {
     "id": "xc3-fr-quest-file-big-game-rogal-vvarga-jpg",
@@ -676,7 +729,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABig_Game_Rogal_Vvarga.jpg",
-    "wikiPageId": 127211
+    "wikiPageId": 127211,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/db/Big_Game_Rogal_Vvarga.jpg/revision/latest?cb=20230505163343"
   },
   {
     "id": "xc3-fr-quest-file-big-game-rumo-kapiba-jpg",
@@ -686,7 +740,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABig_Game_Rumo_Kapiba.jpg",
-    "wikiPageId": 127198
+    "wikiPageId": 127198,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/67/Big_Game_Rumo_Kapiba.jpg/revision/latest?cb=20230505150032"
   },
   {
     "id": "xc3-fr-quest-file-cooking-with-rex-part-1-jpg",
@@ -696,7 +751,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACooking_with_Rex%2C_Part_1.jpg",
-    "wikiPageId": 127205
+    "wikiPageId": 127205,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/04/Cooking_with_Rex%2C_Part_1.jpg/revision/latest?cb=20230505160647"
   },
   {
     "id": "xc3-fr-quest-file-cooking-with-rex-part-2-jpg",
@@ -706,7 +762,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACooking_with_Rex%2C_Part_2.jpg",
-    "wikiPageId": 127207
+    "wikiPageId": 127207,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bd/Cooking_with_Rex%2C_Part_2.jpg/revision/latest?cb=20230505162158"
   },
   {
     "id": "xc3-fr-quest-file-cooking-with-rex-part-3-jpg",
@@ -716,7 +773,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ACooking_with_Rex%2C_Part_3.jpg",
-    "wikiPageId": 127209
+    "wikiPageId": 127209,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/fe/Cooking_with_Rex%2C_Part_3.jpg/revision/latest?cb=20230505162601"
   },
   {
     "id": "xc3-fr-quest-file-ether-lift-research-jpg",
@@ -726,7 +784,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AEther_Lift_Research.jpg",
-    "wikiPageId": 126967
+    "wikiPageId": 126967,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/01/Ether_Lift_Research.jpg/revision/latest?cb=20230503023514"
   },
   {
     "id": "xc3-fr-quest-file-georgies-ask-jpg",
@@ -736,7 +795,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AGeorgie's_Ask.jpg",
-    "wikiPageId": 127203
+    "wikiPageId": 127203,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e5/Georgie%27s_Ask.jpg/revision/latest?cb=20230505160316"
   },
   {
     "id": "xc3-fr-quest-file-hunt-for-the-kids-jpg",
@@ -746,7 +806,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AHunt_for_the_Kids.jpg",
-    "wikiPageId": 127231
+    "wikiPageId": 127231,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/Hunt_for_the_Kids.jpg/revision/latest?cb=20230505184817"
   },
   {
     "id": "xc3-fr-quest-file-if-walls-could-speak-jpg",
@@ -756,7 +817,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AIf_Walls_Could_Speak.jpg",
-    "wikiPageId": 126727
+    "wikiPageId": 126727,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7b/If_Walls_Could_Speak.jpg/revision/latest?cb=20230429174535"
   },
   {
     "id": "xc3-fr-quest-file-instructor-panacea-jpg",
@@ -766,7 +828,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AInstructor_Panacea.jpg",
-    "wikiPageId": 127194
+    "wikiPageId": 127194,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bb/Instructor_Panacea.jpg/revision/latest?cb=20230505142659"
   },
   {
     "id": "xc3-fr-quest-file-linkas-birthday-jpg",
@@ -776,7 +839,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALinka's_Birthday.jpg",
-    "wikiPageId": 127119
+    "wikiPageId": 127119,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/8/80/Linka%27s_Birthday.jpg/revision/latest?cb=20230504135342"
   },
   {
     "id": "xc3-fr-quest-file-lost-found-best-goggles-jpg",
@@ -786,7 +850,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALost_%26_Found_Best_Goggles.jpg",
-    "wikiPageId": 127228
+    "wikiPageId": 127228,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/07/Lost_%26_Found_Best_Goggles.jpg/revision/latest?cb=20230505184035"
   },
   {
     "id": "xc3-fr-quest-file-lost-found-unread-book-jpg",
@@ -796,7 +861,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALost_%26_Found_Unread_Book.jpg",
-    "wikiPageId": 127200
+    "wikiPageId": 127200,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/b0/Lost_%26_Found_Unread_Book.jpg/revision/latest?cb=20230505150336"
   },
   {
     "id": "xc3-fr-quest-file-lost-found-wedding-ring-jpg",
@@ -806,7 +872,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ALost_%26_Found_Wedding_Ring.jpg",
-    "wikiPageId": 127185
+    "wikiPageId": 127185,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/e0/Lost_%26_Found_Wedding_Ring.jpg/revision/latest?cb=20230505121251"
   },
   {
     "id": "xc3-fr-quest-file-rikus-workshop-quest-jpg",
@@ -816,7 +883,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARiku's_Workshop_Quest.jpg",
-    "wikiPageId": 126969
+    "wikiPageId": 126969,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/1c/Riku%27s_Workshop_Quest.jpg/revision/latest?cb=20230503024129"
   },
   {
     "id": "xc3-fr-quest-file-step-by-step-jpg",
@@ -826,7 +894,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AStep_by_Step.jpg",
-    "wikiPageId": 126797
+    "wikiPageId": 126797,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/ba/Step_by_Step.jpg/revision/latest?cb=20230501194625"
   },
   {
     "id": "xc3-fr-quest-file-takedown-ignas-jpg",
@@ -836,7 +905,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATakedown_Ignas.jpg",
-    "wikiPageId": 127226
+    "wikiPageId": 127226,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/0/0a/Takedown_Ignas.jpg/revision/latest?cb=20230505183339"
   },
   {
     "id": "xc3-fr-quest-file-takedown-krodlaxes-jpg",
@@ -846,7 +916,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATakedown_Krodlaxes.jpg",
-    "wikiPageId": 127187
+    "wikiPageId": 127187,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/c5/Takedown_Krodlaxes.jpg/revision/latest?cb=20230505121708"
   },
   {
     "id": "xc3-fr-quest-file-the-derelict-ether-furnace-jpg",
@@ -856,7 +927,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Derelict_Ether_Furnace.jpg",
-    "wikiPageId": 126918
+    "wikiPageId": 126918,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/ae/The_Derelict_Ether_Furnace.jpg/revision/latest?cb=20230502210515"
   },
   {
     "id": "xc3-fr-quest-file-the-junior-workforce-jpg",
@@ -866,7 +938,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Junior_Workforce.jpg",
-    "wikiPageId": 127235
+    "wikiPageId": 127235,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/e/eb/The_Junior_Workforce.jpg/revision/latest?cb=20230505191259"
   },
   {
     "id": "xc3-fr-quest-file-the-ouroboros-power-jpg",
@@ -876,7 +949,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Ouroboros_Power.jpg",
-    "wikiPageId": 126965
+    "wikiPageId": 126965,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/d/df/The_Ouroboros_Power.jpg/revision/latest?cb=20230503023328"
   },
   {
     "id": "xc3-fr-quest-file-the-running-automaton-jpg",
@@ -886,7 +960,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AThe_Running_Automaton.jpg",
-    "wikiPageId": 127196
+    "wikiPageId": 127196,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/9/94/The_Running_Automaton.jpg/revision/latest?cb=20230505144048"
   },
   {
     "id": "xc3-fr-quest-file-a-melody-sustained-jpg",
@@ -896,7 +971,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AA_Melody_Sustained.jpg",
-    "wikiPageId": 127128
+    "wikiPageId": 127128,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/50/A_Melody_Sustained.jpg/revision/latest?cb=20230504144002"
   },
   {
     "id": "xc3-fr-quest-file-bobobis-bad-bad-day-jpg",
@@ -906,7 +982,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABobobi's_Bad%2C_Bad_Day.jpg",
-    "wikiPageId": 127123
+    "wikiPageId": 127123,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/c/cf/Bobobi%27s_Bad%2C_Bad_Day.jpg/revision/latest?cb=20230504141357"
   },
   {
     "id": "xc3-fr-quest-file-breaking-ground-jpg",
@@ -916,7 +993,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ABreaking_Ground.jpg",
-    "wikiPageId": 127034
+    "wikiPageId": 127034,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/b/bc/Breaking_Ground.jpg/revision/latest?cb=20230503182102"
   },
   {
     "id": "xc3-fr-quest-file-nopon-medals-needed-jpg",
@@ -926,7 +1004,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ANopon_Medals_Needed.jpg",
-    "wikiPageId": 127032
+    "wikiPageId": 127032,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/6/6a/Nopon_Medals_Needed.jpg/revision/latest?cb=20230503175228"
   },
   {
     "id": "xc3-fr-quest-file-regret-and-resolve-jpg",
@@ -936,7 +1015,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ARegret_and_Resolve.jpg",
-    "wikiPageId": 127153
+    "wikiPageId": 127153,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/a/a2/Regret_and_Resolve.jpg/revision/latest?cb=20230504183922"
   },
   {
     "id": "xc3-fr-quest-file-snow-mans-treasure-jpg",
@@ -946,7 +1026,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ASnow_Man's_Treasure.jpg",
-    "wikiPageId": 127129
+    "wikiPageId": 127129,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f8/Snow_Man%27s_Treasure.jpg/revision/latest?cb=20230504144432"
   },
   {
     "id": "xc3-fr-quest-file-takedown-quadwings-jpg",
@@ -956,7 +1037,8 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3ATakedown_Quadwings.jpg",
-    "wikiPageId": 127167
+    "wikiPageId": 127167,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/1/13/Takedown_Quadwings.jpg/revision/latest?cb=20230505003705"
   },
   {
     "id": "xc3-fr-quest-file-where-is-that-guy-jpg",
@@ -966,6 +1048,7 @@
     "region": "FR",
     "prerequisites": [],
     "wikiUrl": "https://xenoblade.fandom.com/wiki/File%3AWhere_Is_That_Guy.jpg",
-    "wikiPageId": 127155
+    "wikiPageId": 127155,
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/3/3a/Where_Is_That_Guy.jpg/revision/latest?cb=20230504184058"
   }
 ]
