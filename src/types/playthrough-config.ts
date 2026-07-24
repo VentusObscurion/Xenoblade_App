@@ -106,7 +106,7 @@ const XC1_CONFIG: PlaythroughConfig = {
       id: 'miqol_met',
       label: 'Met Miqol in Hidden Machina Village',
       description:
-        'Meet Miqol on the Fallen Arm — opens Machina / Hidden Village story gates (e.g. Fiora's Treatment).',
+        "Meet Miqol on the Fallen Arm — opens Machina / Hidden Village story gates (e.g. Fiora's Treatment).",
     },
     {
       id: 'mechonis_core_cleared',

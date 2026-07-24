@@ -112,6 +112,11 @@ function ChecklistItem({
         <div className="checklist-text">
           <span className="checklist-name">
             {isNew && <span className="new-badge">New</span>}
+            {item.timed && (
+              <span className="timed-badge" title="Story-timed quest — can expire later">
+                Timed
+              </span>
+            )}
             {item.name}
             {hasNotes && <span className="notes-indicator" title="Has notes">✎</span>}
           </span>

@@ -521,12 +521,16 @@ export function parseMonsterExtras(wikitext: string): {
 
 export function parseQuestExtras(wikitext: string, fields: Record<string, string>) {
   const guide = extractQuestGuide(wikitext)
+  const timed =
+    /\[\[Category:XC[_ ]Timed[_ ]Quests\]\]/i.test(wikitext) ||
+    /Category:\s*XC\s*Timed\s*Quests/i.test(wikitext)
   return {
     ...guide,
     giver: fields.giver,
     subLocation: fields.location,
     timeWindow: fields.time,
     questType: fields.type,
+    timed: timed || undefined,
     uniqueComments: parseWikiSection(wikitext, 'Unique Comments'),
     results: parseWikiSection(wikitext, 'Results'),
     trivia: parseWikiSection(wikitext, 'Trivia'),

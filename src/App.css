@@ -190,6 +190,36 @@ button {
   vertical-align: middle;
 }
 
+.timed-badge {
+  display: inline-block;
+  margin-right: 0.4rem;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: color-mix(in srgb, #c47a2c 85%, #000);
+  color: #fff8ef;
+  vertical-align: middle;
+}
+
+.meta-tag.timed-tag {
+  background: color-mix(in srgb, #c47a2c 85%, #000);
+  color: #fff8ef;
+}
+
+.timed-warning {
+  margin: 0 0 0.85rem;
+  padding: 0.55rem 0.7rem;
+  border-radius: var(--radius);
+  border: 1px solid color-mix(in srgb, #c47a2c 45%, var(--border));
+  background: color-mix(in srgb, #c47a2c 14%, var(--bg-secondary));
+  color: var(--text-primary);
+  font-size: 0.85rem;
+  line-height: 1.35;
+}
+
 .checklist-item.is-new,
 .wiki-table tr.is-new {
   background: color-mix(in srgb, var(--accent) 12%, transparent);

@@ -165,6 +165,7 @@ function parseQuestPage(
     subLocation: extras.subLocation,
     timeWindow: extras.timeWindow,
     questType: extras.questType,
+    timed: extras.timed,
     uniqueComments: extras.uniqueComments,
     results: extras.results,
     trivia: extras.trivia,

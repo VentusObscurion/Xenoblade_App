@@ -64,6 +64,8 @@ export interface TrackableItem {
   subLocation?: string
   timeWindow?: string
   questType?: string
+  /** Story-timed quest that can expire / become unavailable later. */
+  timed?: boolean
   uniqueComments?: string
   results?: string
   trivia?: string

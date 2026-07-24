@@ -109,6 +109,14 @@ export function ItemDetail({
           <span className="meta-tag">{item.collectType}</span>
         )}
         {item.rarity && <span className="meta-tag">{item.rarity}</span>}
+        {item.timed && (
+          <span
+            className="meta-tag timed-tag"
+            title="This quest can become unavailable after story progress"
+          >
+            Timed
+          </span>
+        )}
         <span
           className="meta-tag status-tag"
           style={{
@@ -118,6 +126,13 @@ export function ItemDetail({
           {getPrerequisiteStatusLabel(item.prerequisiteStatus)}
         </span>
       </div>
+
+      {item.timed && item.category === 'quest' && (
+        <p className="timed-warning">
+          Story-timed quest — complete it before later story progress makes it
+          unavailable.
+        </p>
+      )}
 
       {item.category === 'quest' ? (
         <>

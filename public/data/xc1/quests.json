@@ -2034,7 +2034,8 @@
     "uniqueComments": ":'Reyn': ''\"If Monica's got a thing for Erik, maybe you should call it quits.\"''\n:'Andreas': ''\"You don't understand! It's Erik that's the problem. He's no good for a girl like her. But Monica doesn't know what he's really like. You've gotta help me!\"''\nCategory:Colony 9 Quests\nCategory:XC Mutually Exclusive Quests\nCategory:XC Timed Quests",
     "results": "\"Andreas looks so happy now that he and Monica, who he cares for so much, are together at last.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Romantic_Notions_of_a_Boy",
-    "wikiPageId": 11411
+    "wikiPageId": 11411,
+    "timed": true
   },
   {
     "id": "xc1-quest-romantic-notions-of-a-girl",
@@ -2070,7 +2071,8 @@
     "uniqueComments": ": 'Melia': \"How interesting. Are you referring to a sort of local superstition?\"\n: 'Monica': ''\"It's not a superstition! What's your angle, girl? Aha! You want it for yourself! Well too bad. I heard of it first!\"''\n: 'Melia': ''\"B-but...I... Ahem... I have no need to rely on such things, I'll have you know!\"''\n: 'Monica': ''\"Reeeally? Because your eyes are telling me quite the opposite! You DO have someone you wish to use it on, don't you?! Enough. First come, first served!\"''\nCategory:Colony 9 Quests\nCategory:XC Mutually Exclusive Quests\nCategory:XC Timed Quests",
     "results": "\"Monica looks so happy now that she and Erik, who she cares for so much, are together at last.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Romantic_Notions_of_a_Girl",
-    "wikiPageId": 11314
+    "wikiPageId": 11314,
+    "timed": true
   },
   {
     "id": "xc1-quest-search-quest-1-colony-9",
@@ -2892,7 +2894,8 @@
     "uniqueComments": ": 'Sharla': \"You need to stop being so hard on yourself, Ewan. Not a single person here hates you for the decision you took.\"\n: 'Ewan': ''\"Hearing that from you makes all the difference, Sharla. Maybe it is time to move on... But I'm feeling more positive now. I once again feel the desire to put quill to paper! I've written a few lines since Matryona gave me an idea. Things are a little...awkward between us, but it's getting better. Which brings me to the favour I need to ask you.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "results": "''\"Thanks to Ewan's newly-found drive, he and Matryona's relationship is much improved.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Dash_of_Colour",
-    "wikiPageId": 4491
+    "wikiPageId": 4491,
+    "timed": true
   },
   {
     "id": "xc1-quest-a-flower-for-a-rose",
@@ -2953,7 +2956,8 @@
     "uniqueComments": ": 'Reyn': ''\"I won't lie by saying I understand what the kid's going through. But it just ain't right when a little kid is as sad as he is.\"''\n: 'Matryona': \"I agree. Pama and everyone else.\"\n: 'Reyn': ''\"Then you're looking at the best people for the job! We of all people know what its like to have a home demolished.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "results": "\"With a distinct air of positivity, Ewan has begun work putting the picture book together.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Thoughtful_Idea",
-    "wikiPageId": 4489
+    "wikiPageId": 4489,
+    "timed": true
   },
   {
     "id": "xc1-quest-battling-brutes",
@@ -3023,7 +3027,8 @@
     "uniqueComments": ": 'Sharla': ''\"Sticky fibres make good glue... That's a brilliant idea, Satata! Leave it with me and I'll make sure you get the fibres you need. It's my job to look after everybody, after all.\"''\n: 'Satata': \"So friends will help me? Thank you, Sharla.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "results": "\"Now that the toy has been repaired, the two friends have made up.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Being_a_Good_Grandfather",
-    "wikiPageId": 4486
+    "wikiPageId": 4486,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-1-part-1-bionis-leg",
@@ -3048,7 +3053,8 @@
     "timeWindow": "Anytime",
     "results": "\"Quest completed. You have taken care of the monster. The inhabitants of the camp are safe.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_-_Part_1_(Bionis'_Leg)",
-    "wikiPageId": 4505
+    "wikiPageId": 4505,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-1-part-2-bionis-leg",
@@ -3073,7 +3079,8 @@
     "timeWindow": "Anytime",
     "results": "\"Quest completed. The rampaging monster is no longer a threat.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_-_Part_2_(Bionis'_Leg)",
-    "wikiPageId": 4504
+    "wikiPageId": 4504,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-2-part-1-bionis-leg",
@@ -3098,7 +3105,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Quest completed. The area has been freed from this monster and is safe to visit again.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_-_Part_1_(Bionis'_Leg)",
-    "wikiPageId": 4500
+    "wikiPageId": 4500,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-2-part-2-bionis-leg",
@@ -3123,7 +3131,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Quest completed. The threat posed by the large Tirkin is no more.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_-_Part_2_(Bionis'_Leg)",
-    "wikiPageId": 4501
+    "wikiPageId": 4501,
+    "timed": true
   },
   {
     "id": "xc1-quest-collection-quest-1-bionis-leg",
@@ -3148,7 +3157,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Quest completed. Food should be a lot more flavoursome from now on.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_1_(Bionis'_Leg)",
-    "wikiPageId": 4511
+    "wikiPageId": 4511,
+    "timed": true
   },
   {
     "id": "xc1-quest-collection-quest-2-bionis-leg",
@@ -3173,7 +3183,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Quest completed. She should be a little happier now she has some new friends to play with.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Bionis'_Leg)",
-    "wikiPageId": 4502
+    "wikiPageId": 4502,
+    "timed": true
   },
   {
     "id": "xc1-quest-earnests-fibs",
@@ -3306,7 +3317,8 @@
     "uniqueComments": ": 'Shulk': ''\"We can help you. Just leave it to us. We're always happy to help someone who's in trouble.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "results": "Gorman can sleep now that Olga has the ingredients to make his anti-insomnia medicine.",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Emergency_Treatment",
-    "wikiPageId": 4517
+    "wikiPageId": 4517,
+    "timed": true
   },
   {
     "id": "xc1-quest-imaginations-tempered",
@@ -3402,7 +3414,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"Quest completed. This should help raise the spirits of the camp's inhabitants a little.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_1_(Bionis'_Leg)",
-    "wikiPageId": 4508
+    "wikiPageId": 4508,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-2-bionis-leg",
@@ -3427,7 +3440,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Quest completed. Now the much-needed clothes can be made.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_2_(Bionis'_Leg)",
-    "wikiPageId": 4513
+    "wikiPageId": 4513,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-3-bionis-leg",
@@ -3452,7 +3466,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Quest completed. Hopefully this sapling will help cheer people up.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_3_(Bionis'_Leg)",
-    "wikiPageId": 4509
+    "wikiPageId": 4509,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-4-bionis-leg",
@@ -3477,7 +3492,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"Quest completed. This should be enough teeth to make amulets and put peoples' minds at ease.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_4_(Bionis'_Leg)",
-    "wikiPageId": 4512
+    "wikiPageId": 4512,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-1-part-1-bionis-leg",
@@ -3603,7 +3619,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"Quest completed. Now there shouldn't be any problem going to see the fireflies.\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_(Bionis'_Leg)",
-    "wikiPageId": 4499
+    "wikiPageId": 4499,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-3-part-1-bionis-leg",
@@ -3628,7 +3645,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Quest completed. The search for survivors should be much easier now.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Bionis'_Leg)",
-    "wikiPageId": 4506
+    "wikiPageId": 4506,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-3-part-2-bionis-leg",
@@ -3653,7 +3671,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Quest completed. Now the survivors can feel a little more secure.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Bionis'_Leg)",
-    "wikiPageId": 4507
+    "wikiPageId": 4507,
+    "timed": true
   },
   {
     "id": "xc1-quest-save-the-girl",
@@ -3707,7 +3726,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Quest completed. The ill-fated present has been successfully recovered.\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_1_(Bionis'_Leg)",
-    "wikiPageId": 4503
+    "wikiPageId": 4503,
+    "timed": true
   },
   {
     "id": "xc1-quest-search-quest-2-bionis-leg",
@@ -3833,7 +3853,8 @@
     "uniqueComments": ": 'Sharla': ''\"That's not good... I turn my back for one minute and this is what happens! I'm really sorry, Satata.\"''\n: 'Satata': ''\"It not your fault, Sharla. No one blames you for not here. You had your reasons and don't let anyone tell you different!\"''\n: 'Sharla': \"It makes me happy to hear that. Right, we really do need to do something about that monster!\"\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "results": "\"The fish-eating monster that settled by Raguel Lake is gone and a food crisis has been averted.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Greedy_Monster",
-    "wikiPageId": 4515
+    "wikiPageId": 4515,
+    "timed": true
   },
   {
     "id": "xc1-quest-the-lost-nopon",
@@ -3891,7 +3912,8 @@
     "uniqueComments": ": 'Shulk': \"You know who did it? Then why not send out a band of young people to get them?\"\n: 'Gorman': ''\"It's mostly just oldies and children here. There are some young adults here but they're all cowards and weaklings!\"''\nCategory:Bionis' Leg Quests\nCategory:XC Timed Quests",
     "results": "\"The stolen clothes have been recovered from the Tirkins.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Thieving_Monsters",
-    "wikiPageId": 4494
+    "wikiPageId": 4494,
+    "timed": true
   },
   {
     "id": "xc1-quest-with-even-more-gratitude",
@@ -4827,7 +4849,8 @@
     "uniqueComments": ": 'Shulk': \"She looks like any other Homs lady to me...\"\n: 'Yura': \"Are you sure, young sir? I see great potential in your people.\"\nCategory:Colony 6 Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "results": "''\"Yura's feelings have resonated with Rosemary and the two have developed a close relationship.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Dream_of_a_Poet",
-    "wikiPageId": 15861
+    "wikiPageId": 15861,
+    "timed": true
   },
   {
     "id": "xc1-quest-family-secrets-en-argentis",
@@ -4961,7 +4984,8 @@
     "uniqueComments": ": 'Reyn': ''\"This guy doesn't half go on, does he?\"''\n: 'Gorman': ''\"Foolish child! I'm old and old people drivel on! You young'uns should know this! The older you get, the longer you blather on at people. Why not try it some time? Hah! You wouldn't stand a chance!\"''\n: 'Reyn': ''\"Otharon is as old as you and you don't hear him going on! I'll pass, old timer, you've got me beat.\"''\n: 'Gorman': ''\"Give that old fart ten years. He'll be begging me for tips! Back to my point... You've got yourself a mission.\"''\nCategory:Colony 6 Quests\nCategory:XC Timed Quests",
     "results": "\"The ceremony was successful and the residents can rest safe knowing the land has been blessed.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/For_the_Restoration",
-    "wikiPageId": 5170
+    "wikiPageId": 5170,
+    "timed": true
   },
   {
     "id": "xc1-quest-homs-determination",
@@ -5126,7 +5150,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "\"Spiral Valley has a new route and the monster can be avoided by sneaking past it.\"\nCategory:Colony 6 Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Making_a_New_Path",
-    "wikiPageId": 5169
+    "wikiPageId": 5169,
+    "timed": true
   },
   {
     "id": "xc1-quest-matryonas-answer",
@@ -5237,7 +5262,8 @@
     "uniqueComments": ": 'Riki': ''\"Berryjammy make sure she represent all Nopon well! Riki's friends will help Berryjammy win competition!\"''\n: 'Berryjammy': \"Thank you, friends. Berryjammy do the Nopon proud!\"\n: 'Riki': \"Ah! Riki not able to decide on his own. Riki talk to friends and we decide together.\"\nCategory:Colony 6 Quests\nCategory:XC Mutually Exclusive Quests\nCategory:XC Timed Quests",
     "results": "''\"The undisputed Miss Sweetness of Colony 6 has been decided. Berryjammy has beaten Ma'crish.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Miss_Sweetness_Showdown_(Berryjammy)",
-    "wikiPageId": 15065
+    "wikiPageId": 15065,
+    "timed": true
   },
   {
     "id": "xc1-quest-miss-sweetness-showdown-macrish",
@@ -5281,7 +5307,8 @@
     "uniqueComments": ": 'Melia': \"I think it is a great idea. We should definitely join in.\"\n: Ma'crish': \"I can see that you of all must understand my situation well. Would you be so kind as to help me win the competition?\"''\n: 'Melia': \"I would love to help out, but I must consult with my friends first.\"\nCategory:Colony 6 Quests\nCategory:XC Mutually Exclusive Quests\nCategory:XC Timed Quests",
     "results": "''\"The undisputed Miss Sweetness of Colony 6 has been decided. Ma'crish has beaten Berryjammy.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Miss_Sweetness_Showdown_(Ma'crish)",
-    "wikiPageId": 7928
+    "wikiPageId": 7928,
+    "timed": true
   },
   {
     "id": "xc1-quest-miss-sweetness-gratitude-berryjammy",
@@ -6078,7 +6105,8 @@
     "results": "\"The refugees can return home safely. Now the restoration of Colony 6 can begin in earnest.\"\nCategory:Colony 6 Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Road_Home",
     "wikiPageId": 4519,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7d/Otharon.png/revision/latest/scale-to-width-down/127?cb=20170122210133"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/7/7d/Otharon.png/revision/latest/scale-to-width-down/127?cb=20170122210133",
+    "timed": true
   },
   {
     "id": "xc1-quest-to-colony-6",
@@ -6110,7 +6138,8 @@
     "timeWindow": "Anytime",
     "results": "\"The refugees can return home safely. Now the restoration of Colony 6 can begin in earnest.\"\nCategory:Colony 6 Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/To_Colony_6!",
-    "wikiPageId": 4520
+    "wikiPageId": 4520,
+    "timed": true
   },
   {
     "id": "xc1-quest-unstoppable-berryjammy",
@@ -6290,7 +6319,8 @@
     "uniqueComments": ": 'Sharla': ''\"It shouldn't be too much work if all we have to do is take it. Or will that stuff attract monsters?\"''\n: 'Zazadan': \"That no happen. It just a coincidence last time. It just because monsters think Zazadan look delicious.\"\n: 'Sharla': \"That simple? We just have to deliver it?\"\nCategory:Satorl Marsh Quests\nCategory:XC Timed Quests",
     "results": "\"You handed the Highmore Caviar over to Dedeba. What is he going to do with it though?\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Gift%3F",
-    "wikiPageId": 4667
+    "wikiPageId": 4667,
+    "timed": true
   },
   {
     "id": "xc1-quest-a-merciful-end",
@@ -7393,7 +7423,8 @@
     "uniqueComments": ":'Riki': \"Gadada, you amazing! Gadada did well to read scrap piece of paper!\"\n:'Gadada': \"It not scrap piece of paper! Witten in ancient Nopon script. All Nopon should have ability to read a little though. Heropon forget what he learned at school?\"\n:'Riki': ''\"Riki's favourite subject sleeping. Riki get A+!\"''\nCategory:Frontier Village Quests\nCategory:XC Timed Quests",
     "results": "\"I thought this ancient Nopon script but actually whoever write it have terrible handwriting!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Adviser_Hunt",
-    "wikiPageId": 4670
+    "wikiPageId": 4670,
+    "timed": true
   },
   {
     "id": "xc1-quest-an-errand-for-the-heropon",
@@ -7953,7 +7984,8 @@
     "uniqueComments": ": 'Reyn': ''\"Just leave it to us! I'll go in there and show that crook who's boss!\"''\n: 'Gadada': \"Remember friends, he who does not hesitate is lost.\"\n: 'Reyn': ''\"Isn't it \"he who hesitates is lost\"?\"''\n: 'Gadada': \"You exactly the same as Heropon. Always jump in without thinking.\"\nCategory:Frontier Village Quests\nCategory:XC Timed Quests",
     "results": "\"Dedeba has been arrested. I all happy now. At least it has all come to an end!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Destroying_the_City_Trade",
-    "wikiPageId": 4734
+    "wikiPageId": 4734,
+    "timed": true
   },
   {
     "id": "xc1-quest-disinsectization",
@@ -8099,7 +8131,8 @@
     "uniqueComments": ":'Melia': \"I cannot belive such devious goings-on are afoot in Alcamoth.\"\n:'Gadada': \"Do not lose heart. We do not yet know how things turn out or who to blame.\"\n:'Melia': \"Yes, you are right. What has already happened cannot be changed. We should make sure that nothing else bad happens.\"\nCategory:Frontier Village Quests\nCategory:XC Timed Quests",
     "results": "\"Evidence all collected. When friends ready to get to bottom of this mystery, come see me!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Evidence_Collection",
-    "wikiPageId": 4672
+    "wikiPageId": 4672,
+    "timed": true
   },
   {
     "id": "xc1-quest-find-the-kingpin",
@@ -8136,7 +8169,8 @@
     "uniqueComments": ": 'Riki': \"Gadada get into debt? Gadada want to be Heropon?\"\n: 'Gadada': \"Unlike Heropon Riki, I brainy intellectual! Would hate being Heropon! However, want Heropon to do something to help me.\"\n: 'Riki': \"Leave it to Heropon me! Riki will solve problem of Gadada.\"\nCategory:Frontier Village Quests\nCategory:XC Timed Quests",
     "results": "\"I can see that Nopon Merchants hold answers! But first, I read this letter.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Find_the_Kingpin",
-    "wikiPageId": 4660
+    "wikiPageId": 4660,
+    "timed": true
   },
   {
     "id": "xc1-quest-fixing-time-mushrooms",
@@ -8647,7 +8681,8 @@
     "uniqueComments": ":'Sharla': ''\"I was wondering... Where exactly are a Nopon's knees?\"''\n:'Yusa': ''\"Here! Right here! Can't you see?! Good solid knee joints.\"''\n:'Sharla': ''\"I see, so that's where they are... Now when Riki injures his knee I can respond appropriately. Thank you.\"''\nCategory:Frontier Village Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "results": "''\"Legendary fillings all complete! Now villagers' toothache problem gone. Always trust tradition!\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Let's_Make_Fillings!",
-    "wikiPageId": 7275
+    "wikiPageId": 7275,
+    "timed": true
   },
   {
     "id": "xc1-quest-lousy-lizards",
@@ -8893,7 +8928,8 @@
     "uniqueComments": ": 'Fiora': \"Argh!\"\n: 'Medi': ''\"What's up? Don't tell me you have a toothache?\"''\n: 'Fiora': \"I was getting some work done on my teeth when I... Well, I ended up with this body. Hold on! My toothache is gone!\"\n: 'Medi': ''\"I can see you're not quite a Hom Hom... Do you mind if I examine you?\"''\n: 'Fiora': \"No need! No need! There is nothing wrong with me!\"\nCategory:Frontier Village Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "results": "\"Using these was such a brilliant idea. My idea, of course. Is there no limit to my intellect?\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Medical_Advancements",
-    "wikiPageId": 5166
+    "wikiPageId": 5166,
+    "timed": true
   },
   {
     "id": "xc1-quest-meeting-the-nopon-sage",
@@ -11030,7 +11066,8 @@
     "results": "\"The war situation has improved a lot as a result of you defeating the Mechon reinforcements.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/3rd_Gate_Front_Line",
     "wikiPageId": 13217,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-secure-dolgan-outpost",
@@ -11057,7 +11094,8 @@
     "results": "\"The Dolgan Outpost is now under your control.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_Dolgan_Outpost",
     "wikiPageId": 13215,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-secure-enalda-control-base",
@@ -11084,7 +11122,8 @@
     "results": "\"Enalda Control Base is now under your control.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_Enalda_Control_Base",
     "wikiPageId": 13216,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-secure-the-radio-tower",
@@ -11112,7 +11151,8 @@
     "results": "\"You helped the war effort by defeating the leader of the enemies around the radio tower.\"\nCategory:XC Surprise Quests\nCategory:Sword Valley Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Secure_the_Radio_Tower",
     "wikiPageId": 13220,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-fioras-conviction",
@@ -11280,7 +11320,8 @@
     "uniqueComments": ": 'Sharla': \"I can sympathise, definitely. Having a gun that really feels like it belongs in your hands... It can make all the difference on the battlefield.\"\n: 'Kazat': ''\"Oh, I see you use an ether gun as well. In that case, I'm sure you know what I'm going through!\"''\nCategory:Fallen Arm Quests\nCategory:XC Timed Quests",
     "results": "''\"Kazat's new gun is perfect for him and his fellow Machina. He gives the old gun to you as thanks.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Weapon_Just_For_Me",
-    "wikiPageId": 9877
+    "wikiPageId": 9877,
+    "timed": true
   },
   {
     "id": "xc1-quest-eliminate-the-threat",
@@ -11429,7 +11470,8 @@
     "uniqueComments": ": 'Fiora': \"I know how painful it feels to be separated from someone. Is there anything we can do? I want to help any way I can.\"\n: 'Zarkort': \"Thanks for the thought. But what I need might be pretty difficult to do.\"\n: 'Fiora': ''\"I won't know if you don't tell me. What is it?\"''\n: 'Zarkort': ''\"OK. I'll tell you. I don't want her to forget about me.\"'' (normal dialogue continues)\nCategory:Fallen Arm Quests\nCategory:XC Timed Quests",
     "results": "\"You collected a Tear of the Sky for Zarkort. But it looks like he has another request...\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/For_My_Loved_One...",
-    "wikiPageId": 8152
+    "wikiPageId": 8152,
+    "timed": true
   },
   {
     "id": "xc1-quest-i-want-to-be-a-homs",
@@ -11914,7 +11956,8 @@
     "uniqueComments": ": 'Reyn': ''\"Memory chips? Sounds like complicated stuff. I'm interested in the Machina but I ain't good at studying and that.\"''\n: 'Zilex': ''\"Hahaha. Don't worry. The chips work on the brain to recreate images in your mind. It's a lot more fun than studying.\"''\n: 'Reyn': ''\"Sounds right up my street! Right. Got it. We'd better get looking.\"''\nCategory:Fallen Arm Quests\nCategory:XC Timed Quests",
     "results": "\"Some of the memories are damaged, but at least most of them have been returned.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_History_of_Mechonis",
-    "wikiPageId": 9923
+    "wikiPageId": 9923,
+    "timed": true
   },
   {
     "id": "xc1-quest-the-history-of-the-capital",
@@ -11948,7 +11991,8 @@
     "uniqueComments": ": 'Dunban': \"We must finish what we started. I too am somewhat interested in your people.\"\nCategory:Fallen Arm Quests\nCategory:XC Timed Quests",
     "results": "''\"You returned the villagers' precious memories. They are so happy to have them back.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_History_of_the_Capital",
-    "wikiPageId": 9925
+    "wikiPageId": 9925,
+    "timed": true
   },
   {
     "id": "xc1-quest-the-mini-reactor",
@@ -12133,7 +12177,8 @@
     "uniqueComments": ": 'Fiora': ''\"I think I've figured it out. But wouldn't it be better for you to give it to her yourself? It's not just the present itself that's important. It's the thought.\"''\n: 'Zarkort': ''\"I understand where you're coming from. I think the same thing. But I just can't do it. It makes me dizzy just thinking about it.\"''\n: 'Fiora': ''\"OK. I understand. We could help with this last part. We've already come so far.\"''\n: 'Zarkort': ''\"Thank you! I know asking you to do it doesn't make me look very good. So will you take the Tear of the Sky to her for me?\"''\nCategory:Fallen Arm Quests\nCategory:XC Timed Quests",
     "results": "\"Bozatrox has still not returned to the village but she is very happy to have a Tear of the Sky.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/To_My_Loved_One...",
-    "wikiPageId": 9927
+    "wikiPageId": 9927,
+    "timed": true
   },
   {
     "id": "xc1-quest-transmission-bypass",
@@ -12252,7 +12297,8 @@
     "uniqueComments": ": 'Sharla': ''\"Your special boots? You can really make boots? That's quite a good hobby.\"''\n: 'Bozatrox': \"I like to think so.\"\n: 'Sharla': ''\"I sometimes like to make boots as well but Homs ones... I'd be interested in knowing how to make Machina boots.\"''\n: 'Bozatrox': ''\"I'm pretty sure I can make boots that would fit you.\"''\n: 'Sharla': \"I look forward to seeing them. We can find the materials.\"\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "results": "''\"You helped Bozatrox make the boots. She's thinking about a future with Zarkort.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Best_Boots",
-    "wikiPageId": 8661
+    "wikiPageId": 8661,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-quest-1-mechonis-field",
@@ -12278,7 +12324,8 @@
     "results": "\"You completed the Garrisoned Troop's request and made Hidden Village safer.\"\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_Quest_1_(Mechonis_Field)",
     "wikiPageId": 9917,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-quest-2-mechonis-field",
@@ -12304,7 +12351,8 @@
     "results": "''\"You completed the Garrisoned Troop's request and made Hidden Village safer.\"''\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_Quest_2_(Mechonis_Field)",
     "wikiPageId": 9919,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-get-the-3rd-lift-moving",
@@ -12359,7 +12407,8 @@
     "results": "''\"You completed the Garrisoned Troop's request and made Hidden Village safer.\"''\nCategory:Mechonis Field Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest",
     "wikiPageId": 9916,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/f/f3/Hidden_Village_Area_Affinity.png/revision/latest?cb=20130125233841",
+    "timed": true
   },
   {
     "id": "xc1-quest-need-power",
@@ -12482,7 +12531,8 @@
     "uniqueComments": ": 'Dunban': ''\"Don't you think that you're mollycoddling him a bit? It's just one loss. It happens. Why do you need to help him?\"''\n: 'Lecrough': ''\"Sadly, it isn't just one loss... Galvin is on a bit of a losing streak at the moment. If we don't sort it out soon, he could get really depressed!\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"You completed the mission in Lecrough's place. It seems their mission went well, too.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Friend_in_Need_(XC1)",
-    "wikiPageId": 69239
+    "wikiPageId": 69239,
+    "timed": true
   },
   {
     "id": "xc1-quest-a-necessary-upgrade",
@@ -12518,7 +12568,8 @@
     "uniqueComments": ": 'Riki': \"What bird man talking about? Riki forgetted. Remind Riki please!\"\n: 'Naroth': \"Intriguing... You claim to have failed to retain this invaluable knowledge? Could this perhaps be an issue with memory formation? Note to self: Dissection, research and analysis of Nopon subject – mandatory.\"\n: 'Riki': ''\"D-d-d-d-d-d-dissection?! You want make Riki's wifeypon and all Riki's littlepon sad?! Riki get mad!\"''\n: 'Naroth': \"An individual of your...nature...has a wife and children?! Intriguing, most intriguing... I could conduct valuable research into Nopon breeding habits... Go; bring your mate and offspring at once!\"\n: 'Riki': ''\"Never! No, never! Riki say big 'NO'! Change the subject! Or Riki no help you!\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"The machine has been improved and is working. The writing is about the High Entia War God.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/A_Necessary_Upgrade",
-    "wikiPageId": 8209
+    "wikiPageId": 8209,
+    "timed": true
   },
   {
     "id": "xc1-quest-adventurers-in-peril",
@@ -12554,7 +12605,8 @@
     "uniqueComments": ": 'Melia': \"Valak Mountain is a deathtrap. To think they actually went! Reckless and foolish. How did they get sanction to go there in the first place?\"\n: 'Miriall': ''\"I don't care about any sanction! They've gone, so it's too late! Aren't their lives more important!\"''\n: 'Melia': \"Y-yes...you are correct. Come, we must make haste if we are to save Zain and Kurralth.\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "results": "\"You found the two on the mountain, injured by monsters, and brought them home safely.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Adventurers_in_Peril",
-    "wikiPageId": 8356
+    "wikiPageId": 8356,
+    "timed": true
   },
   {
     "id": "xc1-quest-back-pain",
@@ -12586,7 +12638,8 @@
     "uniqueComments": ": 'Shulk': ''\"No, I think he is listening to you. After all, you're his friend! Just give him a bit more time. We would like to help as much as we can too!\"''\n: 'Galdo': ''\"You're right. He is my friend. If I don't believe in him, then who will? You've helped me to realise something very important. Thanks a lot!\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"You took care of the mission, and the guard has promised not to push himself too hard in future.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Back_Pain",
-    "wikiPageId": 8379
+    "wikiPageId": 8379,
+    "timed": true
   },
   {
     "id": "xc1-quest-believing-again",
@@ -12622,7 +12675,8 @@
     "uniqueComments": ": 'Sharla': ''\"So you're saying she wasn't like this before? Seems a little hard to believe.\"''\n: 'Vidian': ''\"Yeah, she didn't care if you were Homs or Nopon or whatever. Then out of the blue, she started only liking 'pure' High Entia!\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"Lesunia has remembered how things used to be and she's now friends with Vidian.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Believing_Again",
-    "wikiPageId": 8390
+    "wikiPageId": 8390,
+    "timed": true
   },
   {
     "id": "xc1-quest-brave-actions",
@@ -12662,7 +12716,8 @@
     "uniqueComments": ": 'Melia': \"Do you mean to say that they cannot protect the city unaided? And they dare to call themselves the Imperial Guard? Unbelievable! Are they all shirking their training?\"\n: Mir'leiz': \"N-no, it's not that! There's just more monsters than we could have imagined!\"''\n: 'Melia': \"That changes not the shame they bring upon themselves. Very well. I shall deal with them myself.\"\n: Mir'leiz': \"I'm sorry.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"The imperial city's safety has been ensured. Lecrough praised Mir'leiz for his actions.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Brave_Actions",
-    "wikiPageId": 8383
+    "wikiPageId": 8383,
+    "timed": true
   },
   {
     "id": "xc1-quest-bring-back-my-son",
@@ -12694,7 +12749,8 @@
     "uniqueComments": ": 'Sharla': ''\"A little while ago, I was in a really similar spot. So, we'll help you as much as possible!\"''\n: 'Merisa': \"Really?! Oh thank you! I feel reassured!\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"Mir'leiz promised not to do anything else foolish so his mother won't have to worry any more.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Bring_Back_My_Son!",
-    "wikiPageId": 2471
+    "wikiPageId": 2471,
+    "timed": true
   },
   {
     "id": "xc1-quest-building-bridges",
@@ -12726,7 +12782,8 @@
     "uniqueComments": ": 'Sharla': ''\"She hates other races? I've heard that High Entia hate conflict, but...\"''\n: 'Arielle': ''\"That's right! Normally no one cares. Although, I have heard of some very old texts... Texts which say things about only pure High Entia being acceptable. Old mumbo jumbo.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"You have found out why Lesunia hates other races, and you told her mother.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Building_Bridges",
-    "wikiPageId": 8389
+    "wikiPageId": 8389,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-1-alcamoth",
@@ -12751,7 +12808,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth resident's request and completed the quest for her boyfriend.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_1_(Alcamoth)",
-    "wikiPageId": 9501
+    "wikiPageId": 9501,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-2-alcamoth",
@@ -12776,7 +12834,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth resident's request. The dangerous monster is dead.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_2_(Alcamoth)",
-    "wikiPageId": 9237
+    "wikiPageId": 9237,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-3-alcamoth",
@@ -12801,7 +12860,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth guard's request and completed the quest for him.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_3_(Alcamoth)",
-    "wikiPageId": 9502
+    "wikiPageId": 9502,
+    "timed": true
   },
   {
     "id": "xc1-quest-challenge-4-alcamoth",
@@ -12826,7 +12886,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request and eliminated the danger.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Challenge_4_(Alcamoth)",
-    "wikiPageId": 9503
+    "wikiPageId": 9503,
+    "timed": true
   },
   {
     "id": "xc1-quest-collection-quest-1-alcamoth",
@@ -12878,7 +12939,8 @@
     "results": "''\"You completed the Alcamoth resident's request and collected all the items he asked for.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_2_(Alcamoth)",
     "wikiPageId": 9511,
-    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/Alcamoth_Collection_Quest_2.png/revision/latest/scale-to-width-down/238?cb=20150713171317"
+    "imageUrl": "https://static.wikia.nocookie.net/xenoblade/images/5/51/Alcamoth_Collection_Quest_2.png/revision/latest/scale-to-width-down/238?cb=20150713171317",
+    "timed": true
   },
   {
     "id": "xc1-quest-collection-quest-3-alcamoth",
@@ -12903,7 +12965,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request. Her friend's mother feels a little better now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_3_(Alcamoth)",
-    "wikiPageId": 9512
+    "wikiPageId": 9512,
+    "timed": true
   },
   {
     "id": "xc1-quest-collection-quest-4-alcamoth",
@@ -12928,7 +12991,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth resident's request. The flying machine has been repaired.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Collection_Quest_4_(Alcamoth)",
-    "wikiPageId": 9513
+    "wikiPageId": 9513,
+    "timed": true
   },
   {
     "id": "xc1-quest-drydry-entia",
@@ -13004,7 +13068,8 @@
     "uniqueComments": ": 'Reyn': ''\"Yeah, kids should be playing outside with their mates. I dunno what I'd do if I didn't have friends to save my bacon! So, I'd love it if you'd let me help.\"''\n: 'Popipo': \"You be careful now! I might get lovey-dovey for you! You very nice Hom Hom! Handsome Hom Hom! But it tough job for one Hom Hom! Talk with friends and then decide what you do!\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"You solved Baroba's problem and though not the perfect solution, he's happy to be outside now.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Going_Out_to_Play",
-    "wikiPageId": 9649
+    "wikiPageId": 9649,
+    "timed": true
   },
   {
     "id": "xc1-quest-how-do-i-feel",
@@ -13037,7 +13102,8 @@
     "uniqueComments": ": 'Sharla': ''\"I can understand how your friends must feel. I can see how it must be easier to pretend that nothing's wrong. But you can't stay that way forever. That would solve nothing.\"''\n: 'Scarlen': ''\"You're right, of course. But even though it's all my fault, I still can't seem to decide.\"''\n: 'Sharla': ''\"It's not that they're angry at you. In fact, they're trying their best to keep your friendship alive. The question is, how will you respond to that?\"''\n: 'Scarlen': \"Even I can see that things cannot go on like this. In fact, I am the one most terrified of ruining what we already have.\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "The results will depend on which girl was spoken to first:\n:'Ricoth first (A route):' \"Having heard what Ricoth had to say, Scarlen has decided to tell Ricoth he likes her.\"\n:'Rozeal first (B route):' \"Having heard what Rozeal had to say, Scarlen has decided to tell Rozeal he likes her.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/How_Do_I_Feel%3F",
-    "wikiPageId": 7979
+    "wikiPageId": 7979,
+    "timed": true
   },
   {
     "id": "xc1-quest-how-do-they-feel",
@@ -13065,7 +13131,8 @@
     "uniqueComments": ": 'Reyn': ''\"As a bloke, I think I know where you're coming from. When you get on with someone too well, things start changing.\"''\n: 'Scarlen': \"The same thing happened to you? But unlike me, you look like you can decide your own fate. I wish I could be like you.\"\n: 'Reyn': ''\"I just try to be honest. But sometimes you just can't manage by yourself. So rely on us. We'll do all we can to try and help you.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"You found out how they feel about him. They both seem to not dislike him.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/How_Do_They_Feel%3F",
-    "wikiPageId": 7978
+    "wikiPageId": 7978,
+    "timed": true
   },
   {
     "id": "xc1-quest-i-love-you-no-matter-what",
@@ -13097,7 +13164,8 @@
     "uniqueComments": ": 'Shulk': \"If you want to tell her how you feel, you should do it in person. I think that telling her in person will really make her happy.\"\n: 'Scarlen': ''\"I actually agree. But if I told her in person... What if Rozeal were to start crying? I couldn't bear to see that. I've known Rozeal all my life. It's not easy, doing this to her.\"''\n: 'Shulk': ''\"I can't decide if it's a good or bad idea. But, we've come this far. So I want to help you to the end.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "results": "\"Ricoth read the letter from Scarlen and cried, but they are now dating.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/I_Love_You_No_Matter_What",
-    "wikiPageId": 9528
+    "wikiPageId": 9528,
+    "timed": true
   },
   {
     "id": "xc1-quest-looking-for-a-lost-daughter",
@@ -13187,7 +13255,8 @@
     "uniqueComments": ": 'Shulk': ''\"A glowing insect? The only species I know like that would be the Gold Caterpillar... Could that be what you're after?\"''\n: 'Teelan': ''\"Yeah! That's it! A Gold Caterpillar! It inhabits the lower Bionis, but I have no idea where. I thought you might know because you're a Homs and all.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"You got the bugs he asked for and delivered them safely. He can enjoy observing them now.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Looking_for_Gold_Bugs",
-    "wikiPageId": 7984
+    "wikiPageId": 7984,
+    "timed": true
   },
   {
     "id": "xc1-quest-losing-the-taste-for-alcohol",
@@ -13215,7 +13284,8 @@
     "uniqueComments": ": 'Dunban': ''\"Alcohol? I too used to have a taste for it. But I gave up when my sister told me it was bad for me. I'd say this is a good time for you to consider quitting as well.\"''\n: 'Nelo': \"N-Nelo knows that! But Nelo really enjoying partying with buddies.\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"You collected the requested items for Nelo. Now him and his friends will have a great party!\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Losing_the_Taste_for_Alcohol",
-    "wikiPageId": 9651
+    "wikiPageId": 9651,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-1-alcamoth",
@@ -13240,7 +13310,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request. He can make the present now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_1_(Alcamoth)",
-    "wikiPageId": 5814
+    "wikiPageId": 5814,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-2-alcamoth",
@@ -13265,7 +13336,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request. She will be able to make a great costume now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_2_(Alcamoth)",
-    "wikiPageId": 5816
+    "wikiPageId": 5816,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-3-alcamoth",
@@ -13290,7 +13362,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth guard's request. He can make the doll's uniform now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_3_(Alcamoth)",
-    "wikiPageId": 5817
+    "wikiPageId": 5817,
+    "timed": true
   },
   {
     "id": "xc1-quest-material-quest-4-alcamoth",
@@ -13315,7 +13388,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You completed the Alcamoth resident's request. He can make his instrument now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Material_Quest_4_(Alcamoth)",
-    "wikiPageId": 9507
+    "wikiPageId": 9507,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-1-part-1-alcamoth",
@@ -13340,7 +13414,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You have completed the resident's request. She will be able to continue her research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_1_(Alcamoth)",
-    "wikiPageId": 7905
+    "wikiPageId": 7905,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-1-part-2-alcamoth",
@@ -13365,7 +13440,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You have completed the resident's request. She will be able to continue her research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_2_(Alcamoth)",
-    "wikiPageId": 7912
+    "wikiPageId": 7912,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-1-part-3-alcamoth",
@@ -13390,7 +13466,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You have completed the resident's request. She will be able to continue her research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_1_-_Part_3_(Alcamoth)",
-    "wikiPageId": 7915
+    "wikiPageId": 7915,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-2-part-1-alcamoth",
@@ -13415,7 +13492,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You have completed the Alcamoth Guard's request. You defeated the monsters that his family saw.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_1_(Alcamoth)",
-    "wikiPageId": 7986
+    "wikiPageId": 7986,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-2-part-2-alcamoth",
@@ -13440,7 +13518,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth Guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_2_(Alcamoth)",
-    "wikiPageId": 7987
+    "wikiPageId": 7987,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-2-part-3-alcamoth",
@@ -13465,7 +13544,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_2_-_Part_3_(Alcamoth)",
-    "wikiPageId": 7988
+    "wikiPageId": 7988,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-3-part-1-alcamoth",
@@ -13490,7 +13570,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You have completed the resident's request. That is one less threat for Alcamoth now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_1_(Alcamoth)",
-    "wikiPageId": 9514
+    "wikiPageId": 9514,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-3-part-2-alcamoth",
@@ -13515,7 +13596,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You have completed the resident's request. That is one less threat for Alcamoth now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_2_(Alcamoth)",
-    "wikiPageId": 9515
+    "wikiPageId": 9515,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-3-part-3-alcamoth",
@@ -13540,7 +13622,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "''\"You have completed the resident's request. That is one less threat for Alcamoth now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_3_-_Part_3_(Alcamoth)",
-    "wikiPageId": 9516
+    "wikiPageId": 9516,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-4-part-1-alcamoth",
@@ -13565,7 +13648,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_1_(Alcamoth)",
-    "wikiPageId": 7989
+    "wikiPageId": 7989,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-4-part-2-alcamoth",
@@ -13590,7 +13674,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_2_(Alcamoth)",
-    "wikiPageId": 7990
+    "wikiPageId": 7990,
+    "timed": true
   },
   {
     "id": "xc1-quest-monster-quest-4-part-3-alcamoth",
@@ -13615,7 +13700,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth guard's request and defeated the monsters he asked you to.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Monster_Quest_4_-_Part_3_(Alcamoth)",
-    "wikiPageId": 7991
+    "wikiPageId": 7991,
+    "timed": true
   },
   {
     "id": "xc1-quest-preparing-for-adventure",
@@ -13649,7 +13735,8 @@
     "uniqueComments": ": 'Riki': \"Waterfall? Why water no freeze? Water is water, yes? That weird!\"\n: 'Zain': ''\"You're telling me! Truth is, I don't know either. But, it doesn't freeze so, I'm not complaining. Well, apart from about the fact that I dunno what to do about it.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"You collected water from waterfalls and gave it to Zain. This will be enough for their trip.\"\nclr",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Preparing_for_Adventure",
-    "wikiPageId": 5310
+    "wikiPageId": 5310,
+    "timed": true
   },
   {
     "id": "xc1-quest-preparing-for-adventure-2",
@@ -13686,7 +13773,8 @@
     "uniqueComments": ": 'Dunban': ''\"Looks like you're in trouble. Lost something?\"''\n: 'Kurralth': ''\"Yeah, something real important. I'm going on another adventure with Zain, yeah? And there's a really important cream we need for the journey. And guess what? I dropped it somewhere.\"''\n: 'Dunban': ''\"A cream? To be used somewhere incredibly cold? I can see why you're worried now.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"You found the missing item at Eryth Sea and returned it to Zain's friend, Kurralth.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Preparing_for_Adventure_2",
-    "wikiPageId": 7552
+    "wikiPageId": 7552,
+    "timed": true
   },
   {
     "id": "xc1-quest-preparing-for-adventure-3",
@@ -13724,7 +13812,8 @@
     "uniqueComments": ": 'Reyn': ''\"I don't get it. Why don't you just hunt the animals there to eat?\"''\n: 'Zain': ''\"Sadly, that's not possible. Where we're going, there's not much in the way of edible fauna. That's why we need rations.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"You gave the Orthlus' Liver to Zain. Everything is ready for the adventure now!\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Preparing_for_Adventure_3",
-    "wikiPageId": 8355
+    "wikiPageId": 8355,
+    "timed": true
   },
   {
     "id": "xc1-quest-protect-the-capital",
@@ -13756,7 +13845,8 @@
     "timeWindow": "06:00 - 18:00",
     "results": "\"Because of your help, none of the Imperial Guards were seriously injured.\"\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Protect_the_Capital!",
-    "wikiPageId": 8382
+    "wikiPageId": 8382,
+    "timed": true
   },
   {
     "id": "xc1-quest-search-quest-1-alcamoth",
@@ -13782,7 +13872,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth resident's request. He's very happy to be reunited with the necklace.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_1_(Alcamoth)",
-    "wikiPageId": 9520
+    "wikiPageId": 9520,
+    "timed": true
   },
   {
     "id": "xc1-quest-search-quest-2-alcamoth",
@@ -13808,7 +13899,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth resident's request. He is very happy to get the ring back.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_2_(Alcamoth)",
-    "wikiPageId": 5187
+    "wikiPageId": 5187,
+    "timed": true
   },
   {
     "id": "xc1-quest-search-quest-3-alcamoth",
@@ -13860,7 +13952,8 @@
     "timeWindow": "18:00 - 06:00",
     "results": "''\"You completed the Alcamoth resident's request. The boy is very happy to have his charm back.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Search_Quest_4_(Alcamoth)",
-    "wikiPageId": 8544
+    "wikiPageId": 8544,
+    "timed": true
   },
   {
     "id": "xc1-quest-starlight-gazer",
@@ -13896,7 +13989,8 @@
     "uniqueComments": ": 'Riki': \"Oooh! That might be Nopon like Riki! Why? Easy. All Nopon very clever!\"\n: 'Elior': ''\"R-really? Well...I suppose you'd know.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"The telescope is much improved. Elior can really start to understand the stars even more now.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Starlight_Gazer",
-    "wikiPageId": 9525
+    "wikiPageId": 9525,
+    "timed": true
   },
   {
     "id": "xc1-quest-starlight-seeker",
@@ -13936,7 +14030,8 @@
     "uniqueComments": ": 'Reyn': ''\"I got it! So you want us to search for this person, right? Right, leave it to us! But we can't promise anything, OK, kid? But we'll all try our best for you!\"''\n: 'Elior': ''\"W-wow, you guys are really really nice! But don't try too hard, OK?\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"The telescope that Miriall made should help Elior understand the night sky better.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Starlight_Seeker",
-    "wikiPageId": 8938
+    "wikiPageId": 8938,
+    "timed": true
   },
   {
     "id": "xc1-quest-talias-research",
@@ -14004,7 +14099,8 @@
     "uniqueComments": ": 'Dunban': ''\"I also relied on others to help me get equipment for my training. So, if there's anything we can do, I'd like to help.\"''\n: Mir'leiz': \"Wow! Someone as old and tough as you got help from people? I guess learning to cooperate with other people is pretty important.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "''\"Now that Caul has all the materials he needs, he should be able to start training Mir'leiz.\"''",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Teaching_Materials",
-    "wikiPageId": 8381
+    "wikiPageId": 8381,
+    "timed": true
   },
   {
     "id": "xc1-quest-the-deciphering-machine",
@@ -14032,7 +14128,8 @@
     "uniqueComments": ": 'Shulk': ''\"You're researching ancient ruins? Before we set out on this journey, I was doing research too. So I think I really know how you feel.\"''\n: 'Ruthan': ''\"Oh really? So you're a scientist, eh? Hahaha! Forgive me, but you really don't look like one!\"''\n: 'Shulk': ''\"We have been travelling for a long time, and it's been tough too. Maybe I'm getting too buffed up? No, never mind that! Please tell us more about your research.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests",
     "results": "\"The deciphering machine is ready. Now they should be able to decipher the writing with ease.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/The_Deciphering_Machine",
-    "wikiPageId": 7193
+    "wikiPageId": 7193,
+    "timed": true
   },
   {
     "id": "xc1-quest-together-forever",
@@ -14064,7 +14161,8 @@
     "uniqueComments": ": 'Reyn': ''\"So, just write how you feel right now. Don't try and sugarcoat it. I'm sure she'll appreciate it.\"''\n: 'Scarlen': ''\"You could be right there... I wasn't going to go over the top but maybe I am over-thinking this. Just write how I feel. Yes.\"''\n: 'Reyn': ''\"That's the spirit. She'll definitely appreciate it. Well, I know I would.\"''\nCategory:Alcamoth Quests\nCategory:XC Timed Quests\nCategory:XC Mutually Exclusive Quests",
     "results": "\"Rozeal has some misgivings but she has accepted him and they are now dating.\"",
     "wikiUrl": "https://xenoblade.fandom.com/wiki/Together_Forever",
-    "wikiPageId": 7982
+    "wikiPageId": 7982,
+    "timed": true
   },
   {
     "id": "xc1-quest-vidian-rescue-mission",

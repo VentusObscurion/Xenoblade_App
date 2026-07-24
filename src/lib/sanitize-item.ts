@@ -16,10 +16,27 @@ function cleanPrerequisite(prereq: Prerequisite): Prerequisite {
   }
 }
 
+/** Wiki pages tag story-deadline quests with Category:XC Timed Quests. */
+export function detectTimedQuest(item: TrackableItem): boolean {
+  if (item.timed === true) return true
+  if (/timed/i.test(item.questType ?? '')) return true
+  const blob = [
+    item.uniqueComments,
+    item.results,
+    item.walkthrough,
+    item.description,
+    item.trivia,
+  ]
+    .filter(Boolean)
+    .join('\n')
+  return /Category:\s*XC\s*Timed\s*Quests/i.test(blob)
+}
+
 export function sanitizeItem(item: TrackableItem): TrackableItem {
   const walkthroughLines = item.walkthrough
     ? formatWalkthroughLines(item.walkthrough)
     : []
+  const timed = detectTimedQuest(item)
 
   return {
     ...item,
@@ -43,5 +60,6 @@ export function sanitizeItem(item: TrackableItem): TrackableItem {
     itemGifting: item.itemGifting ? cleanWikiMarkup(item.itemGifting) : undefined,
     itemQuestUses: item.itemQuestUses?.map((quest) => cleanWikiMarkup(quest)),
     prerequisites: item.prerequisites.map(cleanPrerequisite),
+    timed: timed || undefined,
   }
 }
