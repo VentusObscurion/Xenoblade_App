@@ -9,11 +9,13 @@ import {
   parseImmigrantConditions,
 } from './colony6-levels.ts'
 import { DEFAULT_GAME_STATE, type GameState } from '../types/game-state.ts'
-import { isItemAvailable } from './prerequisites.ts'
+import { evaluatePrerequisites, isItemAvailable } from './prerequisites.ts'
 import {
   extractQuestNameFromLabel,
   getQuestProgressMode,
+  isStoryFlagMet,
   matchStoryFlag,
+  parseReconstructionPercentRequirement,
   parseRequiredAffinityStars,
   resolveAffinityRegion,
   resolveAccessRegion,
@@ -53,6 +55,24 @@ describe('quest-prereq-parse', () => {
     expect(resolveAccessRegion('Arrived at the Interior Landing Site (Bionis\' Interior)')).toBe(
       undefined,
     )
+  })
+
+  it('parses Colony 6 reconstruction percent prerequisites', () => {
+    expect(parseReconstructionPercentRequirement('Colony 6 Reconstruction 15%')).toBe(15)
+    expect(parseReconstructionPercentRequirement('reconstruction at 35%')).toBe(35)
+    expect(matchStoryFlag('Colony 6 Reconstruction 15%')).toBe('colony6_reconstruction_15')
+    expect(
+      isStoryFlagMet('Colony 6 Reconstruction 15%', {
+        ...DEFAULT_GAME_STATE,
+        colony6Reconstruction: 10,
+      }),
+    ).toBe(false)
+    expect(
+      isStoryFlagMet('Colony 6 Reconstruction started', {
+        ...DEFAULT_GAME_STATE,
+        colony6Reconstruction: 10,
+      }),
+    ).toBe(true)
   })
 })
 
@@ -326,6 +346,15 @@ describe('quest accepted prerequisites', () => {
       playerLevel: 99,
     }
     expect(isItemAvailable(quest, {}, [quest], base)).toBe(false)
+    expect(evaluatePrerequisites(quest, {}, [quest], base)).toEqual({
+      status: 'blocked',
+      unmet: [
+        {
+          type: 'other',
+          label: 'Colony 6 reconstruction ≥ 15% (now 10%)',
+        },
+      ],
+    })
     expect(
       isItemAvailable(
         quest,

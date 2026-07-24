@@ -17,10 +17,7 @@ import {
   compareCollectopaediaTypes,
 } from '../lib/collectopaedia.ts'
 import { isColony6NextLevelMaterial } from '../lib/colony6-availability.ts'
-import {
-  estimateColony6Percent,
-  getAllColony6Levels,
-} from '../lib/colony6-levels.ts'
+import { getAllColony6Levels } from '../lib/colony6-levels.ts'
 import { buildItemLookup } from '../lib/item-lookup.ts'
 import { isH2HAvailable } from '../lib/h2h-availability.ts'
 import {
@@ -30,8 +27,7 @@ import {
 import { evaluatePrerequisites } from '../lib/prerequisites.ts'
 import { getDefaultSortMode } from '../lib/item-filters.ts'
 import { filterByDiscoveredRegions, getCanonicalRegion, getRegionSortOrder } from '../lib/region-discovery.ts'
-import type { GameState } from '../types/game-state.ts'
-import type { Category, GameId, ItemWithStatus, ProgressEntry, TrackableItem } from '../types/tracker.ts'
+import type { Category, GameId, ItemWithStatus } from '../types/tracker.ts'
 import { GAME_CATEGORIES } from '../types/tracker.ts'
 
 interface CategoryViewProps {
@@ -60,26 +56,6 @@ function usesTableView(category: Category, gameId: GameId): boolean {
     category === 'colony_reconstruction' ||
     (category === 'collectopaedia' && gameId === 'xc1')
   )
-}
-
-function withDerivedColony6(
-  gameState: GameState,
-  materials: TrackableItem[],
-  progress: Record<string, ProgressEntry>,
-): GameState {
-  const levels = getAllColony6Levels(materials, progress)
-  const estimated = estimateColony6Percent(levels)
-  const percent = Math.max(gameState.colony6Reconstruction, estimated)
-  if (percent === gameState.colony6Reconstruction) return gameState
-  return {
-    ...gameState,
-    colony6Reconstruction: percent,
-    storyFlags: {
-      ...gameState.storyFlags,
-      colony6_reconstruction_started:
-        percent > 0 || gameState.storyFlags.colony6_reconstruction_started === true,
-    },
-  }
 }
 
 function collectCanonicalRegions(
@@ -134,18 +110,14 @@ export function CategoryView({
     () => allGameItems.filter((i) => i.category === 'colony_immigrant'),
     [allGameItems],
   )
-  const effectiveGameState = useMemo(
-    () => withDerivedColony6(gameState, colonyMaterials, progress),
-    [gameState, colonyMaterials, progress],
-  )
   const colonyLevels = useMemo(
     () => getAllColony6Levels(colonyMaterials, progress),
     [colonyMaterials, progress],
   )
 
   const availableIds = useMemo(
-    () => collectAvailableItemIds(allGameItems, progress, effectiveGameState),
-    [allGameItems, progress, effectiveGameState],
+    () => collectAvailableItemIds(allGameItems, progress, gameState),
+    [allGameItems, progress, gameState],
   )
   const { newIds, markSeen } = useNewlyAvailable(availableIds)
 
@@ -168,7 +140,7 @@ export function CategoryView({
         item,
         progress,
         allGameItems,
-        effectiveGameState,
+        gameState,
       )
 
       let prerequisiteStatus = status
@@ -178,7 +150,7 @@ export function CategoryView({
         const available = isColony6NextLevelMaterial(
           item,
           colonyLevels,
-          effectiveGameState,
+          gameState,
         )
         prerequisiteStatus = available ? 'fulfilled' : 'blocked'
         unmetPrerequisites = available
@@ -193,7 +165,7 @@ export function CategoryView({
         unmetPrerequisites,
       }
     })
-  }, [items, progress, allGameItems, effectiveGameState, colonyLevels])
+  }, [items, progress, allGameItems, gameState, colonyLevels])
 
   const { filteredItems, questGroups } = useMemo(() => {
     let result = itemsWithStatus
@@ -248,7 +220,7 @@ export function CategoryView({
       category !== 'blade' &&
       category !== 'hero'
     ) {
-      result = filterByDiscoveredRegions(result, effectiveGameState)
+      result = filterByDiscoveredRegions(result, gameState)
     }
 
     if (category === 'quest' && playthroughMode) {
@@ -256,7 +228,7 @@ export function CategoryView({
         result,
         allGameItems,
         progress,
-        effectiveGameState,
+        gameState,
       ) as ItemWithStatus[]
       // Keep accepted-but-incomplete quests visible in playthrough mode
       const acceptedOpen = itemsWithStatus.filter((item) => {
@@ -281,7 +253,7 @@ export function CategoryView({
 
     if (category === 'heart_to_heart' && playthroughMode) {
       result = result.filter((item) =>
-        isH2HAvailable(item, progress, effectiveGameState),
+        isH2HAvailable(item, progress, gameState),
       )
     }
 
@@ -289,7 +261,7 @@ export function CategoryView({
       result = result.filter(
         (item) =>
           item.completed ||
-          isColony6NextLevelMaterial(item, colonyLevels, effectiveGameState),
+          isColony6NextLevelMaterial(item, colonyLevels, gameState),
       )
     }
 
@@ -337,7 +309,7 @@ export function CategoryView({
     showCompleted,
     allGameItems,
     progress,
-    effectiveGameState,
+    gameState,
     colonyLevels,
   ])
 
@@ -492,7 +464,7 @@ export function CategoryView({
             items={filteredItems}
             progress={progress}
             onToggleSlot={toggle}
-            gameState={effectiveGameState}
+            gameState={gameState}
             itemLookup={itemLookup}
           />
         ) : category === 'colony_reconstruction' ? (
@@ -500,7 +472,7 @@ export function CategoryView({
             items={filteredItems}
             immigrants={immigrants}
             progress={progress}
-            gameState={effectiveGameState}
+            gameState={gameState}
             onToggle={toggle}
             onInvite={toggle}
             onSelect={handleSelect}

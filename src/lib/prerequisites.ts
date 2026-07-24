@@ -23,6 +23,7 @@ import {
   parseNpcRegistration,
   parsePartyLeadRequirement,
   parsePartyMemberRequirement,
+  parseReconstructionPercentRequirement,
   resolveAccessRegion,
 } from './quest-prereq-parse.ts'
 import { getAllColony6Levels } from './colony6-levels.ts'
@@ -295,6 +296,16 @@ function evaluateOtherPrerequisiteWithProgress(
   progress: Record<string, ProgressEntry>,
   allItems: TrackableItem[],
 ): { met: boolean; tracked: boolean; label?: string } {
+  const reconstructionPct = parseReconstructionPercentRequirement(prereq.label)
+  if (reconstructionPct !== undefined) {
+    const current = gameState.colony6Reconstruction
+    return {
+      met: current >= reconstructionPct,
+      tracked: true,
+      label: `Colony 6 reconstruction ≥ ${reconstructionPct}% (now ${current}%)`,
+    }
+  }
+
   const sectionReq = parseColony6SectionRequirement(prereq.label)
   if (sectionReq) {
     const levels = getColonyLevelsFromItems(allItems, progress)

@@ -173,27 +173,40 @@ export function matchStoryFlag(label: string): string | undefined {
   }
 
   // Reconstruction percentage thresholds (normalize() strips "%")
-  const pct = n.match(/reconstruction(?:\s+at)?\s+(\d+)/)
+  // e.g. "Colony 6 Reconstruction 15%" / "reconstruction at 35%"
+  const pct = n.match(/\breconstruction(?:\s+at)?\s+(\d+)\b/)
   if (pct) return `colony6_reconstruction_${pct[1]}`
 
   return undefined
+}
+
+/** Parse "Colony 6 Reconstruction 15%" / "reconstruction at 35%" → required %. */
+export function parseReconstructionPercentRequirement(
+  label: string,
+): number | undefined {
+  const n = normalize(label)
+  const match = n.match(/\breconstruction(?:\s+at)?\s+(\d+)\b/)
+  if (!match) return undefined
+  const required = parseInt(match[1], 10)
+  return Number.isNaN(required) ? undefined : required
 }
 
 export function isStoryFlagMet(label: string, gameState: GameState): boolean | undefined {
   const flagId = matchStoryFlag(label)
   if (!flagId) return undefined
 
-  if (flagId.startsWith('colony6_reconstruction_')) {
-    const required = parseInt(flagId.replace('colony6_reconstruction_', ''), 10)
-    if (Number.isNaN(required)) return undefined
-    return gameState.colony6Reconstruction >= required
-  }
-
+  // Must check "started" before the numeric colony6_reconstruction_* prefix
   if (flagId === 'colony6_reconstruction_started') {
     return (
       gameState.storyFlags.colony6_reconstruction_started === true ||
       gameState.colony6Reconstruction > 0
     )
+  }
+
+  if (flagId.startsWith('colony6_reconstruction_')) {
+    const required = parseInt(flagId.replace('colony6_reconstruction_', ''), 10)
+    if (Number.isNaN(required)) return undefined
+    return gameState.colony6Reconstruction >= required
   }
 
   return gameState.storyFlags[flagId] === true
