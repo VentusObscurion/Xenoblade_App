@@ -27,6 +27,8 @@ export interface GameState {
   storyFlags: Record<string, boolean>
   /** Colony 6 reconstruction progress 0–100 (XC1). */
   colony6Reconstruction: number
+  /** Current Colony 6 population (XC1). */
+  colony6Population: number
 }
 
 export function characterPairKey(a: string, b: string): string {
@@ -65,6 +67,7 @@ export function createDefaultGameState(gameId: GameId = 'xc1'): GameState {
     characterAffinity: {},
     storyFlags,
     colony6Reconstruction: 0,
+    colony6Population: 15,
   }
 }
 
@@ -129,6 +132,10 @@ export function normalizeGameState(
     colony6Reconstruction: Math.max(
       0,
       Math.min(100, stored?.colony6Reconstruction ?? 0),
+    ),
+    colony6Population: Math.max(
+      0,
+      Math.min(250, stored?.colony6Population ?? defaults.colony6Population),
     ),
   }
 }

@@ -18,6 +18,7 @@ export type Category =
   | 'landmark'
   | 'colony_reconstruction'
   | 'colony_immigrant'
+  | 'person'
   | 'blade'
   | 'hero'
   | 'merc_mission'
@@ -158,6 +159,7 @@ export const CATEGORY_LABELS: Record<Category, string> = {
   landmark: 'Landmarks',
   colony_reconstruction: 'Colony 6 Reconstruction',
   colony_immigrant: 'Colony 6 Immigrants',
+  person: 'Persons',
   blade: 'Blades',
   hero: 'Heroes',
   merc_mission: 'Merc Missions',
@@ -168,6 +170,7 @@ export const GAME_CATEGORIES: Record<GameId, Category[]> = {
     'quest',
     'unique_monster',
     'heart_to_heart',
+    'person',
     'collectopaedia',
     'colony_reconstruction',
   ],

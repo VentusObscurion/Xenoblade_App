@@ -25,7 +25,10 @@ export function collectAvailableItemIds(
     gameState.colony6Reconstruction,
     estimateColony6Percent(levels),
   )
-  const population = estimateColony6Population(immigrants, progress)
+  const population = Math.max(
+    gameState.colony6Population,
+    estimateColony6Population(immigrants, progress),
+  )
   const ids: string[] = []
 
   for (const item of items) {

@@ -292,6 +292,7 @@ button {
 @media (min-width: 768px) {
   .content-split {
     grid-template-columns: 1fr 320px;
+    align-items: start;
   }
 }
 
@@ -634,6 +635,10 @@ button {
   padding: 1rem;
   position: sticky;
   top: 1rem;
+  max-height: calc(100vh - 2rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  align-self: start;
 }
 
 .item-detail-header {
@@ -1229,6 +1234,16 @@ button {
 
 .reconstruction-controls input[type='range'] {
   flex: 1;
+}
+
+.reconstruction-number {
+  width: 4rem;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text-primary);
+  padding: 0.25rem 0.4rem;
+  text-align: right;
 }
 
 .reconstruction-presets {

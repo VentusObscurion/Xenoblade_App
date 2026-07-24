@@ -419,6 +419,86 @@ export async function fetchColony6Immigrants(gameId: GameId): Promise<TrackableI
   return items
 }
 
+const XC1_NPC_CATEGORIES: Array<{ category: string; region: string }> = [
+  { category: 'Colony_9_NPCs', region: 'Colony 9' },
+  { category: 'Tephra_Cave_NPCs', region: 'Tephra Cave' },
+  { category: "Bionis'_Leg_NPCs", region: "Bionis' Leg" },
+  { category: 'Colony_6_NPCs', region: 'Colony 6' },
+  { category: 'Ether_Mine_NPCs', region: 'Ether Mine' },
+  { category: 'Satorl_Marsh_NPCs', region: 'Satorl Marsh' },
+  { category: 'Makna_Forest_NPCs', region: 'Makna Forest' },
+  { category: 'Frontier_Village_NPCs', region: 'Frontier Village' },
+  { category: 'Eryth_Sea_NPCs', region: 'Eryth Sea' },
+  { category: 'Alcamoth_NPCs', region: 'Alcamoth' },
+  { category: 'Valak_Mountain_NPCs', region: 'Valak Mountain' },
+  { category: 'Sword_Valley_NPCs', region: 'Sword Valley' },
+  { category: 'Fallen_Arm_NPCs', region: 'Fallen Arm' },
+  { category: 'Mechonis_Field_NPCs', region: 'Mechonis Field' },
+  { category: 'Junks_NPCs', region: 'Junks' },
+]
+
+export async function fetchXC1Persons(gameId: GameId): Promise<TrackableItem[]> {
+  console.log('  Fetching XC1 Persons (NPCs)')
+  const items: TrackableItem[] = []
+  const seen = new Set<string>()
+
+  for (const { category, region } of XC1_NPC_CATEGORIES) {
+    console.log(`    Category: ${category}`)
+    try {
+      const pages = await getCategoryPagesWithWikitext(category)
+      for (const page of pages) {
+        if (!page.wikitext) continue
+        if (/NPCs$/i.test(page.title)) continue
+        const fields = parseGenericInfobox(page.wikitext)
+        const hasNpcBox =
+          Object.keys(fields).length > 0 &&
+          (fields.location || fields.time_active || fields.timeactive || fields.race)
+        if (!hasNpcBox) continue
+
+        const name = stripWikiMarkup(fields.name || page.title)
+          .replace(/\s*\(XC1\)\s*$/i, '')
+          .trim()
+        if (!name) continue
+        const id = makeId(gameId, 'person', name)
+        if (seen.has(id)) continue
+        seen.add(id)
+
+        const location =
+          stripWikiMarkup(fields.location || '').trim() || region
+        const timeActive = stripWikiMarkup(
+          fields.time_active || fields.timeactive || fields.time || '',
+        ).trim()
+        const personality = stripWikiMarkup(fields.personality || '').trim()
+        const race = stripWikiMarkup(fields.race || '').trim()
+        const gender = stripWikiMarkup(fields.gender || '').trim()
+        const age = stripWikiMarkup(fields.age || '').trim()
+
+        const descParts = [personality, race && `Race: ${race}`, gender && `Gender: ${gender}`, age && `Age: ${age}`]
+          .filter(Boolean)
+
+        items.push({
+          id,
+          gameId,
+          category: 'person',
+          name,
+          region: location,
+          timeWindow: timeActive || undefined,
+          description: descParts.join(' · ') || undefined,
+          prerequisites: [],
+          wikiUrl: wikiPageUrl(page.title),
+          wikiPageId: page.pageid,
+          role: race || undefined,
+        })
+      }
+    } catch (err) {
+      console.warn(`  Warning: Could not fetch ${category}:`, err)
+    }
+  }
+
+  console.log(`  XC1 Persons: ${items.length}`)
+  return items
+}
+
 export function parseMonsterExtras(wikitext: string): {
   spawnTime?: string
   respawn?: string

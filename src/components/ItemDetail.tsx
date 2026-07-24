@@ -177,6 +177,29 @@ export function ItemDetail({
             </DetailSection>
           )}
         </>
+      ) : item.category === 'person' ? (
+        <>
+          {item.region && (
+            <DetailSection title="Location">
+              <p>{item.region}</p>
+            </DetailSection>
+          )}
+          {item.timeWindow && (
+            <DetailSection title="Active Time">
+              <p>{item.timeWindow}</p>
+            </DetailSection>
+          )}
+          {item.description && (
+            <DetailSection title="Details">
+              <p>{item.description}</p>
+            </DetailSection>
+          )}
+          <DetailSection title="Affinity Chart">
+            <p>
+              Check the box when this NPC is registered on your Affinity Chart.
+            </p>
+          </DetailSection>
+        </>
       ) : item.category === 'item' ? (
         <>
           {item.description && (

@@ -18,6 +18,7 @@ import {
   fetchLandmarks,
   fetchXC1Collectopaedia,
   fetchXC1Items,
+  fetchXC1Persons,
   parseMonsterExtras,
   parseQuestExtras,
 } from './xc1-extra.ts'
@@ -552,6 +553,7 @@ export async function ingestXC1(): Promise<void> {
   const xc1Landmarks = await fetchLandmarks('xc1')
   const xc1Colony6 = await fetchColony6Reconstruction('xc1')
   const xc1Immigrants = await fetchColony6Immigrants('xc1')
+  const xc1Persons = await fetchXC1Persons('xc1')
 
   const fcQuests = await fetchFCQuests('xc1-fc')
   let fcMonsters: TrackableItem[] = []
@@ -574,6 +576,7 @@ export async function ingestXC1(): Promise<void> {
   writeJson(join(xc1Dir, 'landmarks.json'), xc1Landmarks)
   writeJson(join(xc1Dir, 'colony-reconstruction.json'), xc1Colony6)
   writeJson(join(xc1Dir, 'colony-immigrants.json'), xc1Immigrants)
+  writeJson(join(xc1Dir, 'persons.json'), xc1Persons)
 
   writeJson(join(fcDir, 'quests.json'), fcQuests)
   writeJson(join(fcDir, 'unique-monsters.json'), fcMonsters)
@@ -608,6 +611,7 @@ export async function ingestXC1(): Promise<void> {
           landmark: xc1Landmarks.length,
           colony_reconstruction: xc1Colony6.length,
           colony_immigrant: xc1Immigrants.length,
+          person: xc1Persons.length,
         },
       },
       'xc1-fc': {
@@ -633,6 +637,7 @@ export async function ingestXC1(): Promise<void> {
   console.log(`  XC1 Landmarks: ${xc1Landmarks.length}`)
   console.log(`  XC1 Colony 6 Reconstruction: ${xc1Colony6.length}`)
   console.log(`  XC1 Colony 6 Immigrants: ${xc1Immigrants.length}`)
+  console.log(`  XC1 Persons: ${xc1Persons.length}`)
   console.log(`  FC Quests: ${fcQuests.length}`)
   console.log(`  FC Unique Monsters: ${fcMonsters.length}`)
   console.log(`  FC Quiet Moments: ${fcQuietMoments.length}`)

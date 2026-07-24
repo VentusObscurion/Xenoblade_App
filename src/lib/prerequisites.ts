@@ -19,10 +19,13 @@ import {
   isQuestProgressLabel,
   isStoryFlagMet,
   matchStoryFlag,
+  parseColony6SectionRequirement,
+  parseNpcRegistration,
   parsePartyLeadRequirement,
   parsePartyMemberRequirement,
   resolveAccessRegion,
 } from './quest-prereq-parse.ts'
+import { getAllColony6Levels } from './colony6-levels.ts'
 import { getCanonicalRegion, isRegionDiscovered } from './region-discovery.ts'
 import { cleanWikiMarkup } from './wiki-text.ts'
 
@@ -198,8 +201,11 @@ function isImmigrantResident(
 function parseRequiredLevel(item: TrackableItem): number | undefined {
   if (item.level) return item.level
   for (const prereq of item.prerequisites) {
-    const match = prereq.label.match(/(?:level|lv\.?)\s*(\d+)/i)
-    if (match) return parseInt(match[1], 10)
+    if (parseColony6SectionRequirement(prereq.label)) continue
+    const match = prereq.label.match(/(?:^|\b)(?:level|lv\.?)\s*(\d+)/i)
+    if (match && !/\b(Housing|Commerce|Nature|Special)\b/i.test(prereq.label)) {
+      return parseInt(match[1], 10)
+    }
   }
   return undefined
 }
@@ -208,6 +214,29 @@ function isLevelMet(item: TrackableItem, gameState: GameState): boolean {
   const required = parseRequiredLevel(item)
   if (!required) return true
   return gameState.playerLevel >= required
+}
+
+function isPersonRegistered(
+  name: string,
+  progress: Record<string, ProgressEntry>,
+  items: TrackableItem[],
+): boolean {
+  const normalized = normalizeName(name)
+  const person = items.find(
+    (item) =>
+      item.category === 'person' && normalizeName(item.name) === normalized,
+  )
+  // No person data yet → don't block quests on missing NPC entries
+  if (!person) return true
+  return progress[person.id]?.completed === true
+}
+
+function getColonyLevelsFromItems(
+  allItems: TrackableItem[],
+  progress: Record<string, ProgressEntry>,
+) {
+  const materials = allItems.filter((i) => i.category === 'colony_reconstruction')
+  return getAllColony6Levels(materials, progress)
 }
 
 function evaluateOtherPrerequisite(
@@ -227,13 +256,12 @@ function evaluateOtherPrerequisite(
     }
   }
 
-  const partyLead = parsePartyLeadRequirement(prereq.label)
-  if (partyLead) {
-    return {
-      met: gameState.partyLeader === partyLead,
-      tracked: true,
-      label: `${partyLead} in the lead`,
-    }
+  // Party leader no longer tracked in playthrough
+  if (parsePartyLeadRequirement(prereq.label) !== undefined) {
+    return { met: true, tracked: false }
+  }
+  if (/\bin the lead\b/i.test(prereq.label)) {
+    return { met: true, tracked: false }
   }
 
   const storyMet = isStoryFlagMet(prereq.label, gameState)
@@ -255,7 +283,6 @@ function evaluateOtherPrerequisite(
   }
 
   if (isColony6InviteRequirement(prereq.label)) {
-    // Handled with immigrant progress in evaluateOtherPrerequisiteWithProgress
     return { met: true, tracked: false }
   }
 
@@ -268,6 +295,16 @@ function evaluateOtherPrerequisiteWithProgress(
   progress: Record<string, ProgressEntry>,
   allItems: TrackableItem[],
 ): { met: boolean; tracked: boolean; label?: string } {
+  const sectionReq = parseColony6SectionRequirement(prereq.label)
+  if (sectionReq) {
+    const levels = getColonyLevelsFromItems(allItems, progress)
+    return {
+      met: levels[sectionReq.section] >= sectionReq.level,
+      tracked: true,
+      label: `${sectionReq.section} Lv${sectionReq.level}`,
+    }
+  }
+
   const inviteMatch = prereq.label.match(
     /([A-Za-z][A-Za-z'’\-]+)\s+invited to Colony\s*6/i,
   )
@@ -280,12 +317,6 @@ function evaluateOtherPrerequisiteWithProgress(
     }
   }
 
-  const residentMatch = prereq.label.match(
-    /([A-Za-z][A-Za-z'’\-]+)\s+is (?:not )?resident/i,
-  )
-  if (residentMatch && isColony6InviteRequirement(prereq.label) === false) {
-    // only if phrasing is about residency
-  }
   if (/\bis resident\b/i.test(prereq.label) && !/\bis not resident\b/i.test(prereq.label)) {
     const name = prereq.label.replace(/\s+is resident.*$/i, '').trim()
     if (name) {
@@ -365,7 +396,24 @@ export function isItemAvailable(
     }
 
     if (prereq.type === 'affinity') {
+      const personName = parseNpcRegistration(prereq.label)
+      if (personName) {
+        if (!isPersonRegistered(personName, progress, allItems)) return false
+        continue
+      }
       if (!isAreaAffinityMet(prereq.label, gameState)) return false
+      continue
+    }
+
+    if (prereq.type === 'level') {
+      const sectionReq = parseColony6SectionRequirement(prereq.label)
+      if (sectionReq) {
+        const levels = getColonyLevelsFromItems(allItems, progress)
+        if (levels[sectionReq.section] < sectionReq.level) return false
+        continue
+      }
+      const match = prereq.label.match(/(?:level|lv\.?)\s*(\d+)/i)
+      if (match && gameState.playerLevel < Number(match[1])) return false
       continue
     }
 
@@ -459,9 +507,35 @@ export function evaluatePrerequisites(
       for (const prereq of item.prerequisites) {
         if (isIgnorablePrerequisite(prereq.label)) continue
 
-        if (prereq.type === 'affinity' && !isAreaAffinityMet(prereq.label, gameState)) {
-          unmet.push(prereq)
+        if (prereq.type === 'affinity') {
+          const personName = parseNpcRegistration(prereq.label)
+          if (personName) {
+            if (!isPersonRegistered(personName, progress, allItems)) {
+              unmet.push({
+                type: 'affinity',
+                label: `${personName} registered on Affinity Chart`,
+              })
+            }
+            continue
+          }
+          if (!isAreaAffinityMet(prereq.label, gameState)) {
+            unmet.push(prereq)
+          }
           continue
+        }
+
+        if (prereq.type === 'level') {
+          const sectionReq = parseColony6SectionRequirement(prereq.label)
+          if (sectionReq) {
+            const levels = getColonyLevelsFromItems(allItems, progress)
+            if (levels[sectionReq.section] < sectionReq.level) {
+              unmet.push({
+                type: 'level',
+                label: `${sectionReq.section} Lv${sectionReq.level}`,
+              })
+            }
+            continue
+          }
         }
 
         if (prereq.type === 'area') {

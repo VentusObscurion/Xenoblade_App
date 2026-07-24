@@ -55,6 +55,11 @@ function ChecklistItem({
     ? [item.giver, questSubregion].filter(Boolean).join(' · ')
     : undefined
 
+  const personSubtitle =
+    item.category === 'person'
+      ? [item.region, item.timeWindow].filter(Boolean).join(' · ')
+      : undefined
+
   const h2hPair =
     item.category === 'heart_to_heart' && item.characters && item.characters.length >= 2
       ? item.characters.join(' & ')
@@ -113,6 +118,9 @@ function ChecklistItem({
           {questSubtitle && (
             <span className="checklist-subtitle">{questSubtitle}</span>
           )}
+          {personSubtitle && (
+            <span className="checklist-subtitle">{personSubtitle}</span>
+          )}
           {(h2hPair || h2hAffinity) && (
             <span className="checklist-subtitle">
               {h2hPair}
@@ -129,7 +137,7 @@ function ChecklistItem({
           )}
         </div>
         <div className="checklist-meta">
-          {item.category !== 'quest' && item.region && (
+          {item.category !== 'quest' && item.category !== 'person' && item.region && (
             <span className="meta-small">{item.region}</span>
           )}
           {item.level !== undefined && (

@@ -112,6 +112,15 @@ export function useGameState(gameId: GameId) {
     [update],
   )
 
+  const setColony6Population = useCallback(
+    (population: number) =>
+      update((prev) => ({
+        ...prev,
+        colony6Population: Math.max(0, Math.min(250, population)),
+      })),
+    [update],
+  )
+
   const reloadFromStorage = useCallback(() => {
     setGameState(getGameState(gameId))
   }, [gameId])
@@ -126,6 +135,7 @@ export function useGameState(gameId: GameId) {
     setCharacterAffinity,
     setStoryFlag,
     setColony6Reconstruction,
+    setColony6Population,
     reloadFromStorage,
   }
 }

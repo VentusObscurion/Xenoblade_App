@@ -9,6 +9,7 @@ const CATEGORY_FILES: Partial<Record<string, string>> = {
   landmark: 'landmarks.json',
   colony_reconstruction: 'colony-reconstruction.json',
   colony_immigrant: 'colony-immigrants.json',
+  person: 'persons.json',
   blade: 'blades.json',
   hero: 'heroes.json',
   merc_mission: 'merc-missions.json',

@@ -172,8 +172,8 @@ export function matchStoryFlag(label: string): string | undefined {
     if (tests.some((re) => re.test(n))) return id
   }
 
-  // Reconstruction percentage thresholds
-  const pct = n.match(/reconstruction(?:\s+at)?\s+(\d+)\s*%/)
+  // Reconstruction percentage thresholds (normalize() strips "%")
+  const pct = n.match(/reconstruction(?:\s+at)?\s+(\d+)/)
   if (pct) return `colony6_reconstruction_${pct[1]}`
 
   return undefined
@@ -205,16 +205,42 @@ export function parsePartyMemberRequirement(label: string): string | undefined {
 }
 
 export function parsePartyLeadRequirement(label: string): string | undefined {
-  const cleaned = cleanWikiMarkup(label)
-  const match =
-    cleaned.match(/^(\w+)\s+in the lead$/i) ||
-    cleaned.match(/^(\w+)\s+must be the active party leader$/i) ||
-    cleaned.match(/^(\w+)\s+in the lead inspecting/i)
-  return match?.[1]
+  // Party leader is no longer tracked in playthrough — ignore these gates.
+  void label
+  return undefined
 }
 
 export function isColony6InviteRequirement(label: string): boolean {
   return /invited to colony 6/i.test(cleanWikiMarkup(label))
+}
+
+/** "Paola registered in the Colony 9 area Affinity Chart" → "Paola" */
+export function parseNpcRegistration(label: string): string | undefined {
+  const cleaned = cleanWikiMarkup(label)
+  const match = cleaned.match(/^(.+?)\s+registered\b/i)
+  if (!match) return undefined
+  return match[1].replace(/\s+in the .*$/i, '').trim()
+}
+
+/** "Commerce Lv2" / "Nature Lv 2." → section + level */
+export function parseColony6SectionRequirement(
+  label: string,
+): { section: 'Housing' | 'Commerce' | 'Nature' | 'Special'; level: number } | undefined {
+  const match = cleanWikiMarkup(label).match(
+    /\b(Housing|Commerce|Nature|Special)\s*Lv\.?\s*(\d+)/i,
+  )
+  if (!match) return undefined
+  const raw = match[1].toLowerCase()
+  const section = (
+    {
+      housing: 'Housing',
+      commerce: 'Commerce',
+      nature: 'Nature',
+      special: 'Special',
+    } as const
+  )[raw]
+  if (!section) return undefined
+  return { section, level: Number(match[2]) }
 }
 
 export function getAffinityRegionOptions(): string[] {

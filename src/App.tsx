@@ -28,6 +28,7 @@ function App() {
     setCharacterAffinity,
     setStoryFlag,
     setColony6Reconstruction,
+    setColony6Population,
   } = useGameState(route.gameId)
 
   useEffect(() => {
@@ -131,6 +132,7 @@ function App() {
             onCharacterAffinityChange={setCharacterAffinity}
             onStoryFlagChange={setStoryFlag}
             onColony6Change={setColony6Reconstruction}
+            onColony6PopulationChange={setColony6Population}
           />
         ) : view === 'tracker' ? (
           <CategoryView

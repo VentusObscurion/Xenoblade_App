@@ -301,6 +301,120 @@ describe('quest accepted prerequisites', () => {
     expect(isItemAvailable(quest, {}, [quest], before)).toBe(false)
     expect(isItemAvailable(quest, {}, [quest], after)).toBe(true)
   })
+
+  it('blocks Defend Colony 6 on reconstruction percent', () => {
+    const quest: TrackableItem = {
+      id: 'xc1-quest-defend-colony-6-mechon',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'Defend Colony 6 - Mechon',
+      region: 'Colony 6',
+      prerequisites: [
+        { type: 'other', label: 'Makna Forest reached' },
+        { type: 'other', label: 'Colony 6 Reconstruction 15%' },
+      ],
+      wikiUrl: '',
+    }
+    const base: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Colony 6': true,
+        'Makna Forest': true,
+      },
+      colony6Reconstruction: 10,
+      playerLevel: 99,
+    }
+    expect(isItemAvailable(quest, {}, [quest], base)).toBe(false)
+    expect(
+      isItemAvailable(
+        quest,
+        {},
+        [quest],
+        { ...base, colony6Reconstruction: 15 },
+      ),
+    ).toBe(true)
+  })
+
+  it('blocks A Gutsy Trader until Colony 6 section levels are met', () => {
+    const commerce: TrackableItem = {
+      id: 'c1',
+      gameId: 'xc1',
+      category: 'colony_reconstruction',
+      name: 'Mat C1',
+      collectType: 'Commerce',
+      colonyLevel: 1,
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const commerce2: TrackableItem = {
+      ...commerce,
+      id: 'c2',
+      name: 'Mat C2',
+      colonyLevel: 2,
+    }
+    const nature: TrackableItem = {
+      id: 'n1',
+      gameId: 'xc1',
+      category: 'colony_reconstruction',
+      name: 'Mat N1',
+      collectType: 'Nature',
+      colonyLevel: 1,
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const nature2: TrackableItem = {
+      ...nature,
+      id: 'n2',
+      name: 'Mat N2',
+      colonyLevel: 2,
+    }
+    const werner: TrackableItem = {
+      id: 'xc1-colony_immigrant-werner',
+      gameId: 'xc1',
+      category: 'colony_immigrant',
+      name: 'Werner',
+      prerequisites: [],
+      wikiUrl: '',
+    }
+    const quest: TrackableItem = {
+      id: 'xc1-quest-a-gutsy-trader',
+      gameId: 'xc1',
+      category: 'quest',
+      name: 'A Gutsy Trader',
+      region: 'Colony 6',
+      prerequisites: [
+        { type: 'other', label: 'Makna Forest reached' },
+        { type: 'other', label: 'Werner invited to Colony 6' },
+        { type: 'level', label: 'Commerce Lv2' },
+        { type: 'level', label: 'Nature Lv2.' },
+      ],
+      wikiUrl: '',
+    }
+    const state: GameState = {
+      ...DEFAULT_GAME_STATE,
+      discoveredAreas: {
+        ...DEFAULT_GAME_STATE.discoveredAreas,
+        'Colony 6': true,
+        'Makna Forest': true,
+      },
+      playerLevel: 99,
+    }
+    const all = [quest, werner, commerce, commerce2, nature, nature2]
+    const invited = {
+      [werner.id]: { itemId: werner.id, completed: true },
+    }
+    expect(isItemAvailable(quest, invited, all, state)).toBe(false)
+
+    const leveled = {
+      ...invited,
+      [commerce.id]: { itemId: commerce.id, completed: true },
+      [commerce2.id]: { itemId: commerce2.id, completed: true },
+      [nature.id]: { itemId: nature.id, completed: true },
+      [nature2.id]: { itemId: nature2.id, completed: true },
+    }
+    expect(isItemAvailable(quest, leveled, all, state)).toBe(true)
+  })
 })
 
 describe('new-available', () => {
@@ -310,5 +424,15 @@ describe('new-available', () => {
     expect(syncNewlyAvailable(['a', 'b', 'c'])).toEqual(['c'])
     markItemSeen('c')
     expect([...getNewlyAvailableIds()]).toEqual([])
+  })
+
+  it('does not re-highlight seen ids after playthrough changes', () => {
+    localStorage.clear()
+    expect(syncNewlyAvailable(['a', 'b'])).toEqual([])
+    expect(syncNewlyAvailable(['a', 'b', 'c'])).toEqual(['c'])
+    markItemSeen('c')
+    // c drops out of available, then returns
+    expect(syncNewlyAvailable(['a', 'b'])).toEqual([])
+    expect(syncNewlyAvailable(['a', 'b', 'c'])).toEqual([])
   })
 })

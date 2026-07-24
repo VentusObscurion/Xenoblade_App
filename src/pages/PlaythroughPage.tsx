@@ -33,6 +33,7 @@ interface PlaythroughPageProps {
   onCharacterAffinityChange: (charA: string, charB: string, level: number) => void
   onStoryFlagChange: (flagId: string, value: boolean) => void
   onColony6Change: (percent: number) => void
+  onColony6PopulationChange: (population: number) => void
 }
 
 export function PlaythroughPage({
@@ -45,6 +46,7 @@ export function PlaythroughPage({
   onCharacterAffinityChange,
   onStoryFlagChange,
   onColony6Change,
+  onColony6PopulationChange,
 }: PlaythroughPageProps) {
   const config = getPlaythroughConfig(gameId)
   const characterPairs = config.hasCharacterAffinity
@@ -100,36 +102,65 @@ export function PlaythroughPage({
           </div>
 
           {config.hasColony6 && (
-            <label className="game-state-field reconstruction-field">
-              <span>Colony 6 Reconstruction</span>
-              <div className="reconstruction-controls">
+            <>
+              <label className="game-state-field reconstruction-field">
+                <span>Colony 6 Reconstruction</span>
+                <div className="reconstruction-controls">
+                  <input
+                    type="range"
+                    min={0}
+                    max={100}
+                    step={1}
+                    value={gameState.colony6Reconstruction}
+                    onChange={(e) =>
+                      onColony6Change(parseInt(e.target.value, 10) || 0)
+                    }
+                  />
+                  <input
+                    type="number"
+                    min={0}
+                    max={100}
+                    value={gameState.colony6Reconstruction}
+                    onChange={(e) =>
+                      onColony6Change(
+                        Math.max(0, Math.min(100, parseInt(e.target.value, 10) || 0)),
+                      )
+                    }
+                    aria-label="Colony 6 reconstruction percent"
+                    className="reconstruction-number"
+                  />
+                  <strong>%</strong>
+                </div>
+                <div className="reconstruction-presets">
+                  {RECONSTRUCTION_PRESETS.map((value) => (
+                    <button
+                      key={value}
+                      type="button"
+                      className={
+                        gameState.colony6Reconstruction === value ? 'active' : ''
+                      }
+                      onClick={() => onColony6Change(value)}
+                    >
+                      {value}%
+                    </button>
+                  ))}
+                </div>
+              </label>
+              <label className="game-state-field">
+                <span>Colony 6 Population</span>
                 <input
-                  type="range"
+                  type="number"
                   min={0}
-                  max={100}
-                  step={5}
-                  value={gameState.colony6Reconstruction}
+                  max={250}
+                  value={gameState.colony6Population}
                   onChange={(e) =>
-                    onColony6Change(parseInt(e.target.value, 10) || 0)
+                    onColony6PopulationChange(
+                      Math.max(0, Math.min(250, parseInt(e.target.value, 10) || 0)),
+                    )
                   }
                 />
-                <strong>{gameState.colony6Reconstruction}%</strong>
-              </div>
-              <div className="reconstruction-presets">
-                {RECONSTRUCTION_PRESETS.map((value) => (
-                  <button
-                    key={value}
-                    type="button"
-                    className={
-                      gameState.colony6Reconstruction === value ? 'active' : ''
-                    }
-                    onClick={() => onColony6Change(value)}
-                  >
-                    {value}%
-                  </button>
-                ))}
-              </div>
-            </label>
+              </label>
+            </>
           )}
         </section>
       )}

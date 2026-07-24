@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-20T19:53:36.895Z",
+  "generatedAt": "2026-07-24T05:51:35.287Z",
   "attribution": "Data from Xenoblade Wiki (CC BY-SA 3.0)",
   "wikiBaseUrl": "https://xenoblade.fandom.com",
   "games": {
@@ -15,7 +15,8 @@
         "collectopaedia": 77,
         "landmark": 373,
         "colony_reconstruction": 64,
-        "colony_immigrant": 22
+        "colony_immigrant": 22,
+        "person": 166
       }
     },
     "xc1-fc": {

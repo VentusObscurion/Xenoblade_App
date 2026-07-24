@@ -44,6 +44,7 @@ const HIDE_COMPLETED_CATEGORIES: Category[] = [
   'quest',
   'heart_to_heart',
   'unique_monster',
+  'person',
 ]
 
 const PLAYTHROUGH_FILTER_CATEGORIES: Category[] = [
@@ -51,6 +52,7 @@ const PLAYTHROUGH_FILTER_CATEGORIES: Category[] = [
   'heart_to_heart',
   'colony_reconstruction',
   'unique_monster',
+  'person',
 ]
 
 function usesTableView(category: Category, gameId: GameId): boolean {
@@ -242,6 +244,7 @@ export function CategoryView({
         gameId === 'xc1-fc') &&
       category !== 'collectopaedia' &&
       category !== 'colony_reconstruction' &&
+      category !== 'person' &&
       category !== 'blade' &&
       category !== 'hero'
     ) {

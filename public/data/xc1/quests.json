@@ -5615,8 +5615,8 @@
     "region": "Colony 6 (Junks)",
     "prerequisites": [
       {
-        "type": "other",
-        "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
+        "type": "story_flag",
+        "label": "Mechonis Core cleared"
       }
     ],
     "rewards": [
@@ -5640,8 +5640,8 @@
     "region": "Colony 6 (Junks)",
     "prerequisites": [
       {
-        "type": "other",
-        "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
+        "type": "story_flag",
+        "label": "Mechonis Core cleared"
       },
       {
         "type": "quest",
@@ -5669,8 +5669,8 @@
     "region": "Colony 6 (Junks)",
     "prerequisites": [
       {
-        "type": "other",
-        "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
+        "type": "story_flag",
+        "label": "Mechonis Core cleared"
       },
       {
         "type": "quest",
@@ -5698,8 +5698,8 @@
     "region": "Colony 6 (Junks)",
     "prerequisites": [
       {
-        "type": "other",
-        "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
+        "type": "story_flag",
+        "label": "Mechonis Core cleared"
       },
       {
         "type": "quest",
@@ -5727,8 +5727,8 @@
     "region": "Colony 6 (Junks)",
     "prerequisites": [
       {
-        "type": "other",
-        "label": "Arrived at the Interior Landing Site (Bionis' Interior)"
+        "type": "story_flag",
+        "label": "Mechonis Core cleared"
       },
       {
         "type": "quest",

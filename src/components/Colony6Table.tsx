@@ -100,7 +100,10 @@ export function Colony6Table({
     gameState.colony6Reconstruction,
     estimateColony6Percent(levels),
   )
-  const population = estimateColony6Population(immigrants, progress)
+  const population = Math.max(
+    gameState.colony6Population,
+    estimateColony6Population(immigrants, progress),
+  )
 
   const bySection = new Map<string, ItemWithStatus[]>()
   for (const item of items) {
